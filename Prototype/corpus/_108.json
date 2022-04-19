@@ -1,0 +1,53 @@
+[
+    {
+        "id": 6204,
+        "chapter": 108,
+        "verse": 1,
+        "arabic_text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+        "phonetic": "108.1 'Innā 'A`ţaynāka Al-Kawthara",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.108:1) Narrated Anas رضي الله عنه: When the Prophet صلى الله عليه وسلم was made to ascend to the heavens. He صلى الله عليه وسلم said (after his return), \"I came upon a river (in Paradise) the banks of which were made of tents of hollow pearls. I asked Jibrîl (Gabriel), ‘What is this (river)?’ He replied, ‘This is the Kauthar’ \" (Sahih Al-Bukhâri, Vol.6, Hadîth No. 488).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, We have granted you, [O Muḥammad], al-Kawthar.",
+            "english_hilali_khan": "1. Verily, We have granted you (O Muhammad صلى الله عليه وسلم) Al-Kauthar (a river in Paradise).[3]",
+            "english_rwwad": "We have surely given you [O Prophet] Al-Kauthar [abundance],"
+        }
+    },
+    {
+        "id": 6205,
+        "chapter": 108,
+        "verse": 2,
+        "arabic_text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+        "phonetic": "108.2 Faşalli Lirabbika Wa Anĥar",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So pray to your Lord and offer sacrifice [to Him alone]. ",
+            "english_hilali_khan": "Therefore turn in prayer to your Lord and sacrifice (to Him only).",
+            "english_rwwad": "so pray and sacrifice to your Lord alone."
+        }
+    },
+    {
+        "id": 6206,
+        "chapter": 108,
+        "verse": 3,
+        "arabic_text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+        "phonetic": "108.3 'Inna Shāni'aka Huwa Al-'Abtaru",
+        "footnotes": {
+            "english_saheeh": "[2002]- From all good in this world and the Hereafter.",
+            "english_hilali_khan": "(V.108:3) Narrated Anas رضي الله عنه : The Prophet صلى الله عليه وسلم said, \"None of you will have Faith till he loves me more than his father, his children and all mankind. (Sahih Al-Bukhari, Vol.1, Hadith No.14).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, your enemy is the one cut off.[2002] ",
+            "english_hilali_khan": "For he who hates you (O Muhammad صلى الله عليه وسلم), he will be cut off (from posterity and every good thing in this world and in the Hereafter).[4]",
+            "english_rwwad": "Indeed, the one who hates you is truly cut off [from all goodness]."
+        }
+    }
+]

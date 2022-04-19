@@ -1,0 +1,614 @@
+[
+    {
+        "id": 5848,
+        "chapter": 83,
+        "verse": 1,
+        "arabic_text": "وَيۡلٞ لِّلۡمُطَفِّفِينَ",
+        "phonetic": "83.1 Waylun Lilmuţaffifīna",
+        "footnotes": {
+            "english_saheeh": "[1878]- i.e., those who cheat people by giving them less than what they paid for when weighing or measuring - an amount so little as to hardly be noticed.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Woe to those who give less [than due],[1878]",
+            "english_hilali_khan": "1. Woe to Al-Mutaffifûn (those who give less in measure and weight).",
+            "english_rwwad": "Woe to the defrauders,"
+        }
+    },
+    {
+        "id": 5849,
+        "chapter": 83,
+        "verse": 2,
+        "arabic_text": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ",
+        "phonetic": "83.2 Al-Ladhīna 'Idhā Aktālū `Alá An-Nāsi Yastawfūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Who, when they take a measure from people, take in full.",
+            "english_hilali_khan": "Those who, when they have to receive by measure from men, demand full measure,",
+            "english_rwwad": "those who take full measure when they take from others,"
+        }
+    },
+    {
+        "id": 5850,
+        "chapter": 83,
+        "verse": 3,
+        "arabic_text": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ",
+        "phonetic": "83.3 Wa 'Idhā Kālūhum 'Aw Wazanūhum Yukhsirūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But if they give by measure or by weight to them, they cause loss. ",
+            "english_hilali_khan": "And when they have to give by measure or weight to (other) men, give less than due.",
+            "english_rwwad": "but they give less when they measure or weigh for them."
+        }
+    },
+    {
+        "id": 5851,
+        "chapter": 83,
+        "verse": 4,
+        "arabic_text": "أَلَا يَظُنُّ أُوْلَٰٓئِكَ أَنَّهُم مَّبۡعُوثُونَ",
+        "phonetic": "83.4 'Alā Yažunnu 'Ūla'ika 'Annahum Mab`ūthūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Do they not think that they will be resurrected ",
+            "english_hilali_khan": "Do they not think that they will be resurrected (for reckoning),",
+            "english_rwwad": "Do they really not think that they will be resurrected"
+        }
+    },
+    {
+        "id": 5852,
+        "chapter": 83,
+        "verse": 5,
+        "arabic_text": "لِيَوۡمٍ عَظِيمٖ",
+        "phonetic": "83.5 Liyawmin `Ažīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "For a tremendous Day -",
+            "english_hilali_khan": "On a Great Day?",
+            "english_rwwad": "for a momentous Day,"
+        }
+    },
+    {
+        "id": 5853,
+        "chapter": 83,
+        "verse": 6,
+        "arabic_text": "يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَٰلَمِينَ",
+        "phonetic": "83.6 Yawma Yaqūmu An-Nāsu Lirabbi Al-`Ālamīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Day when mankind will stand before the Lord of the worlds?",
+            "english_hilali_khan": "The Day when (all) mankind will stand before the Lord of the ‘Âlamîn (mankind, jinn and all that exists)?",
+            "english_rwwad": "a Day when people will stand before the Lord of the  worlds?"
+        }
+    },
+    {
+        "id": 5854,
+        "chapter": 83,
+        "verse": 7,
+        "arabic_text": "كـَلَّآ إِنَّ كِتَٰبَ ٱلۡفُجَّارِ لَفِي سِجِّينٖ",
+        "phonetic": "83.7 Kallā 'Inna Kitāba Al-Fujjāri Lafī Sijjīnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No! Indeed, the record of the wicked is in sijjeen. ",
+            "english_hilali_khan": "7. Nay! Truly, the Record (writing of the deeds) of the Fujjâr (disbelievers, polytheists, sinners, evil-doers and the wicked) is (preserved) in Sijjîn.",
+            "english_rwwad": "No indeed! The record of the wicked is surely in Sijjīn."
+        }
+    },
+    {
+        "id": 5855,
+        "chapter": 83,
+        "verse": 8,
+        "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا سِجِّينٞ",
+        "phonetic": "83.8 Wa Mā 'Adrāka Mā Sijjīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And what can make you know what is sijjeen?",
+            "english_hilali_khan": "And what will make you know what Sijjîn is?",
+            "english_rwwad": "How do you know what Sijjīn is?"
+        }
+    },
+    {
+        "id": 5856,
+        "chapter": 83,
+        "verse": 9,
+        "arabic_text": "كِتَٰبٞ مَّرۡقُومٞ",
+        "phonetic": "83.9 Kitābun Marqūmun",
+        "footnotes": {
+            "english_saheeh": "[1879]- The lowest depths of Hell.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It is [their destination[1879] recorded in] a register inscribed. ",
+            "english_hilali_khan": "A Register inscribed.",
+            "english_rwwad": "It is a clearly inscribed Record."
+        }
+    },
+    {
+        "id": 5857,
+        "chapter": 83,
+        "verse": 10,
+        "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "phonetic": "83.10 Waylun Yawma'idhin Lilmukadhibīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Woe, that Day, to the deniers, ",
+            "english_hilali_khan": "Woe, that Day, to those who deny.",
+            "english_rwwad": "Woe on that Day to the deniers,"
+        }
+    },
+    {
+        "id": 5858,
+        "chapter": 83,
+        "verse": 11,
+        "arabic_text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوۡمِ ٱلدِّينِ",
+        "phonetic": "83.11 Al-Ladhīna Yukadhibūna Biyawmi Ad-Dīni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Who deny the Day of Recompense. ",
+            "english_hilali_khan": "Those who deny the Day of Recompense.",
+            "english_rwwad": "those who deny the Judgment Day!"
+        }
+    },
+    {
+        "id": 5859,
+        "chapter": 83,
+        "verse": 12,
+        "arabic_text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ",
+        "phonetic": "83.12 Wa Mā Yukadhibu Bihi 'Illā Kullu Mu`tadin 'Athīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And none deny it except every sinful transgressor. ",
+            "english_hilali_khan": "And none can deny it except every transgressor beyond bounds, (in disbelief, oppression and disobedience to Allâh) the sinner!",
+            "english_rwwad": "None denies it except every sinful transgressor."
+        }
+    },
+    {
+        "id": 5860,
+        "chapter": 83,
+        "verse": 13,
+        "arabic_text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+        "phonetic": "83.13 'Idhā Tutlá `Alayhi 'Āyātunā Qāla 'Asāţīru Al-'Awwalīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When Our verses are recited to him, he says, \"Legends of the former peoples.\" ",
+            "english_hilali_khan": "When Our Verses (of the Qur’ân) are recited to him he says: \"Tales of the ancients!\"",
+            "english_rwwad": "When Our verses are recited to him, he says, “Ancient fables!”"
+        }
+    },
+    {
+        "id": 5861,
+        "chapter": 83,
+        "verse": 14,
+        "arabic_text": "كـَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُواْ يَكۡسِبُونَ",
+        "phonetic": "83.14 Kallā Bal Rāna `Alá Qulūbihim Mā Kānū Yaksibūna",
+        "footnotes": {
+            "english_saheeh": "[1880]- i.e., their sins.",
+            "english_hilali_khan": "(V.83:14) Narrated Abu Hurairah رضي الله عنه: Allâh’s Messenger صلى الله عليه وسلم said, \"When a slave (a person) commits a sin (an evil deed) a black dot is dotted on his heart. Then if that person gives up that evil deed (sin), begs Allâh to forgive him, and repents, then his heart is cleared (from that heart covering dot); but if he repeats the evil deed (sin), then that covering is increased till his heart is completely covered with it. And that is Ar-Rân which Allâh mentioned (in the Qur’ân), \"Nay! but on their hearts is the Rân (covering of sins and evil deeds) which they used to earn.\" (At-Tirmidhi, Vol.5, Hadith No.3334).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No! Rather, the stain has covered their hearts of that which they were earning.[1880] ",
+            "english_hilali_khan": "Nay! But on their hearts is the Rân (covering of sins and evil deeds) which they used to earn.[1]",
+            "english_rwwad": "No indeed! Their hearts have been stained by what they used to commit!"
+        }
+    },
+    {
+        "id": 5862,
+        "chapter": 83,
+        "verse": 15,
+        "arabic_text": "كـَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذٖ لَّمَحۡجُوبُونَ",
+        "phonetic": "83.15 Kallā 'Innahum `An Rabbihim Yawma'idhin Lamaĥjūbūna",
+        "footnotes": {
+            "english_saheeh": "[1881]- i.e., they will not be able to see Him.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No! Indeed, from their Lord, that Day, they will be partitioned.[1881] ",
+            "english_hilali_khan": "Nay! Surely they (evil-doers) will be veiled from seeing their Lord that Day.",
+            "english_rwwad": "No indeed! On that Day they will be barred from seeing their Lord."
+        }
+    },
+    {
+        "id": 5863,
+        "chapter": 83,
+        "verse": 16,
+        "arabic_text": "ثُمَّ إِنَّهُمۡ لَصَالُواْ ٱلۡجَحِيمِ",
+        "phonetic": "83.16 Thumma 'Innahum Laşālū Al-Jaĥīmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then indeed, they will [enter and] burn in Hellfire. ",
+            "english_hilali_khan": "Then, verily, they will indeed enter (and taste) the burning flame of Hell.",
+            "english_rwwad": "They will then surely enter the Blazing Fire,"
+        }
+    },
+    {
+        "id": 5864,
+        "chapter": 83,
+        "verse": 17,
+        "arabic_text": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
+        "phonetic": "83.17 Thumma Yuqālu Hādhā Al-Ladhī Kuntum Bihi Tukadhibūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then it will be said [to them], \"This is what you used to deny.\" ",
+            "english_hilali_khan": "Then, it will be said to them: \"This is what you used to deny!\"",
+            "english_rwwad": "then they will be told, “This is what you used to deny.”"
+        }
+    },
+    {
+        "id": 5865,
+        "chapter": 83,
+        "verse": 18,
+        "arabic_text": "كـَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
+        "phonetic": "83.18 Kallā 'Inna Kitāba Al-'Abrāri Lafī `Illīyīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No! Indeed, the record of the righteous is in ʿilliyyūn. ",
+            "english_hilali_khan": "Nay! Verily, the Record (writing of the deeds) of Al-Abrâr (the pious believers of Islamic Monotheism) is (preserved) in ‘Illiyyûn",
+            "english_rwwad": "No indeed! The record of the righteous is certainly in ‘illiyyīn –"
+        }
+    },
+    {
+        "id": 5866,
+        "chapter": 83,
+        "verse": 19,
+        "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ",
+        "phonetic": "83.19 Wa Mā 'Adrāka Mā `Illīyūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And what can make you know what is ʿilliyyūn? ",
+            "english_hilali_khan": "And what will make you know what ‘Illiyyûn is?",
+            "english_rwwad": "and how do you know what ‘illiyyūn is? –"
+        }
+    },
+    {
+        "id": 5867,
+        "chapter": 83,
+        "verse": 20,
+        "arabic_text": "كِتَٰبٞ مَّرۡقُومٞ",
+        "phonetic": "83.20 Kitābun Marqūmun",
+        "footnotes": {
+            "english_saheeh": "[1882]- The highest elevations of Paradise.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It is [their destination[1882] recorded in] a register inscribed ",
+            "english_hilali_khan": "A Register inscribed,",
+            "english_rwwad": "It is a record inscribed,"
+        }
+    },
+    {
+        "id": 5868,
+        "chapter": 83,
+        "verse": 21,
+        "arabic_text": "يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ",
+        "phonetic": "83.21 Yash/haduhu Al-Muqarrabūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Which is witnessed by those brought near [to Allāh]. ",
+            "english_hilali_khan": "To which bear witness those nearest (to Allâh, i.e. the angels).",
+            "english_rwwad": "witnessed by those who are close to Allah."
+        }
+    },
+    {
+        "id": 5869,
+        "chapter": 83,
+        "verse": 22,
+        "arabic_text": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٍ",
+        "phonetic": "83.22 'Inna Al-'Abrāra Lafī Na`īmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, the righteous will be in pleasure ",
+            "english_hilali_khan": "Verily, Al-Abrâr (the pious believers of Islamic Monotheism) will be in Delight (Paradise).",
+            "english_rwwad": "Indeed, the righteous will be in Bliss,"
+        }
+    },
+    {
+        "id": 5870,
+        "chapter": 83,
+        "verse": 23,
+        "arabic_text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+        "phonetic": "83.23 `Alá Al-'Arā'iki Yanžurūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "On adorned couches, observing.",
+            "english_hilali_khan": "On thrones, looking (at all things).",
+            "english_rwwad": "seated on the couches, gazing in wonder."
+        }
+    },
+    {
+        "id": 5871,
+        "chapter": 83,
+        "verse": 24,
+        "arabic_text": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ",
+        "phonetic": "83.24 Ta`rifu Fī Wujūhihim Nađrata An-Na`īmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "You will recognize in their faces the radiance of pleasure. ",
+            "english_hilali_khan": "You will recognise in their faces the brightness of delight.",
+            "english_rwwad": "You will see on their faces the radiance of bliss."
+        }
+    },
+    {
+        "id": 5872,
+        "chapter": 83,
+        "verse": 25,
+        "arabic_text": "يُسۡقَوۡنَ مِن رَّحِيقٖ مَّخۡتُومٍ",
+        "phonetic": "83.25 Yusqawna Min Raĥīqin Makhtūmin",
+        "footnotes": {
+            "english_saheeh": "[1883]- Which is delicious and does not intoxicate.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They will be given to drink [pure] wine[1883] [which was] sealed. ",
+            "english_hilali_khan": "They will be given to drink of pure sealed wine.",
+            "english_rwwad": "They will be served to drink pure wine from a sealed container,"
+        }
+    },
+    {
+        "id": 5873,
+        "chapter": 83,
+        "verse": 26,
+        "arabic_text": "خِتَٰمُهُۥ مِسۡكٞۚ وَفِي ذَٰلِكَ فَلۡيَتَنَافَسِ ٱلۡمُتَنَٰفِسُونَ",
+        "phonetic": "83.26 Khitāmuhu Miskun Wa Fī Dhālika Falyatanāfasi Al-Mutanāfisūna",
+        "footnotes": {
+            "english_saheeh": "[1884]- i.e., its lingering odor.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The last of it[1884] is musk. So for this let the competitors compete. ",
+            "english_hilali_khan": "The last thereof (that wine) will be the smell of Musk, and for this let (all) those strive who want to strive (i.e. hasten earnestly to the obedience of Allah).",
+            "english_rwwad": "whose last sip is musk – let those who strive, strive for that –"
+        }
+    },
+    {
+        "id": 5874,
+        "chapter": 83,
+        "verse": 27,
+        "arabic_text": "وَمِزَاجُهُۥ مِن تَسۡنِيمٍ",
+        "phonetic": "83.27 Wa Mizājuhu Min Tasnīmin",
+        "footnotes": {
+            "english_saheeh": "[1885]- The highest spring in Paradise and the most favored drink of its inhabitants.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And its mixture is of Tasneem,[1885] ",
+            "english_hilali_khan": "It (that wine) will be mixed with Tasnîm:",
+            "english_rwwad": "and it will be mixed with water from the spring of Tasnīm,"
+        }
+    },
+    {
+        "id": 5875,
+        "chapter": 83,
+        "verse": 28,
+        "arabic_text": "عَيۡنٗا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ",
+        "phonetic": "83.28 `Aynāan Yashrabu Bihā Al-Muqarrabūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "A spring from which those near [to Allāh] drink. ",
+            "english_hilali_khan": "A spring whereof drink those nearest to Allâh.",
+            "english_rwwad": "a spring from which those who are close to Allah will drink."
+        }
+    },
+    {
+        "id": 5876,
+        "chapter": 83,
+        "verse": 29,
+        "arabic_text": "إِنَّ ٱلَّذِينَ أَجۡرَمُواْ كَانُواْ مِنَ ٱلَّذِينَ ءَامَنُواْ يَضۡحَكُونَ",
+        "phonetic": "83.29 'Inna Al-Ladhīna 'Ajramū Kānū Mina Al-Ladhīna 'Āmanū Yađĥakūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, those who committed crimes used to laugh at those who believed. ",
+            "english_hilali_khan": "Verily, (during the worldly life) those who committed crimes used to laugh at those who believed.",
+            "english_rwwad": "Indeed, the wicked used to laugh at the believers;"
+        }
+    },
+    {
+        "id": 5877,
+        "chapter": 83,
+        "verse": 30,
+        "arabic_text": "وَإِذَا مَرُّواْ بِهِمۡ يَتَغَامَزُونَ",
+        "phonetic": "83.30 Wa 'Idhā Marrū Bihim Yataghāmazūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when they passed by them, they would exchange derisive glances. ",
+            "english_hilali_khan": "And, whenever they passed by them, used to wink one to another (in mockery).",
+            "english_rwwad": "when they passed by them, they would wink at one another,"
+        }
+    },
+    {
+        "id": 5878,
+        "chapter": 83,
+        "verse": 31,
+        "arabic_text": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ",
+        "phonetic": "83.31 Wa 'Idhā Anqalabū 'Ilá 'Ahlihimu Anqalabū Fakihīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when they returned to their people, they would return jesting. ",
+            "english_hilali_khan": "And when they returned to their own people, they would return jesting;",
+            "english_rwwad": "and when they went back to their people, they would return exulting."
+        }
+    },
+    {
+        "id": 5879,
+        "chapter": 83,
+        "verse": 32,
+        "arabic_text": "وَإِذَا رَأَوۡهُمۡ قَالُوٓاْ إِنَّ هَٰٓؤُلَآءِ لَضَآلُّونَ",
+        "phonetic": "83.32 Wa 'Idhā Ra'awhum Qālū 'Inna Hā'uulā' Lađāllūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when they saw them, they would say, \"Indeed, those are truly lost.\" ",
+            "english_hilali_khan": "And when they saw them, they said: \"Verily these have indeed gone astray!\"",
+            "english_rwwad": "When they saw the believers, they would say, “These people are truly misguided,”"
+        }
+    },
+    {
+        "id": 5880,
+        "chapter": 83,
+        "verse": 33,
+        "arabic_text": "وَمَآ أُرۡسِلُواْ عَلَيۡهِمۡ حَٰفِظِينَ",
+        "phonetic": "83.33 Wa Mā 'Ursilū `Alayhim Ĥāfižīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But they had not been sent as guardians over them. ",
+            "english_hilali_khan": "But they (disbelievers, sinners) had not been sent as watchers over them (the believers).",
+            "english_rwwad": "although they were not sent as their keepers."
+        }
+    },
+    {
+        "id": 5881,
+        "chapter": 83,
+        "verse": 34,
+        "arabic_text": "فَٱلۡيَوۡمَ ٱلَّذِينَ ءَامَنُواْ مِنَ ٱلۡكُفَّارِ يَضۡحَكُونَ",
+        "phonetic": "83.34 Fālyawma Al-Ladhīna 'Āmanū Mina Al-Kuffāri Yađĥakūna",
+        "footnotes": {
+            "english_saheeh": "[1886]- On the Day of Judgement.",
+            "english_hilali_khan": "(V.83:34) Narrated Anas bin Mâlik رضي الله عنه: A man said, \"O Allâh’s Prophet! Will Allâh gather a disbeliever (prone) on his face on the Day of Resurrection?\" He صلى الله عليه وسلم said, \"Will not the One Who made him walk on his feet in this world, be able to make him walk on his face on the Day of Resurrection?\" (Qatâdah, a subnarrator, said: \"Yes, By the Power of Our Lord!\") (Sahih Al-Bukhari, Vol.6, Hadith No.283).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So Today[1886] those who believed are laughing at the disbelievers, ",
+            "english_hilali_khan": "But this Day (the Day of Resurrection) those who believe will laugh at the disbelievers[2]",
+            "english_rwwad": "So Today the believers will laugh at the disbelievers,"
+        }
+    },
+    {
+        "id": 5882,
+        "chapter": 83,
+        "verse": 35,
+        "arabic_text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+        "phonetic": "83.35 `Alá Al-'Arā'iki Yanžurūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "On adorned couches, observing. ",
+            "english_hilali_khan": "On (high) thrones, looking (at all things).",
+            "english_rwwad": "while sitting on the couches, gazing around."
+        }
+    },
+    {
+        "id": 5883,
+        "chapter": 83,
+        "verse": 36,
+        "arabic_text": "هَلۡ ثُوِّبَ ٱلۡكُفَّارُ مَا كَانُواْ يَفۡعَلُونَ",
+        "phonetic": "83.36 Hal Thūwiba Al-Kuffāru Mā Kānū Yaf`alūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Have the disbelievers [not] been rewarded [this Day] for what they used to do? ",
+            "english_hilali_khan": "Are not the disbelievers paid (fully) for what they used to do?",
+            "english_rwwad": "Have the disbelievers been rewarded except for what they used to do?"
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": 6213,
+        "chapter": 110,
+        "verse": 1,
+        "arabic_text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+        "phonetic": "110.1 'Idhā Jā'a Naşru Allāhi Wa Al-Fatĥu",
+        "footnotes": {
+            "english_saheeh": "[2005]- The conquest of Makkah.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When the victory of Allāh has come and the conquest,[2005] ",
+            "english_hilali_khan": "1. When there comes the Help of Allâh (to you, O Muhammad صلى الله عليه وسلم against your enemies) and the conquest (of Makkah).",
+            "english_rwwad": "When there comes Allah’s help and the conquest,"
+        }
+    },
+    {
+        "id": 6214,
+        "chapter": 110,
+        "verse": 2,
+        "arabic_text": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
+        "phonetic": "110.2 Wa Ra'ayta An-Nāsa Yadkhulūna Fī Dīni Allāhi 'Afwājāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And you see the people entering into the religion of Allāh in multitudes, ",
+            "english_hilali_khan": "And you see that the people enter Allah’s religion (Islâm) in crowds.",
+            "english_rwwad": "and you see people entering Allah’s religion in multitudes,"
+        }
+    },
+    {
+        "id": 6215,
+        "chapter": 110,
+        "verse": 3,
+        "arabic_text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+        "phonetic": "110.3 Fasabbiĥ Biĥamdi Rabbika Wa Astaghfirhu 'Innahu Kāna Tawwābāan",
+        "footnotes": {
+            "english_saheeh": "[2006]- Refer to footnote of 2:37",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.[2006] ",
+            "english_hilali_khan": "So glorify the Praises of your Lord, and ask His Forgiveness. Verily, He is the One Who accepts the repentance and Who forgives.",
+            "english_rwwad": "then glorify the praise of your Lord, and ask His forgiveness. Indeed, He is ever Accepting of Repentance."
+        }
+    }
+]

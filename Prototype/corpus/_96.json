@@ -1,0 +1,325 @@
+[
+    {
+        "id": 6106,
+        "chapter": 96,
+        "verse": 1,
+        "arabic_text": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+        "phonetic": "96.1 Aqra' Biāsmi Rabbika Al-Ladhī Khalaqa",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Recite in the name of your Lord who created ",
+            "english_hilali_khan": "1. Read! In the Name of your Lord Who has created (all that exists).",
+            "english_rwwad": "Read in the name of your Lord Who created,"
+        }
+    },
+    {
+        "id": 6107,
+        "chapter": 96,
+        "verse": 2,
+        "arabic_text": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
+        "phonetic": "96.2 Khalaqa Al-'Insāna Min `Alaqin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Created man from a clinging substance. ",
+            "english_hilali_khan": "He has created man from a clot (a piece of thick coagulated blood).",
+            "english_rwwad": "created man from a clinging clot."
+        }
+    },
+    {
+        "id": 6108,
+        "chapter": 96,
+        "verse": 3,
+        "arabic_text": "ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ",
+        "phonetic": "96.3 Aqra' Wa Rabbuka Al-'Akramu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Recite, and your Lord is the most Generous -",
+            "english_hilali_khan": "Read! And your Lord is the Most Generous.",
+            "english_rwwad": "Read, and your Lord is the Most Generous,"
+        }
+    },
+    {
+        "id": 6109,
+        "chapter": 96,
+        "verse": 4,
+        "arabic_text": "ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ",
+        "phonetic": "96.4 Al-Ladhī `Allama Bil-Qalami",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Who taught by the pen ",
+            "english_hilali_khan": "Who has taught (the writing) by the pen.",
+            "english_rwwad": "Who taught by the pen,"
+        }
+    },
+    {
+        "id": 6110,
+        "chapter": 96,
+        "verse": 5,
+        "arabic_text": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
+        "phonetic": "96.5 `Allama Al-'Insāna Mā Lam Ya`lam",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Taught man that which he knew not.",
+            "english_hilali_khan": "He has taught man that which he knew not.",
+            "english_rwwad": "taught man what he did not know."
+        }
+    },
+    {
+        "id": 6111,
+        "chapter": 96,
+        "verse": 6,
+        "arabic_text": "كـَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
+        "phonetic": "96.6 Kallā 'Inna Al-'Insāna Layaţghá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No! [But] indeed, man transgresses",
+            "english_hilali_khan": "Nay! Verily, man does transgress (in disbelief and evil deed).",
+            "english_rwwad": "Indeed, man transgresses"
+        }
+    },
+    {
+        "id": 6112,
+        "chapter": 96,
+        "verse": 7,
+        "arabic_text": "أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ",
+        "phonetic": "96.7 'An Ra'āhu Astaghná",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Because he sees himself self-sufficient.",
+            "english_hilali_khan": "Because he considers himself self-sufficient.",
+            "english_rwwad": "when he deems himself to be self-sufficient."
+        }
+    },
+    {
+        "id": 6113,
+        "chapter": 96,
+        "verse": 8,
+        "arabic_text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
+        "phonetic": "96.8 'Inna 'Ilá Rabbika Ar-Ruj`á",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, to your Lord is the return.",
+            "english_hilali_khan": "Surely, unto your Lord is the return.",
+            "english_rwwad": "Indeed, to your Lord is the return."
+        }
+    },
+    {
+        "id": 6114,
+        "chapter": 96,
+        "verse": 9,
+        "arabic_text": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ",
+        "phonetic": "96.9 'Ara'ayta Al-Ladhī Yanhá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Have you seen the one who forbids ",
+            "english_hilali_khan": "Have you (O Muhammad صلى الله عليه وسلم) seen him (i.e. Abû Jahl) who prevents",
+            "english_rwwad": "Have you seen the one who prevents"
+        }
+    },
+    {
+        "id": 6115,
+        "chapter": 96,
+        "verse": 10,
+        "arabic_text": "عَبۡدًا إِذَا صَلَّىٰٓ",
+        "phonetic": "96.10 `Abdāan 'Idhā Şallá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "A servant when he prays? ",
+            "english_hilali_khan": "A slave (Muhammad صلى الله عليه وسلم) when he prays?",
+            "english_rwwad": "a slave [of Allah] from praying?"
+        }
+    },
+    {
+        "id": 6116,
+        "chapter": 96,
+        "verse": 11,
+        "arabic_text": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+        "phonetic": "96.11 'Ara'ayta 'In Kāna `Alá Al-Hudá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Have you seen if he is upon guidance ",
+            "english_hilali_khan": "Tell me if he (Muhammad صلى الله عليه وسلم) is on the guidance (of Allâh)",
+            "english_rwwad": "What if this [slave] is rightly guided,"
+        }
+    },
+    {
+        "id": 6117,
+        "chapter": 96,
+        "verse": 12,
+        "arabic_text": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+        "phonetic": "96.12 'Aw 'Amara Bit-Taqwá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Or enjoins righteousness? ",
+            "english_hilali_khan": "Or enjoins piety!",
+            "english_rwwad": "and enjoins righteousness?"
+        }
+    },
+    {
+        "id": 6118,
+        "chapter": 96,
+        "verse": 13,
+        "arabic_text": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+        "phonetic": "96.13 'Ara'ayta 'In Kadhaba Wa Tawallá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Have you seen if he denies and turns away -",
+            "english_hilali_khan": "Tell me if he (Abû Jahl) denies (the truth, i.e. this Qur’ân) and turns away?",
+            "english_rwwad": "How about the one who denies and turns away?"
+        }
+    },
+    {
+        "id": 6119,
+        "chapter": 96,
+        "verse": 14,
+        "arabic_text": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+        "phonetic": "96.14 'Alam Ya`lam Bi'anna Allāha Yará",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Does he not know that Allāh sees? ",
+            "english_hilali_khan": "Knows he not that Allâh does see (what he does)?",
+            "english_rwwad": "Does he not know that Allah is watching all?"
+        }
+    },
+    {
+        "id": 6120,
+        "chapter": 96,
+        "verse": 15,
+        "arabic_text": "كـَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ",
+        "phonetic": "96.15 Kallā La'in Lam Yantahi Lanasfa`ā Bin-Nāşiyahi",
+        "footnotes": {
+            "english_saheeh": "[1952]- It may also mean \"slap him\" or \"blacken his face at the forelock.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No! If he does not desist, We will surely drag him by the forelock[1952] ",
+            "english_hilali_khan": "Nay! If he (Abû Jahl) ceases not, We will catch him by the forelock -",
+            "english_rwwad": "No indeed; if he does not desist, We will surely drag him by the forelock –"
+        }
+    },
+    {
+        "id": 6121,
+        "chapter": 96,
+        "verse": 16,
+        "arabic_text": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
+        "phonetic": "96.16 Nāşiyatin Kādhibatin Khāţi'ahin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "A lying, sinning forelock. ",
+            "english_hilali_khan": "A lying, sinful forelock!",
+            "english_rwwad": "a lying, sinful forelock."
+        }
+    },
+    {
+        "id": 6122,
+        "chapter": 96,
+        "verse": 17,
+        "arabic_text": "فَلۡيَدۡعُ نَادِيَهُۥ",
+        "phonetic": "96.17 Falyad`u Nādiyah",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then let him call his associates; ",
+            "english_hilali_khan": "Then let him call upon his council (of helpers).",
+            "english_rwwad": "So let him call his associates;"
+        }
+    },
+    {
+        "id": 6123,
+        "chapter": 96,
+        "verse": 18,
+        "arabic_text": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+        "phonetic": "96.18 Sanad`u Az-Zabāniyaha",
+        "footnotes": {
+            "english_saheeh": "[1953]- Those who push the wicked into the Fire.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "We will call the angels of Hell.[1953] ",
+            "english_hilali_khan": "We will call out the guards of Hell (to deal with him)!",
+            "english_rwwad": "We will call the wardens of Hellfire."
+        }
+    },
+    {
+        "id": 6124,
+        "chapter": 96,
+        "verse": 19,
+        "arabic_text": "كـَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+        "phonetic": "96.19 Kallā Lā Tuţi`hu Wa Asjud Wāqtarib",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No! Do not obey him. But prostrate and draw near [to Allāh]. ",
+            "english_hilali_khan": "Nay! (O Muhammad صلى الله عليه وسلم)! Do not obey him (Abû Jahl). Fall prostrate and draw near to Allâh!",
+            "english_rwwad": "No indeed; do not obey him, but prostrate and draw near [to Allah]."
+        }
+    }
+]

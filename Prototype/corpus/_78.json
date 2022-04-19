@@ -1,0 +1,682 @@
+[
+    {
+        "id": 5672,
+        "chapter": 78,
+        "verse": 1,
+        "arabic_text": "عَمَّ يَتَسَآءَلُونَ",
+        "phonetic": "78.1 `Amma Yatasā'alūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "About what are they asking one another? ",
+            "english_hilali_khan": "1. What are they asking (one another) about?",
+            "english_rwwad": "About what are they asking one another?"
+        }
+    },
+    {
+        "id": 5673,
+        "chapter": 78,
+        "verse": 2,
+        "arabic_text": "عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ",
+        "phonetic": "78.2 `Ani An-Naba'i Al-`Ažīmi",
+        "footnotes": {
+            "english_saheeh": "[1821]- i.e., the Resurrection.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "About the great news[1821] -",
+            "english_hilali_khan": "About the great news, (i.e. Islâmic Monotheism, the Qur’ân, which Prophet Muhammad صلى الله عليه وسلم brought and the Day of Resurrection)",
+            "english_rwwad": "About the momentous news,"
+        }
+    },
+    {
+        "id": 5674,
+        "chapter": 78,
+        "verse": 3,
+        "arabic_text": "ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ",
+        "phonetic": "78.3 Al-Ladhī Hum Fīhi Mukhtalifūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That over which they are in disagreement. ",
+            "english_hilali_khan": "About which they are in disagreement.",
+            "english_rwwad": "about which they differ."
+        }
+    },
+    {
+        "id": 5675,
+        "chapter": 78,
+        "verse": 4,
+        "arabic_text": "كـَلَّا سَيَعۡلَمُونَ",
+        "phonetic": "78.4 Kallā Saya`lamūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No! They are going to know. ",
+            "english_hilali_khan": "Nay, they will come to know!",
+            "english_rwwad": "No indeed; they will come to know."
+        }
+    },
+    {
+        "id": 5676,
+        "chapter": 78,
+        "verse": 5,
+        "arabic_text": "ثُمَّ كـَلَّا سَيَعۡلَمُونَ",
+        "phonetic": "78.5 Thumma Kallā Saya`lamūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then, no! They are going to know.",
+            "english_hilali_khan": "Nay, again, they will come to know!",
+            "english_rwwad": "Again no; they will come to know."
+        }
+    },
+    {
+        "id": 5677,
+        "chapter": 78,
+        "verse": 6,
+        "arabic_text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدٗا",
+        "phonetic": "78.6 'Alam Naj`ali Al-'Arđa Mihādāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Have We not made the earth a resting place?",
+            "english_hilali_khan": "Have We not made the earth as a bed,",
+            "english_rwwad": "Have We not made the earth a resting place?"
+        }
+    },
+    {
+        "id": 5678,
+        "chapter": 78,
+        "verse": 7,
+        "arabic_text": "وَٱلۡجِبَالَ أَوۡتَادٗا",
+        "phonetic": "78.7 Wa Al-Jibāla 'Awtādāan",
+        "footnotes": {
+            "english_saheeh": "[1822]- To stabilize the land and balance the earth.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the mountains as stakes?[1822] ",
+            "english_hilali_khan": "And the mountains as pegs?",
+            "english_rwwad": "And the mountains as stakes,"
+        }
+    },
+    {
+        "id": 5679,
+        "chapter": 78,
+        "verse": 8,
+        "arabic_text": "وَخَلَقۡنَٰكُمۡ أَزۡوَٰجٗا",
+        "phonetic": "78.8 Wa Khalaqnākum 'Azwājāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We created you in pairs. ",
+            "english_hilali_khan": "And We have created you in pairs (male and female, tall and short, good and bad, etc.).",
+            "english_rwwad": "and created you in pairs,"
+        }
+    },
+    {
+        "id": 5680,
+        "chapter": 78,
+        "verse": 9,
+        "arabic_text": "وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتٗا",
+        "phonetic": "78.9 Wa Ja`alnā Nawmakum Subātāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And made your sleep [a means for] rest ",
+            "english_hilali_khan": "And We have made your sleep as a thing for rest.",
+            "english_rwwad": "and made your sleep for rest,"
+        }
+    },
+    {
+        "id": 5681,
+        "chapter": 78,
+        "verse": 10,
+        "arabic_text": "وَجَعَلۡنَا ٱلَّيۡلَ لِبَاسٗا",
+        "phonetic": "78.10 Wa Ja`alnā Al-Layla Libāsāan",
+        "footnotes": {
+            "english_saheeh": "[1823]- Covering you in darkness and providing rest.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And made the night as clothing[1823].",
+            "english_hilali_khan": "And We have made the night as a covering (through its darkness),",
+            "english_rwwad": "and made the night a covering,"
+        }
+    },
+    {
+        "id": 5682,
+        "chapter": 78,
+        "verse": 11,
+        "arabic_text": "وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشٗا",
+        "phonetic": "78.11 Wa Ja`alnā An-Nahāra Ma`āshāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And made the day for livelihood.",
+            "english_hilali_khan": "And We have made the day for livelihood.",
+            "english_rwwad": "and made the day for seeking livelihood,"
+        }
+    },
+    {
+        "id": 5683,
+        "chapter": 78,
+        "verse": 12,
+        "arabic_text": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا",
+        "phonetic": "78.12 Wa Banaynā Fawqakum Sab`āan Shidādāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And constructed above you seven strong [heavens].",
+            "english_hilali_khan": "And We have built above you seven strong (heavens),",
+            "english_rwwad": "and built above you seven mighty heavens,"
+        }
+    },
+    {
+        "id": 5684,
+        "chapter": 78,
+        "verse": 13,
+        "arabic_text": "وَجَعَلۡنَا سِرَاجٗا وَهَّاجٗا",
+        "phonetic": "78.13 Wa Ja`alnā Sirājāan Wa Hhājāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And made [therein] a burning lamp ",
+            "english_hilali_khan": "And We have made (therein) a shining lamp (sun).",
+            "english_rwwad": "and made therein a blazing lamp,"
+        }
+    },
+    {
+        "id": 5685,
+        "chapter": 78,
+        "verse": 14,
+        "arabic_text": "وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَٰتِ مَآءٗ ثَجَّاجٗا",
+        "phonetic": "78.14 Wa 'Anzalnā Mina Al-Mu`şirāti Mā'an Thajjājāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And sent down, from the rain clouds, pouring water.",
+            "english_hilali_khan": "And We have sent down from the rainy clouds abundant water.",
+            "english_rwwad": "and sent down from the rainclouds abundant water,"
+        }
+    },
+    {
+        "id": 5686,
+        "chapter": 78,
+        "verse": 15,
+        "arabic_text": "لِّنُخۡرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا",
+        "phonetic": "78.15 Linukhrija Bihi Ĥabbāan Wa Nabātāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That We may bring forth thereby grain and vegetation.",
+            "english_hilali_khan": "That We may produce therewith corn and vegetations,",
+            "english_rwwad": "so that We may produce thereby grains and vegetation,"
+        }
+    },
+    {
+        "id": 5687,
+        "chapter": 78,
+        "verse": 16,
+        "arabic_text": "وَجَنَّٰتٍ أَلۡفَافًا",
+        "phonetic": "78.16 Wa Jannātin 'Alfāfāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And gardens of entwined growth. ",
+            "english_hilali_khan": "And gardens of thick growth.",
+            "english_rwwad": "and gardens with dense foliage?"
+        }
+    },
+    {
+        "id": 5688,
+        "chapter": 78,
+        "verse": 17,
+        "arabic_text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتٗا",
+        "phonetic": "78.17 'Inna Yawma Al-Faşli Kāna Mīqātāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, the Day of Judgement is an appointed time -",
+            "english_hilali_khan": "Verily, the Day of Decision is a fixed time,",
+            "english_rwwad": "Indeed, the Day of Judgment is a time appointed,"
+        }
+    },
+    {
+        "id": 5689,
+        "chapter": 78,
+        "verse": 18,
+        "arabic_text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجٗا",
+        "phonetic": "78.18 Yawma Yunfakhu Fī Aş-Şūri Fata'tūna 'Afwājāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Day the Horn is blown and you will come forth in multitudes ",
+            "english_hilali_khan": "The Day when the Trumpet will be blown, and you shall come forth in crowds (groups after groups). [Tafsir At-Tabari]",
+            "english_rwwad": "the Day when the Trumpet will be blown, you will come forth in crowds,"
+        }
+    },
+    {
+        "id": 5690,
+        "chapter": 78,
+        "verse": 19,
+        "arabic_text": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتۡ أَبۡوَٰبٗا",
+        "phonetic": "78.19 Wa Futiĥati As-Samā'u Fakānat 'Abwābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the heaven is opened and will become gateways. ",
+            "english_hilali_khan": "And the heaven shall be opened, and it will become as gates,",
+            "english_rwwad": "and the sky will be opened up and will become gateways,"
+        }
+    },
+    {
+        "id": 5691,
+        "chapter": 78,
+        "verse": 20,
+        "arabic_text": "وَسُيِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا",
+        "phonetic": "78.20 Wa Suyyirati Al-Jibālu Fakānat Sarābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the mountains are removed and will be [but] a mirage. ",
+            "english_hilali_khan": "And the mountains shall be moved away from their places and they will be as if they were a mirage.",
+            "english_rwwad": "and the mountains will vanish, becoming like a mirage."
+        }
+    },
+    {
+        "id": 5692,
+        "chapter": 78,
+        "verse": 21,
+        "arabic_text": "إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادٗا",
+        "phonetic": "78.21 'Inna Jahannama Kānat Mirşādāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, Hell has been lying in wait",
+            "english_hilali_khan": "Truly, Hell is a place of ambush -",
+            "english_rwwad": "Indeed, Hell is lying in wait,"
+        }
+    },
+    {
+        "id": 5693,
+        "chapter": 78,
+        "verse": 22,
+        "arabic_text": "لِّلطَّٰغِينَ مَـَٔابٗا",
+        "phonetic": "78.22 Lilţţāghīna Ma'ābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "For the transgressors, a place of return, ",
+            "english_hilali_khan": "A dwelling place for the Tâghûn (those who transgress the boundary limits set by Allâh like polytheists, disbelievers in the Oneness of Allâh, hyprocrites, sinners, criminals),",
+            "english_rwwad": "a resort for the transgressors,"
+        }
+    },
+    {
+        "id": 5694,
+        "chapter": 78,
+        "verse": 23,
+        "arabic_text": "لَّٰبِثِينَ فِيهَآ أَحۡقَابٗا",
+        "phonetic": "78.23 Lābithīna Fīhā 'Aĥqābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In which they will remain for ages [unending].",
+            "english_hilali_khan": "They will abide therein for ages.",
+            "english_rwwad": "wherein they will abide for endless ages."
+        }
+    },
+    {
+        "id": 5695,
+        "chapter": 78,
+        "verse": 24,
+        "arabic_text": "لَّا يَذُوقُونَ فِيهَا بَرۡدٗا وَلَا شَرَابًا",
+        "phonetic": "78.24 Lā Yadhūqūna Fīhā Bardāan Wa Lā Sharābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They will not taste therein [any] coolness or drink.",
+            "english_hilali_khan": "Nothing cool shall they taste therein, nor any drink.",
+            "english_rwwad": "They will neither taste therein any coolness nor any drink,"
+        }
+    },
+    {
+        "id": 5696,
+        "chapter": 78,
+        "verse": 25,
+        "arabic_text": "إِلَّا حَمِيمٗا وَغَسَّاقٗا",
+        "phonetic": "78.25 'Illā Ĥamīmāan Wa Ghassāqāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Except scalding water and [foul] purulence -",
+            "english_hilali_khan": "Except boiling water, and dirty wound discharges -",
+            "english_rwwad": "except scalding water and discharge of wounds,"
+        }
+    },
+    {
+        "id": 5697,
+        "chapter": 78,
+        "verse": 26,
+        "arabic_text": "جَزَآءٗ وِفَاقًا",
+        "phonetic": "78.26 Jazā'an Wifāqāan",
+        "footnotes": {
+            "english_saheeh": "[1824]- In proportion to and comparable with their crimes.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "An appropriate recompense.[1824] ",
+            "english_hilali_khan": "An exact recompense (according to their evil crimes).",
+            "english_rwwad": "a fitting recompense."
+        }
+    },
+    {
+        "id": 5698,
+        "chapter": 78,
+        "verse": 27,
+        "arabic_text": "إِنَّهُمۡ كَانُواْ لَا يَرۡجُونَ حِسَابٗا",
+        "phonetic": "78.27 'Innahum Kānū Lā Yarjūna Ĥisābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, they were not expecting an account",
+            "english_hilali_khan": "For verily, they used not to look for a reckoning.",
+            "english_rwwad": "Indeed, they did not expect a reckoning,"
+        }
+    },
+    {
+        "id": 5699,
+        "chapter": 78,
+        "verse": 28,
+        "arabic_text": "وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابٗا",
+        "phonetic": "78.28 Wa Kadhabū Bi'āyātinā Kidhābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And denied Our verses with [emphatic] denial.",
+            "english_hilali_khan": "But they belied Our Ayât (proofs, evidence, verses, lessons, signs, revelations, and that which Our Prophet صلى الله عليه وسلم brought) completely.",
+            "english_rwwad": "and utterly rejected Our verses."
+        }
+    },
+    {
+        "id": 5700,
+        "chapter": 78,
+        "verse": 29,
+        "arabic_text": "وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبٗا",
+        "phonetic": "78.29 Wa Kulla Shay'in 'Aĥşaynāhu Kitābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But all things We have enumerated in writing.",
+            "english_hilali_khan": "And all things We have recorded in a Book.",
+            "english_rwwad": "But We have enumerated everything in a record."
+        }
+    },
+    {
+        "id": 5701,
+        "chapter": 78,
+        "verse": 30,
+        "arabic_text": "فَذُوقُواْ فَلَن نَّزِيدَكُمۡ إِلَّا عَذَابًا",
+        "phonetic": "78.30 Fadhūqū Falan Nazīdakum 'Illā `Adhābāan",
+        "footnotes": {
+            "english_saheeh": "[1825]- This announcement will be made to the companions of Hell.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "\"So taste [the penalty], and never will We increase you except in torment.\"[1825] ",
+            "english_hilali_khan": "So taste you (the results of your evil actions). No increase shall We give you, except in torment.",
+            "english_rwwad": "So taste [the punishment], for We will not increase you except in torment.”"
+        }
+    },
+    {
+        "id": 5702,
+        "chapter": 78,
+        "verse": 31,
+        "arabic_text": "إِنَّ لِلۡمُتَّقِينَ مَفَازًا",
+        "phonetic": "78.31 'Inna Lilmuttaqīna Mafāzāan",
+        "footnotes": {
+            "english_saheeh": "[1826]- Of security, success and reward, including escape and safety from Hell.",
+            "english_hilali_khan": "(V.78:31) Muttaqûn: means pious believer of Islamic Monotheism who fear Allâh much (abstain from all kinds of sins and evil deeds which He has forbidden) and love Allâh much (perform all kinds of good deeds which He has ordained).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, for the righteous is attainment[1826] -",
+            "english_hilali_khan": "Verily, for the Muttaqûn,[1] there will be a success (Paradise);",
+            "english_rwwad": "Indeed, the righteous will have salvation,"
+        }
+    },
+    {
+        "id": 5703,
+        "chapter": 78,
+        "verse": 32,
+        "arabic_text": "حَدَآئِقَ وَأَعۡنَٰبٗا",
+        "phonetic": "78.32 Ĥadā'iqa Wa 'A`nābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Gardens and grapevines.",
+            "english_hilali_khan": "Gardens and vineyards,",
+            "english_rwwad": "gardens and vineyards,"
+        }
+    },
+    {
+        "id": 5704,
+        "chapter": 78,
+        "verse": 33,
+        "arabic_text": "وَكَوَاعِبَ أَتۡرَابٗا",
+        "phonetic": "78.33 Wa Kawā`iba 'Atrābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And full-breasted [companions] of equal age.",
+            "english_hilali_khan": "And young full-breasted (mature) maidens of equal age,",
+            "english_rwwad": "and full-bosomed maidens of equal age,"
+        }
+    },
+    {
+        "id": 5705,
+        "chapter": 78,
+        "verse": 34,
+        "arabic_text": "وَكَأۡسٗا دِهَاقٗا",
+        "phonetic": "78.34 Wa Ka'sāan Dihāqāan",
+        "footnotes": {
+            "english_saheeh": "[1827]- Of wine which is delicious and does not intoxicate.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And a full cup.[1827] ",
+            "english_hilali_khan": "And a full cup (of wine).",
+            "english_rwwad": "and a full cup [of wine]."
+        }
+    },
+    {
+        "id": 5706,
+        "chapter": 78,
+        "verse": 35,
+        "arabic_text": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا كِذَّٰبٗا",
+        "phonetic": "78.35 Lā Yasma`ūna Fīhā Laghwan Wa Lā Kidhābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No ill speech will they hear therein or any falsehood -",
+            "english_hilali_khan": "No Laghw (dirty, false, evil talk) shall they hear therein, nor lying;",
+            "english_rwwad": "They will not hear therein vain talk or lies –"
+        }
+    },
+    {
+        "id": 5707,
+        "chapter": 78,
+        "verse": 36,
+        "arabic_text": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابٗا",
+        "phonetic": "78.36 Jazā'an Min Rabbika `Aţā'an Ĥisābāan",
+        "footnotes": {
+            "english_saheeh": "[1828]- i.e., as a result of both their own righteous deeds and the limitless generosity of Allāh (subḥānahu wa taʿālā) . Another meaning is \"a gift calculated [to be adequate].\"",
+            "english_hilali_khan": "(V.78:36) a) Islâm demolishes all the previous evil deeds and so do migration (for Allâh’s sake) and Hajj (pilgrimage to Makkah). (Sahih Muslim, Vol.1, Chapter 52, Page 18).\nb) What is said regarding the superiority of a person who embraces Islâm sincerely:\nNarrated Abu Sa‘îd Al-Khudri رضي الله عنه: Allâh’s Messenger صلى الله عليه وسلم said, \"If a person embraces Islâm sincerely, then Allâh shall forgive all his past sins, and after that starts the settlement of accounts: the reward of his good deeds will be ten times to seven hundred times for each good deed, and an evil deed will be recorded as it is unless Allâh forgives it.\" (Sahih Al-Bukhari, Vol.1, Hadith No. 40A).\nNarrated Abu Hurairah رضي الله عنه: Allâh’s Messenger صلى الله عليه وسلم said: \"If any one of you improves (follows strictly) his Islâmic religion, then his good deeds will be rewarded ten times to seven hundred times for each good deed and a bad deed will be recorded as it is.\" (Sahih Al-Bukhari, Vol.1, Hadith No. 40B).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[As] reward from your Lord, [a generous] gift [made due by] account,[1828] ",
+            "english_hilali_khan": "A reward from your Lord, an ample calculated gift (according to the best of their good deeds),[2]",
+            "english_rwwad": "a reward and a generous gift from your Lord,"
+        }
+    },
+    {
+        "id": 5708,
+        "chapter": 78,
+        "verse": 37,
+        "arabic_text": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلرَّحۡمَٰنِۖ لَا يَمۡلِكُونَ مِنۡهُ خِطَابٗا",
+        "phonetic": "78.37 Rabbi As-Samāwāti Wa Al-'Arđi Wa Mā Baynahumā Ar-Raĥmāni Lā Yamlikūna Minhu Khiţābāan",
+        "footnotes": {
+            "english_saheeh": "[1829]- None of Allāh's creatures can plead with Him on the Day of Judgement except by His permission.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[From] the Lord of the heavens and the earth and whatever is between them, the Most Merciful. They possess not from Him [authority for] speech.[1829] ",
+            "english_hilali_khan": "(From) the Lord of the heavens and the earth, and whatsoever is in between them, the Most Gracious, with Whom they cannot dare to speak (on the Day of Resurrection except by His Leave).",
+            "english_rwwad": "[from] the Lord of the heavens and earth and all that is between them, the Most Compassionate; none will dare to speak to Him."
+        }
+    },
+    {
+        "id": 5709,
+        "chapter": 78,
+        "verse": 38,
+        "arabic_text": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا",
+        "phonetic": "78.38 Yawma Yaqūmu Ar-Rūĥu Wa Al-Malā'ikatu Şaffāan Lā Yatakallamūna 'Illā Man 'Adhina Lahu Ar-Raĥmānu Wa Qāla Şawābāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Day that the Spirit [i.e., Gabriel] and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct. ",
+            "english_hilali_khan": "The Day that Ar-Rûh [Jibrîl (Gabriel) or another angel] and the angels will stand forth in rows, they will not speak except him whom the Most Gracious (Allâh) allows, and he will speak what is right.",
+            "english_rwwad": "On the Day when the Spirit and the angels will stand in rows; none will dare to speak, except those to whom the Most Compassionate granted permission, and they will only speak the truth."
+        }
+    },
+    {
+        "id": 5710,
+        "chapter": 78,
+        "verse": 39,
+        "arabic_text": "ذَٰلِكَ ٱلۡيَوۡمُ ٱلۡحَقُّۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+        "phonetic": "78.39 Dhālika Al-Yawmu Al-Ĥaqqu Faman Shā'a Attakhadha 'Ilá Rabbihi Ma'ābāan",
+        "footnotes": {
+            "english_saheeh": "[1830]- i.e., a direct route through correct beliefs and righteous deeds.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That is the True [i.e., certain] Day; so he who wills may take to his Lord a [way of] return.[1830] ",
+            "english_hilali_khan": "That is (without doubt) the True Day. So, whosoever wills, let him seek a place with (or a way to) His Lord (by obeying Him in this worldly life)!",
+            "english_rwwad": "That Day is sure to come. So whoever wills may seek a path leading to his Lord."
+        }
+    },
+    {
+        "id": 5711,
+        "chapter": 78,
+        "verse": 40,
+        "arabic_text": "إِنَّآ أَنذَرۡنَٰكُمۡ عَذَابٗا قَرِيبٗا يَوۡمَ يَنظُرُ ٱلۡمَرۡءُ مَا قَدَّمَتۡ يَدَاهُ وَيَقُولُ ٱلۡكَافِرُ يَٰلَيۡتَنِي كُنتُ تُرَٰبَۢا",
+        "phonetic": "78.40 'Innā 'Andharnākum `Adhābāan Qarībāan Yawma Yanžuru Al-Mar'u Mā Qaddamat Yadāhu Wa Yaqūlu Al-Kāfiru Yā Laytanī Kuntu Turābāan",
+        "footnotes": {
+            "english_saheeh": "[1831]- i.e., the deeds he did in this world, which await him in the Hereafter.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, We have warned you of an impending punishment on the Day when a man will observe what his hands have put forth[1831] and the disbeliever will say, \"Oh, I wish that I were dust!\" ",
+            "english_hilali_khan": "Verily, We have warned you of a near torment - the Day when man will see that (the deeds) which his hands have sent forth, and the disbeliever will say: \"Woe to me! Would that I were dust!\"",
+            "english_rwwad": "Indeed, We have warned you of an imminent punishment on the Day when everyone will see what his hands have sent forth, and the disbeliever will say, “Oh, I wish that I were dust!”"
+        }
+    }
+]

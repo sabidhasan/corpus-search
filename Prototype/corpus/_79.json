@@ -1,0 +1,784 @@
+[
+    {
+        "id": 5712,
+        "chapter": 79,
+        "verse": 1,
+        "arabic_text": "وَٱلنَّٰزِعَٰتِ غَرۡقٗا",
+        "phonetic": "79.1 Wa An-Nāzi`āti Gharqāan",
+        "footnotes": {
+            "english_saheeh": "[1833]- i.e., those who tear out the souls of those destined for Hell.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "By those [angels] who extract with violence[1833] ",
+            "english_hilali_khan": "1. By those (angels) who pull out (the souls of the disbelievers and the wicked) with great violence.",
+            "english_rwwad": "By those who pull out [evil souls] harshly,"
+        }
+    },
+    {
+        "id": 5713,
+        "chapter": 79,
+        "verse": 2,
+        "arabic_text": "وَٱلنَّٰشِطَٰتِ نَشۡطٗا",
+        "phonetic": "79.2 Wa An-Nāshiţāti Nashţāan",
+        "footnotes": {
+            "english_saheeh": "[1834]- i.e., those angels who ease out the souls of those destined for Paradise.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And [by] those who remove with ease[1834] ",
+            "english_hilali_khan": "By those (angels) who gently take out (the souls of the believers).",
+            "english_rwwad": "and by those who draw out [good souls] gently,"
+        }
+    },
+    {
+        "id": 5714,
+        "chapter": 79,
+        "verse": 3,
+        "arabic_text": "وَٱلسَّٰبِحَٰتِ سَبۡحٗا",
+        "phonetic": "79.3 Wa As-Sābiĥāti Sabĥāan",
+        "footnotes": {
+            "english_saheeh": "[1835]- Speeding to execute Allāh's commands.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And [by] those who glide [as if] swimming[1835] ",
+            "english_hilali_khan": "And by those that swim along (i.e. angels or planets in their orbits).",
+            "english_rwwad": "and by those who glide swiftly,"
+        }
+    },
+    {
+        "id": 5715,
+        "chapter": 79,
+        "verse": 4,
+        "arabic_text": "فَٱلسَّٰبِقَٰتِ سَبۡقٗا",
+        "phonetic": "79.4 Fālssābiqāti Sabqāan",
+        "footnotes": {
+            "english_saheeh": "[1836]- Racing to deliver the souls of the believers to Paradise.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And those who race each other in a race[1836] ",
+            "english_hilali_khan": "And by those that press forward as in a race (i.e. the angels or stars or the horses).",
+            "english_rwwad": "and those who overtake one another as in a race,"
+        }
+    },
+    {
+        "id": 5716,
+        "chapter": 79,
+        "verse": 5,
+        "arabic_text": "فَٱلۡمُدَبِّرَٰتِ أَمۡرٗا",
+        "phonetic": "79.5 Fālmudabbirāti 'Amrāan",
+        "footnotes": {
+            "english_saheeh": "[1837]- According to Allāh's decree.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And those who arrange [each] matter,[1837]",
+            "english_hilali_khan": "And by those angels who arrange to do the Commands of their Lord, (so verily, you disbelievers will be called to account).",
+            "english_rwwad": "and those who carry out the command [of Allah],"
+        }
+    },
+    {
+        "id": 5717,
+        "chapter": 79,
+        "verse": 6,
+        "arabic_text": "يَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ",
+        "phonetic": "79.6 Yawma Tarjufu Ar-Rājifahu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "On the Day the blast [of the Horn] will convulse [creation],",
+            "english_hilali_khan": "On the Day (when the first blowing of the Trumpet is blown), the earth and the mountains will shake violently (and everybody will die).",
+            "english_rwwad": "on the Day when the earth convulses [by the first Blast],"
+        }
+    },
+    {
+        "id": 5718,
+        "chapter": 79,
+        "verse": 7,
+        "arabic_text": "تَتۡبَعُهَا ٱلرَّادِفَةُ",
+        "phonetic": "79.7 Tatba`uhā Ar-Rādifahu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "There will follow it the subsequent [one].",
+            "english_hilali_khan": "The second blowing of the Trumpet follows it (and everybody will be resurrected).",
+            "english_rwwad": "followed by the second Blast,"
+        }
+    },
+    {
+        "id": 5719,
+        "chapter": 79,
+        "verse": 8,
+        "arabic_text": "قُلُوبٞ يَوۡمَئِذٖ وَاجِفَةٌ",
+        "phonetic": "79.8 Qulūbun Yawma'idhin Wājifahun",
+        "footnotes": {
+            "english_saheeh": "[1838]- Those of the disbelievers who denied the Resurrection.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Hearts,[1838] that Day, will tremble, ",
+            "english_hilali_khan": "(Some) hearts that Day will shake with fear and anxiety.",
+            "english_rwwad": "hearts will be pounding on that Day,"
+        }
+    },
+    {
+        "id": 5720,
+        "chapter": 79,
+        "verse": 9,
+        "arabic_text": "أَبۡصَٰرُهَا خَٰشِعَةٞ",
+        "phonetic": "79.9 'Abşāruhā Khāshi`ahun",
+        "footnotes": {
+            "english_saheeh": "[1839]- Those of the disbelievers.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Their eyes[1839] humbled. ",
+            "english_hilali_khan": "Their eyes will be downcast.",
+            "english_rwwad": "and their eyes will be downcast."
+        }
+    },
+    {
+        "id": 5721,
+        "chapter": 79,
+        "verse": 10,
+        "arabic_text": "يَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِي ٱلۡحَافِرَةِ",
+        "phonetic": "79.10 Yaqūlūna 'A'innā Lamardūdūna Fī Al-Ĥāfirahi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They are [presently] saying, \"Will we indeed be returned to [our] former state [of life]? ",
+            "english_hilali_khan": "They say: \"Shall we indeed be returned to (our) former state of life?",
+            "english_rwwad": "They say, “Will we be brought back to life,"
+        }
+    },
+    {
+        "id": 5722,
+        "chapter": 79,
+        "verse": 11,
+        "arabic_text": "أَءِذَا كُنَّا عِظَٰمٗا نَّخِرَةٗ",
+        "phonetic": "79.11 'A'idhā Kunnā `Ižāmāan Nakhirahan",
+        "footnotes": {
+            "english_saheeh": "[1840]- The disbelievers say this in ridicule of the warning.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Even if we should be decayed bones?\"[1840] ",
+            "english_hilali_khan": "\"Even after we are crumbled bones?\"",
+            "english_rwwad": "after we have turned into decayed bones?”"
+        }
+    },
+    {
+        "id": 5723,
+        "chapter": 79,
+        "verse": 12,
+        "arabic_text": "قَالُواْ تِلۡكَ إِذٗا كَرَّةٌ خَاسِرَةٞ",
+        "phonetic": "79.12 Qālū Tilka 'Idhāan Karratun Khāsirahun",
+        "footnotes": {
+            "english_saheeh": "[1841]- i.e., \"If that were so, we would not be able to escape punishment.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They say, \"That, then, would be a losing return.\"[1841] ",
+            "english_hilali_khan": "They say: \"It would in that case, be a return with loss!\"",
+            "english_rwwad": "They say, “Then that would surely be a losing return!”"
+        }
+    },
+    {
+        "id": 5724,
+        "chapter": 79,
+        "verse": 13,
+        "arabic_text": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ",
+        "phonetic": "79.13 Fa'innamā Hiya Zajratun Wāĥidahun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, it will be but one shout, ",
+            "english_hilali_khan": "But it will be only a single Zajrah [shout (i.e., the second blowing of the Trumpet)], (See Verse 37:19).",
+            "english_rwwad": "It will only be a single Blast,"
+        }
+    },
+    {
+        "id": 5725,
+        "chapter": 79,
+        "verse": 14,
+        "arabic_text": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
+        "phonetic": "79.14 Fa'idhā Hum Bis-Sāhirahi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And suddenly they will be [alert] upon the earth's surface. ",
+            "english_hilali_khan": "When behold, they find themselves on the surface of the earth alive after their death,",
+            "english_rwwad": "then they will immediately be above the ground."
+        }
+    },
+    {
+        "id": 5726,
+        "chapter": 79,
+        "verse": 15,
+        "arabic_text": "هَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+        "phonetic": "79.15 Hal 'Tāka Ĥadīthu Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Has there reached you the story of Moses? -",
+            "english_hilali_khan": "Has there come to you the story of Mûsâ (Moses)?",
+            "english_rwwad": "Has there come to you the story of Moses,"
+        }
+    },
+    {
+        "id": 5727,
+        "chapter": 79,
+        "verse": 16,
+        "arabic_text": "إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى",
+        "phonetic": "79.16 'Idh Nādāhu Rabbuhu Bil-Wādi Al-Muqaddasi Ţūáan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When his Lord called to him in the sacred valley of Ṭuwā, ",
+            "english_hilali_khan": "When his Lord called him in the sacred valley of Tûwâ,",
+            "english_rwwad": "when his Lord called out to him at the sacred valley of Tuwa?"
+        }
+    },
+    {
+        "id": 5728,
+        "chapter": 79,
+        "verse": 17,
+        "arabic_text": "ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
+        "phonetic": "79.17 Adh/hab 'Ilá Fir`awna 'Innahu Ţaghá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "\"Go to Pharaoh. Indeed, he has transgressed.",
+            "english_hilali_khan": "Go to Fir‘aun (Pharaoh); verily he has transgressed all bounds (in crimes, sins, polytheism, disbelief).",
+            "english_rwwad": "[Saying,] “Go to Pharaoh, for he has transgressed all bounds”."
+        }
+    },
+    {
+        "id": 5729,
+        "chapter": 79,
+        "verse": 18,
+        "arabic_text": "فَقُلۡ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+        "phonetic": "79.18 Faqul Hal Laka 'Ilá 'An Tazakká",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And say to him, 'Would you [be willing to] purify yourself ",
+            "english_hilali_khan": "And say to him: \"Would you purify yourself (from the sin of disbelief by becoming a believer)?\"",
+            "english_rwwad": "And say: ‘Are you willing to be purified,"
+        }
+    },
+    {
+        "id": 5730,
+        "chapter": 79,
+        "verse": 19,
+        "arabic_text": "وَأَهۡدِيَكَ إِلَىٰ رَبِّكَ فَتَخۡشَىٰ",
+        "phonetic": "79.19 Wa 'Ahdiyaka 'Ilá Rabbika Fatakhshá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And let me guide you to your Lord so you would fear [Him]?'\" ",
+            "english_hilali_khan": "\"And that I guide you to your Lord, so you should fear Him?\"",
+            "english_rwwad": "and I will guide you to your Lord so that you may fear Him?’”"
+        }
+    },
+    {
+        "id": 5731,
+        "chapter": 79,
+        "verse": 20,
+        "arabic_text": "فَأَرَىٰهُ ٱلۡأٓيَةَ ٱلۡكُبۡرَىٰ",
+        "phonetic": "79.20 Fa'arāhu Al-'Āyata Al-Kubrá",
+        "footnotes": {
+            "english_saheeh": "[1842]- i.e., the miracle of his staff becoming a great snake.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he showed him the greatest sign,[1842] ",
+            "english_hilali_khan": "Then [Mûsâ (Moses)] showed him the great sign (miracles).",
+            "english_rwwad": "Then Moses showed him the greatest sign."
+        }
+    },
+    {
+        "id": 5732,
+        "chapter": 79,
+        "verse": 21,
+        "arabic_text": "فَكَذَّبَ وَعَصَىٰ",
+        "phonetic": "79.21 Fakadhaba Wa `Aşá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But he [i.e., Pharaoh] denied and disobeyed. ",
+            "english_hilali_khan": "But [Fir‘aun (Pharaoh)] belied and disobeyed.",
+            "english_rwwad": "But Pharaoh denied it and disobeyed."
+        }
+    },
+    {
+        "id": 5733,
+        "chapter": 79,
+        "verse": 22,
+        "arabic_text": "ثُمَّ أَدۡبَرَ يَسۡعَىٰ",
+        "phonetic": "79.22 Thumma 'Adbara Yas`á",
+        "footnotes": {
+            "english_saheeh": "[1843]- An alternative meaning is \"running [from the snake].\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then he turned his back, striving [i.e., plotting].[1843] ",
+            "english_hilali_khan": "Then he turned his back, striving (against Allâh).",
+            "english_rwwad": "Then he turned back striving to plot."
+        }
+    },
+    {
+        "id": 5734,
+        "chapter": 79,
+        "verse": 23,
+        "arabic_text": "فَحَشَرَ فَنَادَىٰ",
+        "phonetic": "79.23 Faĥashara Fanādá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he gathered [his people] and called out.",
+            "english_hilali_khan": "Then he gathered (his people) and cried aloud,",
+            "english_rwwad": "He gathered [his people] and proclaimed,"
+        }
+    },
+    {
+        "id": 5735,
+        "chapter": 79,
+        "verse": 24,
+        "arabic_text": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلۡأَعۡلَىٰ",
+        "phonetic": "79.24 Faqāla 'Anā Rabbukumu Al-'A`lá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And said, \"I am your most exalted lord.\" ",
+            "english_hilali_khan": "Saying: \"I am your lord, most high.\"",
+            "english_rwwad": "saying, “I am your lord, the most high.”"
+        }
+    },
+    {
+        "id": 5736,
+        "chapter": 79,
+        "verse": 25,
+        "arabic_text": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلۡأٓخِرَةِ وَٱلۡأُولَىٰٓ",
+        "phonetic": "79.25 Fa'akhadhahu Allāhu Nakāla Al-'Ākhirati Wa Al-'Ūlá",
+        "footnotes": {
+            "english_saheeh": "[1844]- i.e., for Pharaoh's setting himself up as a deity and for his previous oppression of the people and denial of Moses.",
+            "english_hilali_khan": "[1] (V.79:25) Last i.e. his saying: \"I am your lord, most high\" (See Verse 79:24)\n[2] (V.79:25) First i.e. his saying, \"O chiefs! I know not that you have a god other than I\" (See Verse 28:38)",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So Allāh seized him in exemplary punishment for the last and the first [transgression].[1844].",
+            "english_hilali_khan": "So Allâh, seized him with punishment for his last[1] and first[2] transgression. [Tafsir At-Tabari]",
+            "english_rwwad": "So Allah seized him for an exemplary punishment in this life and in the Hereafter."
+        }
+    },
+    {
+        "id": 5737,
+        "chapter": 79,
+        "verse": 26,
+        "arabic_text": "إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّمَن يَخۡشَىٰٓ",
+        "phonetic": "79.26 'Inna Fī Dhālika La`ibratan Liman Yakhshá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed in that is a lesson [i.e., warning] for whoever would fear [Allāh]. ",
+            "english_hilali_khan": "Verily, in this is an instructive admonition for whosoever fears Allâh.",
+            "english_rwwad": "Indeed, there is a lesson in this for those who fear Allah."
+        }
+    },
+    {
+        "id": 5738,
+        "chapter": 79,
+        "verse": 27,
+        "arabic_text": "ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُۚ بَنَىٰهَا",
+        "phonetic": "79.27 'A'antum 'Ashaddu Khalqāan 'Ami As-Samā'u Banāhā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Are you a more difficult creation or is the heaven? He [i.e., Allāh] constructed it. ",
+            "english_hilali_khan": "Are you more difficult to create or is the heaven that He constructed?",
+            "english_rwwad": "Are you more difficult to create or the heaven that He built?"
+        }
+    },
+    {
+        "id": 5739,
+        "chapter": 79,
+        "verse": 28,
+        "arabic_text": "رَفَعَ سَمۡكَهَا فَسَوَّىٰهَا",
+        "phonetic": "79.28 Rafa`a Samkahā Fasawwāhā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He raised its ceiling and proportioned it.",
+            "english_hilali_khan": "He raised its height, and has perfected it.",
+            "english_rwwad": "He raised it high and proportioned it,"
+        }
+    },
+    {
+        "id": 5740,
+        "chapter": 79,
+        "verse": 29,
+        "arabic_text": "وَأَغۡطَشَ لَيۡلَهَا وَأَخۡرَجَ ضُحَىٰهَا",
+        "phonetic": "79.29 Wa 'Aghţasha Laylahā Wa 'Akhraja Đuĥāhā",
+        "footnotes": {
+            "english_saheeh": "[1845]- i.e., created the day from within the surrounding darkness.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And He darkened its night and extracted its brightness.[1845] ",
+            "english_hilali_khan": "Its night He covers with darkness and its forenoon He brings out (with light)",
+            "english_rwwad": "and darkened its night and brought forth its daylight."
+        }
+    },
+    {
+        "id": 5741,
+        "chapter": 79,
+        "verse": 30,
+        "arabic_text": "وَٱلۡأَرۡضَ بَعۡدَ ذَٰلِكَ دَحَىٰهَآ",
+        "phonetic": "79.30 Wa Al-'Arđa Ba`da Dhālika Daĥāhā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And after that He spread the earth. ",
+            "english_hilali_khan": "And after that He spread the earth,",
+            "english_rwwad": "And thereafter He spread out the earth,"
+        }
+    },
+    {
+        "id": 5742,
+        "chapter": 79,
+        "verse": 31,
+        "arabic_text": "أَخۡرَجَ مِنۡهَا مَآءَهَا وَمَرۡعَىٰهَا",
+        "phonetic": "79.31 'Akhraja Minhā Mā'ahā Wa Mar`āhā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He extracted from it its water and its pasture, ",
+            "english_hilali_khan": "And brought forth therefrom its water and its pasture.",
+            "english_rwwad": "brought forth from it its water and its pasture,"
+        }
+    },
+    {
+        "id": 5743,
+        "chapter": 79,
+        "verse": 32,
+        "arabic_text": "وَٱلۡجِبَالَ أَرۡسَىٰهَا",
+        "phonetic": "79.32 Wa Al-Jibāla 'Arsāhā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the mountains He set firmly ",
+            "english_hilali_khan": "And the mountains He has fixed firmly,",
+            "english_rwwad": "and set the mountains firmly,"
+        }
+    },
+    {
+        "id": 5744,
+        "chapter": 79,
+        "verse": 33,
+        "arabic_text": "مَتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ",
+        "phonetic": "79.33 Matā`āan Lakum Wa Li'an`āmikum",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "As enjoyment [i.e., provision] for you and your grazing livestock. ",
+            "english_hilali_khan": "(To be) a provision and benefit for you and your cattle.",
+            "english_rwwad": "as a provision for you and your grazing livestock."
+        }
+    },
+    {
+        "id": 5745,
+        "chapter": 79,
+        "verse": 34,
+        "arabic_text": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلۡكُبۡرَىٰ",
+        "phonetic": "79.34 Fa'idhā Jā'ati Aţ-Ţāmmatu Al-Kubrá",
+        "footnotes": {
+            "english_saheeh": "[1846]- i.e., the Day of Resurrection.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But when there comes the greatest Overwhelming Calamity[1846] -",
+            "english_hilali_khan": "But when there comes the greatest catastrophe (i.e. the Day of Recompense) -",
+            "english_rwwad": "But when the Supreme Calamity comes,"
+        }
+    },
+    {
+        "id": 5746,
+        "chapter": 79,
+        "verse": 35,
+        "arabic_text": "يَوۡمَ يَتَذَكَّرُ ٱلۡإِنسَٰنُ مَا سَعَىٰ",
+        "phonetic": "79.35 Yawma Yatadhakkaru Al-'Insānu Mā Sa`á",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Day when man will remember that for which he strove, ",
+            "english_hilali_khan": "The Day when man shall remember what he strove for.",
+            "english_rwwad": "on that Day man will remember all what he did,"
+        }
+    },
+    {
+        "id": 5747,
+        "chapter": 79,
+        "verse": 36,
+        "arabic_text": "وَبُرِّزَتِ ٱلۡجَحِيمُ لِمَن يَرَىٰ",
+        "phonetic": "79.36 Wa Burrizati Al-Jaĥīmu Liman Yará",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And Hellfire will be exposed for [all] those who see -",
+            "english_hilali_khan": "And Hell-fire shall be made apparent in full view for (every) one who sees.",
+            "english_rwwad": "and the Blazing Fire will be exposed for all to see."
+        }
+    },
+    {
+        "id": 5748,
+        "chapter": 79,
+        "verse": 37,
+        "arabic_text": "فَأَمَّا مَن طَغَىٰ",
+        "phonetic": "79.37 Fa'ammā Man Ţaghá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So as for he who transgressed ",
+            "english_hilali_khan": "Then for him who transgressed all bounds, (in disbelief, oppression and evil deeds of disobedience to Allâh).",
+            "english_rwwad": "As for those who transgressed,"
+        }
+    },
+    {
+        "id": 5749,
+        "chapter": 79,
+        "verse": 38,
+        "arabic_text": "وَءَاثَرَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+        "phonetic": "79.38 Wa 'Āthara Al-Ĥayāata Ad-Dunyā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And preferred the life of the world, ",
+            "english_hilali_khan": "And preferred the life of this world (by following his evil desires and lusts),",
+            "english_rwwad": "and preferred the life of this world,"
+        }
+    },
+    {
+        "id": 5750,
+        "chapter": 79,
+        "verse": 39,
+        "arabic_text": "فَإِنَّ ٱلۡجَحِيمَ هِيَ ٱلۡمَأۡوَىٰ",
+        "phonetic": "79.39 Fa'inna Al-Jaĥīma Hiya Al-Ma'wá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then indeed, Hellfire will be [his] refuge. ",
+            "english_hilali_khan": "Verily, his abode will be Hell-fire;",
+            "english_rwwad": "the Blazing Fire will be their abode."
+        }
+    },
+    {
+        "id": 5751,
+        "chapter": 79,
+        "verse": 40,
+        "arabic_text": "وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ",
+        "phonetic": "79.40 Wa 'Ammā Man Khāfa Maqāma Rabbihi Wa Nahá An-Nafsa `Ani Al-Hawá",
+        "footnotes": {
+            "english_saheeh": "[1847]- See footnote to 55:46",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But as for he who feared the position of his Lord[1847] and prevented the soul from [unlawful] inclination, ",
+            "english_hilali_khan": "But as for him who feared standing before his Lord, and restrained himself from impure evil desires and lusts.",
+            "english_rwwad": "But those who feared standing before their Lord and restrained themselves from evil desires,"
+        }
+    },
+    {
+        "id": 5752,
+        "chapter": 79,
+        "verse": 41,
+        "arabic_text": "فَإِنَّ ٱلۡجَنَّةَ هِيَ ٱلۡمَأۡوَىٰ",
+        "phonetic": "79.41 Fa'inna Al-Jannata Hiya Al-Ma'wá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then indeed, Paradise will be [his] refuge. ",
+            "english_hilali_khan": "Verily, Paradise will be his abode.",
+            "english_rwwad": "Paradise will surely be their abode."
+        }
+    },
+    {
+        "id": 5753,
+        "chapter": 79,
+        "verse": 42,
+        "arabic_text": "يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَا",
+        "phonetic": "79.42 Yas'alūnaka `Ani As-Sā`ati 'Ayyāna Mursāhā",
+        "footnotes": {
+            "english_saheeh": "[1848]- Literally, \"resting\" or \"establishment.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They ask you, [O Muḥammad], about the Hour: when is its arrival?[1848] ",
+            "english_hilali_khan": "They ask you (O Muhammad صلى الله عليه وسلم) about the Hour - when will be its appointed time?",
+            "english_rwwad": "They ask you concerning the Hour, “When will it be?”"
+        }
+    },
+    {
+        "id": 5754,
+        "chapter": 79,
+        "verse": 43,
+        "arabic_text": "فِيمَ أَنتَ مِن ذِكۡرَىٰهَآ",
+        "phonetic": "79.43 Fīma 'Anta Min Dhikrāhā",
+        "footnotes": {
+            "english_saheeh": "[1849]- Meaning that Muḥammad (ﷺ) had no knowledge of it, so how could he inform them?",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In what [position] are you that you should mention it?[1849] ",
+            "english_hilali_khan": "You have no knowledge to say anything about it.",
+            "english_rwwad": "How could you possibly mention that?"
+        }
+    },
+    {
+        "id": 5755,
+        "chapter": 79,
+        "verse": 44,
+        "arabic_text": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ",
+        "phonetic": "79.44 'Ilá Rabbika Muntahāhā",
+        "footnotes": {
+            "english_saheeh": "[1850]- i.e., its destination and termination. And to Him belongs ultimate knowledge of it.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "To your Lord is its finality.[1850] ",
+            "english_hilali_khan": "To your Lord belongs (the knowledge of) the term thereof?",
+            "english_rwwad": "Its knowledge rests only with your Lord."
+        }
+    },
+    {
+        "id": 5756,
+        "chapter": 79,
+        "verse": 45,
+        "arabic_text": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخۡشَىٰهَا",
+        "phonetic": "79.45 'Innamā 'Anta Mundhiru Man Yakhshāhā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "You are only a warner for those who fear it. ",
+            "english_hilali_khan": "You (O Muhammad صلى الله عليه وسلم) are only a warner for those who fear it,",
+            "english_rwwad": "You are only a warner for those who fear it."
+        }
+    },
+    {
+        "id": 5757,
+        "chapter": 79,
+        "verse": 46,
+        "arabic_text": "كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَهَا لَمۡ يَلۡبَثُوٓاْ إِلَّا عَشِيَّةً أَوۡ ضُحَىٰهَا",
+        "phonetic": "79.46 Ka'annahum Yawma Yarawnahā Lam Yalbathū 'Illā `Ashīyatan 'Aw Đuĥāhā",
+        "footnotes": {
+            "english_saheeh": "[1851]- i.e., the Hour, the Resurrection.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It will be, on the Day they see it,[1851] as though they had not remained [in the world] except for an afternoon or a morning thereof.",
+            "english_hilali_khan": "The Day they see it, (it will be) as if they had not tarried (in this world) except an afternoon or a morning.",
+            "english_rwwad": "On the Day when they see it, it will be as if they had remained [in this world] no more than an evening or a morning."
+        }
+    }
+]
