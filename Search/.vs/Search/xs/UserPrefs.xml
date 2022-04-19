@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{60204AF8-F65E-4F15-A9CA-F212F8BF2B91}|Default">
+  <MonoDevelop.Ide.ItemProperties.SearchWebserver PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.SearchMicroservice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Search" expanded="True">
+            <Node name="SearchWebserver" expanded="True" selected="True" />
+            <Node name="TestGrpcClient" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Search/SearchCore/CorpusSearch.cs" line="25" column="12" endLine="25" endColumn="23" offsetX="-1" offsetY="-1" expression="Loading…" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.TestGrpcClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
+    <MultiItemSolutionRunConfiguration Id="Sample Config" Name="Sample Config">
+      <Items>
+        <StartupItem ItemId="{0BA8D655-5CA3-4865-A013-D9D749C728B1}" ItemName="SearchMicroservice" ConfigurationId="Search" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
