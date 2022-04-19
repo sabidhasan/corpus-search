@@ -1,0 +1,512 @@
+[
+    {
+        "id": 5241,
+        "chapter": 67,
+        "verse": 1,
+        "arabic_text": "تَبَٰرَكَ ٱلَّذِي بِيَدِهِ ٱلۡمُلۡكُ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+        "phonetic": "67.1 Tabāraka Al-Ladhī Biyadihi Al-Mulku Wa Huwa `Alá Kulli Shay'in Qadīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Blessed is He in whose hand is dominion, and He is over all things competent -",
+            "english_hilali_khan": "Blessed be He in Whose Hand is the dominion; and He is Able to do all things.",
+            "english_rwwad": "Blessed is He in Whose Hand is the dominion, and He is Most Capable of all things."
+        }
+    },
+    {
+        "id": 5242,
+        "chapter": 67,
+        "verse": 2,
+        "arabic_text": "ٱلَّذِي خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَيَوٰةَ لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلٗاۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡغَفُورُ",
+        "phonetic": "67.2 Al-Ladhī Khalaqa Al-Mawta Wa Al-Ĥayāata Liyabluwakum 'Ayyukum 'Aĥsanu `Amalāan Wa Huwa Al-`Azīzu Al-Ghafūru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.67:2) i.e. who amongst you do the good deeds in the most perfect manner, that means to do them (deeds) totally for Allâh’s sake and in accordance with the legal ways of Prophet Muhammad صلى الله عليه وسلم.",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving -",
+            "english_hilali_khan": "Who has created death and life that He may test you which of you is best in deed.[1] And He is the All-Mighty, the Oft-Forgiving;",
+            "english_rwwad": "Who created death and life to test you as to which of you is best in deeds, and He is the All-Mighty, the Most Forgiving."
+        }
+    },
+    {
+        "id": 5243,
+        "chapter": 67,
+        "verse": 3,
+        "arabic_text": "ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتٖ طِبَاقٗاۖ مَّا تَرَىٰ فِي خَلۡقِ ٱلرَّحۡمَٰنِ مِن تَفَٰوُتٖۖ فَٱرۡجِعِ ٱلۡبَصَرَ هَلۡ تَرَىٰ مِن فُطُورٖ",
+        "phonetic": "67.3 Al-Ladhī Khalaqa Sab`a Samāwātin Ţibāqāan Mā Tará Fī Khalqi Ar-Raĥmāni Min Tafāwutin Fārji`i Al-Başara Hal Tará Min Fuţūrin",
+        "footnotes": {
+            "english_saheeh": "[1712]- i.e., one covering or fitting over the other.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[And] who created seven heavens in layers.[1712] You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?",
+            "english_hilali_khan": "Who has created the seven heavens one above another; you can see no fault in the creation of the Most Gracious. Then look again: \"Can you see any rifts?\"",
+            "english_rwwad": "Who created seven heavens one above another; you will not see any imperfection in the creation of the Most Compassionate. Look again; can you see any flaw?"
+        }
+    },
+    {
+        "id": 5244,
+        "chapter": 67,
+        "verse": 4,
+        "arabic_text": "ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَيۡنِ يَنقَلِبۡ إِلَيۡكَ ٱلۡبَصَرُ خَاسِئٗا وَهُوَ حَسِيرٞ",
+        "phonetic": "67.4 Thumma Arji`i Al-Başara Karratayni Yanqalib 'Ilayka Al-Başaru Khāsi'āan Wa Huwa Ĥasīrun",
+        "footnotes": {
+            "english_saheeh": "[1713]- i.e., repeatedly.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then return [your] vision twice again.[1713] [Your] vision will return to you humbled while it is fatigued.",
+            "english_hilali_khan": "Then look again and yet again: your sight will return to you in a state of humiliation and worn out.",
+            "english_rwwad": "Then look again and again; your sight will turn back to you humbled and weary."
+        }
+    },
+    {
+        "id": 5245,
+        "chapter": 67,
+        "verse": 5,
+        "arabic_text": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
+        "phonetic": "67.5 Wa Laqad Zayyannā As-Samā'a Ad-Dunyā Bimaşābīĥa Wa Ja`alnāhā Rujūmāan Lilshayāţīni Wa 'A`tadnā Lahum `Adhāba As-Sa`īri",
+        "footnotes": {
+            "english_saheeh": "[1714]- Thereby driving them from the heavens and preventing them from eavesdropping.  See 72:8-9.",
+            "english_hilali_khan": "(V.67:5) See the footnote of (V.6:97) and (V.85:1).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We have certainly beautified the nearest heaven with lamps [i.e., stars] and have made [from] them what is thrown at the devils[1714] and have prepared for them the punishment of the Blaze.",
+            "english_hilali_khan": "And indeed We have adorned the nearest heaven with lamps[2], and We have made such lamps (as) missiles to drive away the Shayâtîn (devils), and have prepared for them the torment of the blazing Fire.",
+            "english_rwwad": "We have adorned the lowest heaven with lamps and have made them as missiles to stone the devils, and We have prepared for them the punishment of the Blazing Fire."
+        }
+    },
+    {
+        "id": 5246,
+        "chapter": 67,
+        "verse": 6,
+        "arabic_text": "وَلِلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ عَذَابُ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+        "phonetic": "67.6 Wa Lilladhīna Kafarū Birabbihim `Adhābu Jahannama Wa Bi'sa Al-Maşīru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination.",
+            "english_hilali_khan": "And for those who disbelieve in their Lord (Allâh) is the torment of Hell, and worst indeed is that destination.",
+            "english_rwwad": "For those who disbelieve in their Lord there will be the punishment of Hell. What a terrible destination!"
+        }
+    },
+    {
+        "id": 5247,
+        "chapter": 67,
+        "verse": 7,
+        "arabic_text": "إِذَآ أُلۡقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقٗا وَهِيَ تَفُورُ",
+        "phonetic": "67.7 'Idhā 'Ulqū Fīhā Sami`ū Lahā Shahīqāan Wa Hiya Tafūru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up.",
+            "english_hilali_khan": "When they are cast therein, they will hear the (terrible) drawing in of its breath as it blazes forth.",
+            "english_rwwad": "When they are thrown in it, they will hear its roaring as it boils up,"
+        }
+    },
+    {
+        "id": 5248,
+        "chapter": 67,
+        "verse": 8,
+        "arabic_text": "تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ كُلَّمَآ أُلۡقِيَ فِيهَا فَوۡجٞ سَأَلَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ نَذِيرٞ",
+        "phonetic": "67.8 Takādu Tamayyazu Mina Al-Ghayži Kullamā 'Ulqiya Fīhā Fawjun Sa'alahum Khazanatuhā 'Alam Ya'tikum Nadhīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\"",
+            "english_hilali_khan": "It almost bursts up with fury. Every time a group is cast therein, its keeper will ask: \"Did no warner come to you?\"",
+            "english_rwwad": "almost bursting in fury. Every time a group is thrown in it, its keepers will ask them, “Did there not come to you a warner?”"
+        }
+    },
+    {
+        "id": 5249,
+        "chapter": 67,
+        "verse": 9,
+        "arabic_text": "قَالُواْ بَلَىٰ قَدۡ جَآءَنَا نَذِيرٞ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ كَبِيرٖ",
+        "phonetic": "67.9 Qālū Balá Qad Jā'anā Nadhīrun Fakadhabnā Wa Qulnā Mā Nazzala Allāhu Min Shay'in 'In 'Antum 'Illā Fī Đalālin Kabīrin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They will say, \"Yes, a warner had come to us, but we denied and said, 'Allāh has not sent down anything. You are not but in great error.'\"",
+            "english_hilali_khan": "They will say: \"Yes, indeed a warner did come to us, but we belied him and said: ‘Allâh never sent down anything (of revelation); you are only in great error.’\"",
+            "english_rwwad": "They will say, “Yes, a warner did come to us, but we denied and said, ‘Allah has not sent down anything; you are greatly misguided.’”"
+        }
+    },
+    {
+        "id": 5250,
+        "chapter": 67,
+        "verse": 10,
+        "arabic_text": "وَقَالُواْ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِيٓ أَصۡحَٰبِ ٱلسَّعِيرِ",
+        "phonetic": "67.10 Wa Qālū Law Kunnā Nasma`u 'Aw Na`qilu Mā Kunnā Fī 'Aşĥābi As-Sa`īri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze.\"",
+            "english_hilali_khan": "And they will say: \"Had we but listened or used our intelligence, we would not have been among the dwellers of the blazing Fire!\"",
+            "english_rwwad": "And they will say, “If only we had listened or understood, we would not be among the dwellers of the Blazing Fire.”"
+        }
+    },
+    {
+        "id": 5251,
+        "chapter": 67,
+        "verse": 11,
+        "arabic_text": "فَٱعۡتَرَفُواْ بِذَنۢبِهِمۡ فَسُحۡقٗا لِّأَصۡحَٰبِ ٱلسَّعِيرِ",
+        "phonetic": "67.11 Fā`tarafū Bidhanbihim Fasuĥqāan Li'şĥābi As-Sa`īri",
+        "footnotes": {
+            "english_saheeh": "[1715]- From all good and from Allāh's mercy.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they will admit their sin, so [it is] alienation[1715] for the companions of the Blaze.",
+            "english_hilali_khan": "Then they will confess their sin. So, away with the dwellers of the blazing Fire!",
+            "english_rwwad": "Thus they will confess their sins. So away with the dwellers of the Blazing Fire!"
+        }
+    },
+    {
+        "id": 5252,
+        "chapter": 67,
+        "verse": 12,
+        "arabic_text": "إِنَّ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٞ",
+        "phonetic": "67.12 'Inna Al-Ladhīna Yakhshawna Rabbahum Bil-Ghaybi Lahum Maghfiratun Wa 'Ajrun Kabīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, those who fear their Lord unseen will have forgiveness and great reward.",
+            "english_hilali_khan": "Verily,, those who fear their Lord unseen (i.e. they do not see Him, nor His punishment in the Hereafter), theirs will be forgiveness and a great reward (i.e. Paradise).",
+            "english_rwwad": "Indeed, those who fear their Lord unseen will have forgiveness and a great reward."
+        }
+    },
+    {
+        "id": 5253,
+        "chapter": 67,
+        "verse": 13,
+        "arabic_text": "وَأَسِرُّواْ قَوۡلَكُمۡ أَوِ ٱجۡهَرُواْ بِهِۦٓۖ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+        "phonetic": "67.13 Wa 'Asirrū Qawlakum 'Aw Ajharū Bihi 'Innahu `Alīmun Bidhāti Aş-Şudūri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts.",
+            "english_hilali_khan": "And whether you keep your talk secret or disclose it, Verily, He is the All-Knower of what is in the breasts (of men).",
+            "english_rwwad": "Whether you speak secretly or openly, He is All-Knowing of that which is in the hearts."
+        }
+    },
+    {
+        "id": 5254,
+        "chapter": 67,
+        "verse": 14,
+        "arabic_text": "أَلَا يَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
+        "phonetic": "67.14 'Alā Ya`lamu Man Khalaqa Wa Huwa Al-Laţīfu Al-Khabīru",
+        "footnotes": {
+            "english_saheeh": "[1716]- Another accepted meaning is \"Does He not know those whom He created...?\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Does He who created not know,[1716] while He is the Subtle, the Aware?",
+            "english_hilali_khan": "Should not He Who has created know? And He is the Most Kind and Courteous (to His slaves), All-Aware (of everything).",
+            "english_rwwad": "Does He not know His Own creation, when He is the Most Subtle, the All-Aware?"
+        }
+    },
+    {
+        "id": 5255,
+        "chapter": 67,
+        "verse": 15,
+        "arabic_text": "هُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ ذَلُولٗا فَٱمۡشُواْ فِي مَنَاكِبِهَا وَكُلُواْ مِن رِّزۡقِهِۦۖ وَإِلَيۡهِ ٱلنُّشُورُ",
+        "phonetic": "67.15 Huwa Al-Ladhī Ja`ala Lakumu Al-'Arđa Dhalūlāan Fāmshū Fī Manākibihā Wa Kulū Min Rizqihi Wa 'Ilayhi An-Nushūru",
+        "footnotes": {
+            "english_saheeh": "[1717]- i.e., stable and subservient.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It is He who made the earth tame[1717] for you - so walk among its slopes and eat of His provision - and to Him is the resurrection.",
+            "english_hilali_khan": "He it is Who has made the earth subservient to you (i.e. easy for you to walk, to live and to do agriculture on it); so walk in the path thereof and eat of His provision. And to Him will be the Resurrection.",
+            "english_rwwad": "It is He Who made the earth smooth for you, so travel through its regions and eat from His provisions. And to Him is the resurrection."
+        }
+    },
+    {
+        "id": 5256,
+        "chapter": 67,
+        "verse": 16,
+        "arabic_text": "ءَأَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِيَ تَمُورُ",
+        "phonetic": "67.16 'A'amintum Man Fī As-Samā'i 'An Yakhsifa Bikumu Al-'Arđa Fa'idhā Hiya Tamūru",
+        "footnotes": {
+            "english_saheeh": "[1718]- Literally, \"in ascendancy\" or \"over the heaven.\"\n[1719]- In a circular motion, as in an earthquake.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Do you feel secure that He who is above[1718] would not cause the earth to swallow you and suddenly it would sway?[1719]",
+            "english_hilali_khan": "Do you feel secure that He, Who is over the heaven (Allâh), will not cause the earth to sink with you, and then it should quake?",
+            "english_rwwad": "Do you feel secure that He Who is in the heaven will not cause the earth to sink with you, then suddenly convulse?"
+        }
+    },
+    {
+        "id": 5257,
+        "chapter": 67,
+        "verse": 17,
+        "arabic_text": "أَمۡ أَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يُرۡسِلَ عَلَيۡكُمۡ حَاصِبٗاۖ فَسَتَعۡلَمُونَ كَيۡفَ نَذِيرِ",
+        "phonetic": "67.17 'Am 'Amintum Man Fī As-Samā'i 'An Yursila `Alaykum Ĥāşibāan Fasata`lamūna Kayfa Nadhīri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Or do you feel secure that He who is above would not send against you a storm of stones? Then you would know how [severe] was My warning.",
+            "english_hilali_khan": "Or do you feel secure that He, Who is over the heaven (Allâh), will not send against you a violent whirlwind? Then you shall know how (terrible) has been My Warning.",
+            "english_rwwad": "Do you feel secure that He Who is in the heaven will not send against you a storm of stones? Only then would you know how [serious] My warning was!"
+        }
+    },
+    {
+        "id": 5258,
+        "chapter": 67,
+        "verse": 18,
+        "arabic_text": "وَلَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَكَيۡفَ كَانَ نَكِيرِ",
+        "phonetic": "67.18 Wa Laqad Kadhaba Al-Ladhīna Min Qablihim Fakayfa Kāna Nakīri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And already had those before them denied, and how [terrible] was My reproach.",
+            "english_hilali_khan": "And indeed those before them belied (the Messengers of Allâh), then how terrible was My denial (punishment)?",
+            "english_rwwad": "Those who came before them rejected [the messengers]; then how severe was My response!"
+        }
+    },
+    {
+        "id": 5259,
+        "chapter": 67,
+        "verse": 19,
+        "arabic_text": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَٰٓفَّٰتٖ وَيَقۡبِضۡنَۚ مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۭ بَصِيرٌ",
+        "phonetic": "67.19 'Awalam Yaraw 'Ilá Aţ-Ţayri Fawqahum Şāffātin Wa Yaqbiđna Mā Yumsikuhunna 'Illā Ar-Raĥmānu 'Innahu Bikulli Shay'in Başīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing.",
+            "english_hilali_khan": "Do they not see the birds above them, spreading out their wings and folding them in? None upholds them except the Most Gracious (Allâh). Verily, He is the All-Seer of everything.",
+            "english_rwwad": "Do they not see the birds above them, spreading out and folding in their wings? None holds them up except the Most Compassionate. He is indeed All-Seeing of everything."
+        }
+    },
+    {
+        "id": 5260,
+        "chapter": 67,
+        "verse": 20,
+        "arabic_text": "أَمَّنۡ هَٰذَا ٱلَّذِي هُوَ جُندٞ لَّكُمۡ يَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَٰنِۚ إِنِ ٱلۡكَٰفِرُونَ إِلَّا فِي غُرُورٍ",
+        "phonetic": "67.20 'Amman Hādhā Al-Ladhī Huwa Jundun Lakum Yanşurukum Min Dūni Ar-Raĥmāni 'Ini Al-Kāfirūna 'Illā Fī Ghurūrin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion.",
+            "english_hilali_khan": "Who is he besides the Most Gracious that can be an army to you to help you? The disbelievers are in nothing but delusion.",
+            "english_rwwad": "Which is your army that can come to your aid against the Most Compassionate? The disbelievers are in utter delusion."
+        }
+    },
+    {
+        "id": 5261,
+        "chapter": 67,
+        "verse": 21,
+        "arabic_text": "أَمَّنۡ هَٰذَا ٱلَّذِي يَرۡزُقُكُمۡ إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ بَل لَّجُّواْ فِي عُتُوّٖ وَنُفُورٍ",
+        "phonetic": "67.21 'Amman Hādhā Al-Ladhī Yarzuqukum 'In 'Amsaka Rizqahu Bal Lajjū Fī `Utūwin Wa Nufūrin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Or who is it that could provide for you if He withheld His provision? But they have persisted in insolence and aversion.",
+            "english_hilali_khan": "Who is he that can provide for you if He should withhold His provision? Nay, but they continue to be in pride, and (they) flee (from the truth).",
+            "english_rwwad": "Who is there to give you provision if He withholds His provision? Yet they persist in arrogance and aversion."
+        }
+    },
+    {
+        "id": 5262,
+        "chapter": 67,
+        "verse": 22,
+        "arabic_text": "أَفَمَن يَمۡشِي مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰٓ أَمَّن يَمۡشِي سَوِيًّا عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+        "phonetic": "67.22 'Afaman Yamshī Mukibbāan `Alá Wajhihi 'Ahdá 'Amman Yamshī Sawīyāan `Alá Şirāţin Mustaqīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then is one who walks fallen on his face better guided or one who walks erect on a straight path?",
+            "english_hilali_khan": "Is he who walks prone (without seeing) on his face, more rightly guided, or he who (sees and) walks upright on the Straight Way (i.e. Islâmic Monotheism)?",
+            "english_rwwad": "Who is better guided: the one who walks stumbling and falling on his face or the one who walks upright on a straight path?"
+        }
+    },
+    {
+        "id": 5263,
+        "chapter": 67,
+        "verse": 23,
+        "arabic_text": "قُلۡ هُوَ ٱلَّذِيٓ أَنشَأَكُمۡ وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِيلٗا مَّا تَشۡكُرُونَ",
+        "phonetic": "67.23 Qul Huwa Al-Ladhī 'Ansha'akum Wa Ja`ala Lakumu As-Sam`a Wa Al-'Abşāra Wa Al-'Af'idata Qalīlāan Mā Tashkurūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"It is He who has produced you and made for you hearing and vision and hearts [i.e., intellect]; little are you grateful.\"",
+            "english_hilali_khan": "Say it is He Who has created you, and endowed you with hearing (ears) and seeing (eyes), and hearts. Little thanks you give.",
+            "english_rwwad": "Say, “It is He Who brought you into being and gave you hearing, sight, and hearts; little do you give thanks.”"
+        }
+    },
+    {
+        "id": 5264,
+        "chapter": 67,
+        "verse": 24,
+        "arabic_text": "قُلۡ هُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ",
+        "phonetic": "67.24 Qul Huwa Al-Ladhī Dhara'akum Fī Al-'Arđi Wa 'Ilayhi Tuĥsharūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"It is He who has multiplied you throughout the earth, and to Him you will be gathered.\"",
+            "english_hilali_khan": "Say: \"It is He Who has created you on the earth, and to Him shall you be gathered (in the Hereafter).\"",
+            "english_rwwad": "Say, “It is He Who has dispersed you throughout the earth, and to Him you will be gathered.”"
+        }
+    },
+    {
+        "id": 5265,
+        "chapter": 67,
+        "verse": 25,
+        "arabic_text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+        "phonetic": "67.25 Wa Yaqūlūna Matá Hādhā Al-Wa`du 'In Kuntum Şādiqīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they say, \"When is this promise, if you should be truthful?\"",
+            "english_hilali_khan": "They say: \"When will this promise (i.e. the Day of Resurrection) come to pass if you are telling the truth.?\"",
+            "english_rwwad": "They say: “When will this promise come to pass, if you are truthful?”"
+        }
+    },
+    {
+        "id": 5266,
+        "chapter": 67,
+        "verse": 26,
+        "arabic_text": "قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٞ",
+        "phonetic": "67.26 Qul 'Innamā Al-`Ilmu `Inda Allāhi Wa 'Innamā 'Anā Nadhīrun Mubīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"The knowledge is only with Allāh, and I am only a clear warner.\"",
+            "english_hilali_khan": "Say (O Muhammad صلى الله عليه وسلم): \"The knowledge (of its exact time) is with Allâh only, and I am only a plain warner.\"",
+            "english_rwwad": "Say, “That knowledge is with Allah alone, and I am only a clear warner.”"
+        }
+    },
+    {
+        "id": 5267,
+        "chapter": 67,
+        "verse": 27,
+        "arabic_text": "فَلَمَّا رَأَوۡهُ زُلۡفَةٗ سِيٓـَٔتۡ وُجُوهُ ٱلَّذِينَ كَفَرُواْ وَقِيلَ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَدَّعُونَ",
+        "phonetic": "67.27 Falammā Ra'awhu Zulfatan Sī'at Wujūhu Al-Ladhīna Kafarū Wa Qīla Hādhā Al-Ladhī Kuntum Bihi Tadda`ūna",
+        "footnotes": {
+            "english_saheeh": "[1720]- The punishment of which they were warned.\n[1721]- When they challenged their prophets, saying, \"Bring on the punishment, if you are truthful.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But when they see it[1720] approaching, the faces of those who disbelieve will be distressed, and it will be said, \"This is that for which you used to call.\"[1721]",
+            "english_hilali_khan": "But when they will see it (the torment on the Day of Resurrection) approaching, the faces of those who disbelieve will change and turn black with sadness and in grief and it will be said (to them): \"This is (the promise) which you were calling for!\"",
+            "english_rwwad": "Then when they see it approaching closer, the faces of the disbelievers will be distressed, and it will be said, “This is what you were asking for.”"
+        }
+    },
+    {
+        "id": 5268,
+        "chapter": 67,
+        "verse": 28,
+        "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٖ",
+        "phonetic": "67.28 Qul 'Ara'aytum 'In 'Ahlakaniya Allāhu Wa Man Ma`ī 'Aw Raĥimanā Faman Yujīru Al-Kāfirīna Min `Adhābin 'Alīmin",
+        "footnotes": {
+            "english_saheeh": "[1722]- i.e., inform me.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, [O Muḥammad], \"Have you considered:[1722] whether Allāh should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?\"",
+            "english_hilali_khan": "Say (O Muhammad صلى الله عليه وسلم): \"Tell me! If Allâh destroys me, and those with me, or He bestows His Mercy on us - who can save the disbelievers from a painful torment?\"",
+            "english_rwwad": "Say, “What do you think, if Allah causes me and those who are with me to die or shows us mercy, who will save the disbelievers from a painful punishment?”"
+        }
+    },
+    {
+        "id": 5269,
+        "chapter": 67,
+        "verse": 29,
+        "arabic_text": "قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
+        "phonetic": "67.29 Qul Huwa Ar-Raĥmānu 'Āmannā Bihi Wa `Alayhi Tawakkalnā Fasata`lamūna Man Huwa Fī Đalālin Mubīnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error.\"",
+            "english_hilali_khan": "Say: \"He is the Most Gracious (Allâh), in Him we believe, and in Him we put our trust. So you will come to know who it is that is in manifest error.\"",
+            "english_rwwad": "Say, “He is the Most Compassionate; we believe in Him and put our trust in Him. You will come to know who is clearly misguided.”"
+        }
+    },
+    {
+        "id": 5270,
+        "chapter": 67,
+        "verse": 30,
+        "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرٗا فَمَن يَأۡتِيكُم بِمَآءٖ مَّعِينِۭ",
+        "phonetic": "67.30 Qul 'Ara'aytum 'In 'Aşbaĥa Mā'uukum Ghawrāan Faman Ya'tīkum Bimā'in Ma`īnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water?\"",
+            "english_hilali_khan": "Say (O Muhammad صلى الله عليه وسلم): \"Tell me! If (all) your water were to sink away, who then can supply you with flowing (spring) water?\"",
+            "english_rwwad": "Say, “What do you think, if your water were to sink deep into the earth, who can bring you flowing water?”"
+        }
+    }
+]

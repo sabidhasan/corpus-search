@@ -1,0 +1,2297 @@
+[
+    {
+        "id": 2348,
+        "chapter": 20,
+        "verse": 1,
+        "arabic_text": "طه",
+        "phonetic": "20.1 Ţāhā",
+        "footnotes": {
+            "english_saheeh": "[831]- See footnote to 2:1",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Ṭā, Hā.[831]",
+            "english_hilali_khan": "Tâ-Hâ.",
+            "english_rwwad": "Tā Ha"
+        }
+    },
+    {
+        "id": 2349,
+        "chapter": 20,
+        "verse": 2,
+        "arabic_text": "مَآ أَنزَلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ لِتَشۡقَىٰٓ",
+        "phonetic": "20.2 Mā 'Anzalnā `Alayka Al-Qur'āna Litashqá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "We have not sent down to you the Qur’ān that you be distressed",
+            "english_hilali_khan": "We have not sent down the Qur’ân unto you (O Muhammad صلى الله عليه وسلم) to cause you distress,",
+            "english_rwwad": "We have not sent down the Qur’an to you [O Prophet] to cause you distress,"
+        }
+    },
+    {
+        "id": 2350,
+        "chapter": 20,
+        "verse": 3,
+        "arabic_text": "إِلَّا تَذۡكِرَةٗ لِّمَن يَخۡشَىٰ",
+        "phonetic": "20.3 'Illā Tadhkiratan Liman Yakhshá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But only as a reminder for those who fear [Allāh] -",
+            "english_hilali_khan": "But only as a Reminder to those who fear (Allâh).",
+            "english_rwwad": "but as a reminder for those who fear Allah."
+        }
+    },
+    {
+        "id": 2351,
+        "chapter": 20,
+        "verse": 4,
+        "arabic_text": "تَنزِيلٗا مِّمَّنۡ خَلَقَ ٱلۡأَرۡضَ وَٱلسَّمَٰوَٰتِ ٱلۡعُلَى",
+        "phonetic": "20.4 Tanzīlāan Mimman Khalaqa Al-'Arđa Wa As-Samāwāti Al-`Ulā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "A revelation from He who created the earth and highest heavens,",
+            "english_hilali_khan": "A revelation from Him (Allâh) Who has created the earth and high heavens.",
+            "english_rwwad": "A revelation from the One Who created the earth and the high heavens."
+        }
+    },
+    {
+        "id": 2352,
+        "chapter": 20,
+        "verse": 5,
+        "arabic_text": "ٱلرَّحۡمَٰنُ عَلَى ٱلۡعَرۡشِ ٱسۡتَوَىٰ",
+        "phonetic": "20.5 Ar-Raĥmānu `Alá Al-`Arshi Astawá",
+        "footnotes": {
+            "english_saheeh": "[832]- i.e., having ascendancy over all creation.  See footnotes to 2:19 and 7:54",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Most Merciful [who is] above the Throne established.[832]",
+            "english_hilali_khan": "The Most Gracious (Allâh) rose over (Istawâ) the (Mighty) Throne (in a manner that suits His Majesty).",
+            "english_rwwad": "The Most Compassionate rose over the Throne."
+        }
+    },
+    {
+        "id": 2353,
+        "chapter": 20,
+        "verse": 6,
+        "arabic_text": "لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَمَا تَحۡتَ ٱلثَّرَىٰ",
+        "phonetic": "20.6 Lahu Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa Mā Baynahumā Wa Mā Taĥta Ath-Thará",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "To Him belongs what is in the heavens and what is on the earth and what is between them and what is under the soil.",
+            "english_hilali_khan": "To Him belongs all that is in the heavens and all that is on the earth, and all that is between them, and all that is under the soil.",
+            "english_rwwad": "To Him belongs all that is in the heavens and all that is on earth, and all that is between them, and all that is beneath the soil."
+        }
+    },
+    {
+        "id": 2354,
+        "chapter": 20,
+        "verse": 7,
+        "arabic_text": "وَإِن تَجۡهَرۡ بِٱلۡقَوۡلِ فَإِنَّهُۥ يَعۡلَمُ ٱلسِّرَّ وَأَخۡفَى",
+        "phonetic": "20.7 Wa 'In Tajhar Bil-Qawli Fa'innahu Ya`lamu As-Sirra Wa 'Akhfá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if you speak aloud - then indeed, He knows the secret and what is [even] more hidden.",
+            "english_hilali_khan": "And if you (O Muhammad صلى الله عليه وسلم) speak (the invocation) aloud, then verily, He knows the secret and that which is yet more hidden.",
+            "english_rwwad": "Whether you speak loudly [or not], He surely knows what is secret and what is even more hidden."
+        }
+    },
+    {
+        "id": 2355,
+        "chapter": 20,
+        "verse": 8,
+        "arabic_text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ لَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰ",
+        "phonetic": "20.8 Allāhu Lā 'Ilāha 'Illā Huwa Lahu Al-'Asmā'u Al-Ĥusná",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.20:8) See the footnote of (V.7:180).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Allāh - there is no deity except Him. To Him belong the best names.",
+            "english_hilali_khan": "Allâh! Lâ ilâha illa Huwa (none has the right to be worshipped but He)! To Him belong the Best Names.[3]",
+            "english_rwwad": "Allah – none has the right to be worshiped except Him. He has the Most Beautiful Names."
+        }
+    },
+    {
+        "id": 2356,
+        "chapter": 20,
+        "verse": 9,
+        "arabic_text": "وَهَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+        "phonetic": "20.9 Wa Hal 'Atāka Ĥadīthu Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And has the story of Moses reached you? -",
+            "english_hilali_khan": "And has there come to you the story of Mûsâ (Moses)?",
+            "english_rwwad": "Has there come to you the story of Moses?"
+        }
+    },
+    {
+        "id": 2357,
+        "chapter": 20,
+        "verse": 10,
+        "arabic_text": "إِذۡ رَءَا نَارٗا فَقَالَ لِأَهۡلِهِ ٱمۡكُثُوٓاْ إِنِّيٓ ءَانَسۡتُ نَارٗا لَّعَلِّيٓ ءَاتِيكُم مِّنۡهَا بِقَبَسٍ أَوۡ أَجِدُ عَلَى ٱلنَّارِ هُدٗى",
+        "phonetic": "20.10 'Idh Ra'á Nārāan Faqāla Li'hlihi Amkuthū 'Innī 'Ānastu Nārāan La`allī 'Ātīkum Minhā Biqabasin 'Aw 'Ajidu `Alá An-Nāri Hudáan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When he saw a fire and said to his family, \"Stay here; indeed, I have perceived a fire; perhaps I can bring you a torch or find at the fire some guidance.\"",
+            "english_hilali_khan": "When he saw a fire, he said to his family: \"Wait! Verily, I have seen a fire; perhaps I can bring you some burning brand therefrom, or find some guidance at the fire.\"",
+            "english_rwwad": "When he saw a fire, he said to his family, “Stay here. I have spotted a fire; I may bring you a flaming brand from it, or find some guidance at the fire.”"
+        }
+    },
+    {
+        "id": 2358,
+        "chapter": 20,
+        "verse": 11,
+        "arabic_text": "فَلَمَّآ أَتَىٰهَا نُودِيَ يَٰمُوسَىٰٓ",
+        "phonetic": "20.11 Falammā 'Atāhā Nūdī Yā Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when he came to it, he was called, \"O Moses,",
+            "english_hilali_khan": "And when he came to it (the fire), he was called by name: \"O Mûsâ (Moses)!",
+            "english_rwwad": "When he came to it, he was called, “O Moses,"
+        }
+    },
+    {
+        "id": 2359,
+        "chapter": 20,
+        "verse": 12,
+        "arabic_text": "إِنِّيٓ أَنَا۠ رَبُّكَ فَٱخۡلَعۡ نَعۡلَيۡكَ إِنَّكَ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوٗى",
+        "phonetic": "20.12 'Innī 'Anā Rabbuka Fākhla` Na`layka 'Innaka Bil-Wādi Al-Muqaddasi Ţūáan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, I am your Lord, so remove your sandals. Indeed, you are in the blessed valley of Ṭuwā.",
+            "english_hilali_khan": "\"Verily I am your Lord! So take off your shoes; you are in the sacred valley, Tuwa.",
+            "english_rwwad": "Indeed, I am your Lord, so take off your shoes; you are in the sacred valley of Tuwā."
+        }
+    },
+    {
+        "id": 2360,
+        "chapter": 20,
+        "verse": 13,
+        "arabic_text": "وَأَنَا ٱخۡتَرۡتُكَ فَٱسۡتَمِعۡ لِمَا يُوحَىٰٓ",
+        "phonetic": "20.13 Wa 'Anā Akhtartuka Fāstami` Limā Yūĥá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And I have chosen you, so listen to what is revealed [to you].",
+            "english_hilali_khan": "\"And I have chosen you. So listen to that which will be revealed (to you).",
+            "english_rwwad": "I have chosen you, so listen to what is being revealed:"
+        }
+    },
+    {
+        "id": 2361,
+        "chapter": 20,
+        "verse": 14,
+        "arabic_text": "إِنَّنِيٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدۡنِي وَأَقِمِ ٱلصَّلَوٰةَ لِذِكۡرِيٓ",
+        "phonetic": "20.14 'Innanī 'Anā Allāhu Lā 'Ilāha 'Illā 'Anā Fā`budnī Wa 'Aqimi Aş-Şalāata Lidhikrī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, I am Allāh. There is no deity except Me, so worship Me and establish prayer for My remembrance.",
+            "english_hilali_khan": "\"Verily! I am Allâh! Lâ ilâha illa Ana (none has the right to be worshipped but I), so worship Me, and perform As-Salât (Iqâmat-as-Salât) for My Remembrance.",
+            "english_rwwad": "‘Indeed, I am Allah; none has the right to be worshiped except Me, so worship Me and establish prayer to remember me."
+        }
+    },
+    {
+        "id": 2362,
+        "chapter": 20,
+        "verse": 15,
+        "arabic_text": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخۡفِيهَا لِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا تَسۡعَىٰ",
+        "phonetic": "20.15 'Inna As-Sā`ata 'Ātiyatun 'Akādu 'Ukhfīhā Litujzá Kullu Nafsin Bimā Tas`á",
+        "footnotes": {
+            "english_saheeh": "[833]- Meaning that Allāh (subḥānahu wa taʿālā) keeps knowledge of the Hour hidden from everyone except Himself.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, the Hour is coming - I almost conceal it[833] - so that every soul may be recompensed according to that for which it strives.",
+            "english_hilali_khan": "\"Verily, the Hour is coming - and I am almost hiding it from Myself - that every person may be rewarded for that which he strives.",
+            "english_rwwad": "The Hour is certainly coming, but I almost keep it hidden, so that every soul will be recompensed for what it strives."
+        }
+    },
+    {
+        "id": 2363,
+        "chapter": 20,
+        "verse": 16,
+        "arabic_text": "فَلَا يَصُدَّنَّكَ عَنۡهَا مَن لَّا يُؤۡمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرۡدَىٰ",
+        "phonetic": "20.16 Falā Yaşuddannaka `Anhā Man Lā Yu'uminu Bihā Wa Attaba`a Hawāhu Fatardá",
+        "footnotes": {
+            "english_saheeh": "[834]- From preparation for the Hour or for the Hereafter.",
+            "english_hilali_khan": "(V.20:16) See the footnote of (V.19:59)",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So do not let one avert you from it[834] who does not believe in it and follows his desire, for you [then] would perish.",
+            "english_hilali_khan": "\"Therefore, let not the one who believes not therein (i.e. in the Day of Resurrection, Reckoning, Paradise and Hell.), but follows his own lusts,[1] divert you therefrom, lest you perish.",
+            "english_rwwad": "So do not let those who disbelieve in it and follow their desires distract you from it, or you will perish.’”"
+        }
+    },
+    {
+        "id": 2364,
+        "chapter": 20,
+        "verse": 17,
+        "arabic_text": "وَمَا تِلۡكَ بِيَمِينِكَ يَٰمُوسَىٰ",
+        "phonetic": "20.17 Wa Mā Tilka Biyamīnika Yā Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And what is that in your right hand, O Moses?\"",
+            "english_hilali_khan": "\"And what is that in your right hand, O Mûsâ (Moses)?\"",
+            "english_rwwad": "What is that in your right hand, O Moses?”"
+        }
+    },
+    {
+        "id": 2365,
+        "chapter": 20,
+        "verse": 18,
+        "arabic_text": "قَالَ هِيَ عَصَايَ أَتَوَكَّؤُاْ عَلَيۡهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِي وَلِيَ فِيهَا مَـَٔارِبُ أُخۡرَىٰ",
+        "phonetic": "20.18 Qāla Hiya `Aşāya 'Atawakka'u `Alayhā Wa 'Ahushu Bihā `Alá Ghanamī Wa Liya Fīhā Ma'āribu 'Ukhrá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"It is my staff; I lean upon it, and I bring down leaves for my sheep and I have therein other uses.\"",
+            "english_hilali_khan": "He said: \"This is my stick, whereon I lean, and wherewith I beat down branches for my sheep, and wherein I find other uses.\"",
+            "english_rwwad": "He said, “It is my staff. I lean on it and beat down leaves with it for my sheep, and I have other uses for it.”"
+        }
+    },
+    {
+        "id": 2366,
+        "chapter": 20,
+        "verse": 19,
+        "arabic_text": "قَالَ أَلۡقِهَا يَٰمُوسَىٰ",
+        "phonetic": "20.19 Qāla 'Alqihā Yā Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Allāh] said, \"Throw it down, O Moses.\"",
+            "english_hilali_khan": "(Allâh) said: \"Cast it down, O Mûsâ (Moses)!\"",
+            "english_rwwad": "Allah said, “Throw it down, O Moses!”"
+        }
+    },
+    {
+        "id": 2367,
+        "chapter": 20,
+        "verse": 20,
+        "arabic_text": "فَأَلۡقَىٰهَا فَإِذَا هِيَ حَيَّةٞ تَسۡعَىٰ",
+        "phonetic": "20.20 Fa'alqāhā Fa'idhā Hiya Ĥayyatun Tas`á",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So he threw it down, and thereupon it was a snake, moving swiftly.",
+            "english_hilali_khan": "He cast it down, and behold! It was a snake, moving quickly.",
+            "english_rwwad": "He threw it down, and it suddenly became a slithering snake."
+        }
+    },
+    {
+        "id": 2368,
+        "chapter": 20,
+        "verse": 21,
+        "arabic_text": "قَالَ خُذۡهَا وَلَا تَخَفۡۖ سَنُعِيدُهَا سِيرَتَهَا ٱلۡأُولَىٰ",
+        "phonetic": "20.21 Qāla Khudh/hā Wa Lā Takhaf Sanu`īduhā Sīratahā Al-'Ūlá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Allāh] said, \"Seize it and fear not; We will return it to its former condition.",
+            "english_hilali_khan": "Allâh said: \"Grasp it and fear not; We shall return it to its former state,",
+            "english_rwwad": "Allah said, “Pick it up, and have no fear. We will restore it to its former state."
+        }
+    },
+    {
+        "id": 2369,
+        "chapter": 20,
+        "verse": 22,
+        "arabic_text": "وَٱضۡمُمۡ يَدَكَ إِلَىٰ جَنَاحِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوٓءٍ ءَايَةً أُخۡرَىٰ",
+        "phonetic": "20.22 Wa Ađmum Yadaka 'Ilá Janāĥika Takhruj Bayđā'a Min Ghayri Sū'in 'Āyatan 'Ukhrá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And draw in your hand to your side; it will come out white without disease - another sign,",
+            "english_hilali_khan": "\"And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign,",
+            "english_rwwad": "Put your hand under your armpit; it will come out shining white without blemish, as another sign,"
+        }
+    },
+    {
+        "id": 2370,
+        "chapter": 20,
+        "verse": 23,
+        "arabic_text": "لِنُرِيَكَ مِنۡ ءَايَٰتِنَا ٱلۡكُبۡرَى",
+        "phonetic": "20.23 Linuriyaka Min 'Āyātinā Al-Kubrá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That We may show you [some] of Our greater signs.",
+            "english_hilali_khan": "\"That We may show you (some) of Our Greater Signs.",
+            "english_rwwad": "so that We may show you some of Our greatest signs."
+        }
+    },
+    {
+        "id": 2371,
+        "chapter": 20,
+        "verse": 24,
+        "arabic_text": "ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
+        "phonetic": "20.24 Adh/hab 'Ilá Fir`awna 'Innahu Ţaghá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Go to Pharaoh. Indeed, he has transgressed [i.e., tyrannized].\"",
+            "english_hilali_khan": "\"Go to Fir‘aun (Pharaoh)! Verily, he has transgressed (all bounds in disbelief and disobedience, and has behaved as an arrogant and as a tyrant).\"",
+            "english_rwwad": "Go to Pharaoh, for he has transgressed all bounds.”"
+        }
+    },
+    {
+        "id": 2372,
+        "chapter": 20,
+        "verse": 25,
+        "arabic_text": "قَالَ رَبِّ ٱشۡرَحۡ لِي صَدۡرِي",
+        "phonetic": "20.25 Qāla Rabbi Ashraĥ Lī Şadrī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Moses] said, \"My Lord, expand [i.e., relax] for me my breast [with assurance]",
+            "english_hilali_khan": "[Mûsâ (Moses)] said: \"O my Lord! Open for me my chest (grant me self-confidence, contentment, and boldness).",
+            "english_rwwad": "He said, “My Lord, reassure my heart for me,"
+        }
+    },
+    {
+        "id": 2373,
+        "chapter": 20,
+        "verse": 26,
+        "arabic_text": "وَيَسِّرۡ لِيٓ أَمۡرِي",
+        "phonetic": "20.26 Wa Yassir Lī 'Amrī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And ease for me my task",
+            "english_hilali_khan": "\"And ease my task for me;",
+            "english_rwwad": "and ease my task for me,"
+        }
+    },
+    {
+        "id": 2374,
+        "chapter": 20,
+        "verse": 27,
+        "arabic_text": "وَٱحۡلُلۡ عُقۡدَةٗ مِّن لِّسَانِي",
+        "phonetic": "20.27 Wa Aĥlul `Uqdatan Min Lisānī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And untie the knot from my tongue",
+            "english_hilali_khan": "\"And loose the knot (the defect) from my tongue, (i.e. remove the incorrectness from my speech) [That occurred as a result of a brand of fire which Mûsâ (Moses) put in his mouth when he was an infant]. (Tafsir At-Tabarî).",
+            "english_rwwad": "and loosen the knot from my tongue,"
+        }
+    },
+    {
+        "id": 2375,
+        "chapter": 20,
+        "verse": 28,
+        "arabic_text": "يَفۡقَهُواْ قَوۡلِي",
+        "phonetic": "20.28 Yafqahū Qawlī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That they may understand my speech.",
+            "english_hilali_khan": "\"That they understand my speech.",
+            "english_rwwad": "so that they may understand my speech."
+        }
+    },
+    {
+        "id": 2376,
+        "chapter": 20,
+        "verse": 29,
+        "arabic_text": "وَٱجۡعَل لِّي وَزِيرٗا مِّنۡ أَهۡلِي",
+        "phonetic": "20.29 Wa Aj`al Lī Wazīrāan Min 'Ahlī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And appoint for me a minister [i.e., assistant] from my family -",
+            "english_hilali_khan": "\"And appoint for me a helper from my family,",
+            "english_rwwad": "And appoint for me a helper from my family,"
+        }
+    },
+    {
+        "id": 2377,
+        "chapter": 20,
+        "verse": 30,
+        "arabic_text": "هَٰرُونَ أَخِي",
+        "phonetic": "20.30 Hārūna 'Akhī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Aaron, my brother.",
+            "english_hilali_khan": "\"Hârûn (Aaron), my brother.",
+            "english_rwwad": "Aaron, my brother."
+        }
+    },
+    {
+        "id": 2378,
+        "chapter": 20,
+        "verse": 31,
+        "arabic_text": "ٱشۡدُدۡ بِهِۦٓ أَزۡرِي",
+        "phonetic": "20.31 Ashdud Bihi 'Azrī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Increase through him my strength",
+            "english_hilali_khan": "\"Increase my strength with him,",
+            "english_rwwad": "Increase my strength through him,"
+        }
+    },
+    {
+        "id": 2379,
+        "chapter": 20,
+        "verse": 32,
+        "arabic_text": "وَأَشۡرِكۡهُ فِيٓ أَمۡرِي",
+        "phonetic": "20.32 Wa 'Ashrik/hu Fī 'Amrī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And let him share my task",
+            "english_hilali_khan": "\"And let him share my task (of conveying Allâh’s Message and Prophethood),",
+            "english_rwwad": "and let him share my task,"
+        }
+    },
+    {
+        "id": 2380,
+        "chapter": 20,
+        "verse": 33,
+        "arabic_text": "كَيۡ نُسَبِّحَكَ كَثِيرٗا",
+        "phonetic": "20.33 Kay Nusabbiĥaka Kathīrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That we may exalt You much",
+            "english_hilali_khan": "\"That we may glorify You much,",
+            "english_rwwad": "so that we may glorify You much,"
+        }
+    },
+    {
+        "id": 2381,
+        "chapter": 20,
+        "verse": 34,
+        "arabic_text": "وَنَذۡكُرَكَ كَثِيرًا",
+        "phonetic": "20.34 Wa Nadhkuraka Kathīrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And remember You much.",
+            "english_hilali_khan": "\"And remember You much,",
+            "english_rwwad": "and remember You much."
+        }
+    },
+    {
+        "id": 2382,
+        "chapter": 20,
+        "verse": 35,
+        "arabic_text": "إِنَّكَ كُنتَ بِنَا بَصِيرٗا",
+        "phonetic": "20.35 'Innaka Kunta Binā Başīrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, You are of us ever Seeing.\"",
+            "english_hilali_khan": "\"Verily You are Ever a Well-Seer of us.\"",
+            "english_rwwad": "For indeed You are All-Watchful over us.”"
+        }
+    },
+    {
+        "id": 2383,
+        "chapter": 20,
+        "verse": 36,
+        "arabic_text": "قَالَ قَدۡ أُوتِيتَ سُؤۡلَكَ يَٰمُوسَىٰ",
+        "phonetic": "20.36 Qāla Qad 'Ūtīta Su'ulaka Yā Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Allāh] said, \"You have been granted your request, O Moses.",
+            "english_hilali_khan": "(Allâh) said: \"You are granted your request, O Mûsâ (Moses)!",
+            "english_rwwad": "Allah said, “You are granted your request, O Moses."
+        }
+    },
+    {
+        "id": 2384,
+        "chapter": 20,
+        "verse": 37,
+        "arabic_text": "وَلَقَدۡ مَنَنَّا عَلَيۡكَ مَرَّةً أُخۡرَىٰٓ",
+        "phonetic": "20.37 Wa Laqad Manannā `Alayka Marratan 'Ukhrá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We had already conferred favor upon you another time,",
+            "english_hilali_khan": "\"And indeed We conferred a favour on you another time (before).",
+            "english_rwwad": "And We had already conferred favor upon you before,"
+        }
+    },
+    {
+        "id": 2385,
+        "chapter": 20,
+        "verse": 38,
+        "arabic_text": "إِذۡ أَوۡحَيۡنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ",
+        "phonetic": "20.38 'Idh 'Awĥaynā 'Ilá 'Ummika Mā Yūĥá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When We inspired to your mother what We inspired,",
+            "english_hilali_khan": "\"When We inspired your mother with that which We inspired.",
+            "english_rwwad": "when We inspired your mother, saying,"
+        }
+    },
+    {
+        "id": 2386,
+        "chapter": 20,
+        "verse": 39,
+        "arabic_text": "أَنِ ٱقۡذِفِيهِ فِي ٱلتَّابُوتِ فَٱقۡذِفِيهِ فِي ٱلۡيَمِّ فَلۡيُلۡقِهِ ٱلۡيَمُّ بِٱلسَّاحِلِ يَأۡخُذۡهُ عَدُوّٞ لِّي وَعَدُوّٞ لَّهُۥۚ وَأَلۡقَيۡتُ عَلَيۡكَ مَحَبَّةٗ مِّنِّي وَلِتُصۡنَعَ عَلَىٰ عَيۡنِيٓ",
+        "phonetic": "20.39 'Ani Aqdhifīhi Fī At-Tābūti Fāqdhifīhi Fī Al-Yammi Falyulqihi Al-Yammu Bis-Sāĥili Ya'khudh/hu `Adūwun Lī Wa`adūwun Lahu Wa 'Alqaytu `Alayka Maĥabbatan Minnī Wa Lituşna`a `Alá `Ayni",
+        "footnotes": {
+            "english_saheeh": "[835]- Allāh put love of Moses into the hearts of the people.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Saying], 'Cast him into the chest and cast it into the river, and the river will throw it onto the bank; there will take him an enemy to Me and an enemy to him.' And I bestowed upon you love from Me[835] that you would be brought up under My eye [i.e., observation and care].",
+            "english_hilali_khan": "\"Saying: ‘Put him (the child) into the Tabût (a box or a case or a chest) and put it into the river (Nile); then the river shall cast it up on the bank, and there, an enemy of Mine and an enemy of his shall take him.’ And I endued you with love from Me, in order that you may be brought up under My Eye.",
+            "english_rwwad": "‘Put him into the casket, then cast it into the river. The river will carry it to the shore, and he will be picked up by one who is an enemy to Me and enemy to him.’ I bestowed upon you love from Myself so that you would be brought up under My [watchful] Eye."
+        }
+    },
+    {
+        "id": 2387,
+        "chapter": 20,
+        "verse": 40,
+        "arabic_text": "إِذۡ تَمۡشِيٓ أُخۡتُكَ فَتَقُولُ هَلۡ أَدُلُّكُمۡ عَلَىٰ مَن يَكۡفُلُهُۥۖ فَرَجَعۡنَٰكَ إِلَىٰٓ أُمِّكَ كَيۡ تَقَرَّ عَيۡنُهَا وَلَا تَحۡزَنَۚ وَقَتَلۡتَ نَفۡسٗا فَنَجَّيۡنَٰكَ مِنَ ٱلۡغَمِّ وَفَتَنَّٰكَ فُتُونٗاۚ فَلَبِثۡتَ سِنِينَ فِيٓ أَهۡلِ مَدۡيَنَ ثُمَّ جِئۡتَ عَلَىٰ قَدَرٖ يَٰمُوسَىٰ",
+        "phonetic": "20.40 'Idh Tamshī 'Ukhtuka Fataqūlu Hal 'Adullukum `Alá Man Yakfuluhu Faraja`nāka 'Ilá 'Ummika Kay Taqarra `Aynuhā Wa Lā Taĥzana Wa Qatalta Nafsāan Fanajjaynāka Mina Al-Ghammi Wa Fatannāka Futūnāan Falabithta Sinīna Fī 'Ahli Madyana Thumma Ji'ta `Alá Qadarin Yā Mūsá",
+        "footnotes": {
+            "english_saheeh": "[836]- The Copt who died after being struck by Moses.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[And We favored you] when your sister went and said, 'Shall I direct you to someone who will be responsible for him?' So We restored you to your mother that she might be content and not grieve. And you killed someone,[836] but We saved you from retaliation and tried you with a [severe] trial. And you remained [some] years among the people of Madyan. Then you came [here] at the decreed time, O Moses.",
+            "english_hilali_khan": "\"When your sister went and said: ‘Shall I show you one who will nurse him?’ So We restored you to your mother, that she might cool her eyes and she should not grieve. Then you did kill a man, but We saved you from great distress and tried you with a heavy trial. Then you stayed a number of years with the people of Madyan (Midian). Then you came here according to the fixed term which I ordained (for you), O Mûsâ (Moses)!",
+            "english_rwwad": "When your sister was going along and said, ‘Shall I show you someone who will nurse him?’ Thus We brought you back to your mother, so that she may rejoice and not grieve. Then you killed a man [by mistake], but We saved you from distress, and We put you through several trials. You stayed among the people of Midian for several years, then you came [here] at a destined time, O Moses."
+        }
+    },
+    {
+        "id": 2388,
+        "chapter": 20,
+        "verse": 41,
+        "arabic_text": "وَٱصۡطَنَعۡتُكَ لِنَفۡسِي",
+        "phonetic": "20.41 Wa Aşţana`tuka Linafsī",
+        "footnotes": {
+            "english_saheeh": "[837]- Allāh had already selected Moses and made him strong in body and character according to the requirements of his mission.",
+            "english_hilali_khan": "(V.20:41) i.e. chosen you for My Revelation and My Message or created you for Myself or strengthened and taught you as to how to preach My Message to My worshippers. (Tafsîr Al-Qurtubî)",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And I produced you for Myself.[837]",
+            "english_hilali_khan": "\"And I have chosen you,[1] for Myself.",
+            "english_rwwad": "I have chosen you for Myself."
+        }
+    },
+    {
+        "id": 2389,
+        "chapter": 20,
+        "verse": 42,
+        "arabic_text": "ٱذۡهَبۡ أَنتَ وَأَخُوكَ بِـَٔايَٰتِي وَلَا تَنِيَا فِي ذِكۡرِي",
+        "phonetic": "20.42 Adh/hab 'Anta Wa 'Akhūka Bi'āyātī Wa Lā Taniyā Fī Dhikrī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Go, you and your brother, with My signs and do not slacken in My remembrance.",
+            "english_hilali_khan": "\"Go you and your brother with My Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.), and do not, you both, slacken and become weak in My Remembrance.",
+            "english_rwwad": "Go forth, you and your brother, with My signs and do not slacken in remembering Me."
+        }
+    },
+    {
+        "id": 2390,
+        "chapter": 20,
+        "verse": 43,
+        "arabic_text": "ٱذۡهَبَآ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
+        "phonetic": "20.43 Adh/habā 'Ilá Fir`awna 'Innahu Ţaghá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Go, both of you, to Pharaoh. Indeed, he has transgressed.",
+            "english_hilali_khan": "\"Go, both of you, to Fir‘aun (Pharaoh), verily, he has transgressed (all bounds in disbelief and disobedience and behaved as an arrogant and as a tyrant).",
+            "english_rwwad": "Go, both of you, to Pharaoh, for he has certainly transgressed all bounds."
+        }
+    },
+    {
+        "id": 2391,
+        "chapter": 20,
+        "verse": 44,
+        "arabic_text": "فَقُولَا لَهُۥ قَوۡلٗا لَّيِّنٗا لَّعَلَّهُۥ يَتَذَكَّرُ أَوۡ يَخۡشَىٰ",
+        "phonetic": "20.44 Faqūlā Lahu Qawlāan Layyināan La`allahu Yatadhakkaru 'Aw Yakhshá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And speak to him with gentle speech that perhaps he may be reminded or fear [Allāh].\"",
+            "english_hilali_khan": "\"And speak to him mildly, perhaps he may accept admonition or fear (Allâh).\"",
+            "english_rwwad": "But speak to him gently, so that he may take heed or fear Allah.”"
+        }
+    },
+    {
+        "id": 2392,
+        "chapter": 20,
+        "verse": 45,
+        "arabic_text": "قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفۡرُطَ عَلَيۡنَآ أَوۡ أَن يَطۡغَىٰ",
+        "phonetic": "20.45 Qālā Rabbanā 'Innanā Nakhāfu 'An Yafruţa `Alaynā 'Aw 'An Yaţghá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.\"",
+            "english_hilali_khan": "They said: \"Our Lord! Verily we fear lest he should hasten to punish us or lest he should transgress (all bounds against us).\"",
+            "english_rwwad": "They said, “Our Lord, we fear that he may hasten to punish us or transgress all bounds.”"
+        }
+    },
+    {
+        "id": 2393,
+        "chapter": 20,
+        "verse": 46,
+        "arabic_text": "قَالَ لَا تَخَافَآۖ إِنَّنِي مَعَكُمَآ أَسۡمَعُ وَأَرَىٰ",
+        "phonetic": "20.46 Qāla Lā Takhāfā 'Innanī Ma`akumā 'Asma`u Wa 'Ará",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Allāh] said, \"Fear not. Indeed, I am with you both; I hear and I see.",
+            "english_hilali_khan": "He (Allâh) said: \"Fear not, verily I am with you both, hearing and seeing.",
+            "english_rwwad": "He said, “Do not be afraid; I am with you both, hearing and seeing."
+        }
+    },
+    {
+        "id": 2394,
+        "chapter": 20,
+        "verse": 47,
+        "arabic_text": "فَأۡتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرۡسِلۡ مَعَنَا بَنِيٓ إِسۡرَٰٓءِيلَ وَلَا تُعَذِّبۡهُمۡۖ قَدۡ جِئۡنَٰكَ بِـَٔايَةٖ مِّن رَّبِّكَۖ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلۡهُدَىٰٓ",
+        "phonetic": "20.47 Fa'tiyāhu Faqūlā 'Innā Rasūlā Rabbika Fa'arsil Ma`anā Banī 'Isrā'īla Wa Lā Tu`adhibhum Qad Ji'nāka Bi'āyatin Min Rabbika Wa As-Salāmu `Alá Mani Attaba`a Al-Hudá",
+        "footnotes": {
+            "english_saheeh": "[838]- i.e., safety and security from Allāh's punishment.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So go to him and say, 'Indeed, we are messengers of your Lord, so send with us the Children of Israel and do not torment them. We have come to you with a sign from your Lord. And peace[838] will be upon he who follows the guidance.",
+            "english_hilali_khan": "\"So go you both to him, and say: ‘Verily, we are Messengers of your Lord, so let the Children of Israel go with us, and torment them not; indeed, we have come with a sign from your Lord! And peace will be upon him who follows the guidance!",
+            "english_rwwad": "So go to him and say, ‘We are both messengers from your Lord, so let the Children of Israel go with us and do not oppress them. We have come to you with a sign from your Lord; and peace be upon he who follows the true guidance."
+        }
+    },
+    {
+        "id": 2395,
+        "chapter": 20,
+        "verse": 48,
+        "arabic_text": "إِنَّا قَدۡ أُوحِيَ إِلَيۡنَآ أَنَّ ٱلۡعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ",
+        "phonetic": "20.48 'Innā Qad 'Ūĥiya 'Ilaynā 'Anna Al-`Adhāba `Alá Man Kadhaba Wa Tawallá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, it has been revealed to us that the punishment will be upon whoever denies and turns away.'\"",
+            "english_hilali_khan": "\"Truly, it has been revealed to us that the torment will be for him who denies [believes not in the Oneness of Allâh, and in His Messengers.], and turns away (from the truth and obedience of Allâh).\"",
+            "english_rwwad": "It has been revealed to us that the punishment awaits those who reject [the truth] and turn away.’”"
+        }
+    },
+    {
+        "id": 2396,
+        "chapter": 20,
+        "verse": 49,
+        "arabic_text": "قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ",
+        "phonetic": "20.49 Qāla Faman Rabbukumā Yā Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Pharaoh] said, \"So who is the Lord of you two, O Moses?\"",
+            "english_hilali_khan": "Fir‘aun (Pharaoh) said: \"Who then, O Mûsâ (Moses), is the Lord of you two?\"",
+            "english_rwwad": "Pharaoh said, “So who is the Lord of you two, O Moses?”"
+        }
+    },
+    {
+        "id": 2397,
+        "chapter": 20,
+        "verse": 50,
+        "arabic_text": "قَالَ رَبُّنَا ٱلَّذِيٓ أَعۡطَىٰ كُلَّ شَيۡءٍ خَلۡقَهُۥ ثُمَّ هَدَىٰ",
+        "phonetic": "20.50 Qāla Rabbunā Al-Ladhī 'A`ţá Kulla Shay'in Khalqahu Thumma Hadá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"Our Lord is He who gave each thing its form and then guided [it].\"",
+            "english_hilali_khan": "[Mûsâ (Moses)] said: \"Our Lord is He Who gave to each thing its form and nature, then guided it aright.\"",
+            "english_rwwad": "He said, “Our Lord is the One Who gave everything its form then guided it.”"
+        }
+    },
+    {
+        "id": 2398,
+        "chapter": 20,
+        "verse": 51,
+        "arabic_text": "قَالَ فَمَا بَالُ ٱلۡقُرُونِ ٱلۡأُولَىٰ",
+        "phonetic": "20.51 Qāla Famā Bālu Al-Qurūni Al-'Ūlá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Pharaoh] said, \"Then what is the case of the former generations?\"",
+            "english_hilali_khan": "[Fir‘aun (Pharaoh)] said: \"What about the generations of old?\"",
+            "english_rwwad": "Pharaoh said, “Then what about the former [disbelieving] nations?”"
+        }
+    },
+    {
+        "id": 2399,
+        "chapter": 20,
+        "verse": 52,
+        "arabic_text": "قَالَ عِلۡمُهَا عِندَ رَبِّي فِي كِتَٰبٖۖ لَّا يَضِلُّ رَبِّي وَلَا يَنسَى",
+        "phonetic": "20.52 Qāla `Ilmuhā `Inda Rabbī Fī Kitābin Lā Yađillu Rabbī Wa Lā Yansá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Moses] said, \"The knowledge thereof is with my Lord in a record. My Lord neither errs nor forgets.\"",
+            "english_hilali_khan": "[Mûsâ (Moses)] said: \"The knowledge thereof is with my Lord, in a Record. My Lord neither errs nor He forgets.\"",
+            "english_rwwad": "He said, “Its knowledge is with my Lord in a Record. My Lord never errs, nor does He forget.”"
+        }
+    },
+    {
+        "id": 2400,
+        "chapter": 20,
+        "verse": 53,
+        "arabic_text": "ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدٗا وَسَلَكَ لَكُمۡ فِيهَا سُبُلٗا وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّن نَّبَاتٖ شَتَّىٰ",
+        "phonetic": "20.53 Al-Ladhī Ja`ala Lakumu Al-'Arđa Mahdāan Wa Salaka Lakum Fīhā Subulāan Wa 'Anzala Mina As-Samā'i Mā'an Fa'akhrajnā Bihi 'Azwājāan Min Nabātin Shattá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[It is He] who has made for you the earth as a bed [spread out] and inserted therein for you roadways and sent down from the sky, rain and produced thereby categories of various plants.",
+            "english_hilali_khan": "Who has made earth for you like a bed (spread out); and has opened roads (ways and paths) for you therein, and has sent down water (rain) from the sky. And We have brought forth with it various kinds of vegetation.",
+            "english_rwwad": "It is He Who spread out the earth for you and made therein pathways for you, and sent down rain from the sky; and We brought forth thereby various types of plants."
+        }
+    },
+    {
+        "id": 2401,
+        "chapter": 20,
+        "verse": 54,
+        "arabic_text": "كُلُواْ وَٱرۡعَوۡاْ أَنۡعَٰمَكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي ٱلنُّهَىٰ",
+        "phonetic": "20.54 Kulū Wa Ar`aw 'An`āmakum 'Inna Fī Dhālika La'āyātin Li'wlī An-Nuhá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Eat [therefrom] and pasture your livestock. Indeed in that are signs for those of intelligence.",
+            "english_hilali_khan": "Eat and pasture your cattle (therein); verily, in this are Ayât (proofs and signs) for men of understanding.",
+            "english_rwwad": "Eat and graze your livestock. Indeed, there are signs in this for people of sound intellect."
+        }
+    },
+    {
+        "id": 2402,
+        "chapter": 20,
+        "verse": 55,
+        "arabic_text": "۞ مِنۡهَا خَلَقۡنَٰكُمۡ وَفِيهَا نُعِيدُكُمۡ وَمِنۡهَا نُخۡرِجُكُمۡ تَارَةً أُخۡرَىٰ",
+        "phonetic": "20.55 Minhā Khalaqnākum Wa Fīhā Nu`īdukum Wa Minhā Nukhrijukum Tāratan 'Ukhrá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "From it [i.e., the earth] We created you, and into it We will return you, and from it We will extract you another time.",
+            "english_hilali_khan": "Thereof (the earth) We created you, and into it We shall return you, and from it We shall bring you out once again.",
+            "english_rwwad": "From this [earth] We created you, and to it We will return you, and from it We will raise you once again."
+        }
+    },
+    {
+        "id": 2403,
+        "chapter": 20,
+        "verse": 56,
+        "arabic_text": "وَلَقَدۡ أَرَيۡنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
+        "phonetic": "20.56 Wa Laqad 'Araynāhu 'Āyātinā Kullahā Fakadhaba Wa 'Abá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We certainly showed him [i.e., Pharaoh] Our signs - all of them - but he denied and refused.",
+            "english_hilali_khan": "And indeed We showed him [Fir‘aun (Pharaoh)] all Our Ayât (signs and evidence), but he denied and refused.",
+            "english_rwwad": "We showed Pharaoh all Our signs, but he rejected them and refused to believe."
+        }
+    },
+    {
+        "id": 2404,
+        "chapter": 20,
+        "verse": 57,
+        "arabic_text": "قَالَ أَجِئۡتَنَا لِتُخۡرِجَنَا مِنۡ أَرۡضِنَا بِسِحۡرِكَ يَٰمُوسَىٰ",
+        "phonetic": "20.57 Qāla 'Aji'tanā Litukhrijanā Min 'Arđinā Bisiĥrika Yā Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"Have you come to us to drive us out of our land with your magic, O Moses?",
+            "english_hilali_khan": "He [Fir‘aun (Pharaoh)] said: \"Have you come to drive us out of our land with your magic, O Mûsâ (Moses)?",
+            "english_rwwad": "He said, “Have you come to drive us out of our land with your magic, O Moses?"
+        }
+    },
+    {
+        "id": 2405,
+        "chapter": 20,
+        "verse": 58,
+        "arabic_text": "فَلَنَأۡتِيَنَّكَ بِسِحۡرٖ مِّثۡلِهِۦ فَٱجۡعَلۡ بَيۡنَنَا وَبَيۡنَكَ مَوۡعِدٗا لَّا نُخۡلِفُهُۥ نَحۡنُ وَلَآ أَنتَ مَكَانٗا سُوٗى",
+        "phonetic": "20.58 Falana'tiyannaka Bisiĥrin Mithlihi Fāj`al Baynanā Wa Baynaka Maw`idāan Lā Nukhlifuhu Naĥnu Wa Lā 'Anta Makānāan Sūáan",
+        "footnotes": {
+            "english_saheeh": "[839]- Literally, \"marked,\" as to be known.  Another meaning is \"a place midway [between us]\" or \"a level place.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then we will surely bring you magic like it, so make between us and you an appointment, which we will not fail to keep and neither will you, in a place assigned.\"[839]",
+            "english_hilali_khan": "\"Then verily, we can produce magic the like thereof; so appoint a meeting between us and you, which neither we nor you shall fail to keep, in an open place where both shall have a just and equal chance (and beholders could witness the competition).\"",
+            "english_rwwad": "We will surely bring you similar magic. So appoint a day between us that neither you nor we will fail to keep, in a convenient place.”"
+        }
+    },
+    {
+        "id": 2406,
+        "chapter": 20,
+        "verse": 59,
+        "arabic_text": "قَالَ مَوۡعِدُكُمۡ يَوۡمُ ٱلزِّينَةِ وَأَن يُحۡشَرَ ٱلنَّاسُ ضُحٗى",
+        "phonetic": "20.59 Qāla Maw`idukum Yawmu Az-Zīnati Wa 'An Yuĥshara An-Nāsu Đuĥáan",
+        "footnotes": {
+            "english_saheeh": "[840]- So that the signs of Allāh would be seen clearly.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Moses] said, \"Your appointment is on the day of the festival when the people assemble at mid-morning.\"[840]",
+            "english_hilali_khan": "[Mûsâ (Moses)] said: \"Your appointed meeting is the day of the festival, and let the people assemble when the sun has risen (forenoon).\"",
+            "english_rwwad": "Moses said, “Your appointment is the festival day; let the people be gathered at forenoon.”"
+        }
+    },
+    {
+        "id": 2407,
+        "chapter": 20,
+        "verse": 60,
+        "arabic_text": "فَتَوَلَّىٰ فِرۡعَوۡنُ فَجَمَعَ كَيۡدَهُۥ ثُمَّ أَتَىٰ",
+        "phonetic": "20.60 Fatawallá Fir`awnu Fajama`a Kaydahu Thumma 'Atá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So Pharaoh went away, put together his plan, and then came [to Moses].",
+            "english_hilali_khan": "So Fir‘aun (Pharaoh) withdrew, devised his plot and then came back.",
+            "english_rwwad": "So Pharaoh went away and put together his scheme, then came forth."
+        }
+    },
+    {
+        "id": 2408,
+        "chapter": 20,
+        "verse": 61,
+        "arabic_text": "قَالَ لَهُم مُّوسَىٰ وَيۡلَكُمۡ لَا تَفۡتَرُواْ عَلَى ٱللَّهِ كَذِبٗا فَيُسۡحِتَكُم بِعَذَابٖۖ وَقَدۡ خَابَ مَنِ ٱفۡتَرَىٰ",
+        "phonetic": "20.61 Qāla Lahum Mūsá Waylakum Lā Taftarū `Alá Allāhi Kadhibāan Fayusĥitakum Bi`adhābin Wa Qad Khāba Mani Aftará",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Moses said to them [i.e., the magicians summoned by Pharaoh], \"Woe to you! Do not invent a lie against Allāh or He will exterminate you with a punishment; and he has failed who invents [such falsehood].\"",
+            "english_hilali_khan": "Mûsâ (Moses) said to them: \"Woe unto you! Invent not a lie against Allâh, lest He should destroy you completely by a torment. And surely, he who invents a lie (against Allâh) will fail miserably.\"",
+            "english_rwwad": "Moses said to them, “Woe to you, do not fabricate lies against Allah, lest He exterminate you with a punishment. Those who fabricate lies are bound to fail.”"
+        }
+    },
+    {
+        "id": 2409,
+        "chapter": 20,
+        "verse": 62,
+        "arabic_text": "فَتَنَٰزَعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡ وَأَسَرُّواْ ٱلنَّجۡوَىٰ",
+        "phonetic": "20.62 Fatanāza`ū 'Amrahum Baynahum Wa 'Asarrū An-Najwá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So they disputed over their affair among themselves and concealed their private conversation.",
+            "english_hilali_khan": "Then they debated one with another what they must do, and they kept their talk secret.",
+            "english_rwwad": "Then they disputed the matter among themselves, and kept their talk private."
+        }
+    },
+    {
+        "id": 2410,
+        "chapter": 20,
+        "verse": 63,
+        "arabic_text": "قَالُوٓاْ إِنۡ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخۡرِجَاكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِمَا وَيَذۡهَبَا بِطَرِيقَتِكُمُ ٱلۡمُثۡلَىٰ",
+        "phonetic": "20.63 Qālū 'In Hadhāni Lasāĥirāni Yurīdāni 'An Yukhrijākum Min 'Arđikum Bisiĥrihimā Wa Yadh/habā Biţarīqatikumu Al-Muthlá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"Indeed, these are two magicians who want to drive you out of your land with their magic and do away with your most exemplary way [i.e., religion or tradition].",
+            "english_hilali_khan": "They said: \"Verily these are two magicians. Their object is to drive you out from your land with magic, and overcome your chiefs and nobles.",
+            "english_rwwad": "They said, “These two are merely magicians who want to drive you out of your land with their magic and destroy your exemplary way of life."
+        }
+    },
+    {
+        "id": 2411,
+        "chapter": 20,
+        "verse": 64,
+        "arabic_text": "فَأَجۡمِعُواْ كَيۡدَكُمۡ ثُمَّ ٱئۡتُواْ صَفّٗاۚ وَقَدۡ أَفۡلَحَ ٱلۡيَوۡمَ مَنِ ٱسۡتَعۡلَىٰ",
+        "phonetic": "20.64 Fa'ajmi`ū Kaydakum Thumma A'tū Şaffāan Wa Qad 'Aflaĥa Al-Yawma Mani Asta`lá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So resolve upon your plan and then come [forward] in line. And he has succeeded today who overcomes.\"",
+            "english_hilali_khan": "\"So devise your plot, and then assemble in line. And whoever overcomes this day will be indeed successful.\"",
+            "english_rwwad": "So gather your scheme, then line up in a row. Whoever prevails today is indeed the victor.”"
+        }
+    },
+    {
+        "id": 2412,
+        "chapter": 20,
+        "verse": 65,
+        "arabic_text": "قَالُواْ يَٰمُوسَىٰٓ إِمَّآ أَن تُلۡقِيَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ مَنۡ أَلۡقَىٰ",
+        "phonetic": "20.65 Qālū Yā Mūsá 'Immā 'An Tulqiya Wa 'Immā 'An Nakūna 'Awwala Man 'Alqá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"O Moses, either you throw or we will be the first to throw.\"",
+            "english_hilali_khan": "They said: \"O Mûsâ (Moses)! Either you throw first or we be the first to throw?\"",
+            "english_rwwad": "They said, “O Moses, either you throw or shall we be the first to throw!”"
+        }
+    },
+    {
+        "id": 2413,
+        "chapter": 20,
+        "verse": 66,
+        "arabic_text": "قَالَ بَلۡ أَلۡقُواْۖ فَإِذَا حِبَالُهُمۡ وَعِصِيُّهُمۡ يُخَيَّلُ إِلَيۡهِ مِن سِحۡرِهِمۡ أَنَّهَا تَسۡعَىٰ",
+        "phonetic": "20.66 Qāla Bal 'Alqū Fa'idhā Ĥibāluhum Wa `Işīyuhum Yukhayyalu 'Ilayhi Min Siĥrihim 'Annahā Tas`á",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"Rather, you throw.\" And suddenly their ropes and staffs seemed to him from their magic that they were moving [like snakes].",
+            "english_hilali_khan": "[Mûsâ (Moses)] said: \"Nay, throw you (first)!\" Then behold! their ropes and their sticks, by their magic, appeared to him as though they moved fast.",
+            "english_rwwad": "He said, “No; you throw first.” Suddenly their ropes and staffs appeared to him, owing to their magic, as if they were slithering."
+        }
+    },
+    {
+        "id": 2414,
+        "chapter": 20,
+        "verse": 67,
+        "arabic_text": "فَأَوۡجَسَ فِي نَفۡسِهِۦ خِيفَةٗ مُّوسَىٰ",
+        "phonetic": "20.67 Fa'awjasa Fī Nafsihi Khīfatan Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he sensed within himself apprehension, did Moses.",
+            "english_hilali_khan": "So Mûsâ (Moses) conceived fear in himself.",
+            "english_rwwad": "Then Moses sensed fear within himself."
+        }
+    },
+    {
+        "id": 2415,
+        "chapter": 20,
+        "verse": 68,
+        "arabic_text": "قُلۡنَا لَا تَخَفۡ إِنَّكَ أَنتَ ٱلۡأَعۡلَىٰ",
+        "phonetic": "20.68 Qulnā Lā Takhaf 'Innaka 'Anta Al-'A`lá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "We [i.e., Allāh] said, \"Fear not. Indeed, it is you who are superior.",
+            "english_hilali_khan": "We (Allâh) said: \"Fear not! Surely, you will have the upper hand.",
+            "english_rwwad": "We said, “Do not be afraid; it is you who will prevail."
+        }
+    },
+    {
+        "id": 2416,
+        "chapter": 20,
+        "verse": 69,
+        "arabic_text": "وَأَلۡقِ مَا فِي يَمِينِكَ تَلۡقَفۡ مَا صَنَعُوٓاْۖ إِنَّمَا صَنَعُواْ كَيۡدُ سَٰحِرٖۖ وَلَا يُفۡلِحُ ٱلسَّاحِرُ حَيۡثُ أَتَىٰ",
+        "phonetic": "20.69 Wa 'Alqi Mā Fī Yamīnika Talqaf Mā Şana`ū 'Innamā Şana`ū Kaydu Sāĥirin Wa Lā Yufliĥu As-Sāĥiru Ĥaythu 'Atá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is.\"",
+            "english_hilali_khan": "\"And throw that which is in your right hand! It will swallow up that which they have made. That which they have made is only a magician’s trick, and the magician will never be successful, to whatever amount (of skill) he may attain.\"",
+            "english_rwwad": "Throw what is in your right hand; it will swallow up what they have contrived. They have only contrived a magic trick, and the magician will never prosper, wherever he goes.”"
+        }
+    },
+    {
+        "id": 2417,
+        "chapter": 20,
+        "verse": 70,
+        "arabic_text": "فَأُلۡقِيَ ٱلسَّحَرَةُ سُجَّدٗا قَالُوٓاْ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ",
+        "phonetic": "20.70 Fa'ulqiya As-Saĥaratu Sujjadāan Qālū 'Āmannā Birabbi Hārūna Wa Mūsá",
+        "footnotes": {
+            "english_saheeh": "[841]- After they had seen the miracles which Allāh had given Moses and that they were realities and not merely impressions of magic.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So the magicians fell down in prostration.[841] They said, \"We have believed in the Lord of Aaron and Moses.\"",
+            "english_hilali_khan": "So the magicians fell down prostrate. They said: \"We believe in the Lord of Hârûn (Aaron) and Mûsâ (Moses).\"",
+            "english_rwwad": "So the magicians fell down in prostration, saying, “We believe in the Lord of Aaron and Moses.”"
+        }
+    },
+    {
+        "id": 2418,
+        "chapter": 20,
+        "verse": 71,
+        "arabic_text": "قَالَ ءَامَنتُمۡ لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِي عَلَّمَكُمُ ٱلسِّحۡرَۖ فَلَأُقَطِّعَنَّ أَيۡدِيَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَٰفٖ وَلَأُصَلِّبَنَّكُمۡ فِي جُذُوعِ ٱلنَّخۡلِ وَلَتَعۡلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابٗا وَأَبۡقَىٰ",
+        "phonetic": "20.71 Qāla 'Āmantum Lahu Qabla 'An 'Ādhana Lakum 'Innahu Lakabīrukumu Al-Ladhī `Allamakumu As-Siĥra Fala'uqaţţi`anna 'Aydiyakum Wa 'Arjulakum Min Khilāfin Wa La'uşallibannakum Fī Judhū`i An-Nakhli Wa Lata`lamunna 'Ayyunā 'Ashaddu `Adhābāan Wa 'Abqá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Pharaoh] said, \"You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring.\"",
+            "english_hilali_khan": "[Fir‘aun (Pharaoh)] said: \"Believe you in him [Mûsâ (Moses)] before I give you permission? Verily he is your chief who has taught you magic. So I will surely cut off your hands and feet on opposite sides, and I will surely crucify you on the trunks of date-palms, and you shall surely know which of us [I (Fir‘aun - Pharaoh) or the Lord of Mûsâ (Moses) (Allâh)] can give the severe and more lasting torment.\"",
+            "english_rwwad": "Pharaoh said, “How dare you believe in him before I give you permission! He must be your master who taught you magic! I will surely cut off your hands and feet on opposite sides, and I will crucify you on the trunks of palm trees; you will surely know whose punishment is more severe and more lasting!”"
+        }
+    },
+    {
+        "id": 2419,
+        "chapter": 20,
+        "verse": 72,
+        "arabic_text": "قَالُواْ لَن نُّؤۡثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلۡبَيِّنَٰتِ وَٱلَّذِي فَطَرَنَاۖ فَٱقۡضِ مَآ أَنتَ قَاضٍۖ إِنَّمَا تَقۡضِي هَٰذِهِ ٱلۡحَيَوٰةَ ٱلدُّنۡيَآ",
+        "phonetic": "20.72 Qālū Lan Nu'uthiraka `Alá Mā Jā'anā Mina Al-Bayyināti Wa Al-Ladhī Faţaranā Fāqđi Mā 'Anta Qāđin 'Innamā Taqđī Hadhihi Al-Ĥayāata Ad-Dunyā",
+        "footnotes": {
+            "english_saheeh": "[842]- This phrase has also been interpreted as an oath, i.e., \"...by Him who created us.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"Never will we prefer you over what has come to us of clear proofs and [over] He who created us.[842] So decree whatever you are to decree. You can only decree for this worldly life.",
+            "english_hilali_khan": "They said: \"We prefer you not over what have come to us of the clear signs and to Him (Allâh) Who created us. So decree whatever you desire to decree, for you can only decree (regarding) this life of the world.",
+            "english_rwwad": "They said, “We will never choose you over the clear signs that have come to us, or over the One Who created us. So decide whatever you will. You can only make a decision about the life of this world."
+        }
+    },
+    {
+        "id": 2420,
+        "chapter": 20,
+        "verse": 73,
+        "arabic_text": "إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغۡفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكۡرَهۡتَنَا عَلَيۡهِ مِنَ ٱلسِّحۡرِۗ وَٱللَّهُ خَيۡرٞ وَأَبۡقَىٰٓ",
+        "phonetic": "20.73 'Innā 'Āmannā Birabbinā Liyaghfira Lanā Khaţāyānā Wa Mā 'Akrahtanā `Alayhi Mina As-Siĥri Wa Allāhu Khayrun Wa 'Abqá",
+        "footnotes": {
+            "english_saheeh": "[843]- In reward and in punishment.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, we have believed in our Lord that He may forgive us our sins and what you compelled us [to do] of magic. And Allāh is better and more enduring.\"[843]",
+            "english_hilali_khan": "\"Verily we have believed in our Lord, that He may forgive us our faults, and the magic to which you did compel us. And Allâh is better as regards reward in comparison to your [Fir‘aun’s (Pharaoh)] reward, and more lasting (as regards punishment in comparison to your punishment).\"",
+            "english_rwwad": "We surely believe in our Lord so that He may forgive us our sins and the magic that you have compelled us to practice, for Allah is best [in reward] and more lasting [in punishment].”"
+        }
+    },
+    {
+        "id": 2421,
+        "chapter": 20,
+        "verse": 74,
+        "arabic_text": "إِنَّهُۥ مَن يَأۡتِ رَبَّهُۥ مُجۡرِمٗا فَإِنَّ لَهُۥ جَهَنَّمَ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ",
+        "phonetic": "20.74 'Innahu Man Ya'ti Rabbahu Mujrimāan Fa'inna Lahu Jahannama Lā Yamūtu Fīhā Wa Lā Yaĥyā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, whoever comes to his Lord as a criminal - indeed, for him is Hell; he will neither die therein nor live.",
+            "english_hilali_khan": "Verily whoever comes to his Lord as a Mujrim (criminal, polytheist, sinner, disbeliever in the Oneness of Allâh and His Messengers), then surely, for him is Hell, wherein he will neither die nor live.",
+            "english_rwwad": "Whoever comes to his Lord as an evildoer, for him is Hell; he will neither die therein nor live."
+        }
+    },
+    {
+        "id": 2422,
+        "chapter": 20,
+        "verse": 75,
+        "arabic_text": "وَمَن يَأۡتِهِۦ مُؤۡمِنٗا قَدۡ عَمِلَ ٱلصَّٰلِحَٰتِ فَأُوْلَٰٓئِكَ لَهُمُ ٱلدَّرَجَٰتُ ٱلۡعُلَىٰ",
+        "phonetic": "20.75 Wa Man Ya'tihi Mu'umināan Qad `Amila Aş-Şāliĥāti Fa'ūlā'ika Lahumu Ad-Darajātu Al-`Ulā",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But whoever comes to Him as a believer having done righteous deeds - for those will be the highest degrees [in position]:",
+            "english_hilali_khan": "But whoever comes to Him (Allâh) as a believer (in the Oneness of Allâh), and has done righteous good deeds, for such are the high ranks (in the Hereafter), -",
+            "english_rwwad": "But whoever comes to Him as a believer, having done righteous deeds, it is they who will have the highest ranks:"
+        }
+    },
+    {
+        "id": 2423,
+        "chapter": 20,
+        "verse": 76,
+        "arabic_text": "جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
+        "phonetic": "20.76 Jannātu `Adnin Tajrī Min Taĥtihā Al-'Anhāru Khālidīna Fīhā Wa Dhalika Jazā'u Man Tazakká",
+        "footnotes": {
+            "english_saheeh": "[844]- From all uncleanliness, the greatest of which is worship and obedience to other than Allāh.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Gardens of perpetual residence beneath which rivers flow, wherein they abide eternally. And that is the reward of one who purifies himself.[844]",
+            "english_hilali_khan": "‘Adn (Eden) Paradise (everlasting Gardens), under which rivers flow, wherein they will abide forever: such is the reward of those who purify themselves (by abstaining from all kinds of sins and evil deeds which Allâh has forbidden and by doing all that Allâh has ordained).",
+            "english_rwwad": "Gardens of Eternity, under which rivers flow, abiding therein forever. Such is the reward of those who purify themselves."
+        }
+    },
+    {
+        "id": 2424,
+        "chapter": 20,
+        "verse": 77,
+        "arabic_text": "وَلَقَدۡ أَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَسۡرِ بِعِبَادِي فَٱضۡرِبۡ لَهُمۡ طَرِيقٗا فِي ٱلۡبَحۡرِ يَبَسٗا لَّا تَخَٰفُ دَرَكٗا وَلَا تَخۡشَىٰ",
+        "phonetic": "20.77 Wa Laqad 'Awĥaynā 'Ilá Mūsá 'An 'Asri Bi`ibādī Fāđrib Lahum Ţarīqāan Fī Al-Baĥri Yabasāan Lā Takhāfu Darakāan Wa Lā Takhshá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\"",
+            "english_hilali_khan": "And indeed We revealed to Mûsâ (Moses) (saying): \"Travel by night with Ibâdi (My slaves) and strike a dry path for them in the sea, fearing neither to be overtaken [by Fir‘aun (Pharaoh)] nor being afraid (of drowning in the sea).\"",
+            "english_rwwad": "We inspired Moses, “Travel by night with My slaves, and strike for them a dry path across the sea. Have no fear of being overtaken, nor be afraid [of drowning].”"
+        }
+    },
+    {
+        "id": 2425,
+        "chapter": 20,
+        "verse": 78,
+        "arabic_text": "فَأَتۡبَعَهُمۡ فِرۡعَوۡنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلۡيَمِّ مَا غَشِيَهُمۡ",
+        "phonetic": "20.78 Fa'atba`ahum Fir`awnu Bijunūdihi Faghashiyahum Mina Al-Yammi Mā Ghashiyahum",
+        "footnotes": {
+            "english_saheeh": "[845]- i.e., not only the water but that which only Allāh knows - terror, pain, regret, etc.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them,[845]",
+            "english_hilali_khan": "Then Fir‘aun (Pharaoh) pursued them with his hosts, but the sea-water completely overwhelmed them and covered them up.",
+            "english_rwwad": "Then Pharaoh pursued them with his soldiers, but they were completely overwhelmed by the sea."
+        }
+    },
+    {
+        "id": 2426,
+        "chapter": 20,
+        "verse": 79,
+        "arabic_text": "وَأَضَلَّ فِرۡعَوۡنُ قَوۡمَهُۥ وَمَا هَدَىٰ",
+        "phonetic": "20.79 Wa 'Ađalla Fir`awnu Qawmahu Wa Mā Hadá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And Pharaoh led his people astray and did not guide [them].",
+            "english_hilali_khan": "And Fir‘aun (Pharaoh) led his people astray, and he did not guide them.",
+            "english_rwwad": "Thus Pharaoh led his people astray, and did not guide them."
+        }
+    },
+    {
+        "id": 2427,
+        "chapter": 20,
+        "verse": 80,
+        "arabic_text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ قَدۡ أَنجَيۡنَٰكُم مِّنۡ عَدُوِّكُمۡ وَوَٰعَدۡنَٰكُمۡ جَانِبَ ٱلطُّورِ ٱلۡأَيۡمَنَ وَنَزَّلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰ",
+        "phonetic": "20.80 Yā Banī 'Isrā'īla Qad 'Anjaynākum Min `Adūwikum Wa Wā`adnākum Jāniba Aţ-Ţūri Al-'Aymana Wa Nazzalnā `Alaykumu Al-Manna Wa As-Salwá",
+        "footnotes": {
+            "english_saheeh": "[846]- i.e., with your prophet, to receive the scripture for you.",
+            "english_hilali_khan": "(V.20:80) See the footnote of (V.2:57).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O Children of Israel, We delivered you from your enemy, and We made an appointment with you[846] at the right side of the mount, and We sent down to you manna and quails,",
+            "english_hilali_khan": "O Children of Israel! We delivered you from your enemy, and We made a covenant with you on the right side of the Mount, and We sent down to you Al-Manna [1] and quails,",
+            "english_rwwad": "O Children of Israel, We rescued you from your enemy, and made an appointment with you on the right side of Mount Tūr [in Sinai], and sent down for you manna and quails,"
+        }
+    },
+    {
+        "id": 2428,
+        "chapter": 20,
+        "verse": 81,
+        "arabic_text": "كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡ وَلَا تَطۡغَوۡاْ فِيهِ فَيَحِلَّ عَلَيۡكُمۡ غَضَبِيۖ وَمَن يَحۡلِلۡ عَلَيۡهِ غَضَبِي فَقَدۡ هَوَىٰ",
+        "phonetic": "20.81 Kulū Min Ţayyibāti Mā Razaqnākum Wa Lā Taţghaw Fīhi Fayaĥilla `Alaykum Ghađabī Wa Man Yaĥlil `Alayhi Ghađabī Faqad Hawá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Saying], \"Eat from the good things with which We have provided you and do not transgress [or oppress others] therein, lest My anger should descend upon you. And he upon whom My anger descends has certainly fallen [i.e., perished].\"",
+            "english_hilali_khan": "(Saying) eat of the Tayyibât (good lawful things) wherewith We have provided you, and commit no transgression or oppression therein, lest My Anger should justly descend on you. And he on whom My Anger descends, he is indeed perished. [Tafsir At-Tabari]",
+            "english_rwwad": "[saying], “Eat from the good things We have provided for you, but do not exceed the limits therein, or My wrath will befall you, for anyone upon whom My wrath befalls is perished."
+        }
+    },
+    {
+        "id": 2429,
+        "chapter": 20,
+        "verse": 82,
+        "arabic_text": "وَإِنِّي لَغَفَّارٞ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحٗا ثُمَّ ٱهۡتَدَىٰ",
+        "phonetic": "20.82 Wa 'Innī Laghaffārun Liman Tāba Wa 'Āmana Wa `Amila Şāliĥāan Thumma Ahtadá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But indeed, I am the Perpetual Forgiver of whoever repents and believes and does righteousness and then continues in guidance.",
+            "english_hilali_khan": "And verily, I am indeed forgiving to him who repents, believes (in My Oneness, and associates none in worship with Me) and does righteous good deeds, and then remains constant in doing them, (till his death).",
+            "english_rwwad": "I am indeed Most Forgiving to those who repent and believe, and do righteous deeds, then stay on the right path.”"
+        }
+    },
+    {
+        "id": 2430,
+        "chapter": 20,
+        "verse": 83,
+        "arabic_text": "۞ وَمَآ أَعۡجَلَكَ عَن قَوۡمِكَ يَٰمُوسَىٰ",
+        "phonetic": "20.83 Wa Mā 'A`jalaka `An Qawmika Yā Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Allāh said], \"And what made you hasten from your people, O Moses?\"",
+            "english_hilali_khan": "\"And what made you hasten from your people, O Mûsâ (Moses)?\"",
+            "english_rwwad": "[Allah asked], “What made you hasten from your people, O Moses?”"
+        }
+    },
+    {
+        "id": 2431,
+        "chapter": 20,
+        "verse": 84,
+        "arabic_text": "قَالَ هُمۡ أُوْلَآءِ عَلَىٰٓ أَثَرِي وَعَجِلۡتُ إِلَيۡكَ رَبِّ لِتَرۡضَىٰ",
+        "phonetic": "20.84 Qāla Hum 'Ūlā'i `Alá 'Atharī Wa `Ajiltu 'Ilayka Rabbi Litarđá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"They are close upon my tracks, and I hastened to You, my Lord, that You be pleased.\"",
+            "english_hilali_khan": "He said: \"They are close on my footsteps: and I hastened to You, O my Lord, that You might be pleased.\"",
+            "english_rwwad": "He said, “They are following my footsteps; I hastened to You, my Lord, to please You.”"
+        }
+    },
+    {
+        "id": 2432,
+        "chapter": 20,
+        "verse": 85,
+        "arabic_text": "قَالَ فَإِنَّا قَدۡ فَتَنَّا قَوۡمَكَ مِنۢ بَعۡدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِيُّ",
+        "phonetic": "20.85 Qāla Fa'innā Qad Fatannā Qawmaka Min Ba`dika Wa 'Ađallahumu As-Sāmirīyu",
+        "footnotes": {
+            "english_saheeh": "[847]- Translated as \"the Samaritan\" (from Samaria), a hypocrite among them who led the Children of Israel into idol-worship.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī[847] has led them astray.\"",
+            "english_hilali_khan": "(Allâh) said: \"Verily We have tried your people in your absence, and As-Sâmirî has led them astray.\"",
+            "english_rwwad": "Allah said, “We have certainly tested your people in your absence, and Sāmiri has led them astray.”"
+        }
+    },
+    {
+        "id": 2433,
+        "chapter": 20,
+        "verse": 86,
+        "arabic_text": "فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوۡمِهِۦ غَضۡبَٰنَ أَسِفٗاۚ قَالَ يَٰقَوۡمِ أَلَمۡ يَعِدۡكُمۡ رَبُّكُمۡ وَعۡدًا حَسَنًاۚ أَفَطَالَ عَلَيۡكُمُ ٱلۡعَهۡدُ أَمۡ أَرَدتُّمۡ أَن يَحِلَّ عَلَيۡكُمۡ غَضَبٞ مِّن رَّبِّكُمۡ فَأَخۡلَفۡتُم مَّوۡعِدِي",
+        "phonetic": "20.86 Faraja`a Mūsá 'Ilá Qawmihi Ghađbāna 'Asifāan Qāla Yā Qawmi 'Alam Ya`idkum Rabbukum Wa`dāan Ĥasanāan 'Afaţāla `Alaykumu Al-`Ahdu 'Am 'Aradtum 'An Yaĥilla `Alaykum Ghađabun Min Rabbikum Fa'akhlaftum Maw`idī",
+        "footnotes": {
+            "english_saheeh": "[848]- The meaning may also be \"angry and enraged.\"\n[849]- That He would send down the Torah, containing guidance for you.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So Moses returned to his people, angry and grieved.[848] He said, \"O my people, did your Lord not make you a good promise?[849] Then, was the time [of its fulfillment] too long for you, or did you wish that wrath from your Lord descend upon you, so you broke your promise [of obedience] to me?\"",
+            "english_hilali_khan": "Then Mûsâ (Moses) returned to his people in a state of anger and sorrow. He said: \"O my people! Did not your Lord promise you a fair promise? Did then the promise seem to you long in coming? Or did you desire that wrath should descend from your Lord on you, that you broke your promise to me (i.e disbelieving in Allâh and worshipping the calf)?\"",
+            "english_rwwad": "So Moses returned to his people, angry and sorrowful. He said, “O my people, did your Lord not promise you a good promise? Was my absence too long for you, or did you want the wrath from your Lord to befall you, so you broke your promise to me?”"
+        }
+    },
+    {
+        "id": 2434,
+        "chapter": 20,
+        "verse": 87,
+        "arabic_text": "قَالُواْ مَآ أَخۡلَفۡنَا مَوۡعِدَكَ بِمَلۡكِنَا وَلَٰكِنَّا حُمِّلۡنَآ أَوۡزَارٗا مِّن زِينَةِ ٱلۡقَوۡمِ فَقَذَفۡنَٰهَا فَكَذَٰلِكَ أَلۡقَى ٱلسَّامِرِيُّ",
+        "phonetic": "20.87 Qālū Mā 'Akhlafnā Maw`idaka Bimalkinā Wa Lakinnā Ĥummilnā 'Awzārāan Min Zīnati Al-Qawmi Faqadhafnāhā Fakadhalika 'Alqá As-Sāmirīyu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"We did not break our promise to you by our will, but we were made to carry burdens from the ornaments of the people [of Pharaoh], so we threw them [into the fire], and thus did the Sāmirī throw.\"",
+            "english_hilali_khan": "They said: \"We broke not the promise to you, of our own will, but we were made to carry the weight of the ornaments of the [Fir‘aun’s (Pharaoh)] people, then we cast them (into the fire), and that was what As-Sâmirî suggested.\"",
+            "english_rwwad": "They said, “We did not break our promise to you out of our own free will, but we were made to carry loads of the people’s jewelry, so we threw them [into the fire], and so did the Sāmiri throw.”"
+        }
+    },
+    {
+        "id": 2435,
+        "chapter": 20,
+        "verse": 88,
+        "arabic_text": "فَأَخۡرَجَ لَهُمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٞ فَقَالُواْ هَٰذَآ إِلَٰهُكُمۡ وَإِلَٰهُ مُوسَىٰ فَنَسِيَ",
+        "phonetic": "20.88 Fa'akhraja Lahum `Ijlāan Jasadāan Lahu Khuwārun Faqālū Hādhā 'Ilahukum Wa 'Ilahu Mūsá Fanasiya",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he extracted for them [the statue of] a calf which had a lowing sound, and they said, \"This is your god and the god of Moses, but he forgot.\"",
+            "english_hilali_khan": "Then he took out (of the fire) for them (a statue of) a calf which seemed to low. They said: \"This is your ilâh (god), and the ilâh (god) of Mûsâ (Moses), but he [Mûsâ (Moses)] has forgotten (his god).’\"",
+            "english_rwwad": "Then he moulded for them an image of a calf that made a lowing sound. They said, “This is your god and Moses’ god, but he has forgotten.”"
+        }
+    },
+    {
+        "id": 2436,
+        "chapter": 20,
+        "verse": 89,
+        "arabic_text": "أَفَلَا يَرَوۡنَ أَلَّا يَرۡجِعُ إِلَيۡهِمۡ قَوۡلٗا وَلَا يَمۡلِكُ لَهُمۡ ضَرّٗا وَلَا نَفۡعٗا",
+        "phonetic": "20.89 'Afalā Yarawna 'Allā Yarji`u 'Ilayhim Qawlāan Wa Lā Yamliku Lahum Đarrāan Wa Lā Naf`āan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Did they not see that it could not return to them any speech [i.e., response] and that it did not possess for them any harm or benefit?",
+            "english_hilali_khan": "Did they not see that it could not return them a word (for answer), and that it had no power either to harm them or to do them good?",
+            "english_rwwad": "Do they not see that it does not respond a word to them, nor does it have power to harm or benefit them?"
+        }
+    },
+    {
+        "id": 2437,
+        "chapter": 20,
+        "verse": 90,
+        "arabic_text": "وَلَقَدۡ قَالَ لَهُمۡ هَٰرُونُ مِن قَبۡلُ يَٰقَوۡمِ إِنَّمَا فُتِنتُم بِهِۦۖ وَإِنَّ رَبَّكُمُ ٱلرَّحۡمَٰنُ فَٱتَّبِعُونِي وَأَطِيعُوٓاْ أَمۡرِي",
+        "phonetic": "20.90 Wa Laqad Qāla Lahum Hārūnu Min Qablu Yā Qawmi 'Innamā Futintum Bihi Wa 'Inna Rabbakumu Ar-Raĥmānu Fa Attabi`ūnī Wa 'Aţī`ū 'Amrī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And Aaron had already told them before [the return of Moses], \"O my people, you are only being tested by it, and indeed, your Lord is the Most Merciful, so follow me and obey my order.\"",
+            "english_hilali_khan": "And Hârûn (Aaron) indeed had said to them beforehand: \"O my people! You are being tried in this, and verily, your Lord is (Allâh) the Most Gracious, so follow me and obey my order.\"",
+            "english_rwwad": "Aaron told them beforehand, “O my people, you are being tested with it. Your Lord is the Most Compassionate, so follow me and obey my command.”"
+        }
+    },
+    {
+        "id": 2438,
+        "chapter": 20,
+        "verse": 91,
+        "arabic_text": "قَالُواْ لَن نَّبۡرَحَ عَلَيۡهِ عَٰكِفِينَ حَتَّىٰ يَرۡجِعَ إِلَيۡنَا مُوسَىٰ",
+        "phonetic": "20.91 Qālū Lan Nabraĥa `Alayhi `Ākifīna Ĥattá Yarji`a 'Ilaynā Mūsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"We will never cease being devoted to it [i.e., the calf] until Moses returns to us.\"",
+            "english_hilali_khan": "They said: \"We will not stop worshipping it (i.e. the calf), until Mûsâ (Moses) returns to us.\"",
+            "english_rwwad": "They said, “We will never cease to worship it until Moses comes back to us.”"
+        }
+    },
+    {
+        "id": 2439,
+        "chapter": 20,
+        "verse": 92,
+        "arabic_text": "قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذۡ رَأَيۡتَهُمۡ ضَلُّوٓاْ",
+        "phonetic": "20.92 Qāla Yā Hārūnu Mā Mana`aka 'Idh Ra'aytahum Đallū",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Moses] said, \"O Aaron, what prevented you, when you saw them going astray,",
+            "english_hilali_khan": "[Mûsâ (Moses)] said: \"O Hârûn (Aaron)! What prevented you when you saw them going astray;",
+            "english_rwwad": "Moses said, “O Aaron, what prevented you when you saw them going astray,"
+        }
+    },
+    {
+        "id": 2440,
+        "chapter": 20,
+        "verse": 93,
+        "arabic_text": "أَلَّا تَتَّبِعَنِۖ أَفَعَصَيۡتَ أَمۡرِي",
+        "phonetic": "20.93 'Allā Tattabi`anī 'Afa`aşayta 'Amrī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "From following me? Then have you disobeyed my order?\"",
+            "english_hilali_khan": "\"That you followed me not (according to my advice to you)? Have you then disobeyed my order?\"",
+            "english_rwwad": "from following me? Did you disobey my command?”"
+        }
+    },
+    {
+        "id": 2441,
+        "chapter": 20,
+        "verse": 94,
+        "arabic_text": "قَالَ يَبۡنَؤُمَّ لَا تَأۡخُذۡ بِلِحۡيَتِي وَلَا بِرَأۡسِيٓۖ إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقۡتَ بَيۡنَ بَنِيٓ إِسۡرَٰٓءِيلَ وَلَمۡ تَرۡقُبۡ قَوۡلِي",
+        "phonetic": "20.94 Qāla Yabna'uumma Lā Ta'khudh Biliĥyatī Wa Lā Bira'sī 'Innī Khashītu 'An Taqūla Farraqta Bayna Banī 'Isrā'īla Wa Lam Tarqub Qawlī",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Aaron] said, \"O son of my mother, do not seize [me] by my beard or by my head. Indeed, I feared that you would say, 'You caused division among the Children of Israel, and you did not observe [or await] my word.'\"",
+            "english_hilali_khan": "He [Hârûn (Aaron)] said: \"O son of my mother! Seize (me) not by my beard, nor by my head! Verily, I feared lest you should say: ‘You have caused a division among the Children of Israel, and you have not respected my word!’ \"",
+            "english_rwwad": "Aaron said, “O son of my mother, do not seize me by my beard or by my head! I feared that you would say, ‘You have caused division among the Children of Israel, and did not heed my words.’”"
+        }
+    },
+    {
+        "id": 2442,
+        "chapter": 20,
+        "verse": 95,
+        "arabic_text": "قَالَ فَمَا خَطۡبُكَ يَٰسَٰمِرِيُّ",
+        "phonetic": "20.95 Qāla Famā Khaţbuka Yā Sāmirīyu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Moses] said, \"And what is your case, O Sāmirī?\"",
+            "english_hilali_khan": "[Mûsâ (Moses)] said: \"And what is the matter with you. O Sâmirî? (i.e. why did you do so?)\"",
+            "english_rwwad": "Moses said, “What is the matter with you, O Sāmiri?”"
+        }
+    },
+    {
+        "id": 2443,
+        "chapter": 20,
+        "verse": 96,
+        "arabic_text": "قَالَ بَصُرۡتُ بِمَا لَمۡ يَبۡصُرُواْ بِهِۦ فَقَبَضۡتُ قَبۡضَةٗ مِّنۡ أَثَرِ ٱلرَّسُولِ فَنَبَذۡتُهَا وَكَذَٰلِكَ سَوَّلَتۡ لِي نَفۡسِي",
+        "phonetic": "20.96 Qāla Başurtu Bimā Lam Yabşurū Bihi Faqabađtu Qabđatan Min 'Athari Ar-Rasūli Fanabadhtuhā Wa Kadhalika Sawwalat Lī Nafsī",
+        "footnotes": {
+            "english_saheeh": "[850]- i.e., a hoof-print in the sand left by the angel Gabriel's horse.\n[851]- Into the fire upon the melted ornaments in order to form the calf.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"I saw what they did not see, so I took a handful [of dust] from the track of the messenger[850] and threw it,[851] and thus did my soul entice me.\"",
+            "english_hilali_khan": "(Sâmirî) said: \"I saw what they saw not, so I took a handful (of dust) from the (hoof) print of the messenger [Jibrîl’s (Gabriel) horse] and threw it [into the fire in which were put the ornaments of Fir‘aun’s (Pharaoh) people, or into the calf]. Thus my inner-self suggested to me.\"",
+            "english_rwwad": "He said, “I saw something they did not see, so I took a handful [of dust] from the hoof-print of the horse of the messenger [Gabriel] and cast it [into the fire]. This is what my mind prompted me.”"
+        }
+    },
+    {
+        "id": 2444,
+        "chapter": 20,
+        "verse": 97,
+        "arabic_text": "قَالَ فَٱذۡهَبۡ فَإِنَّ لَكَ فِي ٱلۡحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَۖ وَإِنَّ لَكَ مَوۡعِدٗا لَّن تُخۡلَفَهُۥۖ وَٱنظُرۡ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِي ظَلۡتَ عَلَيۡهِ عَاكِفٗاۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِي ٱلۡيَمِّ نَسۡفًا",
+        "phonetic": "20.97 Qāla Fādh/hab Fa'inna Laka Fī Al-Ĥayāati 'An Taqūla Lā Misāsa Wa 'Inna Laka Maw`idāan Lan Tukhlafahu Wa Anžur 'Ilá 'Ilahika Al-Ladhī Žalta `Alayhi `Ākifāan Lanuĥarriqannahu Thumma Lanansifannahu Fī Al-Yammi Nasfāan",
+        "footnotes": {
+            "english_saheeh": "[852]- i.e., Do not touch me.  As chastisement, he was to be completely shunned by all people.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.'[852] And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast.",
+            "english_hilali_khan": "Mûsâ (Moses) said: \"Then go away! And verily, your (punishment) in this life will be that you will say: \"Touch me not (i.e. you will live alone exiled away from mankind); and verily (for a future torment), you have a promise that will not fail. And look at your ilâh (god) to which you have been devoted. We will certainly burn it, and scatter its particles in the sea.\"",
+            "english_rwwad": "Moses said, “Begone then! Your [punishment] in this life will be to say, ‘Do not touch me,’ but there awaits you an appointed time for your reckoning that you cannot escape. Now look at your so-called god which you kept worshiping; We will surely burn it then scatter it in the sea."
+        }
+    },
+    {
+        "id": 2445,
+        "chapter": 20,
+        "verse": 98,
+        "arabic_text": "إِنَّمَآ إِلَٰهُكُمُ ٱللَّهُ ٱلَّذِي لَآ إِلَٰهَ إِلَّا هُوَۚ وَسِعَ كُلَّ شَيۡءٍ عِلۡمٗا",
+        "phonetic": "20.98 'Innamā 'Ilahukumu Allāhu Al-Ladhī Lā 'Ilāha 'Illā Huwa Wasi`a Kulla Shay'in `Ilmāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Your god is only Allāh, except for whom there is no deity. He has encompassed all things in knowledge.\"",
+            "english_hilali_khan": "Your Ilâh (God) is only Allâh, (the One) Lâ ilâha illa Huwa (none has the right to be worshipped but He). He has full knowledge of all things.",
+            "english_rwwad": "[O people], your god is only Allah; none has the right to be worshiped except Him. He encompasses everything in knowledge.”"
+        }
+    },
+    {
+        "id": 2446,
+        "chapter": 20,
+        "verse": 99,
+        "arabic_text": "كَذَٰلِكَ نَقُصُّ عَلَيۡكَ مِنۡ أَنۢبَآءِ مَا قَدۡ سَبَقَۚ وَقَدۡ ءَاتَيۡنَٰكَ مِن لَّدُنَّا ذِكۡرٗا",
+        "phonetic": "20.99 Kadhālika Naquşşu `Alayka Min 'Anbā'i Mā Qad Sabaqa Wa Qad 'Ātaynāka Min Ladunnā Dhikrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Thus, [O Muḥammad], We relate to you from the news of what has preceded. And We have certainly given you from Us a message [i.e., the Qur’ān].",
+            "english_hilali_khan": "Thus We relate to you (O Muhammad صلى الله عليه وسلم) some information of what happened before. And indeed We have given you from Us a Reminder (this Qur’ân).",
+            "english_rwwad": "This is how We relate to you [O Prophet] from the stories of the past, and We have given you a Reminder from Us."
+        }
+    },
+    {
+        "id": 2447,
+        "chapter": 20,
+        "verse": 100,
+        "arabic_text": "مَّنۡ أَعۡرَضَ عَنۡهُ فَإِنَّهُۥ يَحۡمِلُ يَوۡمَ ٱلۡقِيَٰمَةِ وِزۡرًا",
+        "phonetic": "20.100 Man 'A`rađa `Anhu Fa'innahu Yaĥmilu Yawma Al-Qiyāmati Wizrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.20:100) See the footnote of (V.3:85).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Whoever turns away from it - then indeed, he will bear on the Day of Resurrection a burden [i.e., great sin],",
+            "english_hilali_khan": "Whoever turns away from it (this Qur’ân - i.e. does not believe in it, nor acts on its orders), verily, they will bear a heavy burden (of sins) on the Day of Resurrection,[1]",
+            "english_rwwad": "Whoever turns away from it will bear a heavy burden on the Day of Resurrection,"
+        }
+    },
+    {
+        "id": 2448,
+        "chapter": 20,
+        "verse": 101,
+        "arabic_text": "خَٰلِدِينَ فِيهِۖ وَسَآءَ لَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ حِمۡلٗا",
+        "phonetic": "20.101 Khālidīna Fīhi Wa Sā'a Lahum Yawma Al-Qiyāmati Ĥimlāan",
+        "footnotes": {
+            "english_saheeh": "[853]- i.e., in the state of sin.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Abiding] eternally therein,[853] and evil it is for them on the Day of Resurrection as a load -",
+            "english_hilali_khan": "They will abide in that (state in the Fire of Hell) - and evil indeed will it be that load for them on the Day of Resurrection;",
+            "english_rwwad": "abiding therein forever. What a terrible burden they will carry on the Day of Resurrection!"
+        }
+    },
+    {
+        "id": 2449,
+        "chapter": 20,
+        "verse": 102,
+        "arabic_text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِۚ وَنَحۡشُرُ ٱلۡمُجۡرِمِينَ يَوۡمَئِذٖ زُرۡقٗا",
+        "phonetic": "20.102 Yawma Yunfakhu Fī Aş-Şūri Wa Naĥshuru Al-Mujrimīna Yawma'idhin Zurqāan",
+        "footnotes": {
+            "english_saheeh": "[854]- From terror, or blinded completely.",
+            "english_hilali_khan": "(V.20:102) See Tafsîr Al-Qurtubi.",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Day the Horn will be blown. And We will gather the criminals, that Day, blue-eyed.[854]",
+            "english_hilali_khan": "The Day when the Trumpet will be blown (the second blowing): that Day, We shall gather the Mujrimûn (criminals, polytheists, sinners, disbelievers in the Oneness of Allâh) blue or blind-eyed with thirst.[2]",
+            "english_rwwad": "the Day when the Trumpet will be blown; on that Day We will gather together the wicked sightless [from horror]."
+        }
+    },
+    {
+        "id": 2450,
+        "chapter": 20,
+        "verse": 103,
+        "arabic_text": "يَتَخَٰفَتُونَ بَيۡنَهُمۡ إِن لَّبِثۡتُمۡ إِلَّا عَشۡرٗا",
+        "phonetic": "20.103 Yatakhāfatūna Baynahum 'In Labithtum 'Illā `Ashrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They will murmur among themselves, \"You remained not but ten [days in the world].\"",
+            "english_hilali_khan": "They will speak in a very low voice to each other (saying): \"You stayed not longer than ten (days).\"",
+            "english_rwwad": "They will whisper with one another, “You stayed no more than ten days [on earth].”"
+        }
+    },
+    {
+        "id": 2451,
+        "chapter": 20,
+        "verse": 104,
+        "arabic_text": "نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَ إِذۡ يَقُولُ أَمۡثَلُهُمۡ طَرِيقَةً إِن لَّبِثۡتُمۡ إِلَّا يَوۡمٗا",
+        "phonetic": "20.104 Naĥnu 'A`lamu Bimā Yaqūlūna 'Idh Yaqūlu 'Amthaluhum Ţarīqatan 'In Labithtum 'Illā Yawmāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "We are most knowing of what they say when the best of them in manner [i.e., wisdom or speech] will say, \"You remained not but one day.\"",
+            "english_hilali_khan": "We know very well what they will say, when the best among them in knowledge and wisdom will say: \"You stayed no longer than a day!\"",
+            "english_rwwad": "We know best what they will say – the most discerning among them will say, “You stayed no more than a day.”"
+        }
+    },
+    {
+        "id": 2452,
+        "chapter": 20,
+        "verse": 105,
+        "arabic_text": "وَيَسۡـَٔلُونَكَ عَنِ ٱلۡجِبَالِ فَقُلۡ يَنسِفُهَا رَبِّي نَسۡفٗا",
+        "phonetic": "20.105 Wa Yas'alūnaka `Ani Al-Jibāli Faqul Yansifuhā Rabbī Nasfāan",
+        "footnotes": {
+            "english_saheeh": "[855]- Once they have been reduced to dust.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they ask you about the mountains, so say, \"My Lord will blow them away with a blast.[855]",
+            "english_hilali_khan": "And they ask you concerning the mountains: say, \"My Lord will blast them and scatter them as particles of dust.",
+            "english_rwwad": "They ask you about the mountains, say, “My Lord will scatter them into dust,"
+        }
+    },
+    {
+        "id": 2453,
+        "chapter": 20,
+        "verse": 106,
+        "arabic_text": "فَيَذَرُهَا قَاعٗا صَفۡصَفٗا",
+        "phonetic": "20.106 Fayadharuhā Qā`āan Şafşafāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And He will leave it [i.e., the earth] a level plain;",
+            "english_hilali_khan": "\"Then He shall leave them as a level smooth plain.",
+            "english_rwwad": "and He will leave the earth level and plain,"
+        }
+    },
+    {
+        "id": 2454,
+        "chapter": 20,
+        "verse": 107,
+        "arabic_text": "لَّا تَرَىٰ فِيهَا عِوَجٗا وَلَآ أَمۡتٗا",
+        "phonetic": "20.107 Lā Tará Fīhā `Iwajāan Wa Lā 'Amtāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "You will not see therein a depression or an elevation.\"",
+            "english_hilali_khan": "\"You will see therein nothing crooked or curved.\"",
+            "english_rwwad": "you will not see therein any troughs or peaks.”"
+        }
+    },
+    {
+        "id": 2455,
+        "chapter": 20,
+        "verse": 108,
+        "arabic_text": "يَوۡمَئِذٖ يَتَّبِعُونَ ٱلدَّاعِيَ لَا عِوَجَ لَهُۥۖ وَخَشَعَتِ ٱلۡأَصۡوَاتُ لِلرَّحۡمَٰنِ فَلَا تَسۡمَعُ إِلَّا هَمۡسٗا",
+        "phonetic": "20.108 Yawma'idhin Yattabi`ūna Ad-Dā`ī Lā `Iwaja Lahu Wa Khasha`ati Al-'Aşwātu Lilrraĥmani Falā Tasma`u 'Illā Hamsāan",
+        "footnotes": {
+            "english_saheeh": "[856]- To the gathering for judgement.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That Day, they [i.e., everyone] will follow [the call of] the Caller[856] [with] no deviation therefrom, and [all] voices will be stilled before the Most Merciful, so you will not hear except a whisper [of footsteps].",
+            "english_hilali_khan": "On that Day mankind will follow strictly (the voice of) Allâh’s caller, no crookedness (that is without going to the right or left of that voice) will they show him (Allâh’s caller). And all voices will be humbled for the Most Gracious (Allâh), and nothing shall you hear but the low voice of their footsteps.",
+            "english_rwwad": "On that day, they will follow the summoner; none will dare to deviate. All voices will be hushed in awe before the Most Compassionate; you will hear nothing except a whisper."
+        }
+    },
+    {
+        "id": 2456,
+        "chapter": 20,
+        "verse": 109,
+        "arabic_text": "يَوۡمَئِذٖ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَرَضِيَ لَهُۥ قَوۡلٗا",
+        "phonetic": "20.109 Yawma'idhin Lā Tanfa`u Ash-Shafā`atu 'Illā Man 'Adhina Lahu Ar-Raĥmānu Wa Rađiya Lahu Qawlāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That Day, no intercession will benefit except [that of] one to whom the Most Merciful has given permission and has accepted his word.",
+            "english_hilali_khan": "On that day no intercession shall avail, except the one for whom the Most Gracious (Allâh) has given permission and whose word is acceptable to Him.",
+            "english_rwwad": "On that day, no intercession will be of any use except to whom the Most Compassionate gave permission and approved his word."
+        }
+    },
+    {
+        "id": 2457,
+        "chapter": 20,
+        "verse": 110,
+        "arabic_text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيطُونَ بِهِۦ عِلۡمٗا",
+        "phonetic": "20.110 Ya`lamu Mā Bayna 'Aydīhim Wa Mā Khalfahum Wa Lā Yuĥīţūna Bihi `Ilmāan",
+        "footnotes": {
+            "english_saheeh": "[857]- See footnote to 2:255.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He [i.e., Allāh] knows what is [presently] before them and what will be after them,[857] but they do not encompass it [i.e., what He knows] in knowledge.",
+            "english_hilali_khan": "He (Allâh) knows what happens to them (His creatures) in this world, and what will happen to them (in the Hereafter) but they will never compass anything of His Knowledge.",
+            "english_rwwad": "He knows all that is ahead of them and all that is behind them, but they do not encompass it with their knowledge."
+        }
+    },
+    {
+        "id": 2458,
+        "chapter": 20,
+        "verse": 111,
+        "arabic_text": "۞ وَعَنَتِ ٱلۡوُجُوهُ لِلۡحَيِّ ٱلۡقَيُّومِۖ وَقَدۡ خَابَ مَنۡ حَمَلَ ظُلۡمٗا",
+        "phonetic": "20.111 Wa `Anati Al-Wujūhu Lilĥayyi Al-Qayyūmi Wa Qad Khāba Man Ĥamala Žulmāan",
+        "footnotes": {
+            "english_saheeh": "[858]- See footnotes to 2:255.\n[859]- i.e., sin or wrongdoing towards Allāh or any of His creation.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And [all] faces will be humbled before the Ever-Living, the Self-Sustaining.[858] And he will have failed who carries injustice.[859]",
+            "english_hilali_khan": "And (all) faces shall be humbled before (Allâh), Al-Hayyul-Qayyum (the Ever Living, the One Who sustains and protects all that exists). And he who carried (a burden of) wrongdoing (i.e. he who disbelieved in Allâh, ascribed partners to Him, and did deeds of His disobedience), will be indeed a complete failure (on that Day).",
+            "english_rwwad": "All faces will be humbled before the Ever-Living, Self-Sustaining. Those burdened with evil deeds will be in total loss."
+        }
+    },
+    {
+        "id": 2459,
+        "chapter": 20,
+        "verse": 112,
+        "arabic_text": "وَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا يَخَافُ ظُلۡمٗا وَلَا هَضۡمٗا",
+        "phonetic": "20.112 Wa Man Ya`mal Mina Aş-Şāliĥāti Wa Huwa Mu'uminun Falā Yakhāfu Žulmāan Wa Lā Hađmāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But he who does of righteous deeds while he is a believer - he will neither fear injustice nor deprivation.",
+            "english_hilali_khan": "And he who works deeds of righteousness, while he is a believer (in Islâmic Monotheism), then he will have no fear of injustice, nor of any curtailment (of his reward).",
+            "english_rwwad": "But whoever does righteous deeds, being a believer, will have no fear of being wronged or deprived."
+        }
+    },
+    {
+        "id": 2460,
+        "chapter": 20,
+        "verse": 113,
+        "arabic_text": "وَكَذَٰلِكَ أَنزَلۡنَٰهُ قُرۡءَانًا عَرَبِيّٗا وَصَرَّفۡنَا فِيهِ مِنَ ٱلۡوَعِيدِ لَعَلَّهُمۡ يَتَّقُونَ أَوۡ يُحۡدِثُ لَهُمۡ ذِكۡرٗا",
+        "phonetic": "20.113 Wa Kadhalika 'Anzalnāhu Qur'ānāan `Arabīyāan Wa Şarrafnā Fīhi Mina Al-Wa`īdi La`allahum Yattaqūna 'Aw Yuĥdithu Lahum Dhikrāan",
+        "footnotes": {
+            "english_saheeh": "[860]- i.e., revealed in the Arabic language.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And thus We have sent it down as an Arabic Qur’ān[860] and have diversified therein the warnings that perhaps they will avoid [sin] or it would cause them remembrance.",
+            "english_hilali_khan": "And thus We have sent it down as a Qur’ân in Arabic, and have explained therein in detail the warnings, in order that they may fear Allâh, or that it may cause them to have a lesson from it (or to have the honour for believing and acting on its teachings).",
+            "english_rwwad": "We have sent it down as an Arabic Qur’an and diversified its warnings, so that they may fear Allah or it may cause them to take heed."
+        }
+    },
+    {
+        "id": 2461,
+        "chapter": 20,
+        "verse": 114,
+        "arabic_text": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۗ وَلَا تَعۡجَلۡ بِٱلۡقُرۡءَانِ مِن قَبۡلِ أَن يُقۡضَىٰٓ إِلَيۡكَ وَحۡيُهُۥۖ وَقُل رَّبِّ زِدۡنِي عِلۡمٗا",
+        "phonetic": "20.114 Fata`ālá Allāhu Al-Maliku Al-Ĥaqqu Wa Lā Ta`jal Bil-Qur'āni Min Qabli 'An Yuqđá 'Ilayka Waĥyuhu Wa Qul Rabbi Zidnī `Ilmāan",
+        "footnotes": {
+            "english_saheeh": "[861]- And owner of everything in existence.\n[862]- Or \"the True Reality,\" i.e., the real and permanent existence upon which all other existence depends.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So high [above all] is Allāh, the Sovereign,[861] the Truth.[862] And, [O Muḥammad], do not hasten with [recitation of] the Qur’ān before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\"",
+            "english_hilali_khan": "Then High above all be Allâh, the True King. And be not in haste (O Muhammad صلى الله عليه وسلم) with the Qur’ân before its revelation is completed to you, and say: \"My Lord! Increase me in knowledge.\"",
+            "english_rwwad": "So Exalted is Allah, the True Sovereign. Do not hasten to [recite] the Qur’an before its revelation to you is concluded, and say, “My Lord, increase me in knowledge.”"
+        }
+    },
+    {
+        "id": 2462,
+        "chapter": 20,
+        "verse": 115,
+        "arabic_text": "وَلَقَدۡ عَهِدۡنَآ إِلَىٰٓ ءَادَمَ مِن قَبۡلُ فَنَسِيَ وَلَمۡ نَجِدۡ لَهُۥ عَزۡمٗا",
+        "phonetic": "20.115 Wa Laqad `Ahidnā 'Ilá 'Ādama Min Qablu Fanasiya Wa Lam Najid Lahu `Azmāan",
+        "footnotes": {
+            "english_saheeh": "[863]- To resist temptation.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We had already taken a promise from Adam before, but he forgot; and We found not in him determination.[863]",
+            "english_hilali_khan": "And indeed We made a covenant with Adam before, but he forgot, and We found on his part no firm will-power.",
+            "english_rwwad": "We had already given a command to Adam before, but he forgot, and We found him lacking a firm resolve."
+        }
+    },
+    {
+        "id": 2463,
+        "chapter": 20,
+        "verse": 116,
+        "arabic_text": "وَإِذۡ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ أَبَىٰ",
+        "phonetic": "20.116 Wa 'Idh Qulnā Lilmalā'ikati Asjudū Li'dama Fasajadū 'Illā 'Iblīsa 'Abá",
+        "footnotes": {
+            "english_saheeh": "[864]- See footnote to 2:34.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And [mention] when We said to the angels, \"Prostrate to Adam,\" and they prostrated, except Iblees;[864] he refused.",
+            "english_hilali_khan": "And (remember) when We said to the angels: \"Prostrate yourselves to Adam.\" They prostrated themselves (all) except Iblîs (Satan) he refused.",
+            "english_rwwad": "When We said to the angels, “Prostrate before Adam,” so they all prostrated, except Iblīs, who refused."
+        }
+    },
+    {
+        "id": 2464,
+        "chapter": 20,
+        "verse": 117,
+        "arabic_text": "فَقُلۡنَا يَٰٓـَٔادَمُ إِنَّ هَٰذَا عَدُوّٞ لَّكَ وَلِزَوۡجِكَ فَلَا يُخۡرِجَنَّكُمَا مِنَ ٱلۡجَنَّةِ فَتَشۡقَىٰٓ",
+        "phonetic": "20.117 Faqulnā Yā 'Ādamu 'Inna Hādhā `Adūwun Laka Wa Lizawjika Falā Yukhrijannakumā Mina Al-Jannati Fatashqá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So We said, \"O Adam, indeed this is an enemy to you and to your wife. Then let him not remove you from Paradise so you would suffer.",
+            "english_hilali_khan": "Then We said: \"O Adam! Verily, this is an enemy to you and to your wife. So let him not get you both out of Paradise, so that you will be distressed.",
+            "english_rwwad": "We said “O Adam, this is an enemy to you and to your wife, so do not let him drive you both out of Paradise, for then you will fall into misery."
+        }
+    },
+    {
+        "id": 2465,
+        "chapter": 20,
+        "verse": 118,
+        "arabic_text": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعۡرَىٰ",
+        "phonetic": "20.118 'Inna Laka 'Allā Tajū`a Fīhā Wa Lā Ta`rá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, it is [promised] for you not to be hungry therein or be unclothed.",
+            "english_hilali_khan": "Verily, you have (a promise from Us) that you will never be hungry therein nor naked.",
+            "english_rwwad": "Here you will neither go hungry nor naked,"
+        }
+    },
+    {
+        "id": 2466,
+        "chapter": 20,
+        "verse": 119,
+        "arabic_text": "وَأَنَّكَ لَا تَظۡمَؤُاْ فِيهَا وَلَا تَضۡحَىٰ",
+        "phonetic": "20.119 Wa 'Annaka Lā Tažma'u Fīhā Wa Lā Tađĥá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And indeed, you will not be thirsty therein or be hot from the sun.\"",
+            "english_hilali_khan": "And you (will) suffer not from thirst therein nor from the sun’s heat.",
+            "english_rwwad": "nor will you suffer from thirst or from scorching heat.”"
+        }
+    },
+    {
+        "id": 2467,
+        "chapter": 20,
+        "verse": 120,
+        "arabic_text": "فَوَسۡوَسَ إِلَيۡهِ ٱلشَّيۡطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلۡ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلۡخُلۡدِ وَمُلۡكٖ لَّا يَبۡلَىٰ",
+        "phonetic": "20.120 Fawaswasa 'Ilayhi Ash-Shayţānu Qāla Yā 'Ādamu Hal 'Adulluka `Alá Shajarati Al-Khuldi Wa Mulkin Lā Yablá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then Satan whispered to him; he said, \"O Adam, shall I direct you to the tree of eternity and possession that will not deteriorate?\"",
+            "english_hilali_khan": "Then Shaitân (Satan) whispered to him, saying: \"O Adam! Shall I lead you to the Tree of Eternity and to a kingdom that will never waste away?\"",
+            "english_rwwad": "Then Satan whispered to him, and said, “O Adam, shall I show you the tree of immortality and a kingdom that will never decay?”"
+        }
+    },
+    {
+        "id": 2468,
+        "chapter": 20,
+        "verse": 121,
+        "arabic_text": "فَأَكَلَا مِنۡهَا فَبَدَتۡ لَهُمَا سَوۡءَٰتُهُمَا وَطَفِقَا يَخۡصِفَانِ عَلَيۡهِمَا مِن وَرَقِ ٱلۡجَنَّةِۚ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ",
+        "phonetic": "20.121 Fa'akalā Minhā Fabadat Lahumā Saw'ātuhumā Wa Ţafiqā Yakhşifāni `Alayhimā Min Waraqi Al-Jannati Wa `Aşá 'Ādamu Rabbahu Faghawá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they [i.e., Adam and his wife] ate of it, and their private parts became apparent to them, and they began to fasten over themselves from the leaves of Paradise. And Adam disobeyed his Lord and erred.",
+            "english_hilali_khan": "Then they both ate of the tree, and so their private parts became manifest to them, and they began to cover themselves with the leaves of the Paradise for their covering. Thus did Adam disobey his Lord, so he went astray.",
+            "english_rwwad": "So they both ate from the tree, then their nakedness was revealed to each other, and they began to put together leaves from Paradise to cover themselves. Thus Adam disobeyed his Lord, and fell into error."
+        }
+    },
+    {
+        "id": 2469,
+        "chapter": 20,
+        "verse": 122,
+        "arabic_text": "ثُمَّ ٱجۡتَبَٰهُ رَبُّهُۥ فَتَابَ عَلَيۡهِ وَهَدَىٰ",
+        "phonetic": "20.122 Thumma Ajtabāhu Rabbuhu Fatāba `Alayhi Wa Hadá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then his Lord chose him and turned to him in forgiveness and guided [him].",
+            "english_hilali_khan": "Then his Lord chose him, and turned to him with forgiveness, and gave him guidance.",
+            "english_rwwad": "Thereafter his Lord chose him, accepted his repentance, and guided him."
+        }
+    },
+    {
+        "id": 2470,
+        "chapter": 20,
+        "verse": 123,
+        "arabic_text": "قَالَ ٱهۡبِطَا مِنۡهَا جَمِيعَۢاۖ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَنِ ٱتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشۡقَىٰ",
+        "phonetic": "20.123 Qāla Ahbiţā Minhā Jamī`āan Ba`đukum Liba`đin `Adūwun Fa'immā Ya'tiyannakum Minnī Hudáan Famani Attaba`a Hudāya Falā Yađillu Wa Lā Yashqá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Allāh] said, \"Descend from it [i.e., Paradise] - all, [your descendants] being enemies to one another. And if there should come to you guidance from Me - then whoever follows My guidance will neither go astray [in the world] nor suffer [in the Hereafter].",
+            "english_hilali_khan": "He (Allâh) said: \"Get you down (from the Paradise to the earth), both of you, together, some of you are an enemy to some others. Then if there comes to you guidance from Me, then whoever follows My Guidance he shall neither go astray, nor shall be distressed.",
+            "english_rwwad": "Allah said, “Get down, both of you, from here altogether [with Satan] as enemies to one another. Then when there comes to you guidance from Me, whoever follows My guidance will neither go astray nor fall into misery."
+        }
+    },
+    {
+        "id": 2471,
+        "chapter": 20,
+        "verse": 124,
+        "arabic_text": "وَمَنۡ أَعۡرَضَ عَن ذِكۡرِي فَإِنَّ لَهُۥ مَعِيشَةٗ ضَنكٗا وَنَحۡشُرُهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ أَعۡمَىٰ",
+        "phonetic": "20.124 Wa Man 'A`rađa `An Dhikrī Fa'inna Lahu Ma`īshatan Đankāan Wa Naĥshuruhu Yawma Al-Qiyāmati 'A`má",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And whoever turns away from My remembrance - indeed, he will have a depressed [i.e., difficult] life, and We will gather [i.e., raise] him on the Day of Resurrection blind.\"",
+            "english_hilali_khan": "\"But whosoever turns away from My Reminder (i.e. neither believes in this Qur’ân nor acts on its teachings.) verily, for him is a life of hardship, and We shall raise him up blind on the Day of Resurrection.\"",
+            "english_rwwad": "But whoever turns away from My Reminder will have a miserable life, and on the Day of Resurrection We will raise him blind.”"
+        }
+    },
+    {
+        "id": 2472,
+        "chapter": 20,
+        "verse": 125,
+        "arabic_text": "قَالَ رَبِّ لِمَ حَشَرۡتَنِيٓ أَعۡمَىٰ وَقَدۡ كُنتُ بَصِيرٗا",
+        "phonetic": "20.125 Qāla Rabbi Lima Ĥashartanī 'A`má Wa Qad Kuntu Başīrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He will say, \"My Lord, why have you raised me blind while I was [once] seeing?\"",
+            "english_hilali_khan": "He will say: \"O my Lord! Why have you raised me up blind, while I had sight (before).\"",
+            "english_rwwad": "He will say, “My Lord, why have you raised me blind, when I was able to see before?”"
+        }
+    },
+    {
+        "id": 2473,
+        "chapter": 20,
+        "verse": 126,
+        "arabic_text": "قَالَ كَذَٰلِكَ أَتَتۡكَ ءَايَٰتُنَا فَنَسِيتَهَاۖ وَكَذَٰلِكَ ٱلۡيَوۡمَ تُنسَىٰ",
+        "phonetic": "20.126 Qāla Kadhālika 'Atatka 'Āyātunā Fanasītahā Wa Kadhalika Al-Yawma Tunsá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Allāh] will say, \"Thus did Our signs come to you, and you forgot [i.e., disregarded] them; and thus will you this Day be forgotten.\"",
+            "english_hilali_khan": "(Allâh) will say: \"Like this: Our Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.) came unto you, but you disregarded them (i.e. you left them, did not think deeply in them, and you turned away from them), and so this Day, you will be neglected (in the Hell-fire, away from Allâh’s Mercy).\"",
+            "english_rwwad": "Allah will say, “Similarly Our verses came to you, but you ignored them, so you will be ignored Today.”"
+        }
+    },
+    {
+        "id": 2474,
+        "chapter": 20,
+        "verse": 127,
+        "arabic_text": "وَكَذَٰلِكَ نَجۡزِي مَنۡ أَسۡرَفَ وَلَمۡ يُؤۡمِنۢ بِـَٔايَٰتِ رَبِّهِۦۚ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَدُّ وَأَبۡقَىٰٓ",
+        "phonetic": "20.127 Wa Kadhalika Najzī Man 'Asrafa Wa Lam Yu'umin Bi'āyāti Rabbihi Wa La`adhābu Al-'Ākhirati 'Ashaddu Wa 'Abqá",
+        "footnotes": {
+            "english_saheeh": "[865]- Than that of this world.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And thus do We recompense he who transgressed and did not believe in the signs of his Lord. And the punishment of the Hereafter is more severe and more enduring.[865]",
+            "english_hilali_khan": "And thus do We requite him who transgresses beyond bounds [i.e. commits the great sins and disobeys his Lord (Allâh) and believes not in His Messengers, and His revealed Books, like this Qur’an], and believes not in the Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.) of his Lord; and the torment of the Hereafter is far more severe and more lasting.",
+            "english_rwwad": "This is how We recompense those who transgress the limits and do not believe in the verses of his Lord; and the punishment of the Hereafter is more severe and more lasting."
+        }
+    },
+    {
+        "id": 2475,
+        "chapter": 20,
+        "verse": 128,
+        "arabic_text": "أَفَلَمۡ يَهۡدِ لَهُمۡ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ يَمۡشُونَ فِي مَسَٰكِنِهِمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي ٱلنُّهَىٰ",
+        "phonetic": "20.128 'Afalam Yahdi Lahum Kam 'Ahlaknā Qablahum Mina Al-Qurūni Yamshūna Fī Masākinihim 'Inna Fī Dhālika La'āyātin Li'wlī An-Nuhá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then, has it not become clear to them how many generations We destroyed before them as they walk among their dwellings? Indeed in that are signs for those of intelligence.",
+            "english_hilali_khan": "Is it not a guidance for them (to know) how many generations We have destroyed before them, in whose dwellings they walk? Verily, in this are signs indeed for men of understanding.",
+            "english_rwwad": "Is it not yet clear to them how many generations We destroyed before them, in whose dwellings they still walk about? There are signs in this for people of sound intellect."
+        }
+    },
+    {
+        "id": 2476,
+        "chapter": 20,
+        "verse": 129,
+        "arabic_text": "وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامٗا وَأَجَلٞ مُّسَمّٗى",
+        "phonetic": "20.129 Wa Lawlā Kalimatun Sabaqat Min Rabbika Lakāna Lizāmāan Wa 'Ajalun Musammáan",
+        "footnotes": {
+            "english_saheeh": "[866]- See footnote to 10:19.\n[867]- Allāh would have punished the disbelievers in this world as He did with previous peoples.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if not for a word[866] that preceded from your Lord, it [i.e., punishment] would have been an obligation [due immediately],[867] and [if not for] a specified term [decreed].",
+            "english_hilali_khan": "And had it not been for a Word that went forth before from your Lord, and a term determined, (their punishment) must necessarily have come (in this world).",
+            "english_rwwad": "Were it not for a prior decree from your Lord [O Prophet] and a time already set, they would have already been punishment."
+        }
+    },
+    {
+        "id": 2477,
+        "chapter": 20,
+        "verse": 130,
+        "arabic_text": "فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ غُرُوبِهَاۖ وَمِنۡ ءَانَآيِٕ ٱلَّيۡلِ فَسَبِّحۡ وَأَطۡرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرۡضَىٰ",
+        "phonetic": "20.130 Fāşbir `Alá Mā Yaqūlūna Wa Sabbiĥ Biĥamdi Rabbika Qabla Ţulū`i Ash-Shamsi Wa Qabla Ghurūbihā Wa Min 'Ānā'i Al-Layli Fasabbiĥ Wa 'Aţrāfa An-Nahāri La`allaka Tarđá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So be patient over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting; and during periods of the night [exalt Him] and at the ends of the day, that you may be satisfied.",
+            "english_hilali_khan": "So bear patiently (O Muhammad صلى الله عليه وسلم) what they say, and glorify the praises of your Lord before the rising of the sun, and before its setting, and during some hours of the night, and at the ends of the day (an indication for the five compulsory congregational prayers), that you may become pleased (with the reward which Allâh shall give you).",
+            "english_rwwad": "So be patient with what they say, and glorify your Lord with praise before sunrise and before sunset, and glorify Him during the night and at both ends of the day, so that you may be pleased [with the reward]."
+        }
+    },
+    {
+        "id": 2478,
+        "chapter": 20,
+        "verse": 131,
+        "arabic_text": "وَلَا تَمُدَّنَّ عَيۡنَيۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّنۡهُمۡ زَهۡرَةَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا لِنَفۡتِنَهُمۡ فِيهِۚ وَرِزۡقُ رَبِّكَ خَيۡرٞ وَأَبۡقَىٰ",
+        "phonetic": "20.131 Wa Lā Tamuddanna `Aynayka 'Ilá Mā Matta`nā Bihi 'Azwājāan Minhum Zahrata Al-Ĥayāati Ad-Dunyā Linaftinahum Fīhi Wa Rizqu Rabbika Khayrun Wa 'Abqá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And do not extend your eyes toward that by which We have given enjoyment to [some] categories of them, [its being but] the splendor of worldly life by which We test them. And the provision of your Lord is better and more enduring.",
+            "english_hilali_khan": "And strain not your eyes in longing for the things We have given for enjoyment to various groups of them (polytheists and disbelievers in the Oneness of Allâh), the splendour of the life of this world, that We may test them thereby. But the provision (good reward in the Hereafter) of your Lord is better and more lasting.",
+            "english_rwwad": "Do not turn your eyes covetously towards the various forms of splendor of this life that We have given some of the [disbelievers] to enjoy, as a trial for them. But the provision of your Lord is far better and more lasting."
+        }
+    },
+    {
+        "id": 2479,
+        "chapter": 20,
+        "verse": 132,
+        "arabic_text": "وَأۡمُرۡ أَهۡلَكَ بِٱلصَّلَوٰةِ وَٱصۡطَبِرۡ عَلَيۡهَاۖ لَا نَسۡـَٔلُكَ رِزۡقٗاۖ نَّحۡنُ نَرۡزُقُكَۗ وَٱلۡعَٰقِبَةُ لِلتَّقۡوَىٰ",
+        "phonetic": "20.132 Wa 'Mur 'Ahlaka Biş-Şalāati Wa Aşţabir `Alayhā Lā Nas'aluka Rizqāan Naĥnu Narzuquka Wa Al-`Āqibatu Lilttaqwá",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And enjoin prayer upon your family [and people] and be steadfast therein. We ask you not for provision; We provide for you, and the [best] outcome is for [those of] righteousness.",
+            "english_hilali_khan": "And enjoin As-Salât (the prayer) on your family, and be patient in offering them [i.e. the Salât (prayers)]. We ask not of you a provision (i.e. to give Us something: money): We provide for you. And the good end (i.e. Paradise) is for the Muttaqûn (the pious - See V.2:2).",
+            "english_rwwad": "Enjoin your household to perform prayer and adhere to it firmly. We ask no provision from you; rather, it is We Who give you provision. And the best outcome is for those who fear Allah."
+        }
+    },
+    {
+        "id": 2480,
+        "chapter": 20,
+        "verse": 133,
+        "arabic_text": "وَقَالُواْ لَوۡلَا يَأۡتِينَا بِـَٔايَةٖ مِّن رَّبِّهِۦٓۚ أَوَلَمۡ تَأۡتِهِم بَيِّنَةُ مَا فِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
+        "phonetic": "20.133 Wa Qālū Lawlā Ya'tīnā Bi'āyatin Min Rabbihi 'Awalam Ta'tihim Bayyinatu Mā Fī Aş-Şuĥufi Al-'Ūlá",
+        "footnotes": {
+            "english_saheeh": "[868]- Is not the Qur’ān an adequate proof of Muḥammad's prophethood and sufficient as a lasting miracle?",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they say, \"Why does he not bring us a sign from his Lord?\" Has there not come to them evidence of what was in the former scriptures?[868]",
+            "english_hilali_khan": "They say: \"Why does he not bring us a sign (proof) from his Lord?\" Has there not come to them the proof of that which is (written) in the former papers [Scriptures, i.e. the Taurât (Torah), and the Injeel (Gospel), about the coming of the Prophet Muhammad صلى الله عليه وسلم]?",
+            "english_rwwad": "They say, “Why does he not bring us a sign from his Lord?” Has there not come to them [the Qur’an as] a confirmation of what is in the earlier Scriptures?"
+        }
+    },
+    {
+        "id": 2481,
+        "chapter": 20,
+        "verse": 134,
+        "arabic_text": "وَلَوۡ أَنَّآ أَهۡلَكۡنَٰهُم بِعَذَابٖ مِّن قَبۡلِهِۦ لَقَالُواْ رَبَّنَا لَوۡلَآ أَرۡسَلۡتَ إِلَيۡنَا رَسُولٗا فَنَتَّبِعَ ءَايَٰتِكَ مِن قَبۡلِ أَن نَّذِلَّ وَنَخۡزَىٰ",
+        "phonetic": "20.134 Wa Law 'Annā 'Ahlaknāhum Bi`adhābin Min Qablihi Laqālū Rabbanā Lawlā 'Arsalta 'Ilaynā Rasūlāan Fanattabi`a 'Āyātika Min Qabli 'An Nadhilla Wa Nakhzá",
+        "footnotes": {
+            "english_saheeh": "[869]- Prophet Muḥammad (ﷺ).  Also interpreted as \"before it,\" i.e., the Qur’ān.",
+            "english_hilali_khan": "(V.20:134) Narrated Abu Sa‘îd Al-Khudrî رضي الله عنه: ‘Alî bin Abî Tâlib sent a piece of gold, not yet taken out of its ore, in a tanned leather container to Allâh’s Messenger صلى الله عليه وسلم . Allâh’s Messenger صلى الله عليه وسلم distributed that amongst four persons: ‘Uyainah bin Badr, Aqra‘ bin Hâbis, Zaid Al-Khail and the fourth was either ‘Alqamah or ‘Âmir bin At-Tufail. On that, one of his companions said, \"We are more deserving of this (gold) than these (persons).\" When that news reached the Prophet صلى الله عليه وسلم he said, \"Don’t you trust me though I am the trustworthy man of the One in the heavens, and I receive the news of heavens (i.e. Divine Revelation) both in the morning and in the evening?\" There got up a man with sunken eyes, raised cheek bones, raised forehead, a thick beard, a shaven head and a waist-sheet that was tucked up and he said, \"O Allâh’s Messenger! Be afraid of Allâh.\" The Prophet صلى الله عليه وسلم said, \"Woe to you! Am I not of all the people of the earth the most entitled to fear Allâh?\" Then that man went away. Khâlid bin Al-Walîd said, \"O Allâh’s Messenger! Shall I chop his neck off?\" The Prophet صلى الله عليه وسلم said, \"No, may be he offers prayers.\" Khâlid said, \"Numerous are those who offer prayers and say by their tongues (i.e. mouths) what is not in their hearts.\" Allâh’s Messenger صلى الله عليه وسلم said, \"I have not been ordered (by Allâh) to search the hearts of the people or cut open their bellies.\" Then the Prophet صلى الله عليه وسلم looked at him (i.e. that man) while the latter was going away and said, \"From the offspring of this (man) there will come out (people) who will recite the Qur’ân continuously and elegantly but it will not exceed their throats. (They will neither understand it nor act upon it). They would go out of the religion (i.e., discard Islâm) as an arrow goes out through a game’s body.\" I think he also said, \"If I should be present at their time, I would kill them as the nations of Thamûd were killed.\" [Sahih Al-Bukhari, Vol.5, Hadith No.638].",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if We had destroyed them with a punishment before him,[869] they would have said, \"Our Lord, why did You not send to us a messenger so we could have followed Your verses [i.e., teachings] before we were humiliated and disgraced?\"",
+            "english_hilali_khan": "And if We had destroyed them with a torment before this (i.e. Messenger Muhammad صلى الله عليه وسلم and the Qur’ân), they would surely have said: \"Our Lord! If only You had sent us a Messenger, we should certainly have followed Your Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.), before we were humiliated and disgraced.\"[1]",
+            "english_rwwad": "If We had destroyed them with a punishment before this, they would have said, “Our Lord, if only You had sent us a messenger so that we would have followed Your verses before being humiliated and disgraced.”"
+        }
+    },
+    {
+        "id": 2482,
+        "chapter": 20,
+        "verse": 135,
+        "arabic_text": "قُلۡ كُلّٞ مُّتَرَبِّصٞ فَتَرَبَّصُواْۖ فَسَتَعۡلَمُونَ مَنۡ أَصۡحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِيِّ وَمَنِ ٱهۡتَدَىٰ",
+        "phonetic": "20.135 Qul Kullun Mutarabbişun Fatarabbaşū Fasata`lamūna Man 'Aşĥābu Aş-Şirāţi As-Sawīyi Wa Mani Ahtadá",
+        "footnotes": {
+            "english_saheeh": "[870]- For the outcome of this matter.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"Each [of us] is waiting;[870] so wait. For you will know who are the companions of the sound path and who is guided.\"",
+            "english_hilali_khan": "Say (O Muhammad صلى الله عليه وسلم): \"Each one (believer and disbeliever.) is waiting, so wait you too; and you shall know who are they that are on the Straight and Even Path (i.e. Allâh’s religion of Islâmic Monotheism), and who are they that have let themselves be guided (on the Right Path).",
+            "english_rwwad": "Say, “Each of us is waiting, so wait! You will come to know who are the people of the straight path and who are rightly guided.”"
+        }
+    }
+]

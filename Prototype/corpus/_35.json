@@ -1,0 +1,767 @@
+[
+    {
+        "id": 3660,
+        "chapter": 35,
+        "verse": 1,
+        "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ جَاعِلِ ٱلۡمَلَٰٓئِكَةِ رُسُلًا أُوْلِيٓ أَجۡنِحَةٖ مَّثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۚ يَزِيدُ فِي ٱلۡخَلۡقِ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+        "phonetic": "35.1 Al-Ĥamdu Lillāhi Fāţiri As-Samāwāti Wa Al-'Arđi Jā`ili Al-Malā'ikati Rusulāan 'Ūlī 'Ajniĥatin Mathná Wa Thulātha Wa Rubā`a Yazīdu Fī Al-Khalqi Mā Yashā'u 'Inna Allāha `Alá Kulli Shay'in Qadīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[All] praise is [due] to Allāh, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allāh is over all things competent.",
+            "english_hilali_khan": "All the praises and thanks be to Allâh, the (only) Originator [or the (Only) Creator] of the heavens and the earth, Who made the angels messengers with wings, two or three or four. He increases in creation what He wills. Verily, Allâh is Able to do all things.",
+            "english_rwwad": "All praise be to Allah, the Originator of the heavens and earth, Who made the angels messengers with two, three, or four wings. He increases in creation whatever He wills. Indeed, Allah is Most Capable of all things."
+        }
+    },
+    {
+        "id": 3661,
+        "chapter": 35,
+        "verse": 2,
+        "arabic_text": "مَّا يَفۡتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحۡمَةٖ فَلَا مُمۡسِكَ لَهَاۖ وَمَا يُمۡسِكۡ فَلَا مُرۡسِلَ لَهُۥ مِنۢ بَعۡدِهِۦۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+        "phonetic": "35.2 Mā Yaftaĥi Allāhu Lilnnāsi Min Raĥmatin Falā Mumsika Lahā Wa Mā Yumsik Falā Mursila Lahu Min Ba`dihi Wa Huwa Al-`Azīzu Al-Ĥakīmu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Whatever Allāh grants to people of mercy - none can withhold it; and whatever He withholds - none can release it thereafter. And He is the Exalted in Might, the Wise.",
+            "english_hilali_khan": "Whatever of mercy (i.e. of good), Allâh may grant to mankind, none can withhold it; and whatever He may withhold, none can grant it thereafter. And He is the All-Mighty, the All-Wise.",
+            "english_rwwad": "Whatever mercy Allah opens up for people, none can withhold it; and whatever He withholds, none can release it thereafter, for He is the All-Mighty, All-Wise."
+        }
+    },
+    {
+        "id": 3662,
+        "chapter": 35,
+        "verse": 3,
+        "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡۚ هَلۡ مِنۡ خَٰلِقٍ غَيۡرُ ٱللَّهِ يَرۡزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ لَآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ",
+        "phonetic": "35.3 Yā 'Ayyuhā An-Nāsu Adhkurū Ni`mata Allāhi `Alaykum Hal Min Khāliqin Ghayru Allāhi Yarzuqukum Mina As-Samā'i Wa Al-'Arđi Lā 'Ilāha 'Illā Huwa Fa'anná Tu'ufakūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O mankind, remember the favor of Allāh upon you. Is there any creator other than Allāh who provides for you from the heaven and earth? There is no deity except Him, so how are you deluded?",
+            "english_hilali_khan": "O mankind! Remember the Grace of Allâh upon you! Is there any creator other than Allâh who provides for you from the sky (rain) and the earth? Lâ ilâha illâ Huwa (none has the right to be worshipped but He). How then are you turning away (from Him)?",
+            "english_rwwad": "O people, remember Allah’s favor upon you. Is there any creator other than Allah who gives you provision from the heaven and earth? None has the right to be worshiped except Him. How can you then be deluded?"
+        }
+    },
+    {
+        "id": 3663,
+        "chapter": 35,
+        "verse": 4,
+        "arabic_text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كُذِّبَتۡ رُسُلٞ مِّن قَبۡلِكَۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+        "phonetic": "35.4 Wa 'In Yukadhibūka Faqad Kudhibat Rusulun Min Qablika Wa 'Ilá Allāhi Turja`u Al-'Umūru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if they deny you, [O Muḥammad] - already were messengers denied before you. And to Allāh are returned [all] matters.",
+            "english_hilali_khan": "4. And if they belie you (O Muhammad صلى الله عليه وسلم), so were Messengers belied before you. And to Allâh return all matters (for decision).",
+            "english_rwwad": "If they reject you, there were messengers rejected before you; it is to Allah that all matters will be returned."
+        }
+    },
+    {
+        "id": 3664,
+        "chapter": 35,
+        "verse": 5,
+        "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ",
+        "phonetic": "35.5 Yā 'Ayyuhā An-Nāsu 'Inna Wa`da Allāhi Ĥaqqun Falā Taghurrannakumu Al-Ĥayā Atu Ad-Dunyā Wa Lā Yaghurrannakum Billāhi Al-Gharūru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O mankind, indeed the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan].",
+            "english_hilali_khan": "O mankind! Verily, the Promise of Allâh is true. So let not this present life deceive you, and let not the chief deceiver (Satan) deceive you about Allâh.",
+            "english_rwwad": "O mankind, indeed Allah’s promise is true, so do not let the life of this world deceive you, nor let the Deceiver [Satan] deceive you concerning Allah."
+        }
+    },
+    {
+        "id": 3665,
+        "chapter": 35,
+        "verse": 6,
+        "arabic_text": "إِنَّ ٱلشَّيۡطَٰنَ لَكُمۡ عَدُوّٞ فَٱتَّخِذُوهُ عَدُوًّاۚ إِنَّمَا يَدۡعُواْ حِزۡبَهُۥ لِيَكُونُواْ مِنۡ أَصۡحَٰبِ ٱلسَّعِيرِ",
+        "phonetic": "35.6 'Inna Ash-Shayţāna Lakum `Adūwun Fa Attakhidhūhu `Adūwāan 'Innamā Yad`ū Ĥizbahu Liyakūnū Min 'Aşĥābi As-Sa`īri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, Satan is an enemy to you; so take him as an enemy. He only invites his party to be among the companions of the Blaze.",
+            "english_hilali_khan": "Surely, Shaitân (Satan) is an enemy to you, so take (treat) him as an enemy. He only invites his Hizb (followers) that they may become the dwellers of the blazing Fire.",
+            "english_rwwad": "Indeed, Satan is an enemy to you, so take him as an enemy. He only calls his followers to be among the inmates of the Blazing Fire."
+        }
+    },
+    {
+        "id": 3666,
+        "chapter": 35,
+        "verse": 7,
+        "arabic_text": "ٱلَّذِينَ كَفَرُواْ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٌ",
+        "phonetic": "35.7 Al-Ladhīna Kafarū Lahum `Adhābun Shadīdun Wa Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Lahum Maghfiratun Wa 'Ajrun Kabīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Those who disbelieve will have a severe punishment, and those who believe and do righteous deeds will have forgiveness and great reward.",
+            "english_hilali_khan": "Those who disbelieve, theirs will be a severe torment; and those who believe (in the Oneness of Allâh - Islâmic Monotheism) and do righteous good deeds, theirs will be forgiveness and a great reward (i.e. Paradise).",
+            "english_rwwad": "Those who disbelieve will have a severe punishment, but those who believe and do righteous deeds will have forgiveness and a great reward."
+        }
+    },
+    {
+        "id": 3667,
+        "chapter": 35,
+        "verse": 8,
+        "arabic_text": "أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنٗاۖ فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۖ فَلَا تَذۡهَبۡ نَفۡسُكَ عَلَيۡهِمۡ حَسَرَٰتٍۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا يَصۡنَعُونَ",
+        "phonetic": "35.8 'Afaman Zuyyina Lahu Sū'u `Amalihi Fara'āhu Ĥasanāan Fa'inna Allāha Yuđillu Man Yashā'u Wa Yahdī Man Yashā'u Falā Tadh/hab Nafsuka `Alayhim Ĥasarātin 'Inna Allāha `Alīmun Bimā Yaşna`ūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then is one to whom the evil of his deed has been made attractive so he considers it good [like one rightly guided]? For indeed, Allāh sends astray whom He wills and guides whom He wills. So do not let yourself perish over them in regret. Indeed, Allāh is Knowing of what they do.",
+            "english_hilali_khan": "Is he, then, to whom the evil of his deeds is made fair-seeming, so that he considers it as good (equal to one who is rightly guided)? Verily, Allâh sends astray whom He wills, and guides whom He wills. So destroy not yourself (O Muhammad صلى الله عليه وسلم) in sorrow for them. Truly, Allâh is the All-Knower of what they do!",
+            "english_rwwad": "Is one whose evil deed is made appealing to him so he deems it good [like one who is rightly guided]? It is Allah who causes to stray whom He wills and guides whom He wills. So do not let yourself collapse in grief for them. Allah is All-Knowing of what they do."
+        }
+    },
+    {
+        "id": 3668,
+        "chapter": 35,
+        "verse": 9,
+        "arabic_text": "وَٱللَّهُ ٱلَّذِيٓ أَرۡسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابٗا فَسُقۡنَٰهُ إِلَىٰ بَلَدٖ مَّيِّتٖ فَأَحۡيَيۡنَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَاۚ كَذَٰلِكَ ٱلنُّشُورُ",
+        "phonetic": "35.9 Wa Allāhu Al-Ladhī 'Arsala Ar-Riyāĥa Fatuthīru Saĥābāan Fasuqnāhu 'Ilá Baladin Mayyitin Fa'aĥyaynā Bihi Al-'Arđa Ba`da Mawtihā Kadhālika An-Nushūru ",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And it is Allāh who sends the winds, and they stir the clouds, and We drive them to a dead land and give life thereby to the earth after its lifelessness. Thus is the resurrection.",
+            "english_hilali_khan": "And it is Allâh Who sends the winds, so that they raise up the clouds, and We drive them to a dead land, and revive therewith the earth after its death. As such (will be) the Resurrection!",
+            "english_rwwad": "It is Allah Who sends the winds which stir up clouds, then We drive them to a dead land, and revive therewith the earth after its death. Such will be the Resurrection."
+        }
+    },
+    {
+        "id": 3669,
+        "chapter": 35,
+        "verse": 10,
+        "arabic_text": "مَن كَانَ يُرِيدُ ٱلۡعِزَّةَ فَلِلَّهِ ٱلۡعِزَّةُ جَمِيعًاۚ إِلَيۡهِ يَصۡعَدُ ٱلۡكَلِمُ ٱلطَّيِّبُ وَٱلۡعَمَلُ ٱلصَّٰلِحُ يَرۡفَعُهُۥۚ وَٱلَّذِينَ يَمۡكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَمَكۡرُ أُوْلَٰٓئِكَ هُوَ يَبُورُ",
+        "phonetic": "35.10 Man Kāna Yurīdu Al-`Izzata Falillāhi Al-`Izzatu Jamī`āan 'Ilayhi Yaş`adu Al-Kalimu Aţ-Ţayyibu Wa Al-`Amalu Aş-Şāliĥu Yarfa`uhu Wa Al-Ladhīna Yamkurūna As-Sayyi'āti Lahum `Adhābun Shadīdun Wa Makru 'Ūlā'ika Huwa Yabūru",
+        "footnotes": {
+            "english_saheeh": "[1245]- See footnote to 4:139.\n[1246]- For acceptance by Allāh, meaning that righteous deeds are confirmation and proof of what is uttered by the tongue.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Whoever desires honor [through power] - then to Allāh belongs all honor.[1245] To Him ascends good speech, and righteous work raises it.[1246] But they who plot evil deeds will have a severe punishment, and the plotting of those - it will perish.",
+            "english_hilali_khan": "Whosoever desires honour, (power and glory), then to Allâh belong all honour, power and glory [and one can get honour, power and glory only by obeying and worshipping Allâh (Alone)]. To Him ascend (all) the goodly words, and the righteous deeds exalt it (i.e. the goodly words are not accepted by Allâh unless and until they are followed by good deeds), but those who plot evils, theirs will be severe torment. And the plotting of such will perish.",
+            "english_rwwad": "Whoever seeks honor, then all honor belongs to Allah alone. To Him ascend good words, and righteous deeds raise them. But those who plan evil deeds there will be a severe punishment for them, and the plans of such people will perish."
+        }
+    },
+    {
+        "id": 3670,
+        "chapter": 35,
+        "verse": 11,
+        "arabic_text": "وَٱللَّهُ خَلَقَكُم مِّن تُرَابٖ ثُمَّ مِن نُّطۡفَةٖ ثُمَّ جَعَلَكُمۡ أَزۡوَٰجٗاۚ وَمَا تَحۡمِلُ مِنۡ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلۡمِهِۦۚ وَمَا يُعَمَّرُ مِن مُّعَمَّرٖ وَلَا يُنقَصُ مِنۡ عُمُرِهِۦٓ إِلَّا فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
+        "phonetic": "35.11 Wa Allāhu Khalaqakum Min Turābin Thumma Min Nuţfatin Thumma Ja`alakum 'Azwājāan Wa Mā Taĥmilu Min 'Unthá Wa Lā Tađa`u 'Illā Bi`ilmihi Wa Mā Yu`ammaru Min Mu`ammarin Wa Lā Yunqaşu Min `Umurihi 'Illā Fī Kitābin 'Inna Dhālika `Alá Allāhi Yasīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And Allāh created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allāh is easy.",
+            "english_hilali_khan": "And Allâh did create you (Adam) from dust, then from Nutfah (male and female discharge semen drops i.e. Adam’s offspring), then He made you pairs (male and female). And no female conceives or gives birth but with His Knowledge. And no aged man is granted a length of life nor is a part cut off from his life (or another man’s life), but is in a Book (Al-Lauh Al-Mahfûz ) Surely, that is easy for Allâh.",
+            "english_rwwad": "It is Allah Who created you from dust, then from a drop of semen, then He made you into pairs. No female conceives nor gives birth without His knowledge. None is given long life or cut short of his life except that it is in a Record. That is surely easy for Allah."
+        }
+    },
+    {
+        "id": 3671,
+        "chapter": 35,
+        "verse": 12,
+        "arabic_text": "وَمَا يَسۡتَوِي ٱلۡبَحۡرَانِ هَٰذَا عَذۡبٞ فُرَاتٞ سَآئِغٞ شَرَابُهُۥ وَهَٰذَا مِلۡحٌ أُجَاجٞۖ وَمِن كُلّٖ تَأۡكُلُونَ لَحۡمٗا طَرِيّٗا وَتَسۡتَخۡرِجُونَ حِلۡيَةٗ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ فِيهِ مَوَاخِرَ لِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+        "phonetic": "35.12 Wa Mā Yastawī Al-Baĥrāni Hādhā `Adhbun Furātun Sā'ighun Sharābuhu Wa Hadhā Milĥun 'Ujājun Wa Min Kullin Ta'kulūna Laĥmāan Ţarīyāan Wa Tastakhrijūna Ĥilyatan Talbasūnahā Wa Tará Al-Fulka Fīhi Mawākhira Litabtaghū Min Fađlihi Wa La`allakum Tashkurūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And not alike are the two seas [i.e., bodies of water]. One is fresh and sweet, palatable for drinking, and one is salty and bitter. And from each you eat tender meat and extract ornaments which you wear, and you see the ships plowing through [them] that you might seek of His bounty; and perhaps you will be grateful.",
+            "english_hilali_khan": "And the two seas (kinds of water) are not alike: this is palatable, sweet and pleasant to drink, and that is salt and bitter. And from them both you eat fresh tender meat (fish), and derive the ornaments that you wear. And you see the ships cleaving (the sea-water as they sail through it), that you may seek of His Bounty, and that you may give thanks.",
+            "english_rwwad": "The two bodies of water are not alike: one is fresh and palatable, pleasant to drink, and the other is salty and bitter. Yet from each you eat fresh meat and extract ornaments to wear. And you see the ships traverse their way through both, so that you may seek His bounty and so that you may give thanks."
+        }
+    },
+    {
+        "id": 3672,
+        "chapter": 35,
+        "verse": 13,
+        "arabic_text": "يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ يَجۡرِي لِأَجَلٖ مُّسَمّٗىۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ لَهُ ٱلۡمُلۡكُۚ وَٱلَّذِينَ تَدۡعُونَ مِن دُونِهِۦ مَا يَمۡلِكُونَ مِن قِطۡمِيرٍ",
+        "phonetic": "35.13 Yūliju Al-Layla Fī An-Nahāri Wa Yūliju An-Nahāra Fī Al-Layli Wa Sakhkhara Ash-Shamsa Wa Al-Qamara Kullun Yajrī Li'jalin Musammáan Dhalikumu Allāhu Rabbukum Lahu Al-Mulku Wa Al-Ladhīna Tad`ūna Min Dūnihi Mā Yamlikūna Min Qiţmīrin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He causes the night to enter the day, and He causes the day to enter the night and has subjected the sun and the moon - each running [its course] for a specified term. That is Allāh, your Lord; to Him belongs sovereignty. And those whom you invoke other than Him do not possess [as much as] the membrane of a date seed.",
+            "english_hilali_khan": "He merges the night into the day (i.e. the decrease in the hours of the night is added to the hours of the day), and He merges the day into the night (i.e. the decrease in the hours of the day is added to the hours of the night). And He has subjected the sun and the moon: each runs its course for a term appointed. Such is Allâh, your Lord; His is the kingdom. And those, whom you invoke or call upon instead of Him, own not even a Qitmîr (the thin membrane over the date-stone).",
+            "english_rwwad": "He merges the night into the day and the day into the night, and subjected the sun and the moon, each running its course for an appointed term. Such is Allah, your Lord. To Him belongs the dominion, whereas those whom you invoke besides Him do not own so much as the membrane of a date stone."
+        }
+    },
+    {
+        "id": 3673,
+        "chapter": 35,
+        "verse": 14,
+        "arabic_text": "إِن تَدۡعُوهُمۡ لَا يَسۡمَعُواْ دُعَآءَكُمۡ وَلَوۡ سَمِعُواْ مَا ٱسۡتَجَابُواْ لَكُمۡۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكۡفُرُونَ بِشِرۡكِكُمۡۚ وَلَا يُنَبِّئُكَ مِثۡلُ خَبِيرٖ",
+        "phonetic": "35.14 'In Tad`ūhum Lā Yasma`ū Du`ā'akum Wa Law Sami`ū Mā Astajābū Lakum Wa Yawma Al-Qiyāmati Yakfurūna Bishirkikum Wa Lā Yunabbi'uka Mithlu Khabīrin",
+        "footnotes": {
+            "english_saheeh": "[1247]- Of them with Allāh or your worship of them.",
+            "english_hilali_khan": "(V.35:14) See the footnote of (V.2:165).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "If you invoke them, they do not hear your supplication; and if they heard, they would not respond to you. And on the Day of Resurrection they will deny your association.[1247] And none can inform you like [one] Aware [of all matters].",
+            "english_hilali_khan": "If you invoke (or call upon) them, they hear not your call; and if (in case) they were to hear, they could not grant it (your request) to you. And on the Day of Resurrection, they will disown your worshipping them. And none can inform you (O Muhammad صلى الله عليه وسلم) like Him Who is the All-Knower (of everything).[1]",
+            "english_rwwad": "If you call upon them, they cannot hear your call, and even if they were to hear, they could not respond to you. On the Day of Resurrection they will disown your associating them as partners with Allah. And none can inform you like the All-Aware."
+        }
+    },
+    {
+        "id": 3674,
+        "chapter": 35,
+        "verse": 15,
+        "arabic_text": "۞ يَٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ ٱلۡفُقَرَآءُ إِلَى ٱللَّهِۖ وَٱللَّهُ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
+        "phonetic": "35.15 Yā 'Ayyuhā An-Nāsu 'Antumu Al-Fuqarā'u 'Ilá Allāhi Wa Allāhu Huwa Al-Ghanīyu Al-Ĥamīdu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O mankind, you are those in need of Allāh, while Allāh is the Free of need, the Praiseworthy.",
+            "english_hilali_khan": "O mankind! it is you who stand in need of Allâh. But Allâh is Rich (Free of all needs), Worthy of all praise.",
+            "english_rwwad": "O people, it is you who are in need of Allah, whereas Allah is the Self-Sufficient, Praiseworthy."
+        }
+    },
+    {
+        "id": 3675,
+        "chapter": 35,
+        "verse": 16,
+        "arabic_text": "إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ",
+        "phonetic": "35.16 'In Yasha' Yudh/hibkum Wa Ya'ti Bikhalqin Jadīdin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "If He wills, He can do away with you and bring forth a new creation.",
+            "english_hilali_khan": "If He willed, He could destroy you and bring about a new creation.",
+            "english_rwwad": "If He wills, He can eliminate you and bring in a new creation,"
+        }
+    },
+    {
+        "id": 3676,
+        "chapter": 35,
+        "verse": 17,
+        "arabic_text": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ",
+        "phonetic": "35.17 Wa Mā Dhālika `Alá Allāhi Bi`azīzin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And that is for Allāh not difficult.",
+            "english_hilali_khan": "And that is not hard for Allâh.",
+            "english_rwwad": "for that is not difficult for Allah."
+        }
+    },
+    {
+        "id": 3677,
+        "chapter": 35,
+        "verse": 18,
+        "arabic_text": "وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ وَإِن تَدۡعُ مُثۡقَلَةٌ إِلَىٰ حِمۡلِهَا لَا يُحۡمَلۡ مِنۡهُ شَيۡءٞ وَلَوۡ كَانَ ذَا قُرۡبَىٰٓۗ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَأَقَامُواْ ٱلصَّلَوٰةَۚ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفۡسِهِۦۚ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
+        "phonetic": "35.18 Wa Lā Taziru Wāziratun Wizra 'Ukhrá Wa 'In Tad`u Muthqalatun 'Ilá Ĥimlihā Lā Yuĥmal Minhu Shay'un Wa Law Kāna Dhā Qurbá 'Innamā Tundhiru Al-Ladhīna Yakhshawna Rabbahum Bil-Ghaybi Wa 'Aqāmū Aş-Şalāata Wa Man Tazakká Fa'innamā Yatazakká Linafsihi Wa 'Ilá Allāhi Al-Maşīru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And no bearer of burdens will bear the burden of another. And if a heavily laden soul calls [another] to [carry some of] its load, nothing of it will be carried, even if he should be a close relative. You can only warn those who fear their Lord unseen and have established prayer. And whoever purifies himself only purifies himself for [the benefit of] his soul. And to Allāh is the [final] destination.",
+            "english_hilali_khan": "And no bearer of burdens shall bear another’s burden; and if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin. You (O Muhammad صلى الله عليه وسلم) can warn only those who fear their Lord unseen and perform As-Salât (Iqâmat-as-Salât). And he who purifies himself (from all kinds of sins), then he purifies only for the benefit of his ownself. And to Allâh is the (final) Return (of all).",
+            "english_rwwad": "No bearer of burdens can bear the burden of another. If a heavily-laden soul calls for help to bear its burden, nothing of it will be carried, even if he is a close relative. You can only warn those who fear their Lord unseen and establish prayer. Whoever purifies himself, he only does so for his own benefit. To Allah is the final return."
+        }
+    },
+    {
+        "id": 3678,
+        "chapter": 35,
+        "verse": 19,
+        "arabic_text": "وَمَا يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ",
+        "phonetic": "35.19 Wa Mā Yastawī Al-'A`má Wa Al-Başīru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Not equal are the blind and the seeing,",
+            "english_hilali_khan": "Not alike are the blind (disbelievers in Islâmic Monotheism) and the seeing (believers in Islâmic Monotheism).",
+            "english_rwwad": "The blind and the seeing are not equal,"
+        }
+    },
+    {
+        "id": 3679,
+        "chapter": 35,
+        "verse": 20,
+        "arabic_text": "وَلَا ٱلظُّلُمَٰتُ وَلَا ٱلنُّورُ",
+        "phonetic": "35.20 Wa Lā Až-Žulumātu Wa Lā An-Nūr",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Nor are the darknesses and the light,",
+            "english_hilali_khan": "Nor are (alike) darkness (disbelief) and light (Belief in Islâmic Monotheism).",
+            "english_rwwad": "nor are the depths of darkness and the light,"
+        }
+    },
+    {
+        "id": 3680,
+        "chapter": 35,
+        "verse": 21,
+        "arabic_text": "وَلَا ٱلظِّلُّ وَلَا ٱلۡحَرُورُ",
+        "phonetic": "35.21 Wa Lā Až-Žillu Wa Lā Al-Ĥarūru",
+        "footnotes": {
+            "english_saheeh": "[1248]- Of the sun or of a scorching wind.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Nor are the shade and the heat,[1248]",
+            "english_hilali_khan": "Nor are (alike) the shade and the sun’s heat.",
+            "english_rwwad": "nor the shade and the scorching wind."
+        }
+    },
+    {
+        "id": 3681,
+        "chapter": 35,
+        "verse": 22,
+        "arabic_text": "وَمَا يَسۡتَوِي ٱلۡأَحۡيَآءُ وَلَا ٱلۡأَمۡوَٰتُۚ إِنَّ ٱللَّهَ يُسۡمِعُ مَن يَشَآءُۖ وَمَآ أَنتَ بِمُسۡمِعٖ مَّن فِي ٱلۡقُبُورِ",
+        "phonetic": "35.22 Wa Mā Yastawī Al-'Aĥyā'u Wa Lā Al-'Amwātu 'Inna Allāha Yusmi`u Man Yashā'u Wa Mā 'Anta Bimusmi`in Man Fī Al-Qubūri",
+        "footnotes": {
+            "english_saheeh": "[1249]- The four comparisons given by Allāh (subḥānahu wa taʿālā) in verses 19-22 are those of the believer and unbeliever, various kinds of misbelief and (true) belief, Paradise and Hellfire, and those receptive to guidance and those unreceptive.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And not equal are the living and the dead. Indeed, Allāh causes to hear whom He wills, but you cannot make hear those in the graves.[1249]",
+            "english_hilali_khan": "Nor are (alike) the living (i.e. the believers) and the dead (i.e. the disbelievers). Verily, Allâh makes whom He wills to hear, but you cannot make hear those who are in graves.",
+            "english_rwwad": "Nor are the living and the dead equal. Allah makes to hear whom He wills, but you cannot make to hear those who are in the graves."
+        }
+    },
+    {
+        "id": 3682,
+        "chapter": 35,
+        "verse": 23,
+        "arabic_text": "إِنۡ أَنتَ إِلَّا نَذِيرٌ",
+        "phonetic": "35.23 'In 'Anta 'Illā Nadhīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "You, [O Muḥammad], are not but a warner.",
+            "english_hilali_khan": "You (O Muhammad صلى الله عليه وسلم) are only a warner (i.e. your duty is to convey Allâh’s Message to mankind but the guidance is Allâh’s).",
+            "english_rwwad": "You are but a warner."
+        }
+    },
+    {
+        "id": 3683,
+        "chapter": 35,
+        "verse": 24,
+        "arabic_text": "إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۚ وَإِن مِّنۡ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٞ",
+        "phonetic": "35.24 'Innā 'Arsalnāka Bil-Ĥaqqi Bashīrāan Wa Nadhīrāan Wa 'In Min 'Ummatin 'Illā Khalā Fīhā Nadhīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, We have sent you with the truth as a bringer of good tidings and a warner. And there was no nation but that there had passed within it a warner.",
+            "english_hilali_khan": "Verily We have sent you with the truth, a bearer of glad tidings and a warner. And there never was a nation but a warner had passed among them.",
+            "english_rwwad": "We have sent you with the truth as a bearer of glad tidings and a warner. There has never been any community except that a warner came to it."
+        }
+    },
+    {
+        "id": 3684,
+        "chapter": 35,
+        "verse": 25,
+        "arabic_text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
+        "phonetic": "35.25 Wa 'In Yukadhibūka Faqad Kadhaba Al-Ladhīna Min Qablihim Jā'at/hum Rusuluhum Bil-Bayyināti Wa Biz-Zuburi Wa Bil-Kitābi Al-Munīri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if they deny you - then already have those before them denied. Their messengers came to them with clear proofs and written ordinances and with the enlightening Scripture.",
+            "english_hilali_khan": "And if they belie you, those before them also belied. Their Messengers came to them with clear signs, and with the Scriptures, and the book giving light.",
+            "english_rwwad": "If they reject you, so did those who came before them. Their messengers came to them with clear proofs, divine scriptures, and an enlightening Book."
+        }
+    },
+    {
+        "id": 3685,
+        "chapter": 35,
+        "verse": 26,
+        "arabic_text": "ثُمَّ أَخَذۡتُ ٱلَّذِينَ كَفَرُواْۖ فَكَيۡفَ كَانَ نَكِيرِ",
+        "phonetic": "35.26 Thumma 'Akhadhtu Al-Ladhīna Kafarū Fakayfa Kāna Nakīri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then I seized the ones who disbelieved, and how [terrible] was My reproach.",
+            "english_hilali_khan": "Then I took hold of those who disbelieved: and how terrible was My denial (punishment)!",
+            "english_rwwad": "Then I seized those who disbelieved. How severe was My response!"
+        }
+    },
+    {
+        "id": 3686,
+        "chapter": 35,
+        "verse": 27,
+        "arabic_text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا بِهِۦ ثَمَرَٰتٖ مُّخۡتَلِفًا أَلۡوَٰنُهَاۚ وَمِنَ ٱلۡجِبَالِ جُدَدُۢ بِيضٞ وَحُمۡرٞ مُّخۡتَلِفٌ أَلۡوَٰنُهَا وَغَرَابِيبُ سُودٞ",
+        "phonetic": "35.27 'Alam Tará 'Anna Allāha 'Anzala Mina As-Samā'i Mā'an Fa'akhrajnā Bihi Thamarātin Mukhtalifāan 'Alwānuhā Wa Mina Al-Jibāli Judadun Bīđun Wa Ĥumrun Mukhtalifun 'Alwānuhā Wa Gharābību Sūdun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Do you not see that Allāh sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black.",
+            "english_hilali_khan": "See you not that Allâh sends down water (rain) from the sky, and We produce therewith fruits of various colours, and among the mountains are streaks white and red, of varying colours and (others) very black.",
+            "english_rwwad": "Do you not see that Allah sends down rain from the sky, then We bring forth thereby fruits of various colors? And in the mountains there are various tracts of white and red, of various colors, and raven black;"
+        }
+    },
+    {
+        "id": 3687,
+        "chapter": 35,
+        "verse": 28,
+        "arabic_text": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلۡأَنۡعَٰمِ مُخۡتَلِفٌ أَلۡوَٰنُهُۥ كَذَٰلِكَۗ إِنَّمَا يَخۡشَى ٱللَّهَ مِنۡ عِبَادِهِ ٱلۡعُلَمَٰٓؤُاْۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ",
+        "phonetic": "35.28 Wa Mina An-Nāsi Wa Ad-Dawābbi Wa Al-'An`ām Mukhtalifun 'Alwānuhu Kadhālika 'Innamā Yakhshá Allāha Min `Ibādihi Al-`Ulamā'u 'Inna Allāha `Azīzun Ghafūrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And among people and moving creatures and grazing livestock are various colors similarly. Only those fear Allāh, from among His servants, who have knowledge. Indeed, Allāh is Exalted in Might and Forgiving.",
+            "english_hilali_khan": "And likewise of men and Ad-Dawâbb [moving (living) creatures, beasts], and cattle, are of various colours. It is only those who have knowledge among His slaves that fear Allâh. Verily, Allâh is All-Mighty, Oft-Forgiving.",
+            "english_rwwad": "just as humans, animals and livestock are of various colors. Only the people of knowledge among His slaves fear Allah. Indeed, Allah is All-Mighty, All-Forgiving."
+        }
+    },
+    {
+        "id": 3688,
+        "chapter": 35,
+        "verse": 29,
+        "arabic_text": "إِنَّ ٱلَّذِينَ يَتۡلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ يَرۡجُونَ تِجَٰرَةٗ لَّن تَبُورَ",
+        "phonetic": "35.29 'Inna Al-Ladhīna Yatlūna Kitāba Allāhi Wa 'Aqāmū Aş-Şalāata Wa 'Anfaqū Mimmā Razaqnāhum Sirrāan Wa `Alāniyatan Yarjūna Tijāratan Lan Tabūra",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, those who recite the Book of Allāh and establish prayer and spend [in His cause] out of what We have provided them, secretly and publicly, [can] expect a transaction [i.e., profit] that will never perish -",
+            "english_hilali_khan": "Verily, those who recite the Book of Allâh (this Qur’ân), and perform As-Salât (Iqâmat-as-Salât), and spend (in charity) out of what We have provided for them, secretly and openly, they hope for a (sure) trade-gain that will never perish.",
+            "english_rwwad": "Those who recite the Book of Allah, establish prayer, and spend out of what We have provided for them, secretly and openly, hoping for a deal that will suffer no loss,"
+        }
+    },
+    {
+        "id": 3689,
+        "chapter": 35,
+        "verse": 30,
+        "arabic_text": "لِيُوَفِّيَهُمۡ أُجُورَهُمۡ وَيَزِيدَهُم مِّن فَضۡلِهِۦٓۚ إِنَّهُۥ غَفُورٞ شَكُورٞ",
+        "phonetic": "35.30 Liyuwaffiyahum 'Ujūrahum Wa Yazīdahum Min Fađlihi 'Innahu Ghafūrun Shakūrun",
+        "footnotes": {
+            "english_saheeh": "[1250]- i.e., He gives much in return for little and multiplies rewards.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That He may give them in full their rewards and increase for them of His bounty. Indeed, He is Forgiving and Appreciative.[1250]",
+            "english_hilali_khan": "That He may pay them their wages in full, and give them (even) more, out of His Grace. Verily He is Oft-Forgiving, Most Ready to appreciate (good deeds and to recompense).",
+            "english_rwwad": "so that He will reward them in full and give them more out of His bounty. He is All-Forgiving, Most Appreciative."
+        }
+    },
+    {
+        "id": 3690,
+        "chapter": 35,
+        "verse": 31,
+        "arabic_text": "وَٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ هُوَ ٱلۡحَقُّ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرُۢ بَصِيرٞ",
+        "phonetic": "35.31 Wa Al-Ladhī 'Awĥaynā 'Ilayka Mina Al-Kitābi Huwa Al-Ĥaqqu Muşaddiqāan Limā Bayna Yadayhi 'Inna Allāha Bi`ibādihi Lakhabīrun Başīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And that which We have revealed to you, [O Muḥammad], of the Book is the truth, confirming what was before it. Indeed Allāh, of His servants, is Aware and Seeing.",
+            "english_hilali_khan": "And what We have revealed to you (O Muhammad صلى الله عليه وسلم), of the Book (the Qur’ân), it is the (very) truth [that you (Muhammad صلى الله عليه وسلم) and your followers must act on its instructions], confirming that which was (revealed) before it. Verily! Allâh is indeed All-Aware, and All-Seer of His slaves.",
+            "english_rwwad": "The Book that We have revealed to you [O Prophet] is the truth, confirming that which came before it. Indeed, Allah is All-Aware and All-Seeing of His slaves."
+        }
+    },
+    {
+        "id": 3691,
+        "chapter": 35,
+        "verse": 32,
+        "arabic_text": "ثُمَّ أَوۡرَثۡنَا ٱلۡكِتَٰبَ ٱلَّذِينَ ٱصۡطَفَيۡنَا مِنۡ عِبَادِنَاۖ فَمِنۡهُمۡ ظَالِمٞ لِّنَفۡسِهِۦ وَمِنۡهُم مُّقۡتَصِدٞ وَمِنۡهُمۡ سَابِقُۢ بِٱلۡخَيۡرَٰتِ بِإِذۡنِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ",
+        "phonetic": "35.32 Thumma 'Awrathnā Al-Kitāba Al-Ladhīna Aşţafaynā Min `Ibādinā Faminhum Žālimun Linafsihi Wa Minhum Muqtaşidun Wa Minhum Sābiqun Bil-Khayrāti Bi'idhni Allāhi Dhālika Huwa Al-Fađlu Al-Kabīru",
+        "footnotes": {
+            "english_saheeh": "[1251]- The followers of Prophet Muḥammad (ﷺ).",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then We caused to inherit the Book those We have chosen of Our servants;[1251] and among them is he who wrongs himself [i.e., sins], and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allāh. That [inheritance] is what is the great bounty.",
+            "english_hilali_khan": "Then We gave the Book (the Qur’ân) as inheritance to such of Our slaves whom We chose (the followers of Muhammad صلى الله عليه وسلم). Then of them are some who wrong their ownselves, and of them are some who follow a middle course, and of them are some who are, by Allâh’s Leave, foremost in good deeds. That (inheritance of the Qur’ân) - that is indeed a great grace.",
+            "english_rwwad": "Then We made to inherit the Book those whom We have chosen from among Our slaves. But among them are some who wrong themselves, some follow a middle course, and some are foremost in good deeds with Allah’s permission. That is the great bounty."
+        }
+    },
+    {
+        "id": 3692,
+        "chapter": 35,
+        "verse": 33,
+        "arabic_text": "جَنَّٰتُ عَدۡنٖ يَدۡخُلُونَهَا يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَلُؤۡلُؤٗاۖ وَلِبَاسُهُمۡ فِيهَا حَرِيرٞ",
+        "phonetic": "35.33 Jannātu `Adnin Yadkhulūnahā Yuĥallawna Fīhā Min 'Asāwira Min Dhahabin Wa Lu'ulu'uāan Wa Libāsuhum Fīhā Ĥarīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[For them are] gardens of perpetual residence which they will enter. They will be adorned therein with bracelets of gold and pearls, and their garments therein will be silk.",
+            "english_hilali_khan": "‘Adn (Eden) Paradise (everlasting Gardens) will they enter, therein will they be adorned with bracelets of gold and pearls, and their garments therein will be of silk.",
+            "english_rwwad": "They will enter Gardens of Eternity; they will be adorned therein with bracelets of gold and pearls, and their garments will be of silk."
+        }
+    },
+    {
+        "id": 3693,
+        "chapter": 35,
+        "verse": 34,
+        "arabic_text": "وَقَالُواْ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَذۡهَبَ عَنَّا ٱلۡحَزَنَۖ إِنَّ رَبَّنَا لَغَفُورٞ شَكُورٌ",
+        "phonetic": "35.34 Wa Qālū Al-Ĥamdu Lillāhi Al-Ladhī 'Adh/haba `Annā Al-Ĥazana 'Inna Rabbanā Laghafūrun Shakūrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they will say, \"Praise to Allāh, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -",
+            "english_hilali_khan": "And they will say: \"All the praises and thanks be to Allâh Who has removed from us (all) grief. Verily, our Lord is indeed Oft-Forgiving, Most Ready to appreciate (good deeds and to recompense).",
+            "english_rwwad": "And they will say, “All praise be to Allah Who has taken away from us all sorrow. Indeed, our Lord is All-Forgiving, Most Appreciative,"
+        }
+    },
+    {
+        "id": 3694,
+        "chapter": 35,
+        "verse": 35,
+        "arabic_text": "ٱلَّذِيٓ أَحَلَّنَا دَارَ ٱلۡمُقَامَةِ مِن فَضۡلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٞ وَلَا يَمَسُّنَا فِيهَا لُغُوبٞ",
+        "phonetic": "35.35 Al-Ladhī 'Aĥallanā Dāra Al-Muqāmati Min Fađlihi Lā Yamassunā Fīhā Naşabun Wa Lā Yamassunā Fīhā Lughūbun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He who has settled us in the home of duration [i.e., Paradise] out of His bounty. There touches us not in it any fatigue, and there touches us not in it weariness [of mind].\"",
+            "english_hilali_khan": "Who, out of His Grace, has lodged us in a home that will last forever, where toil will touch us not nor weariness will touch us.\"",
+            "english_rwwad": "He Who has caused us to settle – out of His grace – in the everlasting home, wherein no weariness or fatigue will touch us.”"
+        }
+    },
+    {
+        "id": 3695,
+        "chapter": 35,
+        "verse": 36,
+        "arabic_text": "وَٱلَّذِينَ كَفَرُواْ لَهُمۡ نَارُ جَهَنَّمَ لَا يُقۡضَىٰ عَلَيۡهِمۡ فَيَمُوتُواْ وَلَا يُخَفَّفُ عَنۡهُم مِّنۡ عَذَابِهَاۚ كَذَٰلِكَ نَجۡزِي كُلَّ كَفُورٖ",
+        "phonetic": "35.36 Wa Al-Ladhīna Kafarū Lahum Nāru Jahannama Lā Yuqđá `Alayhim Fayamūtū Wa Lā Yukhaffafu `Anhum Min `Adhābihā Kadhālika Najzī Kulla Kafūrin",
+        "footnotes": {
+            "english_saheeh": "[1252]- Or \"They are not killed.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And for those who disbelieve will be the fire of Hell. [Death] is not decreed for them[1252] so they may die, nor will its torment be lightened for them. Thus do We recompense every ungrateful one.",
+            "english_hilali_khan": "But those who disbelieve (in the Oneness of Allâh - Islâmic Monotheism), for them will be the Fire of Hell. Neither will it have a complete killing effect on them so that they die, nor shall its torment be lightened for them. Thus do We requite every disbeliever!",
+            "english_rwwad": "As for those who disbelieve, for them there will be the Fire of Hell; neither will they be sentenced to death, so that they may die, nor will its punishment be lightened for them. This is how We recompense every disbeliever."
+        }
+    },
+    {
+        "id": 3696,
+        "chapter": 35,
+        "verse": 37,
+        "arabic_text": "وَهُمۡ يَصۡطَرِخُونَ فِيهَا رَبَّنَآ أَخۡرِجۡنَا نَعۡمَلۡ صَٰلِحًا غَيۡرَ ٱلَّذِي كُنَّا نَعۡمَلُۚ أَوَلَمۡ نُعَمِّرۡكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُۖ فَذُوقُواْ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ",
+        "phonetic": "35.37 Wa Hum Yaşţarikhūna Fīhā Rabbanā 'Akhrijnā Na`mal Şāliĥāan Ghayra Al-Ladhī Kunnā Na`malu 'Awalam Nu`ammirkum Mā Yatadhakkaru Fīhi Man Tadhakkara Wa Jā'akumu An-Nadhīru Fadhūqū Famā Lilžžālimīna Min Naşīr",
+        "footnotes": {
+            "english_saheeh": "[1253]- The implication is \"Return us to the previous world.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they will cry out therein, \"Our Lord, remove us;[1253] we will do righteousness - other than what we were doing!\" But did We not grant you life enough for whoever would remember therein to remember, and the warner had come to you? So taste [the punishment], for there is not for the wrongdoers any helper.",
+            "english_hilali_khan": "Therein they will cry: \"Our Lord! Bring us out, we shall do righteous good deeds, not (the evil deeds) that we used to do.\" (Allâh will reply): \"Did We not give you lives long enough, so that whosoever would receive admonition could receive it? And the warner came to you. So taste you (the evil of your deeds). For the Zâlimûn (polytheists and wrong-doers) there is no helper.\"",
+            "english_rwwad": "They will be screaming therein, “Our Lord, take us out; we will do righteous deeds, unlike what we used to do.” [They will be told], “Did We not give you long enough lives to take heed for anyone who wished to take heed? And the warner did come to you. So taste! The wrongdoers will have no helper.”"
+        }
+    },
+    {
+        "id": 3697,
+        "chapter": 35,
+        "verse": 38,
+        "arabic_text": "إِنَّ ٱللَّهَ عَٰلِمُ غَيۡبِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+        "phonetic": "35.38 'Inna Allāha `Ālimu Ghaybi As-Samāwāti Wa Al-'Arđi 'Innahu `Alīmun Bidhāti Aş-Şudūri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, Allāh is Knower of the unseen [aspects] of the heavens and earth. Indeed, He is Knowing of that within the breasts.",
+            "english_hilali_khan": "Verily, Allâh is the All-Knower of the Unseen of the heavens and the earth. Verily! He is the All-Knower of that is in the breasts.",
+            "english_rwwad": "Allah is the Knower of the unseen in the heavens and earth. He is All-Knowing of what is in the hearts."
+        }
+    },
+    {
+        "id": 3698,
+        "chapter": 35,
+        "verse": 39,
+        "arabic_text": "هُوَ ٱلَّذِي جَعَلَكُمۡ خَلَٰٓئِفَ فِي ٱلۡأَرۡضِۚ فَمَن كَفَرَ فَعَلَيۡهِ كُفۡرُهُۥۖ وَلَا يَزِيدُ ٱلۡكَٰفِرِينَ كُفۡرُهُمۡ عِندَ رَبِّهِمۡ إِلَّا مَقۡتٗاۖ وَلَا يَزِيدُ ٱلۡكَٰفِرِينَ كُفۡرُهُمۡ إِلَّا خَسَارٗا",
+        "phonetic": "35.39 Huwa Al-Ladhī Ja`alakum Khalā'ifa Fī Al-'Arđi Faman Kafara Fa`alayhi Kufruhu Wa Lā Yazīdu Al-Kāfirīna Kufruhum `Inda Rabbihim 'Illā Maqtāan Wa Lā Yazīdu Al-Kāfirīna Kufruhum 'Illā Khasārāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.35:39) See the footnote of (V.3:85).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It is He who has made you successors upon the earth. And whoever disbelieves - upon him will be [the consequence of] his disbelief. And the disbelief of the disbelievers does not increase them in the sight of their Lord except in hatred; and the disbelief of the disbelievers does not increase them except in loss.",
+            "english_hilali_khan": "He it is Who has made you successors generations after generations in the earth, so whosoever disbelieves (in Islâmic Monotheism) on him will be his disbelief. And the disbelief of the disbelievers adds nothing but hatred of their Lord. And the disbelief of the disbelievers adds nothing but loss.[1]",
+            "english_rwwad": "It is He Who has made you successors on earth. Whoever disbelieves will bear the burden of his disbelief. Their disbelief only increases the disbelievers in contempt before their Lord, and their disbelief only increases the disbelievers in loss."
+        }
+    },
+    {
+        "id": 3699,
+        "chapter": 35,
+        "verse": 40,
+        "arabic_text": "قُلۡ أَرَءَيۡتُمۡ شُرَكَآءَكُمُ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ أَرُونِي مَاذَا خَلَقُواْ مِنَ ٱلۡأَرۡضِ أَمۡ لَهُمۡ شِرۡكٞ فِي ٱلسَّمَٰوَٰتِ أَمۡ ءَاتَيۡنَٰهُمۡ كِتَٰبٗا فَهُمۡ عَلَىٰ بَيِّنَتٖ مِّنۡهُۚ بَلۡ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعۡضُهُم بَعۡضًا إِلَّا غُرُورًا",
+        "phonetic": "35.40 Qul 'Ara'aytum Shurakā'akumu Al-Ladhīna Tad`ūna Min Dūni Allāhi 'Arūnī Mādhā Khalaqū Mina Al-'Arđi 'Am Lahum Shirkun Fī As-Samāwāti 'Am 'Ātaynāhum Kitābāan Fahum `Alá Bayyinatin Minhu Bal 'In Ya`idu Až-Žālimūna Ba`đuhum Ba`đāan 'Illā Ghurūrāan",
+        "footnotes": {
+            "english_saheeh": "[1254]- Understood to mean \"Tell me about...\"\n[1255]- By telling their followers that the so-called deities will intercede for them with Allāh.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"Have you considered[1254] your 'partners' whom you invoke besides Allāh? Show me what they have created from the earth, or have they partnership [with Him] in the heavens? Or have We given them a book so they are [standing] on evidence therefrom? [No], rather, the wrongdoers do not promise each other except delusion.\"[1255]",
+            "english_hilali_khan": "Say (O Muhammad صلى الله عليه وسلم): \"Tell me or inform me (what) do you think about your (so-called) partner-gods to whom you call upon besides Allâh? Show me, what they have created of the earth. Or have they any share in the heavens? Or have We given them a Book, so that they act on clear proof therefrom? Nay, the Zâlimûn (polytheists and wrong-doers) promise one another nothing but delusions.\"",
+            "english_rwwad": "Say, “Tell me about your associate-gods whom you supplicate besides Allah. Show me what they created on earth, or do they have a share in the heavens? Or have We given them a Book so they have a clear proof? No, the wrongdoers promise one another nothing but delusion.”"
+        }
+    },
+    {
+        "id": 3700,
+        "chapter": 35,
+        "verse": 41,
+        "arabic_text": "۞ إِنَّ ٱللَّهَ يُمۡسِكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ أَن تَزُولَاۚ وَلَئِن زَالَتَآ إِنۡ أَمۡسَكَهُمَا مِنۡ أَحَدٖ مِّنۢ بَعۡدِهِۦٓۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورٗا",
+        "phonetic": "35.41 'Inna Allāha Yumsiku As-Samāwāti Wa Al-'Arđa 'An Tazūlā Wa La'in Zālatā 'In 'Amsakahumā Min 'Aĥadin Min Ba`dihi 'Innahu Kāna Ĥalīmāan Ghafūrāan",
+        "footnotes": {
+            "english_saheeh": "[1256]- Refer to footnote in 2:225.",
+            "english_hilali_khan": "(V.35:41) Narrated Abû Hurairah رضي الله عنه: I heard Allâh’s Messenger صلى الله عليه وسلم saying, \"(On the Day of Resurrection) Allah will grasp the whole planet of earth (by His Hand), and roll all the heavens up with His Right Hand, and then He will say, ‘I am the King; where are the kings of the earth?’ \" (Sahih Al-Bukhari, Vol.6, Hadîth No.336).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, Allāh holds the heavens and the earth, lest they cease. And if they should cease, no one could hold them [in place] after Him. Indeed, He is Forbearing[1256] and Forgiving.",
+            "english_hilali_khan": "Verily! Allâh grasps the heavens and the earth lest they should move away from their places, and if they were to move away from their places, there is not one that could grasp them after Him. Truly, He is Ever Most Forbearing, Oft-Forgiving.[2]",
+            "english_rwwad": "Allah keeps the heavens and earth from vanishing. If they were to vanish, there is none to sustain them other than Him. He is Most Forbearing, All-Forgiving."
+        }
+    },
+    {
+        "id": 3701,
+        "chapter": 35,
+        "verse": 42,
+        "arabic_text": "وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَئِن جَآءَهُمۡ نَذِيرٞ لَّيَكُونُنَّ أَهۡدَىٰ مِنۡ إِحۡدَى ٱلۡأُمَمِۖ فَلَمَّا جَآءَهُمۡ نَذِيرٞ مَّا زَادَهُمۡ إِلَّا نُفُورًا",
+        "phonetic": "35.42 Wa 'Aqsamū Billāhi Jahda 'Aymānihim La'in Jā'ahum Nadhīrun Layakūnunna 'Ahdá Min 'Iĥdá Al-'Umami Falammā Jā'ahum Nadhīrun Mā Zādahum 'Illā Nufūrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they swore by Allāh their strongest oaths that if a warner came to them, they would be more guided than [any] one of the [previous] nations. But when a warner came to them, it did not increase them except in aversion",
+            "english_hilali_khan": "And they swore by Allâh their most binding oath that if a warner came to them, they would be more guided than any of the nations (before them); yet when a warner (Muhammad صلى الله عليه وسلم) came to them, it increased in them nothing but flight (from the truth)",
+            "english_rwwad": "They swore by Allah their most solemn oaths that if a warner came to them, they would surely be more guided than any other community. But when a warner came to them, it only added to their aversion –"
+        }
+    },
+    {
+        "id": 3702,
+        "chapter": 35,
+        "verse": 43,
+        "arabic_text": "ٱسۡتِكۡبَارٗا فِي ٱلۡأَرۡضِ وَمَكۡرَ ٱلسَّيِّيِٕۚ وَلَا يَحِيقُ ٱلۡمَكۡرُ ٱلسَّيِّئُ إِلَّا بِأَهۡلِهِۦۚ فَهَلۡ يَنظُرُونَ إِلَّا سُنَّتَ ٱلۡأَوَّلِينَۚ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبۡدِيلٗاۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحۡوِيلًا",
+        "phonetic": "35.43 Astikbārāan Fī Al-'Arđi Wa Makra As-Sayyi'i Wa Lā Yaĥīqu Al-Makru As-Sayyi'u 'Illā Bi'ahlihi Fahal Yanžurūna 'Illā Sunnata Al-'Awwalīna Falan Tajida Lisunnati Allāhi Tabdīlāan Wa Lan Tajida Lisunnati Allāhi Taĥwīlāan",
+        "footnotes": {
+            "english_saheeh": "[1257]- i.e., in His punishment of those who deny the prophets.\n[1258]- Or \"transfer\" of punishment to others in place of them.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Due to] arrogance in the land and plotting of evil; but the evil plot does not encompass except its own people. Then do they await except the way [i.e., fate] of the former peoples? But you will never find in the way [i.e., established method] of Allāh any change, and you will never find in the way of Allāh[1257] any alteration.[1258]",
+            "english_hilali_khan": "(They took to flight because of their) arrogance in the land and their plotting of evil. But the evil plot encompasses only him who makes it. Then, can they expect anything (else) but the Sunnah (way of dealing) of the peoples of old? So no change will you find in Allâh’s Sunnah (way of dealing), and no turning off will you find in Allâh’s Sunnah (way of dealing).",
+            "english_rwwad": "due to their arrogance in the land and plotting evil, but evil plotting only backfires on its own people. Are they awaiting anything other than the fate of the earlier peoples? You will find no change in Allah’s way, and you will find no alteration in Allah’s way."
+        }
+    },
+    {
+        "id": 3703,
+        "chapter": 35,
+        "verse": 44,
+        "arabic_text": "أَوَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلِهِمۡ وَكَانُوٓاْ أَشَدَّ مِنۡهُمۡ قُوَّةٗۚ وَمَا كَانَ ٱللَّهُ لِيُعۡجِزَهُۥ مِن شَيۡءٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِۚ إِنَّهُۥ كَانَ عَلِيمٗا قَدِيرٗا",
+        "phonetic": "35.44 'Awalam Yasīrū Fī Al-'Arđi Fayanžurū Kayfa Kāna `Āqibatu Al-Ladhīna Min Qablihim Wa Kānū 'Ashadda Minhum Qūwatan Wa Mā Kāna Allāhu Liyu`jizahu Min Shay'in Fī As-Samāwāti Wa Lā Fī Al-'Arđi 'Innahu Kāna `Alīmāan Qadīrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Have they not traveled through the land and observed how was the end of those before them? And they were greater than them in power. But Allāh is not to be caused failure [i.e., prevented] by anything in the heavens or on the earth. Indeed, He is ever Knowing and Competent.",
+            "english_hilali_khan": "Have they not travelled in the land, and seen what was the end of those before them - though they were superior to them in power? Allâh is not such that anything in the heavens or in the earth escapes Him. Verily, He is All-Knowing, All-Omnipotent.",
+            "english_rwwad": "Have they not traveled in the land to see what was the end of those who came before them. They were more powerful than them? Allah is not such that something can escape Him in the heavens or on earth. He is indeed All-Knowing, Most Capable."
+        }
+    },
+    {
+        "id": 3704,
+        "chapter": 35,
+        "verse": 45,
+        "arabic_text": "وَلَوۡ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُواْ مَا تَرَكَ عَلَىٰ ظَهۡرِهَا مِن دَآبَّةٖ وَلَٰكِن يُؤَخِّرُهُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۖ فَإِذَا جَآءَ أَجَلُهُمۡ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرَۢا",
+        "phonetic": "35.45 Wa Law Yu'uākhidhu Allāhu An-Nāsa Bimā Kasabū Mā Taraka `Alá Žahrihā Min Dābbatin Wa Lakin Yu'uakhkhiruhum 'Ilá 'Ajalin Musammáan Fa'idhā Jā'a 'Ajaluhum Fa'inna Allāha Kāna Bi`ibādihi Başīrāan",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if Allāh were to impose blame on the people for what they have earned, He would not leave upon it [i.e., the earth] any creature. But He defers them for a specified term. And when their time comes, then indeed Allāh has ever been, of His servants, Seeing.",
+            "english_hilali_khan": "And if Allâh were to punish men for that which they earned, He would not leave a moving (living) creature on the surface of the earth; but He gives them respite to an appointed term: and when their term comes, then verily, Allâh is Ever All-Seer of His slaves.",
+            "english_rwwad": "If Allah were to take people to task for what they did, He would not leave a single living being on earth, but He gives them respite for an appointed term. When their appointed time comes, then Allah is All-Seeing of His slaves."
+        }
+    }
+]

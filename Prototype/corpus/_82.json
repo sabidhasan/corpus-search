@@ -1,0 +1,325 @@
+[
+    {
+        "id": 5829,
+        "chapter": 82,
+        "verse": 1,
+        "arabic_text": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
+        "phonetic": "82.1 'Idhā As-Samā'u Anfaţarat",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When the sky breaks apart",
+            "english_hilali_khan": "When the heaven is cleft asunder.",
+            "english_rwwad": "When the sky breaks apart."
+        }
+    },
+    {
+        "id": 5830,
+        "chapter": 82,
+        "verse": 2,
+        "arabic_text": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+        "phonetic": "82.2 Wa 'Idhā Al-Kawākibu Antatharat",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when the stars fall, scattering,",
+            "english_hilali_khan": "And when the stars have fallen and scattered.",
+            "english_rwwad": "and when the stars fall, scattered,"
+        }
+    },
+    {
+        "id": 5831,
+        "chapter": 82,
+        "verse": 3,
+        "arabic_text": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
+        "phonetic": "82.3 Wa 'Idhā Al-Biĥāru Fujjirat",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when the seas are erupted ",
+            "english_hilali_khan": "And when the seas are burst forth.",
+            "english_rwwad": "and when the seas burst forth,"
+        }
+    },
+    {
+        "id": 5832,
+        "chapter": 82,
+        "verse": 4,
+        "arabic_text": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+        "phonetic": "82.4 Wa 'Idhā Al-Qubūru Bu`thirat",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when the [contents of] graves are scattered [i.e., exposed],",
+            "english_hilali_khan": "And when the graves are turned upside down (and bring out their contents)",
+            "english_rwwad": "and when the graves are overturned,"
+        }
+    },
+    {
+        "id": 5833,
+        "chapter": 82,
+        "verse": 5,
+        "arabic_text": "عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ",
+        "phonetic": "82.5 `Alimat Nafsun Mā Qaddamat Wa 'Akhkharat",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "A soul will [then] know what it has put forth and kept back.",
+            "english_hilali_khan": "(Then) a person will know what he has sent forward and (what he has) left behind (of good or bad deeds).",
+            "english_rwwad": "then each soul will come to know what it has done or what it has left undone."
+        }
+    },
+    {
+        "id": 5834,
+        "chapter": 82,
+        "verse": 6,
+        "arabic_text": "يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
+        "phonetic": "82.6 Yā 'Ayyuhā Al-'Insānu Mā Gharraka Birabbika Al-Karīmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O mankind, what has deceived you concerning your Lord, the Generous,",
+            "english_hilali_khan": "O man! What has made you careless about your Lord, the Most Generous?",
+            "english_rwwad": "O mankind, what has lured you away from your Lord, the Most Generous,"
+        }
+    },
+    {
+        "id": 5835,
+        "chapter": 82,
+        "verse": 7,
+        "arabic_text": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+        "phonetic": "82.7 Al-Ladhī Khalaqaka Fasawwāka Fa`adalaka",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Who created you, proportioned you, and balanced you? ",
+            "english_hilali_khan": "Who created you, fashioned you perfectly, and gave you due proportion.",
+            "english_rwwad": "Who created you, then shaped and proportioned you,"
+        }
+    },
+    {
+        "id": 5836,
+        "chapter": 82,
+        "verse": 8,
+        "arabic_text": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
+        "phonetic": "82.8 Fī 'Ayyi Şūratin Mā Shā'a Rakkabaka",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In whatever form He willed has He assembled you. ",
+            "english_hilali_khan": "In whatever form He willed, He put you together.",
+            "english_rwwad": "and assembled you in whatever form He willed?"
+        }
+    },
+    {
+        "id": 5837,
+        "chapter": 82,
+        "verse": 9,
+        "arabic_text": "كـَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ",
+        "phonetic": "82.9 Kallā Bal Tukadhibūna Bid-Dīni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "No! But you deny the Recompense. ",
+            "english_hilali_khan": "Nay! But you deny Ad-Dîn (i.e. the Day of Recompense).",
+            "english_rwwad": "No indeed; but you deny the Judgment Day,"
+        }
+    },
+    {
+        "id": 5838,
+        "chapter": 82,
+        "verse": 10,
+        "arabic_text": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ",
+        "phonetic": "82.10 Wa 'Inna `Alaykum Laĥāfižīna",
+        "footnotes": {
+            "english_saheeh": "[1876]- Angels who preserve the deeds of men in records.",
+            "english_hilali_khan": "(V.82:10) Narrated Abu Hurairah رضي الله عنه: The Prophet صلى الله عليه وسلم said: \"Angels come (to you) in succession by night and day, and all of them get together at the time of the Fajr and ‘Asr prayers. Then those who have stayed with you overnight, ascend unto Allâh, Who asks them (and He knows the answer better than they): \"How have you left My slaves?\" They reply, \"We left them while they were praying and we came to them while they were praying\". The Prophet صلى الله عليه وسلم added: \"If anyone of you says Amîn (during the prayer at the end of the recitation of Sûrat Al-Fâtihah), and the angels in heaven say the same, and the two sayings coincide, all his past sins will be forgiven\". (Sahih Al-Bukhari, Vol.4, Hadith No.446).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And indeed, [appointed] over you are keepers,[1876] ",
+            "english_hilali_khan": "But verily, over you (are appointed angels in charge of mankind) to watch you,[1]",
+            "english_rwwad": "while there are watchers over you,"
+        }
+    },
+    {
+        "id": 5839,
+        "chapter": 82,
+        "verse": 11,
+        "arabic_text": "كِرَامٗا كَٰتِبِينَ",
+        "phonetic": "82.11 Kirāmāan Kātibīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.82:11) Whoever intended to do a good deed or a bad deed.\nNarrated Ibn ‘Abbâs رضي الله عنهما: The Prophet صلى الله عليه وسلم narrating about his Lord عز وجل said, \"Allâh ordered (the angels appointed over you) that the good and the bad deeds be written, and He then showed (the way) how (to write). If somebody intends to do a good deed and he does not do it, then Allâh will write for him a full good deed (in his account with Him); and if he intends to do a good deed and actually does it, then Allâh will write for him (in his account) with Him (its reward equal) from ten to seven hundred times, to many more times; and if somebody intends to do a bad deed and he does not do it, then Allâh will write a full good deed (in his account) with Him, and if he intends to do it (a bad deed) and actually does it, then Allâh will write one bad deed (in his account).\" (Sahih Al-Bukhari, Vol.8, Hadith No.498).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Noble and recording; ",
+            "english_hilali_khan": "Kirâman (Honourable) Kâtibîn writing down (your deeds),[2]",
+            "english_rwwad": "honorable scribes,"
+        }
+    },
+    {
+        "id": 5840,
+        "chapter": 82,
+        "verse": 12,
+        "arabic_text": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
+        "phonetic": "82.12 Ya`lamūna Mā Taf`alūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They know whatever you do. ",
+            "english_hilali_khan": "They know all that you do.",
+            "english_rwwad": "who know whatever you do."
+        }
+    },
+    {
+        "id": 5841,
+        "chapter": 82,
+        "verse": 13,
+        "arabic_text": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ",
+        "phonetic": "82.13 'Inna Al-'Abrāra Lafī Na`īmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, the righteous will be in pleasure, ",
+            "english_hilali_khan": "Verily, the Abrâr (the pious believers of Islamic Monotheism) will be in Delight (Paradise);",
+            "english_rwwad": "Indeed, the righteous will be in Bliss,"
+        }
+    },
+    {
+        "id": 5842,
+        "chapter": 82,
+        "verse": 14,
+        "arabic_text": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
+        "phonetic": "82.14 Wa 'Inna Al-Fujjāra Lafī Jaĥīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And indeed, the wicked will be in Hellfire. ",
+            "english_hilali_khan": "And verily, the Fujjâr (the wicked, disbelievers, polytheists, sinners and evil-doers) will be in the blazing Fire (Hell),",
+            "english_rwwad": "and the wicked will be in the Blazing Fire,"
+        }
+    },
+    {
+        "id": 5843,
+        "chapter": 82,
+        "verse": 15,
+        "arabic_text": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
+        "phonetic": "82.15 Yaşlawnahā Yawma Ad-Dīni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They will [enter to] burn therein on the Day of Recompense, ",
+            "english_hilali_khan": "Therein they will enter, and taste its burning flame on the Day of Recompense,",
+            "english_rwwad": "which they will enter on Judgment Day,"
+        }
+    },
+    {
+        "id": 5844,
+        "chapter": 82,
+        "verse": 16,
+        "arabic_text": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ",
+        "phonetic": "82.16 Wa Mā Hum `Anhā Bighā'ibīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And never therefrom will they be absent. ",
+            "english_hilali_khan": "And they (Al-Fujjâr) will not be absent therefrom.",
+            "english_rwwad": "and will never come out of it."
+        }
+    },
+    {
+        "id": 5845,
+        "chapter": 82,
+        "verse": 17,
+        "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+        "phonetic": "82.17 Wa Mā 'Adrāka Mā Yawmu Ad-Dīni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And what can make you know what is the Day of Recompense? ",
+            "english_hilali_khan": "And what will make you know what the Day of Recompense is?",
+            "english_rwwad": "How do you know what Judgment Day is?"
+        }
+    },
+    {
+        "id": 5846,
+        "chapter": 82,
+        "verse": 18,
+        "arabic_text": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+        "phonetic": "82.18 Thumma Mā 'Adrāka Mā Yawmu Ad-Dīni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then, what can make you know what is the Day of Recompense? ",
+            "english_hilali_khan": "Again, what will make you know what the Day of Recompense is?",
+            "english_rwwad": "Again, how do you know what Judgment Day is?"
+        }
+    },
+    {
+        "id": 5847,
+        "chapter": 82,
+        "verse": 19,
+        "arabic_text": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
+        "phonetic": "82.19 Yawma Lā Tamliku Nafsun Linafsin Shay'āan Wa Al-'Amru Yawma'idhin Lillāhi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allāh. ",
+            "english_hilali_khan": "(It will be) the Day when no person shall have power (to do) anything for another, and the Decision, that Day, will be (wholly) with Allâh.",
+            "english_rwwad": "It is the Day when no soul will be of any help to another, and all command on that Day will be with Allah."
+        }
+    }
+]

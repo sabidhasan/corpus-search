@@ -1,0 +1,886 @@
+[
+    {
+        "id": 5271,
+        "chapter": 68,
+        "verse": 1,
+        "arabic_text": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ",
+        "phonetic": "68.1 Nūn Wa Al-Qalami Wa Mā Yasţurūna",
+        "footnotes": {
+            "english_saheeh": "[1724]- See footnote to 2:1.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Nūn.[1724] By the pen and what they inscribe,",
+            "english_hilali_khan": "1. Nûn.\r\n[These letters (Nun, etc.) are one of the miracles of the Qur’an, and none but Allah (Alone) knows their meanings].\r\nBy the pen and by what they (the angels) write (in the Records of men).",
+            "english_rwwad": "Nūn. By the pen and what they write,"
+        }
+    },
+    {
+        "id": 5272,
+        "chapter": 68,
+        "verse": 2,
+        "arabic_text": "مَآ أَنتَ بِنِعۡمَةِ رَبِّكَ بِمَجۡنُونٖ",
+        "phonetic": "68.2 Mā 'Anta Bini`mati Rabbika Bimajnūnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "You are not, [O Muḥammad], by the favor of your Lord, a madman.",
+            "english_hilali_khan": "You (O Muhammad صلى الله عليه وسلم), by the Grace of your Lord, are not mad.",
+            "english_rwwad": "By the grace of your Lord [O Prophet], you are not madman."
+        }
+    },
+    {
+        "id": 5273,
+        "chapter": 68,
+        "verse": 3,
+        "arabic_text": "وَإِنَّ لَكَ لَأَجۡرًا غَيۡرَ مَمۡنُونٖ",
+        "phonetic": "68.3 Wa 'Inna Laka La'ajrāan Ghayra Mamnūnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And indeed, for you is a reward uninterrupted.",
+            "english_hilali_khan": "And Verily, for you (O Muhammad صلى الله عليه وسلم) will be an endless reward.",
+            "english_rwwad": "You will surely have a never-ending reward."
+        }
+    },
+    {
+        "id": 5274,
+        "chapter": 68,
+        "verse": 4,
+        "arabic_text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٖ",
+        "phonetic": "68.4 Wa 'Innaka La`alá Khuluqin `Ažīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And indeed, you are of a great moral character.",
+            "english_hilali_khan": "And Verily, you (O Muhammad صلى الله عليه وسلم) are on an exalted (standard of) character.",
+            "english_rwwad": "Indeed, you are of a great moral character."
+        }
+    },
+    {
+        "id": 5275,
+        "chapter": 68,
+        "verse": 5,
+        "arabic_text": "فَسَتُبۡصِرُ وَيُبۡصِرُونَ",
+        "phonetic": "68.5 Fasatubşiru Wa Yubşirūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So you will see and they will see.",
+            "english_hilali_khan": "You will see, and they will see,",
+            "english_rwwad": "Soon you will see and they will see,"
+        }
+    },
+    {
+        "id": 5276,
+        "chapter": 68,
+        "verse": 6,
+        "arabic_text": "بِأَييِّكُمُ ٱلۡمَفۡتُونُ",
+        "phonetic": "68.6 Bi'ayyyikumu Al-Maftūnu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Which of you is the afflicted [by a devil].",
+            "english_hilali_khan": "Which of you is afflicted with madness.",
+            "english_rwwad": "which of you is afflicted with madness."
+        }
+    },
+    {
+        "id": 5277,
+        "chapter": 68,
+        "verse": 7,
+        "arabic_text": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+        "phonetic": "68.7 'Inna Rabbaka Huwa 'A`lamu Biman Đalla `An Sabīlihi Wa Huwa 'A`lamu Bil-Muhtadīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, your Lord is most knowing of who has gone astray from His way, and He is most knowing of the [rightly] guided.",
+            "english_hilali_khan": "Verily, your Lord is the Best Knower of him who has gone astray from His Path, and He is the Best Knower of those who are guided.",
+            "english_rwwad": "Indeed, your Lord alone knows best who has strayed from His way and those who are rightly guided."
+        }
+    },
+    {
+        "id": 5278,
+        "chapter": 68,
+        "verse": 8,
+        "arabic_text": "فَلَا تُطِعِ ٱلۡمُكَذِّبِينَ",
+        "phonetic": "68.8 Falā Tuţi`i Al-Mukadhibīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.68:8) See the footnote of (V.3:85).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then do not obey the deniers.",
+            "english_hilali_khan": "So (O Muhammad صلى الله عليه وسلم) obey you not the deniers [(of Islâmic Monotheism - those who belie the Verses of Allâh), the Oneness of Allâh, and the Messengership of Muhammad صلى الله عليه وسلم][1]",
+            "english_rwwad": "So do not obey the deniers."
+        }
+    },
+    {
+        "id": 5279,
+        "chapter": 68,
+        "verse": 9,
+        "arabic_text": "وَدُّواْ لَوۡ تُدۡهِنُ فَيُدۡهِنُونَ",
+        "phonetic": "68.9 Wa Ddū Law Tud/hinu Fayud/hinūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They wish that you would soften [in your position], so they would soften [toward you].",
+            "english_hilali_khan": "They wish that you should compromise (in religion out of courtesy) with them: so they (too) would compromise with you.",
+            "english_rwwad": "They wish that you would compromise so they would too compromise."
+        }
+    },
+    {
+        "id": 5280,
+        "chapter": 68,
+        "verse": 10,
+        "arabic_text": "وَلَا تُطِعۡ كُلَّ حَلَّافٖ مَّهِينٍ",
+        "phonetic": "68.10 Wa Lā Tuţi` Kulla Ĥallāfin Mahīnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And do not obey every worthless habitual swearer",
+            "english_hilali_khan": "And (O Muhammad صلى الله عليه وسلم) obey you not everyone Hallaf Mahîn (the one who swears much and is a liar or is worthless). [Tafsir At-Tabari]",
+            "english_rwwad": "And do not obey every disgraceful swearer,"
+        }
+    },
+    {
+        "id": 5281,
+        "chapter": 68,
+        "verse": 11,
+        "arabic_text": "هَمَّازٖ مَّشَّآءِۭ بِنَمِيمٖ",
+        "phonetic": "68.11 Hammāzin Mashā'in Binamīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[And] scorner, going about with malicious gossip -",
+            "english_hilali_khan": "A slanderer, going about with calumnies,",
+            "english_rwwad": "backbiter, gossip-monger,"
+        }
+    },
+    {
+        "id": 5282,
+        "chapter": 68,
+        "verse": 12,
+        "arabic_text": "مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٍ أَثِيمٍ",
+        "phonetic": "68.12 Mannā`in Lilkhayri Mu`tadin 'Athīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "A preventer of good, transgressing and sinful,",
+            "english_hilali_khan": "Hinderer of the good, transgressor, sinful,",
+            "english_rwwad": "withholder of good, transgressor, sinful,"
+        }
+    },
+    {
+        "id": 5283,
+        "chapter": 68,
+        "verse": 13,
+        "arabic_text": "عُتُلِّۭ بَعۡدَ ذَٰلِكَ زَنِيمٍ",
+        "phonetic": "68.13 `Utullin Ba`da Dhālika Zanīmin",
+        "footnotes": {
+            "english_saheeh": "[1725]- i.e., claiming a particular lineage falsely.  The description given in these verses is of al-Waleed bin al-Mugheerah (see also 74:11-25) or possibly, as asserted by Ibn Katheer, al-Akhnas bin Shurayq.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Cruel, moreover, and an illegitimate pretender.[1725]",
+            "english_hilali_khan": "Cruel, and moreover base-born (of illegitimate birth).",
+            "english_rwwad": "coarse, and furthermore, an illegitimate child."
+        }
+    },
+    {
+        "id": 5284,
+        "chapter": 68,
+        "verse": 14,
+        "arabic_text": "أَن كَانَ ذَا مَالٖ وَبَنِينَ",
+        "phonetic": "68.14 'An Kāna Dhā Mālin Wa Banīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Because he is a possessor of wealth and children,",
+            "english_hilali_khan": "(He was so) because he had wealth and children.",
+            "english_rwwad": "Simply because he has wealth and children,"
+        }
+    },
+    {
+        "id": 5285,
+        "chapter": 68,
+        "verse": 15,
+        "arabic_text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+        "phonetic": "68.15 'Idhā Tutlá `Alayhi 'Āyātunā Qāla 'Asāţīru Al-'Awwalīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When Our verses are recited to him, he says, \"Legends of the former peoples.\"",
+            "english_hilali_khan": "When Our Verses (of the Qur’ân) are recited to him, he says: \"Tales of the men of old!\"",
+            "english_rwwad": "When Our verses are recited to him, he says, “Ancient fables!”"
+        }
+    },
+    {
+        "id": 5286,
+        "chapter": 68,
+        "verse": 16,
+        "arabic_text": "سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ",
+        "phonetic": "68.16 Sanasimuhu `Alá Al-Khurţūmi",
+        "footnotes": {
+            "english_saheeh": "[1726]- Literally, \"trunk,\" meaning the nose of an elephant or pig.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "We will brand him upon the snout.[1726]",
+            "english_hilali_khan": "We shall brand him on the snout (nose)!",
+            "english_rwwad": "We will soon brand him on the snout."
+        }
+    },
+    {
+        "id": 5287,
+        "chapter": 68,
+        "verse": 17,
+        "arabic_text": "إِنَّا بَلَوۡنَٰهُمۡ كَمَا بَلَوۡنَآ أَصۡحَٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُواْ لَيَصۡرِمُنَّهَا مُصۡبِحِينَ",
+        "phonetic": "68.17 'Innā Balawnāhum Kamā Balawnā 'Aşĥāba Al-Jannati 'Idh 'Aqsamū Layaşrimunnahā Muşbiĥīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning",
+            "english_hilali_khan": "Verily, We have tried them as We tried the people of the garden, when they swore to pluck the fruits of the (garden) in the morning,",
+            "english_rwwad": "Indeed, We have tested them [the Makkans] as We tested the people of the garden, when they swore to harvest its fruits in the early morning,"
+        }
+    },
+    {
+        "id": 5288,
+        "chapter": 68,
+        "verse": 18,
+        "arabic_text": "وَلَا يَسۡتَثۡنُونَ",
+        "phonetic": "68.18 Wa Lā Yastathnūna",
+        "footnotes": {
+            "english_saheeh": "[1727]- i.e., without conceding that nothing can be accomplished unless Allāh wills, saying, \"...if Allāh wills\" (\"in-shā’-Allāh\").  See 18:23-24.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Without making exception.[1727]",
+            "english_hilali_khan": "Without saying: Inshâ’ Allâh (If Allâh wills).",
+            "english_rwwad": "and made no exception [by saying: if Allah wills]."
+        }
+    },
+    {
+        "id": 5289,
+        "chapter": 68,
+        "verse": 19,
+        "arabic_text": "فَطَافَ عَلَيۡهَا طَآئِفٞ مِّن رَّبِّكَ وَهُمۡ نَآئِمُونَ",
+        "phonetic": "68.19 Faţāfa `Alayhā Ţā'ifun Min Rabbika Wa Hum Nā'imūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So there came upon it [i.e., the garden] an affliction from your Lord while they were asleep.",
+            "english_hilali_khan": "Then there passed by on the (garden) a visitation (fire) from your Lord at night and burnt it while they were asleep.",
+            "english_rwwad": "Then it was struck by an affliction from your Lord while they were asleep,"
+        }
+    },
+    {
+        "id": 5290,
+        "chapter": 68,
+        "verse": 20,
+        "arabic_text": "فَأَصۡبَحَتۡ كَٱلصَّرِيمِ",
+        "phonetic": "68.20 Fa'aşbaĥat Kālşşarīmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And it became as though reaped.",
+            "english_hilali_khan": "So the (garden) became black by the morning, like a pitch dark night (in complete ruins).",
+            "english_rwwad": "and it turned to ashes as black as night."
+        }
+    },
+    {
+        "id": 5291,
+        "chapter": 68,
+        "verse": 21,
+        "arabic_text": "فَتَنَادَوۡاْ مُصۡبِحِينَ",
+        "phonetic": "68.21 Fatanādaw Muşbiĥīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they called one another at morning,",
+            "english_hilali_khan": "Then they called out one to another as soon as the morning broke.",
+            "english_rwwad": "Then in the early morning they called out to one another:"
+        }
+    },
+    {
+        "id": 5292,
+        "chapter": 68,
+        "verse": 22,
+        "arabic_text": "أَنِ ٱغۡدُواْ عَلَىٰ حَرۡثِكُمۡ إِن كُنتُمۡ صَٰرِمِينَ",
+        "phonetic": "68.22 'Ani Aghdū `Alá Ĥarthikum 'In Kuntum Şārimīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Saying], \"Go early to your crop if you would cut the fruit.\"",
+            "english_hilali_khan": "Saying: \"Go to your tilth in the morning, if you would pluck the fruits.\"",
+            "english_rwwad": "“Go early to your garden if you really wish to harvest.”"
+        }
+    },
+    {
+        "id": 5293,
+        "chapter": 68,
+        "verse": 23,
+        "arabic_text": "فَٱنطَلَقُواْ وَهُمۡ يَتَخَٰفَتُونَ",
+        "phonetic": "68.23 Fānţalaqū Wa Hum Yatakhāfatūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So they set out, while lowering their voices,",
+            "english_hilali_khan": "So they departed, conversing in secret low tones (saying):",
+            "english_rwwad": "So they set out, whispering to one another,"
+        }
+    },
+    {
+        "id": 5294,
+        "chapter": 68,
+        "verse": 24,
+        "arabic_text": "أَن لَّا يَدۡخُلَنَّهَا ٱلۡيَوۡمَ عَلَيۡكُم مِّسۡكِينٞ",
+        "phonetic": "68.24 'An Lā Yadkhulannahā Al-Yawma `Alaykum Miskīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Saying], \"There will surely not enter it today upon you [any] poor person.\"",
+            "english_hilali_khan": "\"No Miskîn (poor man) shall enter upon you into it today.\"",
+            "english_rwwad": "“Not a single poor person should enter your garden today.”"
+        }
+    },
+    {
+        "id": 5295,
+        "chapter": 68,
+        "verse": 25,
+        "arabic_text": "وَغَدَوۡاْ عَلَىٰ حَرۡدٖ قَٰدِرِينَ",
+        "phonetic": "68.25 Waghadaw `Alá Ĥardin Qādirīna",
+        "footnotes": {
+            "english_saheeh": "[1728]- To carry out their plan, confident of their ability.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they went early in determination, [assuming themselves] able.[1728]",
+            "english_hilali_khan": "And they went in the morning with strong intention, thinking that they have power (to prevent the poor taking anything of the fruits therefrom).",
+            "english_rwwad": "And they left early, fully determined to stick to their plan."
+        }
+    },
+    {
+        "id": 5296,
+        "chapter": 68,
+        "verse": 26,
+        "arabic_text": "فَلَمَّا رَأَوۡهَا قَالُوٓاْ إِنَّا لَضَآلُّونَ",
+        "phonetic": "68.26 Falammā Ra'awhā Qālū 'Innā Lađāllūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But when they saw it, they said, \"Indeed, we are lost;",
+            "english_hilali_khan": "But when they saw the (garden), they said: \"Verily, we have gone astray.\"",
+            "english_rwwad": "But when they saw the garden, they said, “We must have lost our way!"
+        }
+    },
+    {
+        "id": 5297,
+        "chapter": 68,
+        "verse": 27,
+        "arabic_text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+        "phonetic": "68.27 Bal Naĥnu Maĥrūmūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Rather, we have been deprived.\"",
+            "english_hilali_khan": "(Then they said): \"Nay! Indeed we are deprived of (the fruits)!\"",
+            "english_rwwad": "Rather, we have been deprived.”"
+        }
+    },
+    {
+        "id": 5298,
+        "chapter": 68,
+        "verse": 28,
+        "arabic_text": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ",
+        "phonetic": "68.28 Qāla 'Awsaţuhum 'Alam 'Aqul Lakum Lawlā Tusabbiĥūna",
+        "footnotes": {
+            "english_saheeh": "[1729]- i.e., remember or mention Him by saying, \"...if Allāh wills.\"  An additional meaning is \"praise\" or \"thank\" Him for His bounty.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The most moderate of them said, \"Did I not say to you, 'Why do you not exalt [Allāh]?'\"[1729]",
+            "english_hilali_khan": "The best among them said: \"Did I not tell you: why say you not: Inshâ’ Allâh (If Allâh wills).\"",
+            "english_rwwad": "The best among them said, “Did I not say to you to glorify Allah?”"
+        }
+    },
+    {
+        "id": 5299,
+        "chapter": 68,
+        "verse": 29,
+        "arabic_text": "قَالُواْ سُبۡحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+        "phonetic": "68.29 Qālū Subĥāna Rabbinā 'Innā Kunnā Žālimīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"Exalted is our Lord! Indeed, we were wrongdoers.\"",
+            "english_hilali_khan": "They said: \"Glory to Our Lord! Verily, we have been Zâlimûn (wrong-doers).\"",
+            "english_rwwad": "They said, “Glory be to our Lord! We were truly wrongdoers.”"
+        }
+    },
+    {
+        "id": 5300,
+        "chapter": 68,
+        "verse": 30,
+        "arabic_text": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَلَٰوَمُونَ",
+        "phonetic": "68.30 Fa'aqbala Ba`đuhum `Alá Ba`đin Yatalāwamūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then they approached one another, blaming each other.",
+            "english_hilali_khan": "Then they turned one against another, blaming.",
+            "english_rwwad": "Then they turned to one another, throwing blame."
+        }
+    },
+    {
+        "id": 5301,
+        "chapter": 68,
+        "verse": 31,
+        "arabic_text": "قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا طَٰغِينَ",
+        "phonetic": "68.31 Qālū Yā Waylanā 'Innā Kunnā Ţāghīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"O woe to us; indeed we were transgressors.",
+            "english_hilali_khan": "They said: \"Woe to us! Verily, we were Tâghûn (transgressors and disobedient)",
+            "english_rwwad": "They said, “Woe to us! We were surely transgressors."
+        }
+    },
+    {
+        "id": 5302,
+        "chapter": 68,
+        "verse": 32,
+        "arabic_text": "عَسَىٰ رَبُّنَآ أَن يُبۡدِلَنَا خَيۡرٗا مِّنۡهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
+        "phonetic": "68.32 `Asá Rabbunā 'An Yubdilanā Khayrāan Minhā 'Innā 'Ilá Rabbinā Rāghibūna",
+        "footnotes": {
+            "english_saheeh": "[1730]- Of His mercy, forgiveness and bounty.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Perhaps our Lord will substitute for us [one] better than it. Indeed, we are toward our Lord desirous.\"[1730]",
+            "english_hilali_khan": "We hope that our Lord will give us in exchange a better (garden) than this. Truly, we turn to our Lord (wishing for good that He may forgive our sins and reward us in the Hereafter).",
+            "english_rwwad": "Our Lord may give us something better than this. We certainly turn to our Lord in hope.”"
+        }
+    },
+    {
+        "id": 5303,
+        "chapter": 68,
+        "verse": 33,
+        "arabic_text": "كَذَٰلِكَ ٱلۡعَذَابُۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَكۡبَرُۚ لَوۡ كَانُواْ يَعۡلَمُونَ",
+        "phonetic": "68.33 Kadhālika Al-`Adhābu Wa La`adhābu Al-'Ākhirati 'Akbaru Law Kānū Ya`lamūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew.",
+            "english_hilali_khan": "Such is the punishment (in this life), but truly, the punishment of the Hereafter is greater if they but knew.",
+            "english_rwwad": "Such is the punishment [in this world]; but the punishment of the Hereafter is far worse, if only they knew."
+        }
+    },
+    {
+        "id": 5304,
+        "chapter": 68,
+        "verse": 34,
+        "arabic_text": "إِنَّ لِلۡمُتَّقِينَ عِندَ رَبِّهِمۡ جَنَّٰتِ ٱلنَّعِيمِ",
+        "phonetic": "68.34 'Inna Lilmuttaqīna `Inda Rabbihim Jannāti An-Na`īmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, for the righteous with their Lord are the Gardens of Pleasure.",
+            "english_hilali_khan": "are Gardens of delight (Paradise) with their Lord.",
+            "english_rwwad": "Indeed, the righteous will have gardens of bliss with their Lord."
+        }
+    },
+    {
+        "id": 5305,
+        "chapter": 68,
+        "verse": 35,
+        "arabic_text": "أَفَنَجۡعَلُ ٱلۡمُسۡلِمِينَ كَٱلۡمُجۡرِمِينَ",
+        "phonetic": "68.35 'Afanaj`alu Al-Muslimīna Kālmujrimīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then will We treat the Muslims like the criminals?",
+            "english_hilali_khan": "Shall We then treat the Muslims (believers of Islamic Monotheism, doers of righteous deeds) like the Mujrimûn (criminals, polytheists and disbelievers, etc.)?",
+            "english_rwwad": "Should We then treat Muslims like the wicked?"
+        }
+    },
+    {
+        "id": 5306,
+        "chapter": 68,
+        "verse": 36,
+        "arabic_text": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ",
+        "phonetic": "68.36 Mā Lakum Kayfa Taĥkumūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "What is [the matter] with you? How do you judge?",
+            "english_hilali_khan": "What is the matter with you? How judge you?",
+            "english_rwwad": "What is the matter with you that you make such a judgment?"
+        }
+    },
+    {
+        "id": 5307,
+        "chapter": 68,
+        "verse": 37,
+        "arabic_text": "أَمۡ لَكُمۡ كِتَٰبٞ فِيهِ تَدۡرُسُونَ",
+        "phonetic": "68.37 'Am Lakum Kitābun Fīhi Tadrusūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Or do you have a scripture in which you learn",
+            "english_hilali_khan": "Or have you a Book wherein you learn,",
+            "english_rwwad": "Or do you have a scripture in which you read"
+        }
+    },
+    {
+        "id": 5308,
+        "chapter": 68,
+        "verse": 38,
+        "arabic_text": "إِنَّ لَكُمۡ فِيهِ لَمَا تَخَيَّرُونَ",
+        "phonetic": "68.38 'Inna Lakum Fīhi Lamā Takhayyarūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That indeed for you is whatever you choose?",
+            "english_hilali_khan": "That you shall therein have all that you choose?",
+            "english_rwwad": "that you will be given whatever you choose?"
+        }
+    },
+    {
+        "id": 5309,
+        "chapter": 68,
+        "verse": 39,
+        "arabic_text": "أَمۡ لَكُمۡ أَيۡمَٰنٌ عَلَيۡنَا بَٰلِغَةٌ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ إِنَّ لَكُمۡ لَمَا تَحۡكُمُونَ",
+        "phonetic": "68.39 'Am Lakum 'Aymānun `Alaynā Bālighatun 'Ilá Yawmi Al-Qiyāmati 'Inna Lakum Lamā Taĥkumūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Or do you have oaths [binding] upon Us, extending until the Day of Resurrection, that indeed for you is whatever you judge?",
+            "english_hilali_khan": "Or have you oaths from Us, reaching to the Day of Resurrection, that yours will be what you judge?",
+            "english_rwwad": "Or do you have a solemn promise binding upon Us until the Day of Resurrection, that you will have whatever you decide for yourselves?"
+        }
+    },
+    {
+        "id": 5310,
+        "chapter": 68,
+        "verse": 40,
+        "arabic_text": "سَلۡهُمۡ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+        "phonetic": "68.40 Salhum 'Ayyuhum Bidhālika Za`īmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Ask them which of them, for that [claim], is responsible.",
+            "english_hilali_khan": "Ask them, which of them will stand surety for that!",
+            "english_rwwad": "Ask them which of them can guarantee that."
+        }
+    },
+    {
+        "id": 5311,
+        "chapter": 68,
+        "verse": 41,
+        "arabic_text": "أَمۡ لَهُمۡ شُرَكَآءُ فَلۡيَأۡتُواْ بِشُرَكَآئِهِمۡ إِن كَانُواْ صَٰدِقِينَ",
+        "phonetic": "68.41 'Am Lahum Shurakā'u Falya'tū Bishurakā'ihim 'In Kānū Şādiqīna",
+        "footnotes": {
+            "english_saheeh": "[1731]- i.e., those to whom they attribute divinity other than Allāh or partners from among themselves.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Or do they have partners?[1731] Then let them bring their partners, if they should be truthful.",
+            "english_hilali_khan": "Or have they \"partners\"? Then let them bring their \"partners\" if they are truthful!",
+            "english_rwwad": "Or do they have associate-gods? Then let them bring forth their associate-gods, if they are truthful."
+        }
+    },
+    {
+        "id": 5312,
+        "chapter": 68,
+        "verse": 42,
+        "arabic_text": "يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ",
+        "phonetic": "68.42 Yawma Yukshafu `An Sāqin Wa Yud`awna 'Ilá As-Sujūdi Falā Yastaţī`ūna",
+        "footnotes": {
+            "english_saheeh": "[1732]- i.e., when everyone will find before him great difficulty.  In accordance with authentic ḥadīths, \"the shin\" might also refer to that of Allāh (subḥānahu wa taʿālā), before which every believer will prostrate on the Day of Judgement.  See footnote to 2:19.",
+            "english_hilali_khan": "(V.68:42).\na) Narrated Abû-Sa‘îd رضي الله عنه: I heard the Prophet صلى الله عليه وسلم saying, \"Allâh will lay bare His Shin and then all the believers, men and women, will prostrate themselves before Him; but there will remain those who used to prostrate themselves in the world for showing off and for gaining good reputation. Such a one will try to prostrate himself (on the Day of Judgement) but his back (bones) will become a single (vertebra) bone (so he will not be able to prostrate). (Sahih Al-Bukhari, Vol.6, Hadîth No.441).\nb) See the footnote of (V.3:73) صفات الله .\nc) Narrated Abu Sa‘îd Al-Khudrî رضي الله عنه: We said, \"O Allâh’s Messenger! Shall we see our Lord on the Day of Resurrection?\" He said, \"Do you have any difficulty in seeing the sun and the moon when the sky is clear?\" We said, \"No.\" He said, \"So you will have no difficulty in seeing your Lord on that Day as you have no difficulty in seeing the sun and the moon (in a clear sky).\" The Prophet صلى الله عليه وسلم then said, \"Somebody will then announce, ‘Let every nation follow what they used to worship.’ So the people of the Cross will go with their Cross, and the idolaters (will go) with their idols, and the worshippers of every god (false deities) (will go) with their god: till there remain those who used to worship Allâh, from the righteous pious ones and the mischievous ones, and some of the people of the Scripture (Jews and Christians). Then Hell will be presented to them as if it were a mirage. Then it will be said to the Jews, ‘What did you use to worship?’ They will reply, ‘We used to worship ‘Uzair (Ezra), the son of Allâh.’ It will be said to them, ‘You are liars, for Allâh has neither a wife nor a son. What do you want (now)?’ They will reply, ‘We want You to provide us with water.’ Then it will be said to them ‘Drink’, and they will fall down in Hell (instead). Then it will be said to the Christians, ‘What did you use to worship?’ They will reply, ‘We used to worship Messiah, the son of Allâh.’ It will be said, ‘You are liars, for Allâh has neither a wife nor a son. What do you want (now)?’ They will say, ‘We want You to provide us with water.’ It will be said to them, ‘Drink,’ and they will fall down in Hell (instead): till there remain only those who used to worship Allâh (Alone), from the righteous pious ones and the mischievous evil ones, it will be said to them, ‘What keeps you here when all the people have gone?’ They will say, ‘We left them (in the world) when we were in greater need of them than we are today; we heard the call of one proclaiming - Let every nation follow what they used to worship, - and now we are waiting for our Lord.’ Then the Almighty will come to them in a shape other than the one which they saw the first time, and He will say, ‘I am your Lord,’ and they will say, ‘You are our Lord.’ And none will speak to Him then but the Prophets. And then it will be said to them, ‘Do you know any sign by which you can recognise Him?’ They will say, ‘The Shin,’ and so Allâh will then uncover His Shin whereupon every believer will prostrate himself before Him and there will remain those who used to prostrate themselves before Him just for showing off and for gaining good reputation. Such a one will try to prostrate himself but his back (bones) will become a single (vertebra) bone [like one piece of a wood and he will not be able to prostrate]. Then the bridge will be brought and laid across Hell.\" We (the Companions of the Prophet صلى الله عليه وسلم) said, \"O Allâh’s Messenger! What is the bridge?\" He said, \"It is a slippery (bridge) on which there are clamps and (hooks like) a thorny seed that is wide at one side and narrow at the other and has thorns with bent ends. Such a thorny seed is found in Najd and is called As-Sa‘dân. Some of the believers will cross the bridge as quickly as the wink of an eye, some others as quick as lightning, or a strong wind, or fast horses or she-camels. So some will be safe without any harm; some will be safe after receiving some scratches and some will fall down into Hell (Fire). The last person will cross as if being dragged (over the bridge).\" The Prophet صلى الله عليه وسلم said, \"You (Muslims) cannot be more pressing in claiming from me a right that has been clearly proved to be yours than the believers in interceding with Almighty for their (Muslim) brothers on that Day, when they see themselves safe. They will say, ‘O Allâh! (Save) our brothers (for they) used to pray with us, fast with us and also do good deeds with us.’ Allâh will say, ‘Go and take out (of Hell) anyone in whose heart you find Faith equal to the weight of one (gold) Dinar.’ Allâh will forbid the Fire to burn the faces of those sinners. They will go to them and find some of them in Hell (Fire) up to their feet, and some up to the middle of their legs. So, they will take out those whom they will recognise and then they will return. And Allâh will say (to them), ‘Go and take out (of Hell) anyone in whose heart you find Faith equal to the weight of one-half Dinar.’ They will take out whomever they will recognise and return. And then Allâh will say, ‘Go and take out (of Hell) anyone in whose heart you find Faith equal to the weight of an atom (or a small ant), and so they will take out all those whom they will recognise.\" Abû Sa‘îd said: \"If you do not believe me then read the Holy Verse: ‘Surely Allâh wrongs not even of the weight of an atom (or a small ant) but if there is any good (done), He doubles it.’ (V.4:40).\"\nThe Prophet صلى الله عليه وسلم added: \"Then the Prophets and angels and the believers will intercede, and (last of all) the Almighty (Allâh) will say, ‘Now remains My Intercession. He will then hold a handful of the Fire from which He will take out some people whose bodies have been burnt, and they will be thrown into a river at the entrance of Paradise, called the Water of Life. They will grow on its banks, as a seed carried by the torrent grows. You have noticed how it grows beside a rock or beside a tree, and how the side facing the sun is usually green while the side facing the shade is white. Those people will come out (of the River of Life) like pearls, and they will have (golden) necklaces, and then they will enter Paradise whereupon the people of Paradise will say, ‘These are the people emancipated by the Gracious. He has admitted them into Paradise without (them) having done any good deed and without sending forth any good (for themselves).’ Then it will be said to them, ‘For you is what you have seen and its equivalent as well.’\" (Sahih Al-Bukhari, Vol.9, Hadîth No.532B).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Day the shin will be uncovered[1732] and they are invited to prostration but they [i.e., the disbelievers] will not be able,",
+            "english_hilali_khan": "(Remember) the Day when the Shin[1] shall be laid bare (i.e. the Day of Resurrection) and they shall be called to prostrate themselves (to Allâh), but they (hypocrites) shall not be able to do so.",
+            "english_rwwad": "On the Day when the Shin [of Allah] will be uncovered, and they are invited to prostrate, but they will not be able to do so."
+        }
+    },
+    {
+        "id": 5313,
+        "chapter": 68,
+        "verse": 43,
+        "arabic_text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۖ وَقَدۡ كَانُواْ يُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سَٰلِمُونَ",
+        "phonetic": "68.43 Khāshi`atan 'Abşāruhum Tarhaquhum Dhillatun Wa Qad Kānū Yud`awna 'Ilá As-Sujūdi Wa Hum Sālimūna",
+        "footnotes": {
+            "english_saheeh": "[1733]- During worldly life.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Their eyes humbled, humiliation will cover them. And they used to be invited to prostration while they were sound.[1733]",
+            "english_hilali_khan": "Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves (offer prayers), while they were healthy and good (in the life of the world, but they did not).",
+            "english_rwwad": "Their eyes will be downcast, overwhelmed with humiliation, for they were invited to prostrate when they were capable [but they refused]."
+        }
+    },
+    {
+        "id": 5314,
+        "chapter": 68,
+        "verse": 44,
+        "arabic_text": "فَذَرۡنِي وَمَن يُكَذِّبُ بِهَٰذَا ٱلۡحَدِيثِۖ سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ لَا يَعۡلَمُونَ",
+        "phonetic": "68.44 Fadharnī Wa Man Yukadhibu Bihadhā Al-Ĥadīthi Sanastadrijuhum Min Ĥaythu Lā Ya`lamūna",
+        "footnotes": {
+            "english_saheeh": "[1734]- Allāh will increase His favors to them in this world by way of trial, whereby they will sink deeper into sin and thus into destruction.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So leave Me, [O Muḥammad], with [the matter of] whoever denies this statement [i.e., the Qur’ān]. We will progressively lead them [to punishment] from where they do not know.[1734]",
+            "english_hilali_khan": "Then leave Me Alone with such as belie this Qur’ân. We shall punish them gradually from directions they perceive not.",
+            "english_rwwad": "So leave to Me those who reject this message [O Prophet]. We will gradually lead them to their ruin in ways that they do not perceive."
+        }
+    },
+    {
+        "id": 5315,
+        "chapter": 68,
+        "verse": 45,
+        "arabic_text": "وَأُمۡلِي لَهُمۡۚ إِنَّ كَيۡدِي مَتِينٌ",
+        "phonetic": "68.45 Wa 'Umlī Lahum 'Inna Kaydī Matīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And I will give them time. Indeed, My plan is firm.",
+            "english_hilali_khan": "And I will grant them a respite. Verily, My Plan is strong.",
+            "english_rwwad": "I will give them respite, but My plan is firm."
+        }
+    },
+    {
+        "id": 5316,
+        "chapter": 68,
+        "verse": 46,
+        "arabic_text": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ",
+        "phonetic": "68.46 'Am Tas'aluhum 'Ajrāan Fahum Min Maghramin Muthqalūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Or do you ask of them a payment, so they are by debt burdened down?",
+            "english_hilali_khan": "Or is it that you (O Muhammad صلى الله عليه وسلم) ask them a wage, so that they are heavily burdened with debt?",
+            "english_rwwad": "Or are you asking them for a reward, so they find it too burdensome?"
+        }
+    },
+    {
+        "id": 5317,
+        "chapter": 68,
+        "verse": 47,
+        "arabic_text": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+        "phonetic": "68.47 'Am `Indahumu Al-Ghaybu Fahum Yaktubūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Or have they [knowledge of] the unseen, so they write [it] down?",
+            "english_hilali_khan": "Or that the Ghaib (the Unseen - here in this Verse it means Al-Lauh Al-Mahfûz) is in their hands, so that they can write it down?",
+            "english_rwwad": "Or do they have knowledge of the unseen, so they write it down?"
+        }
+    },
+    {
+        "id": 5318,
+        "chapter": 68,
+        "verse": 48,
+        "arabic_text": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومٞ",
+        "phonetic": "68.48 Fāşbir Liĥukmi Rabbika Wa Lā Takun Kaşāĥibi Al-Ĥūti 'Idh Nādá Wa Huwa Makžūmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then be patient for the decision of your Lord, [O Muḥammad], and be not like the companion of the fish [i.e., Jonah] when he called out while he was distressed.",
+            "english_hilali_khan": "So wait with patience for the Decision of your Lord, and be not like the Companion of the Fish - when he cried out (to Us) while he was in deep sorrow. (See the Qur’ân, Verse 21:87).",
+            "english_rwwad": "So be patient with the decree of your Lord, and do not be like [Jonah], the man of the Whale, when he cried out in anguish."
+        }
+    },
+    {
+        "id": 5319,
+        "chapter": 68,
+        "verse": 49,
+        "arabic_text": "لَّوۡلَآ أَن تَدَٰرَكَهُۥ نِعۡمَةٞ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَآءِ وَهُوَ مَذۡمُومٞ",
+        "phonetic": "68.49 Lawlā 'An Tadārakahu Ni`matun Min Rabbihi Lanubidha Bil-`Arā'i Wa Huwa Madhmūmun",
+        "footnotes": {
+            "english_saheeh": "[1735]- But instead, Allāh accepted his repentance and provided means for his recovery.  See 37:139-148.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "If not that a favor [i.e., mercy] from his Lord overtook him, he would have been thrown onto the naked shore while he was censured.[1735]",
+            "english_hilali_khan": "Had not a Grace from his Lord reached him, he would indeed have been (left in the stomach of the fish, but We forgave him): so he was cast off on the naked shore, while he was to be blamed.",
+            "english_rwwad": "Had it not been for the grace that he received from his Lord, he would have surely been thrown at the barren shore, blameworthy."
+        }
+    },
+    {
+        "id": 5320,
+        "chapter": 68,
+        "verse": 50,
+        "arabic_text": "فَٱجۡتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ",
+        "phonetic": "68.50 Fājtabāhu Rabbuhu Faja`alahu Mina Aş-Şāliĥīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And his Lord chose him and made him of the righteous.",
+            "english_hilali_khan": "Then his Lord chose him and made him of the righteous.",
+            "english_rwwad": "But his Lord chose him, and made him one of the righteous."
+        }
+    },
+    {
+        "id": 5321,
+        "chapter": 68,
+        "verse": 51,
+        "arabic_text": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُواْ لَيُزۡلِقُونَكَ بِأَبۡصَٰرِهِمۡ لَمَّا سَمِعُواْ ٱلذِّكۡرَ وَيَقُولُونَ إِنَّهُۥ لَمَجۡنُونٞ",
+        "phonetic": "68.51 Wa 'In Yakādu Al-Ladhīna Kafarū Layuzliqūnaka Bi'abşārihim Lammā Sami`ū Adh-Dhikra Wa Yaqūlūna 'Innahu Lamajnūnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And indeed, those who disbelieve would almost make you slip with their eyes [i.e., looks] when they hear the message, and they say, \"Indeed, he is mad.\"",
+            "english_hilali_khan": "And verily, those who disbelieve would almost make you slip with their eyes (through hatred) when they hear the Reminder (the Qur’ân), and they say: \"Verily, he (Muhammad صلى الله عليه وسلم) is a madman!\"",
+            "english_rwwad": "The disbelievers would almost strike you down with their malicious gazes when they hear the Reminder, and they say, “He is certainly mad.”"
+        }
+    },
+    {
+        "id": 5322,
+        "chapter": 68,
+        "verse": 52,
+        "arabic_text": "وَمَا هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+        "phonetic": "68.52 Wa Mā Huwa 'Illā Dhikrun Lil`ālamīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But it is not except a reminder to the worlds.",
+            "english_hilali_khan": "But it is nothing else than a Reminder to all the ‘Âlamîn (mankind, and jinn).",
+            "english_rwwad": "But it is nothing other than a reminder to the whole world."
+        }
+    }
+]
