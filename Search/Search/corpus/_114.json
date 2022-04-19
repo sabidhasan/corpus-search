@@ -1,0 +1,104 @@
+[
+    {
+        "id": 6230,
+        "chapter": 114,
+        "verse": 1,
+        "arabic_text": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+        "phonetic": "114.1 Qul 'A`ūdhu Birabbi An-Nāsi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.114:1) Narrated ‘Âishah رضي الله عنها: whenever Allâh’s Messenger صلى الله عليه وسلم went to bed, he used to recite Sûrat Al-Ikhlâs (112), Sûrat Al-Falaq (113) and Sûrat An-Nâs (114) and then blow on his palms and pass them over his face and those parts of his body that his hands could reach. And when he fell ill, he used to order me to do like that for him. (Sahih Al-Bukhari, Vol.7, Hadith No.644).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"I seek refuge in the Lord of mankind, ",
+            "english_hilali_khan": "Say: \"I seek refuge with (Allâh) the Lord of mankind,[3]",
+            "english_rwwad": "Say, “I seek refuge with the Lord of mankind,"
+        }
+    },
+    {
+        "id": 6231,
+        "chapter": 114,
+        "verse": 2,
+        "arabic_text": "مَلِكِ ٱلنَّاسِ",
+        "phonetic": "114.2 Maliki An-Nāsi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.114:2) The Statement of Allâh عز وجل: ‘The King of mankind.’ Narrated Abu Hurairah رضي الله عنه: The Prophet صلى الله عليه وسلم said, \"On the Day of Resurrection Allâh will grasp the whole (planet of) earth (by His Hand) and shall roll up the heaven with His Right Hand and say, ‘I am the King. Where are the kings of the earth?’\" (Sahih Al-Bukhari, Vol.9, Hadith No.479).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Sovereign of mankind, ",
+            "english_hilali_khan": "\"The King of mankind -[4]",
+            "english_rwwad": "the Sovereign of mankind,"
+        }
+    },
+    {
+        "id": 6232,
+        "chapter": 114,
+        "verse": 3,
+        "arabic_text": "إِلَٰهِ ٱلنَّاسِ",
+        "phonetic": "114.3 'Ilahi An-Nāsi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The God of mankind, ",
+            "english_hilali_khan": "\"The Ilâh (God) of mankind,",
+            "english_rwwad": "the God of mankind,"
+        }
+    },
+    {
+        "id": 6233,
+        "chapter": 114,
+        "verse": 4,
+        "arabic_text": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+        "phonetic": "114.4 Min Sharri Al-Waswāsi Al-Khannāsi",
+        "footnotes": {
+            "english_saheeh": "[2016]- i.e., a devil who makes evil suggestions to man but disappears when one remembers Allāh.",
+            "english_hilali_khan": "(V.114:4) Narrated Abu Hurairah رضي الله عنه: Allâh’s Messenger صلى الله عليه وسلم said, \"The (Hell) Fire is surrounded by all kinds of desires and passions, while Paradise is surrounded by all kinds of disliked undesirable things.\"* (Sahih Al-Bukhari, Vol. 8, Hadith No.494).\n* Inordinate desires and animalistic passions lead to the Fire while self-control, perseverance, chastity and all other virtues, and the obedience to Allâh and His Messengerصلى الله عليه وسلم lead to Paradise. What leads to Hell is easy to do while what leads to Paradise is difficult to do.",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "From the evil of the retreating whisperer[2016] -",
+            "english_hilali_khan": "\"From the evil of the whisperer (devil who whispers evil in the hearts of men) who withdraws (from his whispering in one’s heart after one remembers Allâh).[5]",
+            "english_rwwad": "from the harm of the lurking whisperer,"
+        }
+    },
+    {
+        "id": 6234,
+        "chapter": 114,
+        "verse": 5,
+        "arabic_text": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+        "phonetic": "114.5 Al-Ladhī Yuwaswisu Fī Şudūri An-Nāsi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Who whispers [evil] into the breasts of mankind -",
+            "english_hilali_khan": "\"Who whispers in the breasts of mankind.",
+            "english_rwwad": "who whispers into the hearts of mankind,"
+        }
+    },
+    {
+        "id": 6235,
+        "chapter": 114,
+        "verse": 6,
+        "arabic_text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+        "phonetic": "114.6 Mina Al-Jinnati Wa An-Nāsi ",
+        "footnotes": {
+            "english_saheeh": "[2017]- Evil prompters may be from men as well as from jinn.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "From among the jinn and mankind\".[2017]",
+            "english_hilali_khan": "\"Of jinn and men.\"",
+            "english_rwwad": "from among jinn and mankind.”"
+        }
+    }
+]

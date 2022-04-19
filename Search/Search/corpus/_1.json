@@ -1,0 +1,121 @@
+[
+    {
+        "id": 0,
+        "chapter": 1,
+        "verse": 1,
+        "arabic_text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+        "phonetic": "1.1 Bismi Allāhi Ar-Raĥmāni Ar-Raĥīmi",
+        "footnotes": {
+            "english_saheeh": "[2]- Allāh is a proper name belonging only to the one Almighty God, Creator and Sustainer of the heavens and the earth and all that is within them, the Eternal and Absolute, to whom alone all worship is due.\n[3]- Ar-Raḥmān and ar-Raḥeem are two names of Allāh derived from the word \"raḥmah\" (mercy) . In Arabic grammar both are intensive forms of \"merciful\" (i.e., extremely merciful) . A complimentary and comprehensive meaning is intended by using both together. Raḥmān is used only to describe Allāh, while raḥeem might be used to describe a person as well. The Prophet (ﷺ) was described in the Qur’ān as raḥeem. Raḥmān is above the human level (i.e., intensely merciful) . Since one usually understands intensity to be something of short duration, Allāh describes Himself also as raḥeem (i.e., continually merciful) . Raḥmān also carries a wider meaning - merciful to all creation. Justice is a part of this mercy. Raḥeem includes the concept of speciality - especially and specifically merciful to the believers. Forgiveness is a part of this mercy. In addition, Raḥmān is adjectival, referring to an attribute of Allāh and is part of His essence. Raḥeem is verbal, indicating what He does: i.e., bestowing and implementing mercy.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In the name of Allāh,[2] the Entirely Merciful, the Especially Merciful.[3]",
+            "english_hilali_khan": "In the Name of Allâh, the Most Gracious, the Most Merciful",
+            "english_rwwad": "In the name of Allah, the Most Compassionate, the Most Merciful."
+        }
+    },
+    {
+        "id": 1,
+        "chapter": 1,
+        "verse": 2,
+        "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+        "phonetic": "1.2 Al-Ĥamdu Lillāhi Rabbi Al-`Ālamīna",
+        "footnotes": {
+            "english_saheeh": "[4]- When referring to Allāh (subḥānahu wa taʿālā) , the Arabic term \"rabb\" (translated as \"Lord\") includes all of the following meanings: \"owner, master, ruler, controller, sustainer, provider, guardian and caretaker.\"",
+            "english_hilali_khan": "[1] (V.1:2) Lord: The actual word used in the Qur’ân is Rabb There is no proper equivalent for Rabb in English language. It means the One and the Only Lord for all the universe, its Creator, Owner, Organizer, Provider, Master, Planner, Sustainer, Cherisher, and Giver of security. Rabb is also one of the Names of Allâh. We have used the word \"Lord\" as the nearest to Rabb . All occurrences of \"Lord\" in the interpretation of the meanings of the Noble Qur’ân actually mean Rabb and should be understood as such.\n[2] (V.1:2). Narrated Abu Sa‘îd bin Al-Mu‘alla: While I was praying in the mosque, Allâh’s Messenger صلى الله عليه وسلم called me but I did not respond to him. Later I said, \"O Allâh’s Messenger, I was praying.\" He said, \"Didn’t Allâh say - Answer Allâh (by obeying Him) and His Messenger when he صلى الله عليه وسلم calls you.\" (V.8:24). He then said to me, \"I will teach you a Sûrah which is the greatest Sû rah in the Qur’ân, before you leave the mosque.\" Then he got hold of my hand, and when he intended to leave (the mosque), I said to him, \"Didn’t you say to me, \"I will teach you a Sûrah which is the greatest Sûrah in the Qur’an?\" He said, \" Al-Hamdu lillahi Rabbil-‘âlamîn [i.e. all the praises and thanks be to Allâh, the Lord of the ‘Âlamîn (mankind, jinn and all that exists)], Sûrat Al-Fâtihah which is As-Sab‘ Al-Mathâni (i.e. the seven repeatedly recited Verses) and the Grand Qur’ân which has been given to me.\" (Sahih Al-Bukhâri, Vol.6, Hadîth No. 1).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[All] praise is [due] to Allāh, Lord[4] of the worlds -",
+            "english_hilali_khan": "All the praises and thanks be to Allâh, the Lord[1] of the ‘Âlamîn (mankind, jinn and all that exists).[2]",
+            "english_rwwad": "All praise be to Allah, the Lord of the worlds,"
+        }
+    },
+    {
+        "id": 2,
+        "chapter": 1,
+        "verse": 3,
+        "arabic_text": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+        "phonetic": "1.3 Ar-Raĥmāni Ar-Raĥīmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Entirely Merciful, the Especially Merciful,",
+            "english_hilali_khan": "The Most Gracious, the Most Merciful.",
+            "english_rwwad": "the Most Compassionate, the Most Merciful,"
+        }
+    },
+    {
+        "id": 3,
+        "chapter": 1,
+        "verse": 4,
+        "arabic_text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+        "phonetic": "1.4 Māliki Yawmi Ad-Dīni",
+        "footnotes": {
+            "english_saheeh": "[5]- i.e., repayment and compensation for whatever was earned of good or evil during life on this earth.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Sovereign of the Day of Recompense.[5]",
+            "english_hilali_khan": "The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection)",
+            "english_rwwad": "Master of the Day of Judgment."
+        }
+    },
+    {
+        "id": 4,
+        "chapter": 1,
+        "verse": 5,
+        "arabic_text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+        "phonetic": "1.5 'Īyāka Na`budu Wa 'Īyāka Nasta`īnu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It is You we worship and You we ask for help.",
+            "english_hilali_khan": "You (Alone) we worship, and You (Alone) we ask for help (for each and everything).",
+            "english_rwwad": "You alone we worship, and You alone we ask for help."
+        }
+    },
+    {
+        "id": 5,
+        "chapter": 1,
+        "verse": 6,
+        "arabic_text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+        "phonetic": "1.6 Ihdinā Aş-Şirāţa Al-Mustaqīma",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "[3] (V.1:6) Guidance is of two kinds:",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Guide us to the straight path -",
+            "english_hilali_khan": "Guide us to the Straight Way.[3]",
+            "english_rwwad": "Guide us to the straight path,"
+        }
+    },
+    {
+        "id": 6,
+        "chapter": 1,
+        "verse": 7,
+        "arabic_text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+        "phonetic": "1.7 Şirāţa Al-Ladhīna 'An`amta `Alayhim Ghayri Al-Maghđūbi `Alayhim Wa Lā Ađ-Đāllīna ",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "[4] (V.1:7) i.e. the way of the Prophets, the Siddîqûn (i.e. those followers of the Prophet, who were first and foremost to believe in him, like Abu Bakr As-Siddîq), the martyrs and the righteous, [as Allâh عز وجل said: \"And whoso obeys Allâh and the Messenger (Muhammad صلى الله عليه وسلم), then they will be in the company of those on whom Allâh has bestowed His Grace, of the Prophets, the Siddîqûn, the martyrs, and the righteous. And how excellent these companions are!\" (V.4:69)].\n[5] (V.1:7) Narrated ‘Adi bin Hâtim رضي الله عنه: I asked Allâh’s Messenger صلى الله عليه وسلم , about the Statement of Allâh: 1. \" غير المغضوب عليهم Ghairil-maghdûbi ‘alaihim (not the way of those who earned Your Anger),\" he صلى الله عليه وسلم replied \"They are the Jews\". And 2. ولا الضالين Walad dâllîn (nor of those who went astray),\" he صلى الله عليه وسلم replied: \"The Christians, and they are the ones who went astray\" [This Hadith is quoted by At-Tirmidhi and Musnad Abu Dâwûd ].\n[6] (V.1:7): Narrated ‘Ubâdah bin As-Sâmit رضي الله عنه Allâh’s Messenger صلى الله عليه وسلم said, \"Whoever does not recite Sûrat Al-Fâtihah in his prayer, his prayer is invalid. (Sahih Al-Bukhâri, Vol.1, Hadîth No. 723). \n[7] (V.1:7): Narrated Abu Hurairah رضي الله عنه : Allâ h’s Messenger صلى الله عليه وسلم said, \"When the Imâm says: Ghairi l-maghdûbi ‘alaihim Walad-dâllîn [i.e. not the way of those who earned Your Anger, nor the way of those who went astray (1:7)], then you must say, Amîn , for if one’s utterance of Amîn coincides with that of the angels, then his past sins will be forgiven.\" (Sahih Al-Bukhâri, Vol.6, Hadîth No. 2).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.",
+            "english_hilali_khan": "The Way of those on whom You have bestowed Your Grace[4] , not (the way) of those who earned Your Anger [5] (i.e. those who knew the Truth, but did not follow it) nor of those who went astray (i.e. those who did not follow the Truth out of ignorance and error). [6], [7]",
+            "english_rwwad": "the path of those whom You have blessed; not of those who incurred Your Wrath, or of those who went astray."
+        }
+    }
+]
