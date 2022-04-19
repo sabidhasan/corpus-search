@@ -1,0 +1,87 @@
+[
+    {
+        "id": 6225,
+        "chapter": 113,
+        "verse": 1,
+        "arabic_text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+        "phonetic": "113.1 Qul 'A`ūdhu Birabbi Al-Falaqi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"I seek refuge in the Lord of daybreak ",
+            "english_hilali_khan": "Say: \"I seek refuge with (Allâh), the Lord of the daybreak,",
+            "english_rwwad": "Say, “I seek refuge with the Lord of the daybreak,"
+        }
+    },
+    {
+        "id": 6226,
+        "chapter": 113,
+        "verse": 2,
+        "arabic_text": "مِن شَرِّ مَا خَلَقَ",
+        "phonetic": "113.2 Min Sharri Mā Khalaqa",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "From the evil of that which He created ",
+            "english_hilali_khan": "\"From the evil of what He has created,",
+            "english_rwwad": "from the harm of all what He has created;"
+        }
+    },
+    {
+        "id": 6227,
+        "chapter": 113,
+        "verse": 3,
+        "arabic_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "phonetic": "113.3 Wa Min Sharri Ghāsiqin 'Idhā Waqaba",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And from the evil of darkness when it settles ",
+            "english_hilali_khan": "\"And from the evil of the darkening (night) as it comes with its darkness; (or the moon as it sets or goes away),",
+            "english_rwwad": "from the harm of night’s darkness when it spreads around,"
+        }
+    },
+    {
+        "id": 6228,
+        "chapter": 113,
+        "verse": 4,
+        "arabic_text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ",
+        "phonetic": "113.4 Wa Min Sharri An-Naffāthāti Fī Al-`Uqadi",
+        "footnotes": {
+            "english_saheeh": "[2014]- i.e., those who practice magic.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And from the evil of the blowers in knots[2014] ",
+            "english_hilali_khan": "\"And from the evil of those who practise witchcraft when they blow in the knots,",
+            "english_rwwad": "from the harm of the sorceresses who blow on knots,"
+        }
+    },
+    {
+        "id": 6229,
+        "chapter": 113,
+        "verse": 5,
+        "arabic_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "phonetic": "113.5 Wa Min Sharri Ĥāsidin 'Idhā Ĥasada",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And from the evil of an envier when he envies.\" ",
+            "english_hilali_khan": "\"And from the evil of the envier when he envies.\"",
+            "english_rwwad": "and from the harm of the envier when he envies."
+        }
+    }
+]

@@ -1,0 +1,1413 @@
+[
+    {
+        "id": 3705,
+        "chapter": 36,
+        "verse": 1,
+        "arabic_text": "يسٓ",
+        "phonetic": "36.1 Yā -Sīn",
+        "footnotes": {
+            "english_saheeh": "[1260]- See footnote to 2:1.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Yā, Seen.[1260]",
+            "english_hilali_khan": "Yâ-Sîn.",
+            "english_rwwad": "Yā Sīn"
+        }
+    },
+    {
+        "id": 3706,
+        "chapter": 36,
+        "verse": 2,
+        "arabic_text": "وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ",
+        "phonetic": "36.2 Wa Al-Qur'āni Al-Ĥakīmi",
+        "footnotes": {
+            "english_saheeh": "[1261]- See footnote to 10:1.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "By the wise[1261] Qur’ān,",
+            "english_hilali_khan": "By the Qur’ân, full of wisdom (i.e. full of laws, evidence, and proofs),",
+            "english_rwwad": "By the Qur’an, full of wisdom,"
+        }
+    },
+    {
+        "id": 3707,
+        "chapter": 36,
+        "verse": 3,
+        "arabic_text": "إِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ",
+        "phonetic": "36.3 'Innaka Lamina Al-Mursalīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed you, [O Muḥammad], are from among the messengers,",
+            "english_hilali_khan": "Truly, you (O Muhammad صلى الله عليه وسلم) are one of the Messengers,",
+            "english_rwwad": "You [O Muhmmad] are indeed one of the messengers,"
+        }
+    },
+    {
+        "id": 3708,
+        "chapter": 36,
+        "verse": 4,
+        "arabic_text": "عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+        "phonetic": "36.4 `Alá Şirāţin Mustaqīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "On a straight path.",
+            "english_hilali_khan": "On the Straight Path (i.e. on Allâh’s religion of Islâmic Monotheism).",
+            "english_rwwad": "on a straight path,"
+        }
+    },
+    {
+        "id": 3709,
+        "chapter": 36,
+        "verse": 5,
+        "arabic_text": "تَنزِيلَ ٱلۡعَزِيزِ ٱلرَّحِيمِ",
+        "phonetic": "36.5 Tanzīla Al-`Azīzi Ar-Raĥīmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[This is] a revelation of the Exalted in Might, the Merciful,",
+            "english_hilali_khan": "(This is a Revelation) sent down by the All-Mighty, the Most Merciful,",
+            "english_rwwad": "[This is] a revelation from the All-Mighty, Most Merciful,"
+        }
+    },
+    {
+        "id": 3710,
+        "chapter": 36,
+        "verse": 6,
+        "arabic_text": "لِتُنذِرَ قَوۡمٗا مَّآ أُنذِرَ ءَابَآؤُهُمۡ فَهُمۡ غَٰفِلُونَ",
+        "phonetic": "36.6 Litundhira Qawmāan Mā 'Undhira 'Ābā'uuhum Fahum Ghāfilūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That you may warn a people whose forefathers were not warned, so they are unaware.",
+            "english_hilali_khan": "In order that you may warn a people whose forefathers were not warned, so they are heedless.",
+            "english_rwwad": "so that you warn a people whose forefathers were not warned, so they are heedless."
+        }
+    },
+    {
+        "id": 3711,
+        "chapter": 36,
+        "verse": 7,
+        "arabic_text": "لَقَدۡ حَقَّ ٱلۡقَوۡلُ عَلَىٰٓ أَكۡثَرِهِمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
+        "phonetic": "36.7 Laqad Ĥaqqa Al-Qawlu `Alá 'Aktharihim Fahum Lā Yu'uminūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Already the word [i.e., decree] has come into effect upon most of them, so they do not believe.",
+            "english_hilali_khan": "Indeed the Word (of punishment) has proved true against most of them, so they will not believe.",
+            "english_rwwad": "The decree [of punishment] has been passed against most of them, for they will not believe."
+        }
+    },
+    {
+        "id": 3712,
+        "chapter": 36,
+        "verse": 8,
+        "arabic_text": "إِنَّا جَعَلۡنَا فِيٓ أَعۡنَٰقِهِمۡ أَغۡلَٰلٗا فَهِيَ إِلَى ٱلۡأَذۡقَانِ فَهُم مُّقۡمَحُونَ",
+        "phonetic": "36.8 'Innā Ja`alnā Fī 'A`nāqihim 'Aghlālāan Fahiya 'Ilá Al-'Adhqāni Fahum Muqmaĥūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, We have put shackles on their necks, and they are to their chins, so they are with heads [kept] aloft.",
+            "english_hilali_khan": "Verily We have put on their necks iron collars reaching to the chins, so that their heads are raised up.",
+            "english_rwwad": "[It is as if] We have placed shackles around their necks up to their chins, so their heads are forced to remain up,"
+        }
+    },
+    {
+        "id": 3713,
+        "chapter": 36,
+        "verse": 9,
+        "arabic_text": "وَجَعَلۡنَا مِنۢ بَيۡنِ أَيۡدِيهِمۡ سَدّٗا وَمِنۡ خَلۡفِهِمۡ سَدّٗا فَأَغۡشَيۡنَٰهُمۡ فَهُمۡ لَا يُبۡصِرُونَ",
+        "phonetic": "36.9 Wa Ja`alnā Min Bayni 'Aydīhim Saddāan Wa Min Khalfihim Saddāan Fa'aghshaynāhum Fahum Lā Yubşirūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We have put before them a barrier and behind them a barrier and covered them, so they do not see.",
+            "english_hilali_khan": "And We have put a barrier before them, and a barrier behind them, and We have covered them up, so that they cannot see.",
+            "english_rwwad": "and We have placed a barrier before them and a barrier behind them, and have blocked their vision so they cannot see."
+        }
+    },
+    {
+        "id": 3714,
+        "chapter": 36,
+        "verse": 10,
+        "arabic_text": "وَسَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ",
+        "phonetic": "36.10 Wa Sawā'un `Alayhim 'A'andhartahum 'Am Lam Tundhirhum Lā Yu'uminūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And it is all the same for them whether you warn them or do not warn them - they will not believe.",
+            "english_hilali_khan": "It is the same to them whether you warn them or you warn them not, they will not believe.",
+            "english_rwwad": "It is the same to them whether you warn them or not, they will not believe."
+        }
+    },
+    {
+        "id": 3715,
+        "chapter": 36,
+        "verse": 11,
+        "arabic_text": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكۡرَ وَخَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِۖ فَبَشِّرۡهُ بِمَغۡفِرَةٖ وَأَجۡرٖ كَرِيمٍ",
+        "phonetic": "36.11 'Innamā Tundhiru Mani Attaba`a Adh-Dhikra Wa Khashiya Ar-Raĥmana Bil-Ghaybi Fabashirhu Bimaghfiratin Wa 'Ajrin Karīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "You can only warn one who follows the message and fears the Most Merciful unseen. So give him good tidings of forgiveness and noble reward.",
+            "english_hilali_khan": "You can only warn him who follows the Reminder (the Qur’ân), and fears the Most Gracious (Allâh) unseen. Bear you to such one the glad tidings of forgiveness, and a generous reward (i.e. Paradise).",
+            "english_rwwad": "You can only warn one who follows the Reminder and fears the Most Compassionate unseen. So give him glad tidings of forgiveness and a generous reward."
+        }
+    },
+    {
+        "id": 3716,
+        "chapter": 36,
+        "verse": 12,
+        "arabic_text": "إِنَّا نَحۡنُ نُحۡيِ ٱلۡمَوۡتَىٰ وَنَكۡتُبُ مَا قَدَّمُواْ وَءَاثَٰرَهُمۡۚ وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ فِيٓ إِمَامٖ مُّبِينٖ",
+        "phonetic": "36.12 'Innā Naĥnu Nuĥyi Al-Mawtá Wa Naktubu Mā Qaddamū Wa 'Āthārahum Wa Kulla Shay'in 'Ĥşaynāhu Fī 'Imāmin Mubīnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.36:12): Traces [their footsteps and walking on the earth with their legs to the mosques for the five compulsory congregational prayers, Jihâd (holy fighting in Allâh’s Cause) and all other good and evil they did, and that which they leave behind].",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, it is We who bring the dead to life and record what they have put forth and what they left behind, and all things We have enumerated in a clear register.",
+            "english_hilali_khan": "Verily, We give life to the dead, and We record that which they send before (them), and their traces[1] and all things We have recorded with numbers (as a record) in a Clear Book.",
+            "english_rwwad": "It is We Who give life to the dead, and record what they send forth and what they leave behind, and We keep an account of everything in a clear Record."
+        }
+    },
+    {
+        "id": 3717,
+        "chapter": 36,
+        "verse": 13,
+        "arabic_text": "وَٱضۡرِبۡ لَهُم مَّثَلًا أَصۡحَٰبَ ٱلۡقَرۡيَةِ إِذۡ جَآءَهَا ٱلۡمُرۡسَلُونَ",
+        "phonetic": "36.13 Wa Ađrib Lahum Mathalāan 'Aşĥāba Al-Qaryati 'Idh Jā'ahā Al-Mursalūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And present to them an example: the people of the city, when the messengers came to it -",
+            "english_hilali_khan": "And put forward to them a similitude: the (story of the) dwellers of the town, [it is said that the town was Antioch (Antâkiya)], when there came Messengers to them.",
+            "english_rwwad": "Give them an example of the People of the Town when the messengers came to it."
+        }
+    },
+    {
+        "id": 3718,
+        "chapter": 36,
+        "verse": 14,
+        "arabic_text": "إِذۡ أَرۡسَلۡنَآ إِلَيۡهِمُ ٱثۡنَيۡنِ فَكَذَّبُوهُمَا فَعَزَّزۡنَا بِثَالِثٖ فَقَالُوٓاْ إِنَّآ إِلَيۡكُم مُّرۡسَلُونَ",
+        "phonetic": "36.14 'Idh 'Arsalnā 'Ilayhimu Athnayni Fakadhabūhumā Fa`azzaznā Bithālithin Faqālū 'Innā 'Ilaykum Mursalūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\"",
+            "english_hilali_khan": "When We sent to them two Messengers, they belied them both; so We reinforced them with a third, and they said: \"Verily we have been sent to you as Messengers.\"",
+            "english_rwwad": "When We sent them two [messengers], but they rejected them, so We strengthened them with a third, and they said, “We are sent to you as messengers.”"
+        }
+    },
+    {
+        "id": 3719,
+        "chapter": 36,
+        "verse": 15,
+        "arabic_text": "قَالُواْ مَآ أَنتُمۡ إِلَّا بَشَرٞ مِّثۡلُنَا وَمَآ أَنزَلَ ٱلرَّحۡمَٰنُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا تَكۡذِبُونَ",
+        "phonetic": "36.15 Qālū Mā 'Antum 'Illā Basharun Mithlunā Wa Mā 'Anzala Ar-Raĥmānu Min Shay'in 'In 'Antum 'Illā Takdhibūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"You are not but human beings like us, and the Most Merciful has not revealed a thing. You are only telling lies.\"",
+            "english_hilali_khan": "They (people of the town) said: \"You are only human beings like ourselves, and the Most Gracious (Allâh) has revealed nothing. You are only telling lies.\"",
+            "english_rwwad": "They said, “You are no more than human beings like us, and the Most Compassionate has not sent down anything. You are simply lying.”"
+        }
+    },
+    {
+        "id": 3720,
+        "chapter": 36,
+        "verse": 16,
+        "arabic_text": "قَالُواْ رَبُّنَا يَعۡلَمُ إِنَّآ إِلَيۡكُمۡ لَمُرۡسَلُونَ",
+        "phonetic": "36.16 Qālū Rabbunā Ya`lamu 'Innā 'Ilaykum Lamursalūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"Our Lord knows that we are messengers to you,",
+            "english_hilali_khan": "The Messengers said: \"Our Lord knows that we have been sent as Messengers to you,",
+            "english_rwwad": "They said, “Our Lord knows that we are sent to you as messengers."
+        }
+    },
+    {
+        "id": 3721,
+        "chapter": 36,
+        "verse": 17,
+        "arabic_text": "وَمَا عَلَيۡنَآ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+        "phonetic": "36.17 Wa Mā `Alaynā 'Illā Al-Balāghu Al-Mubīnu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And we are not responsible except for clear notification.\"",
+            "english_hilali_khan": "\"And our duty is only to convey plainly (the Message).\"",
+            "english_rwwad": "Our duty is only to convey the message clearly.”"
+        }
+    },
+    {
+        "id": 3722,
+        "chapter": 36,
+        "verse": 18,
+        "arabic_text": "قَالُوٓاْ إِنَّا تَطَيَّرۡنَا بِكُمۡۖ لَئِن لَّمۡ تَنتَهُواْ لَنَرۡجُمَنَّكُمۡ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٞ",
+        "phonetic": "36.18 Qālū 'Innā Taţayyarnā Bikum La'in Lam Tantahū Lanarjumannakum Wa Layamassannakum Minnā `Adhābun 'Alīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"Indeed, we consider you a bad omen. If you do not desist, we will surely stone you, and there will surely touch you, from us, a painful punishment.\"",
+            "english_hilali_khan": "They (people) said: \"For us, we see an evil omen from you: if you cease not, we will surely stone you, and a painful torment will touch you from us.\"",
+            "english_rwwad": "The people said, “We consider you as an evil omen. If you do not desist, we will surely stone you, and we will inflict upon you a painful punishment.”"
+        }
+    },
+    {
+        "id": 3723,
+        "chapter": 36,
+        "verse": 19,
+        "arabic_text": "قَالُواْ طَٰٓئِرُكُم مَّعَكُمۡ أَئِن ذُكِّرۡتُمۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ",
+        "phonetic": "36.19 Qālū Ţā'irukum Ma`akum 'A'in Dhukkirtum Bal 'Antum Qawmun Musrifūna",
+        "footnotes": {
+            "english_saheeh": "[1262]- Your threat against us.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"Your omen [i.e., fate] is with yourselves. Is it[1262] because you were reminded? Rather, you are a transgressing people.\"",
+            "english_hilali_khan": "They (Messengers) said: \"Your evil omens be with you! (Do you call it \"evil omen\") because you are admonished? Nay, but you are a people Musrifûn (transgressing all bounds by committing all kinds of great sins, and by disobeying Allâh).",
+            "english_rwwad": "The messengers said, “Your evil omen is with yourselves [because of your disbelief]. Is it because you are admonished? Rather, you are a people who transgress all bounds.”"
+        }
+    },
+    {
+        "id": 3724,
+        "chapter": 36,
+        "verse": 20,
+        "arabic_text": "وَجَآءَ مِنۡ أَقۡصَا ٱلۡمَدِينَةِ رَجُلٞ يَسۡعَىٰ قَالَ يَٰقَوۡمِ ٱتَّبِعُواْ ٱلۡمُرۡسَلِينَ",
+        "phonetic": "36.20 Wa Jā'a Min 'Aqşá Al-Madīnati Rajulun Yas`á Qāla Yā Qawmi Attabi`ū Al-Mursalīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And there came from the farthest end of the city a man, running. He said, \"O my people, follow the messengers.",
+            "english_hilali_khan": "And there came a man running from the farthest part of the town. He said: \"O my people! Obey the Messengers.",
+            "english_rwwad": "A man came from the farthest end of the city, rushing, and said, “O my people, follow the messengers."
+        }
+    },
+    {
+        "id": 3725,
+        "chapter": 36,
+        "verse": 21,
+        "arabic_text": "ٱتَّبِعُواْ مَن لَّا يَسۡـَٔلُكُمۡ أَجۡرٗا وَهُم مُّهۡتَدُونَ",
+        "phonetic": "36.21 Attabi`ū Man Lā Yas'alukum 'Ajrāan Wa Hum Muhtadūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Follow those who do not ask of you [any] payment, and they are [rightly] guided.",
+            "english_hilali_khan": "\"Obey those who ask no wages of you (for themselves), and who are rightly guided.",
+            "english_rwwad": "Follow those who ask no recompense of you, and who are guided."
+        }
+    },
+    {
+        "id": 3726,
+        "chapter": 36,
+        "verse": 22,
+        "arabic_text": "وَمَالِيَ لَآ أَعۡبُدُ ٱلَّذِي فَطَرَنِي وَإِلَيۡهِ تُرۡجَعُونَ",
+        "phonetic": "36.22 Wa Mā Liya Lā 'A`budu Al-Ladhī Faţaranī Wa 'Ilayhi Turja`ūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And why should I not worship He who created me and to whom you will be returned?",
+            "english_hilali_khan": "\"And why should I not worship Him (Allâh Alone) Who has created me and to Whom you shall be returned.",
+            "english_rwwad": "Why should I not worship the One Who created me and to Whom you will all be brought back?"
+        }
+    },
+    {
+        "id": 3727,
+        "chapter": 36,
+        "verse": 23,
+        "arabic_text": "ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدۡنِ ٱلرَّحۡمَٰنُ بِضُرّٖ لَّا تُغۡنِ عَنِّي شَفَٰعَتُهُمۡ شَيۡـٔٗا وَلَا يُنقِذُونِ",
+        "phonetic": "36.23 'A'attakhidhu Min Dūnihi 'Ālihatan 'In Yuridni Ar-Raĥmānu Biđurrin Lā Tughni `Annī Shafā`atuhum Shay'āan Wa Lā Yunqidhūni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Should I take other than Him [false] deities [while], if the Most Merciful intends for me some adversity, their intercession will not avail me at all, nor can they save me?",
+            "english_hilali_khan": "\"Shall I take besides Him âlihah (gods)? If the Most Gracious (Allâh) intends me any harm, their intercession will be of no use for me whatsoever, nor can they save me?",
+            "english_rwwad": "Should I take besides Him other gods whose intercession cannot avail me in the least, nor can they come to my rescue, if the Most Compassionate wills to harm me?"
+        }
+    },
+    {
+        "id": 3728,
+        "chapter": 36,
+        "verse": 24,
+        "arabic_text": "إِنِّيٓ إِذٗا لَّفِي ضَلَٰلٖ مُّبِينٍ",
+        "phonetic": "36.24 'Innī 'Idhāan Lafī Đalālin Mubīnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, I would then be in manifest error.",
+            "english_hilali_khan": "\"Then verily, I should be in plain error.",
+            "english_rwwad": "Surely I would then be clearly misguided."
+        }
+    },
+    {
+        "id": 3729,
+        "chapter": 36,
+        "verse": 25,
+        "arabic_text": "إِنِّيٓ ءَامَنتُ بِرَبِّكُمۡ فَٱسۡمَعُونِ",
+        "phonetic": "36.25 'Innī 'Āmantu Birabbikum Fāsma`ūni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, I have believed in your Lord, so listen to me.\"",
+            "english_hilali_khan": "\"Verily! I have believed in your Lord, so listen to me!\"",
+            "english_rwwad": "I believe in your Lord, so listen to me.”"
+        }
+    },
+    {
+        "id": 3730,
+        "chapter": 36,
+        "verse": 26,
+        "arabic_text": "قِيلَ ٱدۡخُلِ ٱلۡجَنَّةَۖ قَالَ يَٰلَيۡتَ قَوۡمِي يَعۡلَمُونَ",
+        "phonetic": "36.26 Qīla Adkhuli Al-Jannata Qāla Yā Layta Qawmī Ya`lamūna",
+        "footnotes": {
+            "english_saheeh": "[1263]- An abrupt transfer to the Hereafter conveys the meaning that the man met a violent death at the hands of the disbelievers and so was martyred for the cause of Allāh.",
+            "english_hilali_khan": "(V.36:26)\na) Narrated Abu Mûsâ رضي الله عنه : Allah’s Messenger صلى الله عليه وسلم said, \"My example and the example of the Message with which Allah has sent me is like that of a man who came to some people and said, ‘I have seen with my own eyes the enemy forces, and I am a naked warner (to you) so save yourselves, save yourselves’ A group of them obeyed him and went out at night, slowly and stealthily and were safe, while another group did not believe him and thus the army took them in the morning and destroyed them.\" (Sahih Al-Bukhari, Vol.8, Hadith No.489).\nb) Narrated Anas bin Mâlik رضي الله عنه : The Prophet صلى الله عليه وسلم said, \"Nobody who enters Paradise likes to go back to the world even if he got everything on the earth, except a martyr who wishes to return to the world so that he may be martyred ten times because of the honour and dignity he received (from Allâh).\" (Sahih Al-Bukhari, Vol.4, Hadith No.72).\nc) Narrated ‘Abdullâh bin Abî Aufâ رضي الله عنهما: Allâh’s Messenger صلى الله عليه وسلم said, \"Know that Paradise is under the shades of swords. (Jihâd in Allâh’s Cause).\" (Sahih Al-Bukhari, Vol.4, Hadith No.73).\nd) Narrated Anas bin Mâlik رضي الله عنه: The Prophet صلى الله عليه وسلم used to say, \"O Allah! I seek refuge with You from helplessness, laziness, cowardice and senile old age; I seek refuge with You from Fitan (trials and afflictions) of life and death and seek refuge with You from the punishment in the grave.\" (Sahih Al-Bukhari, Vol.4, Hadith No.77).\ne) Narrated ‘Abdullah bin Umar رضي الله عنهما: I heard Allah’s Messenger صلى الله عليه وسلم saying, \"People are just like camels: out of one hundred, one can hardly find a single camel suitable to ride.\" (Sahih Al Bukhari, Vol.8, Hadith No.505).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It was said, \"Enter Paradise.\"[1263] He said, \"I wish my people could know",
+            "english_hilali_khan": "It was said (to him when the disbelievers killed him): \"Enter Paradise.\" He said: \"Would that my people knew[1]",
+            "english_rwwad": "[But they killed him], so he was told, “Enter Paradise.” He said, “If only my people knew"
+        }
+    },
+    {
+        "id": 3731,
+        "chapter": 36,
+        "verse": 27,
+        "arabic_text": "بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ ٱلۡمُكۡرَمِينَ",
+        "phonetic": "36.27 Bimā Ghafara Lī Rabbī Wa Ja`alanī Mina Al-Mukramīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Of how my Lord has forgiven me and placed me among the honored.\"",
+            "english_hilali_khan": "\"That my Lord (Allâh) has forgiven me, and made me of the honoured ones!\"",
+            "english_rwwad": "of how my Lord has forgiven me, and made me among the honored ones.”"
+        }
+    },
+    {
+        "id": 3732,
+        "chapter": 36,
+        "verse": 28,
+        "arabic_text": "۞ وَمَآ أَنزَلۡنَا عَلَىٰ قَوۡمِهِۦ مِنۢ بَعۡدِهِۦ مِن جُندٖ مِّنَ ٱلسَّمَآءِ وَمَا كُنَّا مُنزِلِينَ",
+        "phonetic": "36.28 Wa Mā 'Anzalnā `Alá Qawmihi Min Ba`dihi Min Jundin Mina As-Samā'i Wa Mā Kunnā Munzilīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We did not send down upon his people after him any soldiers from the heaven, nor would We have done so.",
+            "english_hilali_khan": "And We sent not against his people after him a host from the heaven, nor was it needful for Us to send (such a thing).",
+            "english_rwwad": "After his death, We did not send down any soldiers from the heaven against his people, nor did We have to do so."
+        }
+    },
+    {
+        "id": 3733,
+        "chapter": 36,
+        "verse": 29,
+        "arabic_text": "إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ خَٰمِدُونَ",
+        "phonetic": "36.29 'In Kānat 'Illā Şayĥatan Wāĥidatan Fa'idhā Hum Khāmidūna",
+        "footnotes": {
+            "english_saheeh": "[1264]- From Gabriel or a blast from the sky.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It was not but one shout,[1264] and immediately they were extinguished.",
+            "english_hilali_khan": "It was but one Saihah (shout) and lo! they (all) were still (silent,dead,destroyed).",
+            "english_rwwad": "It was no more than a single blast, and immediately they were extinguished."
+        }
+    },
+    {
+        "id": 3734,
+        "chapter": 36,
+        "verse": 30,
+        "arabic_text": "يَٰحَسۡرَةً عَلَى ٱلۡعِبَادِۚ مَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+        "phonetic": "36.30 Yā Ĥasratan `Alá Al-`Ibādi Mā Ya'tīhim Min Rasūlin 'Illā Kānū Bihi Yastahzi'ūn",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "How regretful for the servants. There did not come to them any messenger except that they used to ridicule him.",
+            "english_hilali_khan": "Alas for mankind! There never came a Messenger to them but they used to mock at him.",
+            "english_rwwad": "Alas for the humans! No messenger ever comes to them but they ridicule him."
+        }
+    },
+    {
+        "id": 3735,
+        "chapter": 36,
+        "verse": 31,
+        "arabic_text": "أَلَمۡ يَرَوۡاْ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ أَنَّهُمۡ إِلَيۡهِمۡ لَا يَرۡجِعُونَ",
+        "phonetic": "36.31 'Alam Yaraw Kam 'Ahlaknā Qablahum Mina Al-Qurūni 'Annahum 'Ilayhim Lā Yarji`ūna",
+        "footnotes": {
+            "english_saheeh": "[1265]- i.e., to those living presently in the world.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Have they not considered how many generations We destroyed before them - that they to them[1265] will not return?",
+            "english_hilali_khan": "Do they not see how many of the generations We have destroyed before them? Verily, they will not return to them.",
+            "english_rwwad": "Do they not see how many generations We destroyed before them who will never come back to them?"
+        }
+    },
+    {
+        "id": 3736,
+        "chapter": 36,
+        "verse": 32,
+        "arabic_text": "وَإِن كُلّٞ لَّمَّا جَمِيعٞ لَّدَيۡنَا مُحۡضَرُونَ",
+        "phonetic": "36.32 Wa 'In Kullun Lammā Jamī`un Ladaynā Muĥđarūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And indeed, all of them will yet be brought present before Us.",
+            "english_hilali_khan": "And surely, all - everyone of them will be brought before Us.",
+            "english_rwwad": "Yet all of them will be brought before Us."
+        }
+    },
+    {
+        "id": 3737,
+        "chapter": 36,
+        "verse": 33,
+        "arabic_text": "وَءَايَةٞ لَّهُمُ ٱلۡأَرۡضُ ٱلۡمَيۡتَةُ أَحۡيَيۡنَٰهَا وَأَخۡرَجۡنَا مِنۡهَا حَبّٗا فَمِنۡهُ يَأۡكُلُونَ",
+        "phonetic": "36.33 Wa 'Āyatun Lahumu Al-'Arđu Al-Maytatu 'Aĥyaynāhā Wa 'Akhrajnā Minhā Ĥabbāan Faminhu Ya'kulūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And a sign for them is the dead earth. We have brought it to life and brought forth from it grain, and from it they eat.",
+            "english_hilali_khan": "And a sign for them is the dead land. We give it life, and We bring forth from it grains, so that they eat thereof.",
+            "english_rwwad": "There is a sign for them in the dead land: We give it life and produce from it grain for them to eat."
+        }
+    },
+    {
+        "id": 3738,
+        "chapter": 36,
+        "verse": 34,
+        "arabic_text": "وَجَعَلۡنَا فِيهَا جَنَّٰتٖ مِّن نَّخِيلٖ وَأَعۡنَٰبٖ وَفَجَّرۡنَا فِيهَا مِنَ ٱلۡعُيُونِ",
+        "phonetic": "36.34 Wa Ja`alnā Fīhā Jannātin Min Nakhīlin Wa 'A`nābin Wa Fajjarnā Fīhā Mina Al-`Uyūni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -",
+            "english_hilali_khan": "And We have made therein gardens of date-palms and grapes, and We have caused springs of water to gush forth therein.",
+            "english_rwwad": "And We have made therein gardens of palm trees and grapevines, and caused springs to gush forth,"
+        }
+    },
+    {
+        "id": 3739,
+        "chapter": 36,
+        "verse": 35,
+        "arabic_text": "لِيَأۡكُلُواْ مِن ثَمَرِهِۦ وَمَا عَمِلَتۡهُ أَيۡدِيهِمۡۚ أَفَلَا يَشۡكُرُونَ",
+        "phonetic": "36.35 Liya'kulū Min Thamarihi Wa Mā `Amilat/hu 'Aydīhim 'Afalā Yashkurūna",
+        "footnotes": {
+            "english_saheeh": "[1266]- i.e., that which Allāh has produced for them.\n[1267]- An alternative meaning is \"And [eat from] what their hands have produced [i.e., planted and harvested].\"  Both are grammatically correct.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That they may eat of His fruit.[1266] And their hands have not produced it,[1267] so will they not be grateful?",
+            "english_hilali_khan": "So that they may eat of the fruit thereof - and their hands made it not. Will they not, then, give thanks?",
+            "english_rwwad": "so that they may eat of its fruit that was not made by their hands. Will they not then give thanks?"
+        }
+    },
+    {
+        "id": 3740,
+        "chapter": 36,
+        "verse": 36,
+        "arabic_text": "سُبۡحَٰنَ ٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ وَمِنۡ أَنفُسِهِمۡ وَمِمَّا لَا يَعۡلَمُونَ",
+        "phonetic": "36.36 Subĥāna Al-Ladhī Khalaqa Al-'Azwāja Kullahā Mimmā Tunbitu Al-'Arđu Wa Min 'Anfusihim Wa Mimmā Lā Ya`lamūna",
+        "footnotes": {
+            "english_saheeh": "[1268]- Or \"all species.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Exalted is He who created all pairs[1268] - from what the earth grows and from themselves and from that which they do not know.",
+            "english_hilali_khan": "Glory be to Him Who has created all the pairs of that which the earth produces, as well as of their own (human) kind (male and female), and of that which they know not.",
+            "english_rwwad": "Glory be to the One Who created all types of things that the earth produces, and of themselves, and of things that they have no knowledge about."
+        }
+    },
+    {
+        "id": 3741,
+        "chapter": 36,
+        "verse": 37,
+        "arabic_text": "وَءَايَةٞ لَّهُمُ ٱلَّيۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ",
+        "phonetic": "36.37 Wa 'Āyatun Lahumu Al-Laylu Naslakhu Minhu An-Nahāra Fa'idhā Hum Mužlimūna",
+        "footnotes": {
+            "english_saheeh": "[1269]- Literally, \"strip\" or \"peel.\"  Sunlight projected onto the earth is removed from it as the earth turns and night approaches.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And a sign for them is the night. We remove[1269] from it the [light of] day, so they are [left] in darkness.",
+            "english_hilali_khan": "And a sign for them is the night. We withdraw therefrom the day, and behold, they are in darkness.",
+            "english_rwwad": "There is another sign for them in the night: We strip from it the daylight, and they are left in darkness."
+        }
+    },
+    {
+        "id": 3742,
+        "chapter": 36,
+        "verse": 38,
+        "arabic_text": "وَٱلشَّمۡسُ تَجۡرِي لِمُسۡتَقَرّٖ لَّهَاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
+        "phonetic": "36.38 Wa Ash-Shamsu Tajrī Limustaqarrin Lahā Dhālika Taqdīru Al-`Azīzi Al-`Alīmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing.",
+            "english_hilali_khan": "And the sun runs on its fixed course for a term (appointed). That is the Decree of the All-Mighty, the All-Knowing.",
+            "english_rwwad": "The sun is running to its determined course. That is the design of the All-Mighty, All-Knowing."
+        }
+    },
+    {
+        "id": 3743,
+        "chapter": 36,
+        "verse": 39,
+        "arabic_text": "وَٱلۡقَمَرَ قَدَّرۡنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِيمِ",
+        "phonetic": "36.39 Wa Al-Qamara Qaddarnāhu Manāzila Ĥattá `Āda Kāl`urjūni Al-Qadīmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the moon - We have determined for it phases, until it returns [appearing] like the old date stalk.",
+            "english_hilali_khan": "And the moon, We have measured for it mansions (to traverse) till it returns like the old dried curved date stalk.",
+            "english_rwwad": "As for the moon, We have determined phases for it, until it becomes like an old palm stalk."
+        }
+    },
+    {
+        "id": 3744,
+        "chapter": 36,
+        "verse": 40,
+        "arabic_text": "لَا ٱلشَّمۡسُ يَنۢبَغِي لَهَآ أَن تُدۡرِكَ ٱلۡقَمَرَ وَلَا ٱلَّيۡلُ سَابِقُ ٱلنَّهَارِۚ وَكُلّٞ فِي فَلَكٖ يَسۡبَحُونَ",
+        "phonetic": "36.40 Lā Ash-Shamsu Yanbaghī Lahā 'An Tudrika Al-Qamara Wa Lā Al-Laylu Sābiqu An-Nahāri Wa Kullun Fī Falakin Yasbaĥūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It is not allowable [i.e., possible] for the sun to reach the moon, nor does the night overtake the day, but each, in an orbit, is swimming.",
+            "english_hilali_khan": "It is not for the sun to overtake the moon, nor does the night outstrip the day. They all float, each in an orbit.",
+            "english_rwwad": "It is not for the sun to catch up with the moon, nor for the night to outstrip the day. Each is floating in its own orbit."
+        }
+    },
+    {
+        "id": 3745,
+        "chapter": 36,
+        "verse": 41,
+        "arabic_text": "وَءَايَةٞ لَّهُمۡ أَنَّا حَمَلۡنَا ذُرِّيَّتَهُمۡ فِي ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+        "phonetic": "36.41 Wa 'Āyatun Lahum 'Annā Ĥamalnā Dhurrīyatahum Fī Al-Fulki Al-Mashĥūni",
+        "footnotes": {
+            "english_saheeh": "[1270]- Usually meaning \"descendants\" or \"offspring,\" the word \"dhurriyyah\" is used here to denote forefathers (their being the offspring of Noah), who were saved from the flood.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And a sign for them is that We carried their forefathers[1270] in a laden ship.",
+            "english_hilali_khan": "And an Ayâh (sign) for them is that We bore their offspring in the laden ship [of Nûh (Noah)].",
+            "english_rwwad": "Another sign for them is that We carried their offspring in the loaded Ark,"
+        }
+    },
+    {
+        "id": 3746,
+        "chapter": 36,
+        "verse": 42,
+        "arabic_text": "وَخَلَقۡنَا لَهُم مِّن مِّثۡلِهِۦ مَا يَرۡكَبُونَ",
+        "phonetic": "36.42 Wa Khalaqnā Lahum Min Mithlihi Mā Yarkabūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We created for them from the likes of it that which they ride.",
+            "english_hilali_khan": "And We have created for them of the like thereunto, on which they ride.",
+            "english_rwwad": "and We created for them similar things on which they ride."
+        }
+    },
+    {
+        "id": 3747,
+        "chapter": 36,
+        "verse": 43,
+        "arabic_text": "وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِيخَ لَهُمۡ وَلَا هُمۡ يُنقَذُونَ",
+        "phonetic": "36.43 Wa 'In Nasha' Nughriqhum Falā Şarīkha Lahum Wa Lā Hum Yunqadhūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if We should will, We could drown them; then no one responding to a cry would there be for them, nor would they be saved",
+            "english_hilali_khan": "And if We will, We shall drown them, and there will be no shout (or helper) for them (to hear their cry for help), nor will they be saved.",
+            "english_rwwad": "If We willed, We could drown them, then there would be no one to respond to their cry, nor could they be rescued,"
+        }
+    },
+    {
+        "id": 3748,
+        "chapter": 36,
+        "verse": 44,
+        "arabic_text": "إِلَّا رَحۡمَةٗ مِّنَّا وَمَتَٰعًا إِلَىٰ حِينٖ",
+        "phonetic": "36.44 'Illā Raĥmatan Minnā Wa Matā`āan 'Ilá Ĥīnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Except as a mercy from Us and provision for a time.",
+            "english_hilali_khan": "Unless it be a mercy from Us, and as an enjoyment for a while.",
+            "english_rwwad": "except by a mercy from Us, leaving them to enjoy for a while."
+        }
+    },
+    {
+        "id": 3749,
+        "chapter": 36,
+        "verse": 45,
+        "arabic_text": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ مَا بَيۡنَ أَيۡدِيكُمۡ وَمَا خَلۡفَكُمۡ لَعَلَّكُمۡ تُرۡحَمُونَ",
+        "phonetic": "36.45 Wa 'Idhā Qīla Lahumu Attaqū Mā Bayna 'Aydīkum Wa Mā Khalfakum La`allakum Turĥamūna",
+        "footnotes": {
+            "english_saheeh": "[1271]- Of sins or of life in this world and the Hereafter.\n[1272]- The conclusion of this sentence is understood to be \"...they ignored the warning.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But when it is said to them, \"Beware of what is before you and what is behind you;[1271] perhaps you will receive mercy...\"[1272]",
+            "english_hilali_khan": "And when it is said to them: \"Fear of that which is before you (worldly torments), and that which is behind you (torments in the Hereafter), in order that you may receive Mercy (i.e. if you believe in Allâh’s religion - Islâmic Monotheism, and avoid polytheism, and obey Allâh with righteous deeds).\"",
+            "english_rwwad": "When it is said to them, “Beware of what is ahead of you and what is behind you, so that you may be shown mercy.”"
+        }
+    },
+    {
+        "id": 3750,
+        "chapter": 36,
+        "verse": 46,
+        "arabic_text": "وَمَا تَأۡتِيهِم مِّنۡ ءَايَةٖ مِّنۡ ءَايَٰتِ رَبِّهِمۡ إِلَّا كَانُواْ عَنۡهَا مُعۡرِضِينَ",
+        "phonetic": "36.46 Wa Mā Ta'tīhim Min 'Āyatin Min 'Āyāti Rabbihim 'Illā Kānū `Anhā Mu`riđīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And no sign comes to them from the signs of their Lord except that they are from it turning away.",
+            "english_hilali_khan": "And never came an Ayâh from among the Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.) of their Lord to them, but they did turn away from it.",
+            "english_rwwad": "No sign ever comes to them from their Lord except that they turn away from it."
+        }
+    },
+    {
+        "id": 3751,
+        "chapter": 36,
+        "verse": 47,
+        "arabic_text": "وَإِذَا قِيلَ لَهُمۡ أَنفِقُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُوٓاْ أَنُطۡعِمُ مَن لَّوۡ يَشَآءُ ٱللَّهُ أَطۡعَمَهُۥٓ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ مُّبِينٖ",
+        "phonetic": "36.47 Wa 'Idhā Qīla Lahum 'Anfiqū Mimmā Razaqakumu Allāhu Qāla Al-Ladhīna Kafarū Lilladhīna 'Āmanū 'Anuţ`imu Man Law Yashā'u Allāhu 'Aţ`amahu 'In 'Antum 'Illā Fī Đalālin Mubīnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when it is said to them, \"Spend from that which Allāh has provided for you,\" those who disbelieve say to those who believe, \"Should we feed one whom, if Allāh had willed, He would have fed? You are not but in clear error.\"",
+            "english_hilali_khan": "And when it is said to them: \"Spend of that with which Allâh has provided you,\" those who disbelieve say to those who believe: \"Shall we feed those whom, if Allâh willed, He (Himself) would have fed? You are only in a plain error.\"",
+            "english_rwwad": "And when it is said to them, “Spend of what Allah has provided you with”, the disbelievers say to the believers, “Should we feed those whom Allah could feed if He willed? You are clearly misguided!”"
+        }
+    },
+    {
+        "id": 3752,
+        "chapter": 36,
+        "verse": 48,
+        "arabic_text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+        "phonetic": "36.48 Wa Yaqūlūna Matá Hādhā Al-Wa`du 'In Kuntum Şādiqīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they say, \"When is this promise, if you should be truthful?\"",
+            "english_hilali_khan": "And they say: \"When will this promise (i.e. Resurrection) be fulfilled, if you are truthful?\"",
+            "english_rwwad": "They say, “When will this promise come to pass, if you are truthful?”"
+        }
+    },
+    {
+        "id": 3753,
+        "chapter": 36,
+        "verse": 49,
+        "arabic_text": "مَا يَنظُرُونَ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ تَأۡخُذُهُمۡ وَهُمۡ يَخِصِّمُونَ",
+        "phonetic": "36.49 Mā Yanžurūna 'Illā Şayĥatan Wāĥidatan Ta'khudhuhum Wa Hum Yakhişşimūna",
+        "footnotes": {
+            "english_saheeh": "[1273]- Literally, \"cry\" or \"shriek,\" meaning the first blast of the Horn which will strike dead every living thing on the earth without warning.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They do not await except one blast[1273] which will seize them while they are disputing.",
+            "english_hilali_khan": "They await only but a single Saihah (shout), which will seize them while they are disputing!",
+            "english_rwwad": "They are not awaiting but a single Blast that will seize them while they are still disputing."
+        }
+    },
+    {
+        "id": 3754,
+        "chapter": 36,
+        "verse": 50,
+        "arabic_text": "فَلَا يَسۡتَطِيعُونَ تَوۡصِيَةٗ وَلَآ إِلَىٰٓ أَهۡلِهِمۡ يَرۡجِعُونَ",
+        "phonetic": "36.50 Falā Yastaţī`ūna Tawşiyatan Wa Lā 'Ilá 'Ahlihim Yarji`ūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they will not be able [to give] any instruction, nor to their people can they return.",
+            "english_hilali_khan": "Then they will not be able to make bequest, nor they will return to their family.",
+            "english_rwwad": "Then they will not be able to make a will, nor will they be able to return to their households."
+        }
+    },
+    {
+        "id": 3755,
+        "chapter": 36,
+        "verse": 51,
+        "arabic_text": "وَنُفِخَ فِي ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلۡأَجۡدَاثِ إِلَىٰ رَبِّهِمۡ يَنسِلُونَ",
+        "phonetic": "36.51 Wa Nufikha Fī Aş-Şūri Fa'idhā Hum Mina Al-'Ajdāthi 'Ilá Rabbihim Yansilūna",
+        "footnotes": {
+            "english_saheeh": "[1274]- For the second time, signaling the Resurrection.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the Horn will be blown;[1274] and at once from the graves to their Lord they will hasten.",
+            "english_hilali_khan": "And the Trumpet will be blown (i.e. the second blowing) and behold from the graves they will come out quickly to their Lord.",
+            "english_rwwad": "The Trumpet will be blown [again], and at once they will rush from their graves to their Lord."
+        }
+    },
+    {
+        "id": 3756,
+        "chapter": 36,
+        "verse": 52,
+        "arabic_text": "قَالُواْ يَٰوَيۡلَنَا مَنۢ بَعَثَنَا مِن مَّرۡقَدِنَاۜۗ هَٰذَا مَا وَعَدَ ٱلرَّحۡمَٰنُ وَصَدَقَ ٱلۡمُرۡسَلُونَ",
+        "phonetic": "36.52 Qālū Yā Waylanā Man Ba`athanā Min Marqadinā Hādhā Mā Wa`ada Ar-Raĥmānu Wa Şadaqa Al-Mursalūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They will say, \"O woe to us! Who has raised us up from our sleeping place?\" [The reply will be], \"This is what the Most Merciful had promised, and the messengers told the truth.\"",
+            "english_hilali_khan": "They will say: \"Woe to us! Who has raised us up from our place of sleep.\" (It will be said to them): \"This is what the Most Gracious (Allâh) had promised, and the Messengers spoke truth!\"",
+            "english_rwwad": "They will say, “Woe to us! Who has resurrected us from our resting place?” [They will be told,] “This is what the Most Compassionate promised, and the messengers told the truth.”"
+        }
+    },
+    {
+        "id": 3757,
+        "chapter": 36,
+        "verse": 53,
+        "arabic_text": "إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ جَمِيعٞ لَّدَيۡنَا مُحۡضَرُونَ",
+        "phonetic": "36.53 'In Kānat 'Illā Şayĥatan Wāĥidatan Fa'idhā Hum Jamī`un Ladaynā Muĥđarūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It will not be but one blast, and at once they are all brought present before Us.",
+            "english_hilali_khan": "It will be but a single Saihah (shout), so behold they will all be brought up before Us!",
+            "english_rwwad": "It will only be a single Blast, and at once they will all be brought before Us."
+        }
+    },
+    {
+        "id": 3758,
+        "chapter": 36,
+        "verse": 54,
+        "arabic_text": "فَٱلۡيَوۡمَ لَا تُظۡلَمُ نَفۡسٞ شَيۡـٔٗا وَلَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
+        "phonetic": "36.54 Fālyawma Lā Tužlamu Nafsun Shay'āan Wa Lā Tujzawna 'Illā Mā Kuntum Ta`malūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So today [i.e., the Day of Judgement] no soul will be wronged at all, and you will not be recompensed except for what you used to do.",
+            "english_hilali_khan": "This Day (Day of Resurrection), none will be wronged in anything, nor will you be requited anything except that which you used to do.",
+            "english_rwwad": "On that Day no soul will be wronged in the least, nor will you be recompensed except for what you used to do."
+        }
+    },
+    {
+        "id": 3759,
+        "chapter": 36,
+        "verse": 55,
+        "arabic_text": "إِنَّ أَصۡحَٰبَ ٱلۡجَنَّةِ ٱلۡيَوۡمَ فِي شُغُلٖ فَٰكِهُونَ",
+        "phonetic": "36.55 'Inna 'Aşĥāba Al-Jannati Al-Yawma Fī Shughulin Fākihūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation -",
+            "english_hilali_khan": "Verily, the dwellers of the Paradise, that Day, will be busy with joyful things.",
+            "english_rwwad": "Indeed, on that Day the people of Paradise will be busy enjoying themselves,"
+        }
+    },
+    {
+        "id": 3760,
+        "chapter": 36,
+        "verse": 56,
+        "arabic_text": "هُمۡ وَأَزۡوَٰجُهُمۡ فِي ظِلَٰلٍ عَلَى ٱلۡأَرَآئِكِ مُتَّكِـُٔونَ",
+        "phonetic": "36.56 Hum Wa 'Azwājuhum Fī Žilālin `Alá Al-'Arā'iki Muttaki'ūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They and their spouses - in shade, reclining on adorned couches.",
+            "english_hilali_khan": "They and their wives will be in pleasant shade, reclining on thrones.",
+            "english_rwwad": "they and their spouses will be reclining on couches in the shade."
+        }
+    },
+    {
+        "id": 3761,
+        "chapter": 36,
+        "verse": 57,
+        "arabic_text": "لَهُمۡ فِيهَا فَٰكِهَةٞ وَلَهُم مَّا يَدَّعُونَ",
+        "phonetic": "36.57 Lahum Fīhā Fākihatun Wa Lahum Mā Yadda`ūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "For them therein is fruit, and for them is whatever they request [or wish]",
+            "english_hilali_khan": "They will have therein fruits (of all kinds) and all that they ask for.",
+            "english_rwwad": "They will have therein fruits and all what they ask for."
+        }
+    },
+    {
+        "id": 3762,
+        "chapter": 36,
+        "verse": 58,
+        "arabic_text": "سَلَٰمٞ قَوۡلٗا مِّن رَّبّٖ رَّحِيمٖ",
+        "phonetic": "36.58 Salāmun Qawlāan Min Rabbin Raĥīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[And] \"Peace,\" a word from a Merciful Lord.",
+            "english_hilali_khan": "(It will be said to them): Salâm (peace be on you) - a Word from the Lord (Allâh), Most Merciful.",
+            "english_rwwad": "“Peace”: a word from a Most Merciful Lord."
+        }
+    },
+    {
+        "id": 3763,
+        "chapter": 36,
+        "verse": 59,
+        "arabic_text": "وَٱمۡتَٰزُواْ ٱلۡيَوۡمَ أَيُّهَا ٱلۡمُجۡرِمُونَ",
+        "phonetic": "36.59 Wa Amtāzū Al-Yawma 'Ayyuhā Al-Mujrimūna",
+        "footnotes": {
+            "english_saheeh": "[1275]- i.e., remove yourself from the ranks of the believers to be distinguished from them.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Then He will say], \"But stand apart today, you criminals.[1275]",
+            "english_hilali_khan": "(It will be said): \"And O you Mujrimûn (criminals, polytheists, sinners, disbelievers in the Islâmic Monotheism, wicked evil ones)! Get you apart this Day (from the believers).",
+            "english_rwwad": "“Stand apart [from the believers] this Day, O wicked ones!"
+        }
+    },
+    {
+        "id": 3764,
+        "chapter": 36,
+        "verse": 60,
+        "arabic_text": "۞ أَلَمۡ أَعۡهَدۡ إِلَيۡكُمۡ يَٰبَنِيٓ ءَادَمَ أَن لَّا تَعۡبُدُواْ ٱلشَّيۡطَٰنَۖ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
+        "phonetic": "36.60 'Alam 'A`had 'Ilaykum Yā Banī 'Ādama 'An Lā Ta`budū Ash-Shayţāna 'Innahu Lakum `Adūwun Mubīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Did I not enjoin upon you, O children of Adam, that you not worship Satan - [for] indeed, he is to you a clear enemy -",
+            "english_hilali_khan": "Did I not command you, O Children of Adam, that you should not worship Shaitân (Satan). Verily, he is a plain enemy to you.",
+            "english_rwwad": "Did I not command you, O children of Adam, not to worship Satan, for he is your sworn enemy,"
+        }
+    },
+    {
+        "id": 3765,
+        "chapter": 36,
+        "verse": 61,
+        "arabic_text": "وَأَنِ ٱعۡبُدُونِيۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+        "phonetic": "36.61 Wa 'Ani A`budūnī Hādhā Şirāţun Mustaqīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.36:61) See the footnote of (V.2:22).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And that you worship [only] Me? This is a straight path.",
+            "english_hilali_khan": "And that you should worship Me [Alone - Islâmic Monotheism, and set up not rivals, associate-gods with Me]. That is the Straight Path.[1]",
+            "english_rwwad": "but to worship Me? This is a straight path."
+        }
+    },
+    {
+        "id": 3766,
+        "chapter": 36,
+        "verse": 62,
+        "arabic_text": "وَلَقَدۡ أَضَلَّ مِنكُمۡ جِبِلّٗا كَثِيرًاۖ أَفَلَمۡ تَكُونُواْ تَعۡقِلُونَ",
+        "phonetic": "36.62 Wa Laqad 'Ađalla Minkum Jibillāan Kathīrāan 'Afalam Takūnū Ta`qilūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he had already led astray from among you much of creation, so did you not use reason?",
+            "english_hilali_khan": "And indeed he (Satan) did lead astray a great multitude of you. Did you not, then, understand?",
+            "english_rwwad": "He led great numbers of you astray. Did you not then have sense?"
+        }
+    },
+    {
+        "id": 3767,
+        "chapter": 36,
+        "verse": 63,
+        "arabic_text": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي كُنتُمۡ تُوعَدُونَ",
+        "phonetic": "36.63 Hadhihi Jahannamu Allatī Kuntum Tū`adūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "This is the Hellfire which you were promised.",
+            "english_hilali_khan": "This is Hell which you were promised!",
+            "english_rwwad": "This is the Hell that you were promised."
+        }
+    },
+    {
+        "id": 3768,
+        "chapter": 36,
+        "verse": 64,
+        "arabic_text": "ٱصۡلَوۡهَا ٱلۡيَوۡمَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+        "phonetic": "36.64 Aşlawhā Al-Yawma Bimā Kuntum Takfurūna",
+        "footnotes": {
+            "english_saheeh": "[1276]- Or \"because you used to disbelieve.\"",
+            "english_hilali_khan": "(V.36:64) See the footnote of (V.3:91).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Enter to] burn therein today for what you used to deny.\"[1276]",
+            "english_hilali_khan": "Burn therein this Day, for that you used to disbelieve.[2]",
+            "english_rwwad": "Burn in it Today for your disbelief.”"
+        }
+    },
+    {
+        "id": 3769,
+        "chapter": 36,
+        "verse": 65,
+        "arabic_text": "ٱلۡيَوۡمَ نَخۡتِمُ عَلَىٰٓ أَفۡوَٰهِهِمۡ وَتُكَلِّمُنَآ أَيۡدِيهِمۡ وَتَشۡهَدُ أَرۡجُلُهُم بِمَا كَانُواْ يَكۡسِبُونَ",
+        "phonetic": "36.65 Al-Yawma Nakhtimu `Alá 'Afwāhihim Wa Tukallimunā 'Aydīhim Wa Tash/hadu 'Arjuluhum Bimā Kānū Yaksibūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That Day, We will seal over their mouths, and their hands will speak to Us, and their feet will testify about what they used to earn.",
+            "english_hilali_khan": "This Day, We shall seal up their mouths, and their hands will speak to Us, and their legs will bear witness to what they used to earn. (It is said that one’s left thigh will be the first to bear the witness). [Tafsir At-Tabarî,]",
+            "english_rwwad": "Today We will seal up their mouths, and their hands will speak to Us, and their feet will testify to all what they used to do."
+        }
+    },
+    {
+        "id": 3770,
+        "chapter": 36,
+        "verse": 66,
+        "arabic_text": "وَلَوۡ نَشَآءُ لَطَمَسۡنَا عَلَىٰٓ أَعۡيُنِهِمۡ فَٱسۡتَبَقُواْ ٱلصِّرَٰطَ فَأَنَّىٰ يُبۡصِرُونَ",
+        "phonetic": "36.66 Wa Law Nashā'u Laţamasnā `Alá 'A`yunihim Fāstabaqū Aş-Şirāţa Fa'anná Yubşirūna",
+        "footnotes": {
+            "english_saheeh": "[1277]- Allāh (subḥānahu wa taʿālā) could have left man without means of guidance in the life of this world, although in His mercy He did not.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if We willed, We could have obliterated their eyes, and they would race to [find] the path, and how could they see?[1277]",
+            "english_hilali_khan": "And if it had been Our Will, We would surely have wiped out (blinded) their eyes, so that they would struggle for the Path, how then would they see?",
+            "english_rwwad": "If We willed, We could have taken away their sight, so they would rush to find their way, but then how could they see?"
+        }
+    },
+    {
+        "id": 3771,
+        "chapter": 36,
+        "verse": 67,
+        "arabic_text": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيّٗا وَلَا يَرۡجِعُونَ",
+        "phonetic": "36.67 Wa Law Nashā'u Lamasakhnāhum `Alá Makānatihim Famā Astaţā`ū Muđīyāan Wa Lā Yarji`ūna",
+        "footnotes": {
+            "english_saheeh": "[1278]- He (subḥānahu wa taʿālā) could have prevented man from taking any action to benefit himself in this world or the Hereafter, yet He did not.",
+            "english_hilali_khan": "(V.36:67) See (V.7:166) and the footnote of (V.5:90).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if We willed, We could have deformed them, [paralyzing them] in their places so they would not be able to proceed, nor could they return.[1278]",
+            "english_hilali_khan": "And if it had been Our Will, We could have transformed them (into animals or lifeless objects) in their places. Then they would have been unable to go forward (move about) nor they could have turned back.[3]",
+            "english_rwwad": "And if We willed, We could have paralyzed them in their places, so they could neither move forward nor backward."
+        }
+    },
+    {
+        "id": 3772,
+        "chapter": 36,
+        "verse": 68,
+        "arabic_text": "وَمَن نُّعَمِّرۡهُ نُنَكِّسۡهُ فِي ٱلۡخَلۡقِۚ أَفَلَا يَعۡقِلُونَ",
+        "phonetic": "36.68 Wa Man Nu`ammirhu Nunakkis/hu Fī Al-Khalqi 'Afalā Ya`qilūna",
+        "footnotes": {
+            "english_saheeh": "[1279]- In his physical and mental capacity.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he to whom We grant long life We reverse in creation;[1279] so will they not understand?",
+            "english_hilali_khan": "And he whom We grant long life - We reverse him in creation (weakness after strength). Will they not then understand?",
+            "english_rwwad": "Whomsoever We give a long life, We cause his strength to decline. Do they not then understand?"
+        }
+    },
+    {
+        "id": 3773,
+        "chapter": 36,
+        "verse": 69,
+        "arabic_text": "وَمَا عَلَّمۡنَٰهُ ٱلشِّعۡرَ وَمَا يَنۢبَغِي لَهُۥٓۚ إِنۡ هُوَ إِلَّا ذِكۡرٞ وَقُرۡءَانٞ مُّبِينٞ",
+        "phonetic": "36.69 Wa Mā `Allamnāhu Ash-Shi`ra Wa Mā Yanbaghī Lahu 'In Huwa 'Illā Dhikrun Wa Qur'ānun Mubīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We did not give him [i.e., Prophet Muḥammad (ﷺ)] knowledge of poetry, nor is it befitting for him. It is not but a message and a clear Qur’ān",
+            "english_hilali_khan": "And We have not taught him (Muhammad صلى الله عليه وسلم) poetry, nor is it suitable for him. This is only a Reminder and a plain Qur’ân.",
+            "english_rwwad": "We have not taught him poetry, nor is it fitting for him. This is only a Reminder and a clear Qur’an"
+        }
+    },
+    {
+        "id": 3774,
+        "chapter": 36,
+        "verse": 70,
+        "arabic_text": "لِّيُنذِرَ مَن كَانَ حَيّٗا وَيَحِقَّ ٱلۡقَوۡلُ عَلَى ٱلۡكَٰفِرِينَ",
+        "phonetic": "36.70 Liyundhira Man Kāna Ĥayyāan Wa Yaĥiqqa Al-Qawlu `Alá Al-Kāfirīna",
+        "footnotes": {
+            "english_saheeh": "[1280]- In heart and mind, i.e., the believers.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "To warn whoever is alive[1280] and justify the word [i.e., decree] against the disbelievers.",
+            "english_hilali_khan": "That he or it (Muhammad صلى الله عليه وسلم or the Qur’ân) may give warning to him who is living (a healthy minded - the believer), and that Word (charge) may be justified against the disbelievers (dead, as they reject the warnings).",
+            "english_rwwad": "so that he may warn those who are truly alive and establish the argument against the disbelievers."
+        }
+    },
+    {
+        "id": 3775,
+        "chapter": 36,
+        "verse": 71,
+        "arabic_text": "أَوَلَمۡ يَرَوۡاْ أَنَّا خَلَقۡنَا لَهُم مِّمَّا عَمِلَتۡ أَيۡدِينَآ أَنۡعَٰمٗا فَهُمۡ لَهَا مَٰلِكُونَ",
+        "phonetic": "36.71 'Awalam Yaraw 'Annā Khalaqnā Lahum Mimmā `Amilat 'Aydīnā 'An`āmāan Fahum Lahā Mālikūna",
+        "footnotes": {
+            "english_saheeh": "[1281]- See footnote to 2:19.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Do they not see that We have created for them from what Our hands[1281] have made, grazing livestock, and [then] they are their owners?",
+            "english_hilali_khan": "Do they not see that We have created for them of what Our Hands have created the cattle, so that they are their owners.",
+            "english_rwwad": "Do they not see that We have created for them livestock made by Our Hands, and then they are their owners?"
+        }
+    },
+    {
+        "id": 3776,
+        "chapter": 36,
+        "verse": 72,
+        "arabic_text": "وَذَلَّلۡنَٰهَا لَهُمۡ فَمِنۡهَا رَكُوبُهُمۡ وَمِنۡهَا يَأۡكُلُونَ",
+        "phonetic": "36.72 Wa Dhallalnāhā Lahum Faminhā Rakūbuhum Wa Minhā Ya'kulūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We have tamed them for them, so some of them they ride, and some of them they eat.",
+            "english_hilali_khan": "And We have subdued them unto them so that some of them they have for riding and some they eat.",
+            "english_rwwad": "And We have made them subservient to them; some they ride, and from others they eat,"
+        }
+    },
+    {
+        "id": 3777,
+        "chapter": 36,
+        "verse": 73,
+        "arabic_text": "وَلَهُمۡ فِيهَا مَنَٰفِعُ وَمَشَارِبُۚ أَفَلَا يَشۡكُرُونَ",
+        "phonetic": "36.73 Wa Lahum Fīhā Manāfi`u Wa Mashāribu 'Afalā Yashkurūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And for them therein are [other] benefits and drinks, so will they not be grateful?",
+            "english_hilali_khan": "And they have (other) benefits from them, and they get (milk) to drink. Will they not then be grateful?",
+            "english_rwwad": "and there are other benefits and drinks therein for them. Will they not then give thanks?"
+        }
+    },
+    {
+        "id": 3778,
+        "chapter": 36,
+        "verse": 74,
+        "arabic_text": "وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةٗ لَّعَلَّهُمۡ يُنصَرُونَ",
+        "phonetic": "36.74 Wa Attakhadhū Min Dūni Allāhi 'Ālihatan La`allahum Yunşarūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But they have taken besides Allāh [false] deities that perhaps they would be helped.",
+            "english_hilali_khan": "And they have taken besides Allâh âlihah (gods), hoping that they might be helped (by those so-called gods).",
+            "english_rwwad": "Yet they have taken other gods besides Allah, hoping that they may be helped."
+        }
+    },
+    {
+        "id": 3779,
+        "chapter": 36,
+        "verse": 75,
+        "arabic_text": "لَا يَسۡتَطِيعُونَ نَصۡرَهُمۡ وَهُمۡ لَهُمۡ جُندٞ مُّحۡضَرُونَ",
+        "phonetic": "36.75 Lā Yastaţī`ūna Naşrahum Wa Hum Lahum Jundun Muĥđarūna",
+        "footnotes": {
+            "english_saheeh": "[1282]- Maintaining and protecting their \"gods.\"  Another interpretation is that they (i.e., the gods) will be soldiers set against them in Hellfire.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They are not able to help them, and they [themselves] are for them soldiers in attendance.[1282]",
+            "english_hilali_khan": "They cannot help them, but they will be brought forward as a troop against those who worshipped them (at the time of Reckoning).",
+            "english_rwwad": "They cannot help them, yet they serve them as their dedicated guards."
+        }
+    },
+    {
+        "id": 3780,
+        "chapter": 36,
+        "verse": 76,
+        "arabic_text": "فَلَا يَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّا نَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ",
+        "phonetic": "36.76 Falā Yaĥzunka Qawluhum 'Innā Na`lamu Mā Yusirrūna Wa Mā Yu`linūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So let not their speech grieve you. Indeed, We know what they conceal and what they declare.",
+            "english_hilali_khan": "So let not their speech, then, grieve you (O Muhammad صلى الله عليه وسلم). Verily, We know what they conceal and what they reveal.",
+            "english_rwwad": "Do not let their words grieve you. Surely We know what they conceal and what they reveal."
+        }
+    },
+    {
+        "id": 3781,
+        "chapter": 36,
+        "verse": 77,
+        "arabic_text": "أَوَلَمۡ يَرَ ٱلۡإِنسَٰنُ أَنَّا خَلَقۡنَٰهُ مِن نُّطۡفَةٖ فَإِذَا هُوَ خَصِيمٞ مُّبِينٞ",
+        "phonetic": "36.77 'Awalam Yara Al-'Insānu 'Annā Khalaqnāhu Min Nuţfatin Fa'idhā Huwa Khaşīmun Mubīnun",
+        "footnotes": {
+            "english_saheeh": "[1283]- i.e., as soon as he becomes self-sufficient.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Does man not consider that We created him from a [mere] sperm-drop - then at once[1283] he is a clear adversary?",
+            "english_hilali_khan": "Does not man see that We have created him from Nutfah (mixed male and female sexual discharge - semen drops). Yet behold he (stands forth) as an open opponent.",
+            "english_rwwad": "Does man not see that We have created him from a sperm drop, then he becomes a clear adversary,"
+        }
+    },
+    {
+        "id": 3782,
+        "chapter": 36,
+        "verse": 78,
+        "arabic_text": "وَضَرَبَ لَنَا مَثَلٗا وَنَسِيَ خَلۡقَهُۥۖ قَالَ مَن يُحۡيِ ٱلۡعِظَٰمَ وَهِيَ رَمِيمٞ",
+        "phonetic": "36.78 Wa Đaraba Lanā Mathalāan Wa Nasiya Khalqahu Qāla Man Yuĥyī Al-`Ižāma Wa Hiya Ramīmun",
+        "footnotes": {
+            "english_saheeh": "[1284]- Attempting to establish the finality of death.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he presents for Us an example[1284] and forgets his [own] creation. He says, \"Who will give life to bones while they are disintegrated?\"",
+            "english_hilali_khan": "And he puts forth for Us a parable, and forgets his own creation. He says: \"Who will give life to these bones after they are rotten and have become dust?\"",
+            "english_rwwad": "producing arguments against Us while forgetting his own creation. He says, “Who can give life to the bones after they have crumbled to dust?”"
+        }
+    },
+    {
+        "id": 3783,
+        "chapter": 36,
+        "verse": 79,
+        "arabic_text": "قُلۡ يُحۡيِيهَا ٱلَّذِيٓ أَنشَأَهَآ أَوَّلَ مَرَّةٖۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِيمٌ",
+        "phonetic": "36.79 Qul Yuĥyīhā Al-Ladhī 'Ansha'ahā 'Awwala Marratin Wa Huwa Bikulli Khalqin `Alīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"He will give them life who produced them the first time; and He is, of all creation, Knowing.\"",
+            "english_hilali_khan": "Say: (O Muhammad صلى الله عليه وسلم) \"He will give life to them Who created them for the first time! And He is the All-Knower of every creation!\"",
+            "english_rwwad": "Say, “The One Who created them in the first place will give life to them, for He has full knowledge of every created being;"
+        }
+    },
+    {
+        "id": 3784,
+        "chapter": 36,
+        "verse": 80,
+        "arabic_text": "ٱلَّذِي جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارٗا فَإِذَآ أَنتُم مِّنۡهُ تُوقِدُونَ",
+        "phonetic": "36.80 Al-Ladhī Ja`ala Lakum Mina Ash-Shajari Al-'Akhđari Nārāan Fa'idhā 'Antum Minhu Tūqidūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[It is] He who made for you from the green tree, fire, and then from it you ignite.",
+            "english_hilali_khan": "He Who produces for you fire out of the green tree, when behold you kindle therewith.",
+            "english_rwwad": "the One Who made for you fire out of the green tree, with which you kindle your fires.”"
+        }
+    },
+    {
+        "id": 3785,
+        "chapter": 36,
+        "verse": 81,
+        "arabic_text": "أَوَلَيۡسَ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخۡلُقَ مِثۡلَهُمۚ بَلَىٰ وَهُوَ ٱلۡخَلَّٰقُ ٱلۡعَلِيمُ",
+        "phonetic": "36.81 'Awalaysa Al-Ladhī Khalaqa As-Samāwāti Wa Al-'Arđa Biqādirin `Alá 'An Yakhluqa Mithlahum Balá Wa Huwa Al-Khallāqu Al-`Alīmu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator.",
+            "english_hilali_khan": "Is not He Who created the heavens and the earth, Able to create the like of them? Yes, indeed! He is the All-Knowing Supreme Creator.",
+            "english_rwwad": "Is not the One Who created the heavens and earth able to create the like of these [people]? Yes indeed, for He is the Creator of all, the All-Knowing."
+        }
+    },
+    {
+        "id": 3786,
+        "chapter": 36,
+        "verse": 82,
+        "arabic_text": "إِنَّمَآ أَمۡرُهُۥٓ إِذَآ أَرَادَ شَيۡـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ",
+        "phonetic": "36.82 'Innamā 'Amruhu 'Idhā 'Arāda Shay'āan 'An Yaqūla Lahu Kun Fayakūnu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "His command is only when He intends a thing that He says to it, \"Be,\" and it is.",
+            "english_hilali_khan": "Verily, His Command, when He intends a thing, is only that He says to it, \"Be!\" - and it is!",
+            "english_rwwad": "Whenever He wills something to be, He only says to it, “Be”, and it is."
+        }
+    },
+    {
+        "id": 3787,
+        "chapter": 36,
+        "verse": 83,
+        "arabic_text": "فَسُبۡحَٰنَ ٱلَّذِي بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَإِلَيۡهِ تُرۡجَعُونَ",
+        "phonetic": "36.83 Fasubĥāna Al-Ladhī Biyadihi Malakūtu Kulli Shay'in Wa 'Ilayhi Turja`ūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So exalted is He in whose hand is the realm of all things, and to Him you will be returned.",
+            "english_hilali_khan": "So glorified be He and exalted above all that they associate with Him, and in Whose Hands is the dominion of all things: and to Him you shall be returned.",
+            "english_rwwad": "So glory be to the One in Whose Hand is the dominion of everything, and to Him you will all be returned."
+        }
+    }
+]

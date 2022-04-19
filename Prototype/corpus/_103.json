@@ -1,0 +1,53 @@
+[
+    {
+        "id": 6176,
+        "chapter": 103,
+        "verse": 1,
+        "arabic_text": "وَٱلۡعَصۡرِ",
+        "phonetic": "103.1 Wa Al-`Aşri",
+        "footnotes": {
+            "english_saheeh": "[1985]- An oath in which Allāh swears by time throughout the ages.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "By time,[1985] ",
+            "english_hilali_khan": "1. By Al-‘Asr (the time).",
+            "english_rwwad": "By the time,"
+        }
+    },
+    {
+        "id": 6177,
+        "chapter": 103,
+        "verse": 2,
+        "arabic_text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+        "phonetic": "103.2 'Inna Al-'Insāna Lafī Khusrin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, mankind is in loss, ",
+            "english_hilali_khan": "Verily, man is in loss,",
+            "english_rwwad": "man is in utter loss,"
+        }
+    },
+    {
+        "id": 6178,
+        "chapter": 103,
+        "verse": 3,
+        "arabic_text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+        "phonetic": "103.3 'Illā Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Wa Tawāşaw Bil-Ĥaqqi Wa Tawāşaw Biş-Şabri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience. ",
+            "english_hilali_khan": "Except those who believe (in Islâmic Monotheism) and do righteous good deeds, and recommend one another to the truth [i.e. order one another to perform all kinds of good deeds (Al-Ma‘ruf) which Allâh has ordained, and abstain from all kinds of sins and evil deeds (Al-Munkar which Allâh has forbidden], and recommend one another to patience (for the sufferings, harms, and injuries which one may encounter in Allâh’s Cause during preaching His religion of Islâmic Monotheism or Jihâd).",
+            "english_rwwad": "except those who believe and do righteous deeds, and exhort one another to the truth and exhort one another to patience."
+        }
+    }
+]
