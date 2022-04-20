@@ -1,0 +1,28 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Search";
+
+package Search;
+
+service Searcher
+{
+    rpc DoSearch (SearchRequest) returns (SearchReply);
+}
+
+message SearchRequest
+{
+  string searchTerm = 1;
+}
+
+message SearchReply
+{
+    repeated SearchResult searchResults = 1;
+}
+
+message SearchResult
+{
+    int32 chapter = 1;
+    int32 verse = 2;
+    double score = 3;
+    string text = 4;
+}
