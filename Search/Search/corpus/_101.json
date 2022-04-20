@@ -1,0 +1,189 @@
+[
+    {
+        "id": 6157,
+        "chapter": 101,
+        "verse": 1,
+        "arabic_text": "ٱلۡقَارِعَةُ",
+        "phonetic": "101.1 Al-Qāri`ahu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Striking Calamity -",
+            "english_hilali_khan": "1. Al-Qâri‘ah (the striking Hour i.e. the Day of Resurrection).",
+            "english_rwwad": "The Striking Calamity!"
+        }
+    },
+    {
+        "id": 6158,
+        "chapter": 101,
+        "verse": 2,
+        "arabic_text": "مَا ٱلۡقَارِعَةُ",
+        "phonetic": "101.2 Mā Al-Qāri`ahu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "What is the Striking Calamity?",
+            "english_hilali_khan": "What is the striking (Hour)?",
+            "english_rwwad": "What is the Striking Calamity?"
+        }
+    },
+    {
+        "id": 6159,
+        "chapter": 101,
+        "verse": 3,
+        "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ",
+        "phonetic": "101.3 Wa Mā 'Adrāka Mā Al-Qāri`ahu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And what can make you know what is the Striking Calamity?",
+            "english_hilali_khan": "And what will make you know what the striking (Hour) is?",
+            "english_rwwad": "How do you know what the Striking Calamity is?"
+        }
+    },
+    {
+        "id": 6160,
+        "chapter": 101,
+        "verse": 4,
+        "arabic_text": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
+        "phonetic": "101.4 Yawma Yakūnu An-Nāsu Kālfarāshi Al-Mabthūthi",
+        "footnotes": {
+            "english_saheeh": "[1975]- The people will be as such after having been expelled from their graves.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It is the Day when people will be like moths, dispersed,[1975]",
+            "english_hilali_khan": "It is a Day whereon mankind will be like moths scattered about.",
+            "english_rwwad": "On that Day people will be like scattered moths,"
+        }
+    },
+    {
+        "id": 6161,
+        "chapter": 101,
+        "verse": 5,
+        "arabic_text": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
+        "phonetic": "101.5 Wa Takūnu Al-Jibālu Kāl`ihni Al-Manfūshi",
+        "footnotes": {
+            "english_saheeh": "[1976]- i.e., beginning to disintegrate.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the mountains will be like wool, fluffed up.[1976] ",
+            "english_hilali_khan": "And the mountains will be like carded wool.",
+            "english_rwwad": "and the mountains will be like carded wool."
+        }
+    },
+    {
+        "id": 6162,
+        "chapter": 101,
+        "verse": 6,
+        "arabic_text": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ",
+        "phonetic": "101.6 Fa'ammā Man Thaqulat Mawāzīnuhu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.101:6) See footnote of (V.7:8).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then as for one whose scales are heavy [with good deeds],",
+            "english_hilali_khan": "Then as for him whose balance (of good deeds) will be heavy,[1]",
+            "english_rwwad": "Then the one whose scales of good deeds are heavy,"
+        }
+    },
+    {
+        "id": 6163,
+        "chapter": 101,
+        "verse": 7,
+        "arabic_text": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
+        "phonetic": "101.7 Fahuwa Fī `Īshatin Rāđiyahin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He will be in a pleasant life. ",
+            "english_hilali_khan": "He will live a pleasant life (in Paradise).",
+            "english_rwwad": "will have a pleasant life."
+        }
+    },
+    {
+        "id": 6164,
+        "chapter": 101,
+        "verse": 8,
+        "arabic_text": "وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ",
+        "phonetic": "101.8 Wa 'Ammā Man Khaffat Mawāzīnuhu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But as for one whose scales are light, ",
+            "english_hilali_khan": "But as for him whose balance (of good deeds) will be light,",
+            "english_rwwad": "But the one whose scales of good deeds are light,"
+        }
+    },
+    {
+        "id": 6165,
+        "chapter": 101,
+        "verse": 9,
+        "arabic_text": "فَأُمُّهُۥ هَاوِيَةٞ",
+        "phonetic": "101.9 Fa'ummuhu Hāwiyahun",
+        "footnotes": {
+            "english_saheeh": "[1977]- Literally, \"mother\" (a man's original refuge) , which will envelop him as in an embrace.\n[1978]- i.e., the pit of Hellfire.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "His refuge[1977] will be an abyss.[1978] ",
+            "english_hilali_khan": "He will have his home in Hâwiyah (pit, i.e. Hell).",
+            "english_rwwad": "his abode will be the abyss."
+        }
+    },
+    {
+        "id": 6166,
+        "chapter": 101,
+        "verse": 10,
+        "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ",
+        "phonetic": "101.10 Wa Mā 'Adrāka Mā Hiyah",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And what can make you know what that is? ",
+            "english_hilali_khan": "And what will make you know what it is?",
+            "english_rwwad": "And how do you know what it is?"
+        }
+    },
+    {
+        "id": 6167,
+        "chapter": 101,
+        "verse": 11,
+        "arabic_text": "نَارٌ حَامِيَةُۢ",
+        "phonetic": "101.11 Nārun Ĥāmiyahun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It is a Fire, intensely hot. ",
+            "english_hilali_khan": "(It is) a fiercely blazing Fire!",
+            "english_rwwad": "It is a Blazing Fire."
+        }
+    }
+]

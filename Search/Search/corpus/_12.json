@@ -1,0 +1,1889 @@
+[
+    {
+        "id": 1596,
+        "chapter": 12,
+        "verse": 1,
+        "arabic_text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+        "phonetic": "12.1 'Alif-Lām-Rā Tilka 'Āyātu Al-Kitābi Al-Mubīni",
+        "footnotes": {
+            "english_saheeh": "[582]- See footnote to 2:1.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Alif, Lām, Rā.[582] These are the verses of the clear Book.",
+            "english_hilali_khan": "1. Alif-Lâm-Râ. [These letters are one of the miracles of the Qur’ân, and none but Allâh (Alone) knows their meanings]. These are the Verses of the Clear Book (the Qur’ân that makes clear the legal and illegal things, laws, a guidance and a blessing).",
+            "english_rwwad": "Alif Lām Ra. These are the verses of the clear Book."
+        }
+    },
+    {
+        "id": 1597,
+        "chapter": 12,
+        "verse": 2,
+        "arabic_text": "إِنَّآ أَنزَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ",
+        "phonetic": "12.2 'Innā 'Anzalnāhu Qur'ānāan `Arabīyāan La`allakum Ta`qilūna",
+        "footnotes": {
+            "english_saheeh": "[583]- i.e., revealed in the Arabic language.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, We have sent it down as an Arabic Qur’ān[583] that you might understand.",
+            "english_hilali_khan": "Verily, We have sent it down as an Arabic Qur’ân in order that you may understand.",
+            "english_rwwad": "We have sent it down as an Arabic Qur’an so that you may understand."
+        }
+    },
+    {
+        "id": 1598,
+        "chapter": 12,
+        "verse": 3,
+        "arabic_text": "نَحۡنُ نَقُصُّ عَلَيۡكَ أَحۡسَنَ ٱلۡقَصَصِ بِمَآ أَوۡحَيۡنَآ إِلَيۡكَ هَٰذَا ٱلۡقُرۡءَانَ وَإِن كُنتَ مِن قَبۡلِهِۦ لَمِنَ ٱلۡغَٰفِلِينَ",
+        "phonetic": "12.3 Naĥnu Naquşşu `Alayka 'Aĥsana Al-Qaşaşi Bimā 'Awĥaynā 'Ilayka Hādhā Al-Qur'āna Wa 'In Kunta Min Qablihi Lamina Al-Ghāfilīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "We relate to you, [O Muḥammad], the best of stories in what We have revealed to you of this Qur’ān although you were, before it, among the unaware.",
+            "english_hilali_khan": "We relate unto you (Muhammad صلى الله عليه و سلم) the best of stories through Our Revelations unto you, of this Qur’ân. And before this (i.e. before the coming of Divine Revelation to you), you were among those who knew nothing about it (the Qur’ân).",
+            "english_rwwad": "We relate to you [O Prophet] the best of stories through Our revelation of this Qur’an, although before this you were unaware of them."
+        }
+    },
+    {
+        "id": 1599,
+        "chapter": 12,
+        "verse": 4,
+        "arabic_text": "إِذۡ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّي رَأَيۡتُ أَحَدَ عَشَرَ كَوۡكَبٗا وَٱلشَّمۡسَ وَٱلۡقَمَرَ رَأَيۡتُهُمۡ لِي سَٰجِدِينَ",
+        "phonetic": "12.4 'Idh Qāla Yūsufu Li'abīhi Yā 'Abati 'Innī Ra'aytu 'Aĥada `Ashara Kawkabāan Wa Ash-Shamsa Wa Al-Qamara Ra'aytuhum Lī Sājidīna",
+        "footnotes": {
+            "english_saheeh": "[584]- The prophet Jacob (upon whom be peace).",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Of these stories mention] when Joseph said to his father,[584] \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\"",
+            "english_hilali_khan": "(Remember) when Yûsuf (Joseph) said to his father: \"O my father! Verily, I saw (in a dream) eleven stars and the sun and the moon - I saw them prostrating themselves to me.\"",
+            "english_rwwad": "[Remember] when Joseph said to his father, “O my father, I saw [in a dream] eleven stars, the sun and the moon – I saw them prostrating to me.”"
+        }
+    },
+    {
+        "id": 1600,
+        "chapter": 12,
+        "verse": 5,
+        "arabic_text": "قَالَ يَٰبُنَيَّ لَا تَقۡصُصۡ رُءۡيَاكَ عَلَىٰٓ إِخۡوَتِكَ فَيَكِيدُواْ لَكَ كَيۡدًاۖ إِنَّ ٱلشَّيۡطَٰنَ لِلۡإِنسَٰنِ عَدُوّٞ مُّبِينٞ",
+        "phonetic": "12.5 Qāla Yā Bunayya Lā Taqşuş Ru'uyā Ka `Alá 'Ikhwatika Fayakīdū Laka Kaydāan 'Inna Ash-Shayţāna Lil'insāni `Adūwun Mubīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.",
+            "english_hilali_khan": "5. He (the father) said: \"O my son! Relate not your vision to your brothers, lest they should arrange a plot against you. Verily! Shaitân (Satan) is to man an open enemy!",
+            "english_rwwad": "He said, “O my son, do not relate your vision to your brothers, lest they devise a plot against you, for Satan is a sworn enemy to mankind."
+        }
+    },
+    {
+        "id": 1601,
+        "chapter": 12,
+        "verse": 6,
+        "arabic_text": "وَكَذَٰلِكَ يَجۡتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأۡوِيلِ ٱلۡأَحَادِيثِ وَيُتِمُّ نِعۡمَتَهُۥ عَلَيۡكَ وَعَلَىٰٓ ءَالِ يَعۡقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيۡكَ مِن قَبۡلُ إِبۡرَٰهِيمَ وَإِسۡحَٰقَۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٞ",
+        "phonetic": "12.6 Wa Kadhalika Yajtabīka Rabbuka Wa Yu`allimuka Min Ta'wīli Al-'Aĥādīthi Wa Yutimmu Ni`matahu `Alayka Wa `Alá 'Āli Ya`qūba Kamā 'Atammahā `Alá 'Abawayka Min Qablu 'Ibrāhīma Wa 'Isĥāqa 'Inna Rabbaka `Alīmun Ĥakīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And thus will your Lord choose you and teach you the interpretation of narratives [i.e., events or dreams] and complete His favor upon you and upon the family of Jacob, as He completed it upon your fathers before, Abraham and Isaac. Indeed, your Lord is Knowing and Wise.\"",
+            "english_hilali_khan": "\"Thus will your Lord choose you and teach you the interpretation of dreams (and other things) and perfect His Favour on you and on the offspring of Ya‘qûb (Jacob), as He perfected it on your fathers, Ibrâhîm (Abraham) and Ishâq (Isaac) aforetime! Verily, your Lord is All-Knowing, All-Wise.\"",
+            "english_rwwad": "Thus our Lord will choose you and teach you the interpretation of dreams, and He will complete His favor upon you and upon the house of Jacob, just as He completed it upon your forefathers Abraham and Isaac before. Indeed, your Lord is All-Knowing, All-Wise.”"
+        }
+    },
+    {
+        "id": 1602,
+        "chapter": 12,
+        "verse": 7,
+        "arabic_text": "۞ لَّقَدۡ كَانَ فِي يُوسُفَ وَإِخۡوَتِهِۦٓ ءَايَٰتٞ لِّلسَّآئِلِينَ",
+        "phonetic": "12.7 Laqad Kāna Fī Yūsufa Wa 'Ikhwatihi 'Āyātun Lilssā'ilīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Certainly were there in Joseph and his brothers signs for those who ask, [such as]",
+            "english_hilali_khan": "Verily, in Yûsuf (Joseph) and his brethren, there were Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.) for those who ask.",
+            "english_rwwad": "In the story of Joseph and his brothers there are lessons for those who seek [them]."
+        }
+    },
+    {
+        "id": 1603,
+        "chapter": 12,
+        "verse": 8,
+        "arabic_text": "إِذۡ قَالُواْ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحۡنُ عُصۡبَةٌ إِنَّ أَبَانَا لَفِي ضَلَٰلٖ مُّبِينٍ",
+        "phonetic": "12.8 'Idh Qālū Layūsufu Wa 'Akhūhu 'Aĥabbu 'Ilá 'Abīnā Minnā Wa Naĥnu `Uşbatun 'Inna 'Abānā Lafī Đalālin Mubīnin",
+        "footnotes": {
+            "english_saheeh": "[585]- Benjamin, who was born of the same mother as Joseph.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "When they said, \"Joseph and his brother[585] are more beloved to our father than we, while we are a clan. Indeed, our father is in clear error.",
+            "english_hilali_khan": "When they said: \"Truly, Yûsuf (Joseph) and his brother (Benjamin) are dearer to our father than we, while we are a strong group. Really, our father is in a plain error.",
+            "english_rwwad": "When they said, “Joseph and his brother are dearer to our father than we are, although we are a group of so many. Indeed, our father is clearly mistaken."
+        }
+    },
+    {
+        "id": 1604,
+        "chapter": 12,
+        "verse": 9,
+        "arabic_text": "ٱقۡتُلُواْ يُوسُفَ أَوِ ٱطۡرَحُوهُ أَرۡضٗا يَخۡلُ لَكُمۡ وَجۡهُ أَبِيكُمۡ وَتَكُونُواْ مِنۢ بَعۡدِهِۦ قَوۡمٗا صَٰلِحِينَ",
+        "phonetic": "12.9 Aqtulū Yūsufa 'Awi Aţraĥūhu 'Arđāan Yakhlu Lakum Wajhu 'Abīkum Wa Takūnū Min Ba`dihi Qawmāan Şāliĥīna",
+        "footnotes": {
+            "english_saheeh": "[586]- i.e., You can repent thereafter.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Kill Joseph or cast him out to [another] land; the countenance [i.e., attention] of your father will [then] be only for you, and you will be after that a righteous people.\"[586]",
+            "english_hilali_khan": "\"Kill Yûsuf (Joseph) or cast him out to some (other) land, so that the favour of your father may be given to you alone, and after that you will be righteous folk (by intending repentance before committing the sin).\"",
+            "english_rwwad": "Kill Joseph or cast him out to another land, so that your father’s attention will only be to you; then you will become righteous people.”"
+        }
+    },
+    {
+        "id": 1605,
+        "chapter": 12,
+        "verse": 10,
+        "arabic_text": "قَالَ قَآئِلٞ مِّنۡهُمۡ لَا تَقۡتُلُواْ يُوسُفَ وَأَلۡقُوهُ فِي غَيَٰبَتِ ٱلۡجُبِّ يَلۡتَقِطۡهُ بَعۡضُ ٱلسَّيَّارَةِ إِن كُنتُمۡ فَٰعِلِينَ",
+        "phonetic": "12.10 Qāla Qā'ilun Minhum Lā Taqtulū Yūsufa Wa 'Alqūhu Fī Ghayābati Al-Jubbi Yaltaqiţhu Ba`đu As-Sayyārati 'In Kuntum Fā`ilīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Said a speaker among them, \"Do not kill Joseph but throw him into the bottom of the well; some travelers will pick him up - if you would do [something].\"",
+            "english_hilali_khan": "One from among them said: \"Kill not Yûsuf (Joseph), but if you must do something, throw him down to the bottom of a well; he will be picked up by some caravan of travellers.\"",
+            "english_rwwad": "One of them said, “Do not kill Joseph; but if you must do something, then throw him into the bottom of the well, so that some travelers may pick him up.”"
+        }
+    },
+    {
+        "id": 1606,
+        "chapter": 12,
+        "verse": 11,
+        "arabic_text": "قَالُواْ يَٰٓأَبَانَا مَا لَكَ لَا تَأۡمَ۬نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ",
+        "phonetic": "12.11 Qālū Yā 'Abānā Mā Laka Lā Ta'mannā `Alá Yūsufa Wa 'Innā Lahu Lanāşiĥūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"O our father, why do you not entrust us with Joseph while indeed, we are to him sincere counselors?",
+            "english_hilali_khan": "They said: \"O our father! Why do you not trust us with Yûsuf (Joseph) though we are indeed his well-wishers?\"",
+            "english_rwwad": "They said, “O our father, why do you not trust us with Joseph, although we truly care for him?"
+        }
+    },
+    {
+        "id": 1607,
+        "chapter": 12,
+        "verse": 12,
+        "arabic_text": "أَرۡسِلۡهُ مَعَنَا غَدٗا يَرۡتَعۡ وَيَلۡعَبۡ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+        "phonetic": "12.12 'Arsilhu Ma`anā Ghadāan Yarta` Wa Yal`ab Wa 'Innā Lahu Laĥāfižūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Send him with us tomorrow that he may eat well and play. And indeed, we will be his guardians.\"",
+            "english_hilali_khan": "\"Send him with us tomorrow to enjoy himself and play, and verily, we will take care of him.\"",
+            "english_rwwad": "Send him with us tomorrow so that he may enjoy himself and play; we will surely keep him safe.”"
+        }
+    },
+    {
+        "id": 1608,
+        "chapter": 12,
+        "verse": 13,
+        "arabic_text": "قَالَ إِنِّي لَيَحۡزُنُنِيٓ أَن تَذۡهَبُواْ بِهِۦ وَأَخَافُ أَن يَأۡكُلَهُ ٱلذِّئۡبُ وَأَنتُمۡ عَنۡهُ غَٰفِلُونَ",
+        "phonetic": "12.13 Qāla 'Innī Layaĥzununī 'An Tadh/habū Bihi Wa 'Akhāfu 'An Ya'kulahu Adh-Dhi'bu Wa 'Antum `Anhu Ghāfilūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Jacob] said, \"Indeed, it saddens me that you should take him, and I fear that a wolf would eat him while you are of him unaware.\"",
+            "english_hilali_khan": "He [Ya‘qûb (Jacob)] said: \"Truly, it saddens me that you should take him away. I fear lest a wolf should devour him, while you are careless of him.\"",
+            "english_rwwad": "He said, “It truly saddens me that you should take him away, and I fear that a wolf may eat him when you are negligent of him.”"
+        }
+    },
+    {
+        "id": 1609,
+        "chapter": 12,
+        "verse": 14,
+        "arabic_text": "قَالُواْ لَئِنۡ أَكَلَهُ ٱلذِّئۡبُ وَنَحۡنُ عُصۡبَةٌ إِنَّآ إِذٗا لَّخَٰسِرُونَ",
+        "phonetic": "12.14 Qālū La'in 'Akalahu Adh-Dhi'bu Wa Naĥnu `Uşbatun 'Innā 'Idhāan Lakhāsirūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"If a wolf should eat him while we are a [strong] clan, indeed, we would then be losers.\"",
+            "english_hilali_khan": "They said: \"If a wolf devours him, while we are a strong group (to guard him), then surely, we are the losers.\"",
+            "english_rwwad": "They said, “If a wolf were to eat him, despite our strong group, then we would surely be losers!”"
+        }
+    },
+    {
+        "id": 1610,
+        "chapter": 12,
+        "verse": 15,
+        "arabic_text": "فَلَمَّا ذَهَبُواْ بِهِۦ وَأَجۡمَعُوٓاْ أَن يَجۡعَلُوهُ فِي غَيَٰبَتِ ٱلۡجُبِّۚ وَأَوۡحَيۡنَآ إِلَيۡهِ لَتُنَبِّئَنَّهُم بِأَمۡرِهِمۡ هَٰذَا وَهُمۡ لَا يَشۡعُرُونَ",
+        "phonetic": "12.15 Falammā Dhahabū Bihi Wa 'Ajma`ū 'An Yaj`alūhu Fī Ghayābati Al-Jubbi Wa 'Awĥaynā 'Ilayhi Latunabbi'annahum Bi'amrihim Hādhā Wa Hum Lā Yash`urūna",
+        "footnotes": {
+            "english_saheeh": "[587]- The conclusion of this sentence is estimated to be \"...they tormented him.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So when they took him [out] and agreed to put him into the bottom of the well...[587] But We inspired to him, \"You will surely inform them [someday] about this affair of theirs while they do not perceive [your identity].\"",
+            "english_hilali_khan": "So, when they took him away and they all agreed to throw him down to the bottom of the well, (they did so) and We revealed to him: \"Indeed, you shall (one day) inform them of this their affair, when they know (you) not.\"",
+            "english_rwwad": "Then when they took him away and they agreed to cast him into the bottom of the well, We inspired him: “You will surely inform them of this affair of theirs when they will not realize [who you are].”"
+        }
+    },
+    {
+        "id": 1611,
+        "chapter": 12,
+        "verse": 16,
+        "arabic_text": "وَجَآءُوٓ أَبَاهُمۡ عِشَآءٗ يَبۡكُونَ",
+        "phonetic": "12.16 Wa Jā'ū 'Abāhum `Ishā'an Yabkūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they came to their father at night, weeping.",
+            "english_hilali_khan": "And they came to their father in the early part of the night weeping.",
+            "english_rwwad": "At night they came to their father, crying."
+        }
+    },
+    {
+        "id": 1612,
+        "chapter": 12,
+        "verse": 17,
+        "arabic_text": "قَالُواْ يَٰٓأَبَانَآ إِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئۡبُۖ وَمَآ أَنتَ بِمُؤۡمِنٖ لَّنَا وَلَوۡ كُنَّا صَٰدِقِينَ",
+        "phonetic": "12.17 Qālū Yā 'Abānā 'Innā Dhahabnā Nastabiqu Wa Taraknā Yūsufa `Inda Matā`inā Fa'akalahu Adh-Dhi'bu Wa Mā 'Anta Bimu'uminin Lanā Wa Law Kunnā Şādiqīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful.\"",
+            "english_hilali_khan": "They said: \"O our father! We went racing with one another, and left Yûsuf (Joseph) by our belongings and a wolf devoured him; but you will never believe us even when we speak the truth.\"",
+            "english_rwwad": "They said, “O our father, we went off racing one another and left Joseph with our belongings, and a wolf ate him. But you will never believe us, no matter how truthful we may be.”"
+        }
+    },
+    {
+        "id": 1613,
+        "chapter": 12,
+        "verse": 18,
+        "arabic_text": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٖ كَذِبٖۚ قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ أَنفُسُكُمۡ أَمۡرٗاۖ فَصَبۡرٞ جَمِيلٞۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+        "phonetic": "12.18 Wa Jā'ū `Alá Qamīşihi Bidamin Kadhibin Qāla Bal Sawwalat Lakum 'Anfusukum 'Amrāan Faşabrun Jamīlun Wa Allāhu Al-Musta`ānu `Alá Mā Taşifūna",
+        "footnotes": {
+            "english_saheeh": "[588]- They had stained Joseph's shirt with the blood of a lamb but had forgotten to tear it, thereby arousing their father's suspicion.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they brought upon his shirt false blood.[588] [Jacob] said, \"Rather, your souls have enticed you to something, so patience is most fitting. And Allāh is the one sought for help against that which you describe.\"",
+            "english_hilali_khan": "And they brought his shirt stained with false blood. He said: \"Nay, but your ownselves have made up a tale. So (for me) patience is most fitting. And it is Allâh (Alone) Whose help can be sought against that (lie) which you describe.\"",
+            "english_rwwad": "They brought his shirt, stained with false blood. He said, “Nay; rather your souls have enticed you to commit something. But I will bear it with beautiful patience. It is Allah’s help that I seek against what you claim.”"
+        }
+    },
+    {
+        "id": 1614,
+        "chapter": 12,
+        "verse": 19,
+        "arabic_text": "وَجَآءَتۡ سَيَّارَةٞ فَأَرۡسَلُواْ وَارِدَهُمۡ فَأَدۡلَىٰ دَلۡوَهُۥۖ قَالَ يَٰبُشۡرَىٰ هَٰذَا غُلَٰمٞۚ وَأَسَرُّوهُ بِضَٰعَةٗۚ وَٱللَّهُ عَلِيمُۢ بِمَا يَعۡمَلُونَ",
+        "phonetic": "12.19 Wa Jā'at Sayyāratun Fa'arsalū Wa Aridahum Fa'adlá Dalwahu Qāla Yā Bushrá Hādhā Ghulāmun Wa 'Asarrūhu Biđā`atan Wa Allāhu `Alīmun Bimā Ya`malūna",
+        "footnotes": {
+            "english_saheeh": "[589]- To be sold as a slave.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And there came a company of travelers; then they sent their water drawer, and he let down his bucket. He said, \"Good news! Here is a boy.\" And they concealed him, [taking him] as merchandise;[589] and Allāh was Knowing of what they did.",
+            "english_hilali_khan": "And there came a caravan of travellers and they sent their water-drawer, and he let down his bucket (into the well). He said: \"What good news! Here is a boy.\" So they hid him as merchandise (a slave). And Allâh was the All-Knower of what they did.",
+            "english_rwwad": "Some travelers came and sent their water fetcher, who lowered his bucket into the well. He cried out, “Oh, what good news; here is a boy!” They kept him hidden as merchandise, but Allah is All-Knowing of what they did."
+        }
+    },
+    {
+        "id": 1615,
+        "chapter": 12,
+        "verse": 20,
+        "arabic_text": "وَشَرَوۡهُ بِثَمَنِۭ بَخۡسٖ دَرَٰهِمَ مَعۡدُودَةٖ وَكَانُواْ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
+        "phonetic": "12.20 Wa Sharawhu Bithamanin Bakhsin Darāhima Ma`dūdatin Wa Kānū Fīhi Mina Az-Zāhidīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they sold him for a reduced price - a few dirhams - and they were, concerning him, of those content with little.",
+            "english_hilali_khan": "And they sold him for a low price - for a few Dirhams (i.e. for a few silver coins). And they were of those who regarded him insignificant.",
+            "english_rwwad": "They sold him for a meager price, a few silver coins; they were quite indifferent about him."
+        }
+    },
+    {
+        "id": 1616,
+        "chapter": 12,
+        "verse": 21,
+        "arabic_text": "وَقَالَ ٱلَّذِي ٱشۡتَرَىٰهُ مِن مِّصۡرَ لِٱمۡرَأَتِهِۦٓ أَكۡرِمِي مَثۡوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوۡ نَتَّخِذَهُۥ وَلَدٗاۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي ٱلۡأَرۡضِ وَلِنُعَلِّمَهُۥ مِن تَأۡوِيلِ ٱلۡأَحَادِيثِۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمۡرِهِۦ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+        "phonetic": "12.21 Wa Qāla Al-Ladhī Ashtarāhu Min Mişra Li'imra'atihi 'Akrimī Mathwāhu `Asá 'An Yanfa`anā 'Aw Nattakhidhahu Waladāan Wa Kadhalika Makkannā Liyūsufa Fī Al-'Arđi Wa Linu`allimahu Min Ta'wīli Al-'Aĥādīthi Wa Allāhu Ghālibun `Alá 'Amrihi Wa Lakinna 'Akthara An-Nāsi Lā Ya`lamūna",
+        "footnotes": {
+            "english_saheeh": "[590]- The minister in charge of supplies, whose title was al-ʿAzeez.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the one from Egypt[590] who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know.",
+            "english_hilali_khan": "And he (the man) from Egypt who bought him, said to his wife: \"Make his stay comfortable, may be he will profit us or we shall adopt him as a son.\" Thus did We establish Yûsuf (Joseph) in the land, that We might teach him the interpretation of events. And Allâh has full power and control over His Affairs, but most of men know not.",
+            "english_rwwad": "The man in Egypt who bought him said to his wife, “Make his stay comfortable; perhaps he will benefit us or we may adopt him as a son.” This is how We established Joseph in the land, so that We may teach him the interpretation of dreams. Allah’s decree always prevails, but most people do not know."
+        }
+    },
+    {
+        "id": 1617,
+        "chapter": 12,
+        "verse": 22,
+        "arabic_text": "وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيۡنَٰهُ حُكۡمٗا وَعِلۡمٗاۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+        "phonetic": "12.22 Wa Lammā Balagha 'Ashuddahu 'Ātaynāhu Ĥukmāan Wa `Ilmāan Wa Kadhalika Najzī Al-Muĥsinīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when he [i.e., Joseph] reached maturity, We gave him judgement and knowledge. And thus We reward the doers of good.",
+            "english_hilali_khan": "And when he [Yûsuf (Joseph)] attained his full manhood, We gave him wisdom and knowledge (the Prophethood); thus We reward the Muhsinûn (doers of good - see the footnote of V.9:120).",
+            "english_rwwad": "When he reached his prime, We gave him wisdom and knowledge. This is how We reward those who do good."
+        }
+    },
+    {
+        "id": 1618,
+        "chapter": 12,
+        "verse": 23,
+        "arabic_text": "وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
+        "phonetic": "12.23 Wa Rāwadat/hu Allatī Huwa Fī Baytihā `An Nafsihi Wa Ghallaqati Al-'Abwāba Wa Qālat Hayta Laka Qāla Ma`ādha Allāhi 'Innahu Rabbī 'Aĥsana Mathwāya 'Innahu Lā Yufliĥu Až-Žālimūna",
+        "footnotes": {
+            "english_saheeh": "[591]- Her husband, al-ʿAzeez.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And she, in whose house he was, sought to seduce him. She closed the doors and said, \"Come, you.\" He said, \"[I seek] the refuge of Allāh. Indeed, he[591] is my master, who has made good my residence. Indeed, wrongdoers will not succeed.\"",
+            "english_hilali_khan": "And she, in whose house he was, sought to seduce him (to do an evil act), and she closed the doors and said: \"Come on, O you.\" He said: \"I seek refuge in Allâh (or Allâh forbid)! Truly, he (your husband) is my master! He made my living in a great comfort! (So I will never betray him). Verily, the Zâlimûn (wrong and evil-doers) will never be successful.\"",
+            "english_rwwad": "But the woman in whose house he was living tried to seduce him. She bolted the doors and said, “Come here to me!” He said, “I seek refuge with Allah! My master has made my stay good. Indeed, the wrongdoers will never succeed.”"
+        }
+    },
+    {
+        "id": 1619,
+        "chapter": 12,
+        "verse": 24,
+        "arabic_text": "وَلَقَدۡ هَمَّتۡ بِهِۦۖ وَهَمَّ بِهَا لَوۡلَآ أَن رَّءَا بُرۡهَٰنَ رَبِّهِۦۚ كَذَٰلِكَ لِنَصۡرِفَ عَنۡهُ ٱلسُّوٓءَ وَٱلۡفَحۡشَآءَۚ إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُخۡلَصِينَ",
+        "phonetic": "12.24 Wa Laqad Hammat Bihi Wa Hamma Bihā Lawlā 'An Ra'á Burhāna Rabbihi Kadhālika Linaşrifa `Anhu As-Sū'a Wa Al-Faĥshā'a 'Innahu Min `Ibādinā Al-Mukhlaşīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And she certainly determined [to seduce] him, and he would have inclined to her had he not seen the proof [i.e., sign] of his Lord. And thus [it was] that We should avert from him evil and immorality. Indeed, he was of Our chosen servants.",
+            "english_hilali_khan": "And indeed she did desire him, and he would have inclined to her desire, had he not seen the evidence of his Lord. Thus it was, that We might turn away from him evil and illegal sexual intercourse. Surely, he was one of Our chosen (guided) slaves.",
+            "english_rwwad": "She advanced towards him, and he would have succumbed to her; were it not that he saw a sign from his Lord. This is how We kept evil and shameful acts away from him. Indeed, he was one of Our chosen slaves."
+        }
+    },
+    {
+        "id": 1620,
+        "chapter": 12,
+        "verse": 25,
+        "arabic_text": "وَٱسۡتَبَقَا ٱلۡبَابَ وَقَدَّتۡ قَمِيصَهُۥ مِن دُبُرٖ وَأَلۡفَيَا سَيِّدَهَا لَدَا ٱلۡبَابِۚ قَالَتۡ مَا جَزَآءُ مَنۡ أَرَادَ بِأَهۡلِكَ سُوٓءًا إِلَّآ أَن يُسۡجَنَ أَوۡ عَذَابٌ أَلِيمٞ",
+        "phonetic": "12.25 Wa Astabaqā Al-Bāba Wa Qaddat Qamīşahu Min Duburin Wa 'Alfayā Sayyidahā Ladá Al-Bābi Qālat Mā Jazā'u Man 'Arāda Bi'ahlika Sū'āan 'Illā 'An Yusjana 'Aw `Adhābun 'Alīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they both raced to the door, and she tore his shirt from the back, and they found her husband at the door. She said, \"What is the recompense of one who intended evil for your wife but that he be imprisoned or a painful punishment?\"",
+            "english_hilali_khan": "So they raced with one another to the door, and she tore his shirt from the back. They both found her lord (i.e. her husband) at the door. She said: \"What is the recompense (punishment) for him who intended an evil design against your wife, except that he be put in prison or a painful torment?\"",
+            "english_rwwad": "They both rushed to the door and she tore his shirt from behind, and they found her husband at the door. She said, “What is the punishment for someone who tried to dishonor your wife, except to be imprisoned or a painful punishment?”"
+        }
+    },
+    {
+        "id": 1621,
+        "chapter": 12,
+        "verse": 26,
+        "arabic_text": "قَالَ هِيَ رَٰوَدَتۡنِي عَن نَّفۡسِيۚ وَشَهِدَ شَاهِدٞ مِّنۡ أَهۡلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٖ فَصَدَقَتۡ وَهُوَ مِنَ ٱلۡكَٰذِبِينَ",
+        "phonetic": "12.26 Qāla Hiya Rāwadatnī `An Nafsī Wa Shahida Shāhidun Min 'Ahlihā 'In Kāna Qamīşuhu Qudda Min Qubulin Faşadaqat Wa Huwa Mina Al-Kādhibīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Joseph] said, \"It was she who sought to seduce me.\" And a witness from her family testified, \"If his shirt is torn from the front, then she has told the truth, and he is of the liars.",
+            "english_hilali_khan": "He [Yûsuf (Joseph)] said: \"It was she that sought to seduce me;\" and a witness of her household bore witness (saying): \"If it be that his shirt is torn from the front, then her tale is true and he is a liar!",
+            "english_rwwad": "Joseph said, “It was she who tried to seduce me.” A witness from her own household suggested: “If his shirt is torn from the front, then she is telling the truth and he is a liar."
+        }
+    },
+    {
+        "id": 1622,
+        "chapter": 12,
+        "verse": 27,
+        "arabic_text": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٖ فَكَذَبَتۡ وَهُوَ مِنَ ٱلصَّٰدِقِينَ",
+        "phonetic": "12.27 Wa 'In Kāna Qamīşuhu Qudda Min Duburin Fakadhabat Wa Huwa Mina Aş-Şādiqīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But if his shirt is torn from the back, then she has lied, and he is of the truthful.\"",
+            "english_hilali_khan": "\"But if it be that his shirt is torn from the back, then she has told a lie and he is speaking the truth!\"",
+            "english_rwwad": "But if his shirt is torn from the back, then she is lying and he is truthful.”"
+        }
+    },
+    {
+        "id": 1623,
+        "chapter": 12,
+        "verse": 28,
+        "arabic_text": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٖ قَالَ إِنَّهُۥ مِن كَيۡدِكُنَّۖ إِنَّ كَيۡدَكُنَّ عَظِيمٞ",
+        "phonetic": "12.28 Falammā Ra'á Qamīşahu Qudda Min Duburin Qāla 'Innahu Min Kaydikunna 'Inna Kaydakunna `Ažīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So when he [i.e., her husband] saw his shirt torn from the back, he said, \"Indeed, it is of your [i.e., women's] plan. Indeed, your plan is great [i.e., vehement].",
+            "english_hilali_khan": "So when he (her husband) saw his [(Yûsuf’s (Joseph)] shirt torn at the back, he (her husband) said: \"Surely, it is a plot of you women! Certainly mighty is your plot!",
+            "english_rwwad": "When he saw that his shirt was torn from the back, he said, “This is your guile [O women]; your guile is great indeed!"
+        }
+    },
+    {
+        "id": 1624,
+        "chapter": 12,
+        "verse": 29,
+        "arabic_text": "يُوسُفُ أَعۡرِضۡ عَنۡ هَٰذَاۚ وَٱسۡتَغۡفِرِي لِذَنۢبِكِۖ إِنَّكِ كُنتِ مِنَ ٱلۡخَاطِـِٔينَ",
+        "phonetic": "12.29 Yūsufu 'A`riđ `An Hādhā Wa Astaghfirī Lidhanbiki 'Innaki Kunti Mina Al-Khāţi'īna",
+        "footnotes": {
+            "english_saheeh": "[592]- i.e., conceal it and act as if it had not taken place.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Joseph, ignore this.[592] And, [my wife], ask forgiveness for your sin. Indeed, you were of the sinful.\"",
+            "english_hilali_khan": "\"O Yûsuf (Joseph)! Turn away from this! (O woman!) Ask forgiveness for your sin. Verily, you were of the sinful.\"",
+            "english_rwwad": "O Joseph, forget about this; but you [O wife], seek forgiveness for your sin, for it was you who have done wrong.”"
+        }
+    },
+    {
+        "id": 1625,
+        "chapter": 12,
+        "verse": 30,
+        "arabic_text": "۞ وَقَالَ نِسۡوَةٞ فِي ٱلۡمَدِينَةِ ٱمۡرَأَتُ ٱلۡعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفۡسِهِۦۖ قَدۡ شَغَفَهَا حُبًّاۖ إِنَّا لَنَرَىٰهَا فِي ضَلَٰلٖ مُّبِينٖ",
+        "phonetic": "12.30 Wa Qāla Niswatun Fī Al-Madīnati Amra'atu Al-`Azīzi Turāwidu Fatāhā `An Nafsihi Qad Shaghafahā Ĥubbāan 'Innā Lanarāhā Fī Đalālin Mubīnin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And women in the city said, \"The wife of al-ʿAzeez is seeking to seduce her slave boy; he has impassioned her with love. Indeed, we see her [to be] in clear error.\"",
+            "english_hilali_khan": "And women in the city said: \"The wife of Al-‘Azîz is seeking to seduce her (slave) young man, indeed she loves him violently; verily we see her in plain error.\"",
+            "english_rwwad": "Some women in the city said, “The chief minister’s wife is trying to seduce her slave-boy; his love has overwhelmed her heart. We see that she is clearly mistaken.”"
+        }
+    },
+    {
+        "id": 1626,
+        "chapter": 12,
+        "verse": 31,
+        "arabic_text": "فَلَمَّا سَمِعَتۡ بِمَكۡرِهِنَّ أَرۡسَلَتۡ إِلَيۡهِنَّ وَأَعۡتَدَتۡ لَهُنَّ مُتَّكَـٔٗا وَءَاتَتۡ كُلَّ وَٰحِدَةٖ مِّنۡهُنَّ سِكِّينٗا وَقَالَتِ ٱخۡرُجۡ عَلَيۡهِنَّۖ فَلَمَّا رَأَيۡنَهُۥٓ أَكۡبَرۡنَهُۥ وَقَطَّعۡنَ أَيۡدِيَهُنَّ وَقُلۡنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنۡ هَٰذَآ إِلَّا مَلَكٞ كَرِيمٞ",
+        "phonetic": "12.31 Falammā Sami`at Bimakrihinna 'Arsalat 'Ilayhinna Wa 'A`tadat Lahunna Muttaka'an Wa 'Ātat Kulla Wāĥidatin Minhunna Sikkīnāan Wa Qālati Akhruj `Alayhinna Falammā Ra'aynahu 'Akbarnahu Wa Qaţţa`na 'Aydiyahunna Wa Qulna Ĥāsha Lillāhi Mā Hādhā Basharāan 'In Hādhā 'Illā Malakun Karīmun",
+        "footnotes": {
+            "english_saheeh": "[593]- So distracted were they at the sight of him.\n[594]- In His ability to create such beauty.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So when she heard of their scheming, she sent for them and prepared for them a banquet and gave each one of them a knife and said [to Joseph], \"Come out before them.\" And when they saw him, they greatly admired him and cut their hands[593] and said, \"Perfect is Allāh![594] This is not a man; this is none but a noble angel.\"",
+            "english_hilali_khan": "So when she heard of their accusation, she sent for them and prepared a banquet for them; she gave each one of them a knife (to cut the foodstuff with), and she said [(to Yûsuf (Joseph)]: \"Come out before them.\" Then, when they saw him, they exalted him (at his beauty) and (in their astonishment) cut their hands. They said: \"How perfect is Allâh (or Allâh forbid)! No man is this! This is none other than a noble angel!\"",
+            "english_rwwad": "When she heard of their gossip, she invited them and arranged for them a banquet, and gave each one of them a knife, and said [to Joseph], “Come out before them.” When they saw him, they were stunned by his beauty that they cut their hands, and said, “Great God! This cannot be human; this must be a noble angel.”"
+        }
+    },
+    {
+        "id": 1627,
+        "chapter": 12,
+        "verse": 32,
+        "arabic_text": "قَالَتۡ فَذَٰلِكُنَّ ٱلَّذِي لُمۡتُنَّنِي فِيهِۖ وَلَقَدۡ رَٰوَدتُّهُۥ عَن نَّفۡسِهِۦ فَٱسۡتَعۡصَمَۖ وَلَئِن لَّمۡ يَفۡعَلۡ مَآ ءَامُرُهُۥ لَيُسۡجَنَنَّ وَلَيَكُونٗا مِّنَ ٱلصَّٰغِرِينَ",
+        "phonetic": "12.32 Qālat Fadhālikunna Al-Ladhī Lumtunnanī Fīhi Wa Laqad Rāwadttuhu `An Nafsihi Fāsta`şama Wa La'in Lam Yaf`al Mā 'Āmuruhu Layusjananna Wa Layakūnāan Mina Aş-Şāghirīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "She said, \"That is the one about whom you blamed me. And I certainly sought to seduce him, but he firmly refused; and if he will not do what I order him, he will surely be imprisoned and will be of those debased.\"",
+            "english_hilali_khan": "She said: \"This is he (the young man) about whom you did blame me, and I did seek to seduce him, but he refused. And now if he refuses to obey my order, he shall certainly be cast into prison, and will be one of those who are disgraced.\"",
+            "english_rwwad": "She said, “This is the one for whose love you reproached me. I did try to seduce him but he abstained. If he does not follow my order, he will surely be imprisoned and will be fully humiliated.”"
+        }
+    },
+    {
+        "id": 1628,
+        "chapter": 12,
+        "verse": 33,
+        "arabic_text": "قَالَ رَبِّ ٱلسِّجۡنُ أَحَبُّ إِلَيَّ مِمَّا يَدۡعُونَنِيٓ إِلَيۡهِۖ وَإِلَّا تَصۡرِفۡ عَنِّي كَيۡدَهُنَّ أَصۡبُ إِلَيۡهِنَّ وَأَكُن مِّنَ ٱلۡجَٰهِلِينَ",
+        "phonetic": "12.33 Qāla Rabbi As-Sijnu 'Aĥabbu 'Ilayya Mimmā Yad`ūnanī 'Ilayhi Wa 'Illā Taşrif `Annī Kaydahunna 'Aşbu 'Ilayhinna Wa 'Akun Mina Al-Jāhilīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"My Lord, prison is more to my liking than that to which they invite me. And if You do not avert from me their plan, I might incline toward them and [thus] be of the ignorant.\"",
+            "english_hilali_khan": "He said: \"O my Lord! Prison is dearer to me than that to which they invite me. Unless You turn away their plot from me, I will feel inclined towards them and be one (of those who commit sin and deserve blame or those who do deeds) of the ignorant.\"",
+            "english_rwwad": "Joseph said, “My Lord, I would rather be in prison than that to which they are calling me. Unless you protect me from their guile, I may succumb to them and fall into ignorance.”"
+        }
+    },
+    {
+        "id": 1629,
+        "chapter": 12,
+        "verse": 34,
+        "arabic_text": "فَٱسۡتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنۡهُ كَيۡدَهُنَّۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+        "phonetic": "12.34 Fāstajāba Lahu Rabbuhu Faşarafa `Anhu Kaydahunna 'Innahu Huwa As-Samī`u Al-`Alīmu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So his Lord responded to him and averted from him their plan. Indeed, He is the Hearing, the Knowing.",
+            "english_hilali_khan": "So his Lord answered his invocation and turned away from him their plot. Verily, He is the All-Hearer, the All-Knower.",
+            "english_rwwad": "So his Lord answered his prayer and protected him from their guile. He is the All-Hearing, the All-Knowing."
+        }
+    },
+    {
+        "id": 1630,
+        "chapter": 12,
+        "verse": 35,
+        "arabic_text": "ثُمَّ بَدَا لَهُم مِّنۢ بَعۡدِ مَا رَأَوُاْ ٱلۡأٓيَٰتِ لَيَسۡجُنُنَّهُۥ حَتَّىٰ حِينٖ",
+        "phonetic": "12.35 Thumma Badā Lahum Min Ba`di Mā Ra'aw Al-'Āyāti Layasjununnahu Ĥattá Ĥīnin",
+        "footnotes": {
+            "english_saheeh": "[595]- Proofs of his innocence.\n[596]- Until the scandal be forgotten.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then it appeared to them after they had seen the signs[595] that he [i.e., al-ʿAzeez] should surely imprison him for a time.[596]",
+            "english_hilali_khan": "Then it occurred to them, after they had seen the proofs (of his innocence), to imprison him for a time.",
+            "english_rwwad": "Then it occurred to them after they saw the signs [of his innocence] that they should imprison him for some time."
+        }
+    },
+    {
+        "id": 1631,
+        "chapter": 12,
+        "verse": 36,
+        "arabic_text": "وَدَخَلَ مَعَهُ ٱلسِّجۡنَ فَتَيَانِۖ قَالَ أَحَدُهُمَآ إِنِّيٓ أَرَىٰنِيٓ أَعۡصِرُ خَمۡرٗاۖ وَقَالَ ٱلۡأٓخَرُ إِنِّيٓ أَرَىٰنِيٓ أَحۡمِلُ فَوۡقَ رَأۡسِي خُبۡزٗا تَأۡكُلُ ٱلطَّيۡرُ مِنۡهُۖ نَبِّئۡنَا بِتَأۡوِيلِهِۦٓۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِينَ",
+        "phonetic": "12.36 Wa Dakhala Ma`ahu As-Sijna Fatayāni Qāla 'Aĥaduhumā 'Innī 'Arānī 'A`şiru Khamrāan Wa Qāla Al-'Ākharu 'Innī 'Arānī 'Aĥmilu Fawqa Ra'sī Khubzāan Ta'kulu Aţ-Ţayru Minhu Nabbi'nā Bita'wīlihi 'Innā Narāka Mina Al-Muĥsinīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And there entered the prison with him two young men. One of them said, \"Indeed, I have seen myself [in a dream] pressing [grapes for] wine.\" The other said, \"Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good.\"",
+            "english_hilali_khan": "And there entered with him two young men in the prison. One of them said: \"Verily, I saw myself (in a dream) pressing wine.\" The other said: \"Verily, I saw myself (in a dream) carrying bread on my head and birds were eating thereof.\" (They said): \"Inform us of the interpretation of this. Verily, we think you are one of the Muhsinûn (doers of good).\"",
+            "english_rwwad": "Two young men went to prison with him. One of them said, “I dreamt that I was pressing wine.” The other said, “I dreamt that I was carrying bread on my head of which birds were eating. Tell us their interpretation, for we see you as one of those who do good.”"
+        }
+    },
+    {
+        "id": 1632,
+        "chapter": 12,
+        "verse": 37,
+        "arabic_text": "قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
+        "phonetic": "12.37 Qāla Lā Ya'tīkumā Ţa`āmun Turzaqānihi 'Illā Nabba'tukumā Bita'wīlihi Qabla 'An Ya'tiyakumā Dhālikumā Mimmā `Allamanī Rabbī 'Innī Taraktu Millata Qawmin Lā Yu'uminūna Billāhi Wa Hum Bil-'Ākhirati Hum Kāfirūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"You will not receive food that is provided to you except that I will inform you of its interpretation before it comes to you. That is from what my Lord has taught me. Indeed, I have left the religion of a people who do not believe in Allāh, and they, in the Hereafter, are disbelievers.",
+            "english_hilali_khan": "He said: \"No food will come to you (in wakefulness or in dream) as your provision, but I will inform (in wakefulness) its interpretation before it (the food) comes. This is of that which my Lord has taught me. Verily, I have abandoned the religion of a people that believe not in Allâh and are disbelievers in the Hereafter (i.e. the Kan‘anyyûn of Egypt who were polytheists and used to worship sun and other false deities).",
+            "english_rwwad": "Joseph said, “Before there comes to you the meal which you will be given, I will inform you of their interpretation. This is part of what my Lord has taught me. I have renounced the faith of people who do not believe in Allah and who deny the Hereafter."
+        }
+    },
+    {
+        "id": 1633,
+        "chapter": 12,
+        "verse": 38,
+        "arabic_text": "وَٱتَّبَعۡتُ مِلَّةَ ءَابَآءِيٓ إِبۡرَٰهِيمَ وَإِسۡحَٰقَ وَيَعۡقُوبَۚ مَا كَانَ لَنَآ أَن نُّشۡرِكَ بِٱللَّهِ مِن شَيۡءٖۚ ذَٰلِكَ مِن فَضۡلِ ٱللَّهِ عَلَيۡنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَشۡكُرُونَ",
+        "phonetic": "12.38 Wa Attaba`tu Millata 'Ābā'ī 'Ibrāhīma Wa 'Isĥāqa Wa Ya`qūba Mā Kāna Lanā 'An Nushrika Billāhi Min Shay'in Dhālika Min Fađli Allāhi `Alaynā Wa `Alá An-Nāsi Wa Lakinna 'Akthara An-Nāsi Lā Yashkurūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.12:38) See the footnote of (V. 2:135).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And I have followed the religion of my fathers, Abraham, Isaac and Jacob. And it was not for us to associate anything with Allāh. That is from the favor of Allāh upon us and upon the people, but most of the people are not grateful.",
+            "english_hilali_khan": "\"And I have followed the religion of my fathers,[1] - Ibrâhîm (Abraham), Ishâq (Isaac) and Ya‘qûb (Jacob) [عليهم السلام], and never could we attribute any partners whatsoever to Allâh. This is from the Grace of Allâh to us and to mankind, but most men thank not (i.e. they neither believe in Allâh, nor worship Him).",
+            "english_rwwad": "I follow the faith of my fathers – Abraham, Isaac and Jacob; it is not right for us to associate any partner with Allah. This is part of Allah’s grace upon us and upon people, but most people are ungrateful."
+        }
+    },
+    {
+        "id": 1634,
+        "chapter": 12,
+        "verse": 39,
+        "arabic_text": "يَٰصَٰحِبَيِ ٱلسِّجۡنِ ءَأَرۡبَابٞ مُّتَفَرِّقُونَ خَيۡرٌ أَمِ ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ",
+        "phonetic": "12.39 Yā Şāĥibayi As-Sijni 'A'arbābun Mutafarriqūna Khayrun 'Ami Allāhu Al-Wāĥidu Al-Qahhāru",
+        "footnotes": {
+            "english_saheeh": "[597]- Single, individual and unique in His attributes and His deeds.\n[598]- He who subdues doubts and false arguments with clear evidences and who subdues and imposes His will upon all creation.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O [my] two companions of prison, are separate lords better or Allāh, the One,[597] the Prevailing?[598]",
+            "english_hilali_khan": "\"O two companions of the prison! Are many different lords (gods) better or Allâh, the One, the Irresistible?",
+            "english_rwwad": "O my two fellow prisoners, which is better: many different lords or Allah, the One, the Subjugator?"
+        }
+    },
+    {
+        "id": 1635,
+        "chapter": 12,
+        "verse": 40,
+        "arabic_text": "مَا تَعۡبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسۡمَآءٗ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+        "phonetic": "12.40 Mā Ta`budūna Min Dūnihi 'Illā 'Asmā'an Sammaytumūhā 'Antum Wa 'Ābā'uukum Mā 'Anzala Allāhu Bihā Min Sulţānin 'Ini Al-Ĥukmu 'Illā Lillāhi 'Amara 'Allā Ta`budū 'Illā 'Īyāhu Dhālika Ad-Dīnu Al-Qayyimu Wa Lakinna 'Akthara An-Nāsi Lā Ya`lamūna",
+        "footnotes": {
+            "english_saheeh": "[599]- The false objects of worship which you have called \"gods.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "You worship not besides Him except [mere] names you have named them,[599] you and your fathers, for which Allāh has sent down no evidence. Legislation is not but for Allāh. He has commanded that you worship not except Him. That is the correct religion, but most of the people do not know.",
+            "english_hilali_khan": "\"You do not worship besides Him but only names which you have named (forged) - you and your fathers - for which Allâh has sent down no authority. The command (or the judgement) is for none but Allâh. He has commanded that you worship none but Him (i.e. His Monotheism); that is the (true) straight religion, but most men know not.",
+            "english_rwwad": "You worship none besides Him except names that you and your forefathers have made up, for which Allah has not sent down any authority. All power belongs to Allah alone; He has commanded that you should worship none except Him. This is the right religion, but most people do not know.”"
+        }
+    },
+    {
+        "id": 1636,
+        "chapter": 12,
+        "verse": 41,
+        "arabic_text": "يَٰصَٰحِبَيِ ٱلسِّجۡنِ أَمَّآ أَحَدُكُمَا فَيَسۡقِي رَبَّهُۥ خَمۡرٗاۖ وَأَمَّا ٱلۡأٓخَرُ فَيُصۡلَبُ فَتَأۡكُلُ ٱلطَّيۡرُ مِن رَّأۡسِهِۦۚ قُضِيَ ٱلۡأَمۡرُ ٱلَّذِي فِيهِ تَسۡتَفۡتِيَانِ",
+        "phonetic": "12.41 Yā Şāĥibayi As-Sijni 'Ammā 'Aĥadukumā Fayasqī Rabbahu Khamrāan Wa 'Ammā Al-'Ākharu Fayuşlabu Fata'kulu Aţ-Ţayru Min Ra'sihi Quđiya Al-'Amru Al-Ladhī Fīhi Tastaftiyāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O two companions of prison, as for one of you, he will give drink to his master of wine; but as for the other, he will be crucified, and the birds will eat from his head. The matter has been decreed about which you both inquire.\"",
+            "english_hilali_khan": "\"O two companions of the prison! As for one of you, he (as a servant) will pour out wine for his lord (king or master) to drink; and as for the other, he will be crucified and birds will eat from his head. Thus is the case judged concerning which you both did inquire.\"",
+            "english_rwwad": "“O my two fellow prisoners, as for one of you, he will serve wine to his master; as for the other, he will be crucified and the birds will eat from his head. The matter you are asking about has been decreed.”"
+        }
+    },
+    {
+        "id": 1637,
+        "chapter": 12,
+        "verse": 42,
+        "arabic_text": "وَقَالَ لِلَّذِي ظَنَّ أَنَّهُۥ نَاجٖ مِّنۡهُمَا ٱذۡكُرۡنِي عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيۡطَٰنُ ذِكۡرَ رَبِّهِۦ فَلَبِثَ فِي ٱلسِّجۡنِ بِضۡعَ سِنِينَ",
+        "phonetic": "12.42 Wa Qāla Lilladhī Žanna 'Annahu Nājin Minhumā Adhkurnī `Inda Rabbika Fa'ansāhu Ash-Shayţānu Dhikra Rabbihi Falabitha Fī As-Sijni Biđ`a Sinīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he said to the one whom he knew would go free, \"Mention me before your master.\" But Satan made him forget the mention [to] his master, and he [i.e., Joseph] remained in prison several years.",
+            "english_hilali_khan": "And he said to the one whom he knew to be saved: \"Mention me to your lord (i.e. your king, so as to get me out of the prison).\" But Shaitân (Satan) made him forget to mention it to his Lord [or Satan made Yûsuf (Joseph) to forget the remembrance of his Lord (Allâh) as to ask for His Help, instead of others]. So [Yûsuf (Joseph)] stayed in prison a few (more) years.",
+            "english_rwwad": "Then he said to the one he knew would be saved, “Mention me to your master.” But Satan made him forget to mention this to his master, so he remained in prison for several years."
+        }
+    },
+    {
+        "id": 1638,
+        "chapter": 12,
+        "verse": 43,
+        "arabic_text": "وَقَالَ ٱلۡمَلِكُ إِنِّيٓ أَرَىٰ سَبۡعَ بَقَرَٰتٖ سِمَانٖ يَأۡكُلُهُنَّ سَبۡعٌ عِجَافٞ وَسَبۡعَ سُنۢبُلَٰتٍ خُضۡرٖ وَأُخَرَ يَابِسَٰتٖۖ يَٰٓأَيُّهَا ٱلۡمَلَأُ أَفۡتُونِي فِي رُءۡيَٰيَ إِن كُنتُمۡ لِلرُّءۡيَا تَعۡبُرُونَ",
+        "phonetic": "12.43 Wa Qāla Al-Maliku 'Innī 'Ará Sab`a Baqarātin Simānin Ya'kuluhunna Sab`un `Ijāfun Wa Sab`a Sunbulātin Khuđrin Wa 'Ukhara Yā Bisātin Yā 'Ayyuhā Al-Mala'u 'Aftūnī Fī Ru'uyā Ya 'In Kuntum Lilrru'uyā Ta`burūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And [subsequently] the king said, \"Indeed, I have seen [in a dream] seven fat cows being eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry. O eminent ones, explain to me my vision, if you should interpret visions.\"",
+            "english_hilali_khan": "And the king (of Egypt) said: \"Verily, I saw (in a dream) seven fat cows, whom seven lean ones were devouring, and seven green ears of corn, and (seven) others dry. O notables! Explain to me my dream, if it be that you can interpret dreams.\"",
+            "english_rwwad": "The King said, “I dreamt of seven fat cows eaten up by seven lean ones; and seven green ears of grain and [seven] others withered. O chiefs, explain my dream to me, if you can interpret dreams.”"
+        }
+    },
+    {
+        "id": 1639,
+        "chapter": 12,
+        "verse": 44,
+        "arabic_text": "قَالُوٓاْ أَضۡغَٰثُ أَحۡلَٰمٖۖ وَمَا نَحۡنُ بِتَأۡوِيلِ ٱلۡأَحۡلَٰمِ بِعَٰلِمِينَ",
+        "phonetic": "12.44 Qālū 'Ađghāthu 'Aĥlāmin Wa Mā Naĥnu Bita'wīli Al-'Aĥlāmi Bi`ālimīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"[It is but] a mixture of false dreams, and we are not learned in the interpretation of dreams.\"",
+            "english_hilali_khan": "They said: \"Mixed up false dreams and we are not skilled in the interpretation of dreams.\"",
+            "english_rwwad": "They said, “These are jumbled dreams, and we do not know the interpretation of such dreams.”"
+        }
+    },
+    {
+        "id": 1640,
+        "chapter": 12,
+        "verse": 45,
+        "arabic_text": "وَقَالَ ٱلَّذِي نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأۡوِيلِهِۦ فَأَرۡسِلُونِ",
+        "phonetic": "12.45 Wa Qāla Al-Ladhī Najā Minhumā Wa Aiddakara Ba`da 'Ummatin 'Anā 'Unabbi'ukum Bita'wīlihi Fa'arsilūni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But the one who was freed and remembered after a time said, \"I will inform you of its interpretation, so send me forth.\"",
+            "english_hilali_khan": "Then the man who was released (one of the two who were in prison), now at length remembered and said: \"I will tell you its interpretation, so send me forth.\"",
+            "english_rwwad": "The freed prisoner remembered after a long time had passed, and said, “I will inform you of its interpretation, so send me forth.”"
+        }
+    },
+    {
+        "id": 1641,
+        "chapter": 12,
+        "verse": 46,
+        "arabic_text": "يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفۡتِنَا فِي سَبۡعِ بَقَرَٰتٖ سِمَانٖ يَأۡكُلُهُنَّ سَبۡعٌ عِجَافٞ وَسَبۡعِ سُنۢبُلَٰتٍ خُضۡرٖ وَأُخَرَ يَابِسَٰتٖ لَّعَلِّيٓ أَرۡجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمۡ يَعۡلَمُونَ",
+        "phonetic": "12.46 Yūsufu 'Ayyuhā Aş-Şiddīqu 'Aftinā Fī Sab`i Baqarātin Simānin Ya'kuluhunna Sab`un `Ijāfun Wa Sab`i Sunbulātin Khuđrin Wa 'Ukhara Yā Bisātin La`allī 'Arji`u 'Ilá An-Nāsi La`allahum Ya`lamūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[He said], \"Joseph, O man of truth, explain to us about seven fat cows eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry - that I may return to the people [i.e., the king and his court]; perhaps they will know [about you].\"",
+            "english_hilali_khan": "(He said): \"O Yûsuf (Joseph), the man of truth! Explain to us (the dream) of seven fat cows whom seven lean ones were devouring, and of seven green ears of corn, and (seven) others dry, that I may return to the people, and that they may know.\"",
+            "english_rwwad": "[He said], “Joseph, O man of truth, tell us about seven fat cows eaten up by seven lean ones, and seven green ears of grain and [seven] others withered, so that I may return to the people and that they may know.”"
+        }
+    },
+    {
+        "id": 1642,
+        "chapter": 12,
+        "verse": 47,
+        "arabic_text": "قَالَ تَزۡرَعُونَ سَبۡعَ سِنِينَ دَأَبٗا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِي سُنۢبُلِهِۦٓ إِلَّا قَلِيلٗا مِّمَّا تَأۡكُلُونَ",
+        "phonetic": "12.47 Qāla Tazra`ūna Sab`a Sinīna Da'abāan Famā Ĥaşadtum Fadharūhu Fī Sunbulihi 'Illā Qalīlāan Mimmā Ta'kulūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Joseph] said, \"You will plant for seven years consecutively; and what you harvest leave in its spikes, except a little from which you will eat.",
+            "english_hilali_khan": "[(Yûsuf (Joseph)] said: \"For seven consecutive years, you shall sow as usual and that (the harvest) which you reap you shall leave it in the ears, (all) except a little of it which you may eat.",
+            "english_rwwad": "Joseph said, “You will grow crops for seven consecutive years. But whatever you harvest, leave it in the ear, except for a little that you may eat."
+        }
+    },
+    {
+        "id": 1643,
+        "chapter": 12,
+        "verse": 48,
+        "arabic_text": "ثُمَّ يَأۡتِي مِنۢ بَعۡدِ ذَٰلِكَ سَبۡعٞ شِدَادٞ يَأۡكُلۡنَ مَا قَدَّمۡتُمۡ لَهُنَّ إِلَّا قَلِيلٗا مِّمَّا تُحۡصِنُونَ",
+        "phonetic": "12.48 Thumma Ya'tī Min Ba`di Dhālika Sab`un Shidādun Ya'kulna Mā Qaddamtum Lahunna 'Illā Qalīlāan Mimmā Tuĥşinūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then will come after that seven difficult [years] which will consume what you advanced [i.e., saved] for them, except a little from which you will store.",
+            "english_hilali_khan": "\"Then will come after that, seven hard (years), which will devour what you have laid by in advance for them, (all) except a little of that which you have guarded (stored).",
+            "english_rwwad": "Then after that will come seven years of hardship which will devour all what you had stored, except for a little that you may set aside."
+        }
+    },
+    {
+        "id": 1644,
+        "chapter": 12,
+        "verse": 49,
+        "arabic_text": "ثُمَّ يَأۡتِي مِنۢ بَعۡدِ ذَٰلِكَ عَامٞ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعۡصِرُونَ",
+        "phonetic": "12.49 Thumma Ya'tī Min Ba`di Dhālika `Āmun Fīhi Yughāthu An-Nāsu Wa Fīhi Ya`şirūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then will come after that a year in which the people will be given rain and in which they will press [olives and grapes].\"",
+            "english_hilali_khan": "\"Then thereafter will come a year in which people will have abundant rain and in which they will press (wine and oil).\"",
+            "english_rwwad": "Then after that will come a year in which people will have abundant rain, and in which they will press [grapes and olives].”"
+        }
+    },
+    {
+        "id": 1645,
+        "chapter": 12,
+        "verse": 50,
+        "arabic_text": "وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِي بِهِۦۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرۡجِعۡ إِلَىٰ رَبِّكَ فَسۡـَٔلۡهُ مَا بَالُ ٱلنِّسۡوَةِ ٱلَّٰتِي قَطَّعۡنَ أَيۡدِيَهُنَّۚ إِنَّ رَبِّي بِكَيۡدِهِنَّ عَلِيمٞ",
+        "phonetic": "12.50 Wa Qāla Al-Maliku A'tūnī Bihi Falammā Jā'ahu Ar-Rasūlu Qāla Arji` 'Ilá Rabbika Fās'alhu Mā Bālu An-Niswati Al-Lātī Qaţţa`na 'Aydiyahunna 'Inna Rabbī Bikaydihinna `Alīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the king said, \"Bring him to me.\" But when the messenger came to him, [Joseph] said, \"Return to your master and ask him what is the case of the women who cut their hands. Indeed, my Lord is Knowing of their plan.\"",
+            "english_hilali_khan": "And the king said: \"Bring him to me.\" But when the messenger came to him, [Yûsuf (Joseph)] said: \"Return to your lord and ask him, ‘What happened to the women who cut their hands? Surely, my Lord (Allâh) is Well-Aware of their plot.’\"",
+            "english_rwwad": "The King said, “Bring him to me.” But when the messenger came to him, he said, “Go back to your master and ask him, ‘What was the case of the women who cut their hands?’ Indeed, my Lord is All-Knowing of their guile.”"
+        }
+    },
+    {
+        "id": 1646,
+        "chapter": 12,
+        "verse": 51,
+        "arabic_text": "قَالَ مَا خَطۡبُكُنَّ إِذۡ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفۡسِهِۦۚ قُلۡنَ حَٰشَ لِلَّهِ مَا عَلِمۡنَا عَلَيۡهِ مِن سُوٓءٖۚ قَالَتِ ٱمۡرَأَتُ ٱلۡعَزِيزِ ٱلۡـَٰٔنَ حَصۡحَصَ ٱلۡحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفۡسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ",
+        "phonetic": "12.51 Qāla Mā Khaţbukunna 'Idh Rāwadttunna Yūsufa `An Nafsihi Qulna Ĥāsha Lillāhi Mā `Alimnā `Alayhi Min Sū'in Qālati Amra'atu Al-`Azīzi Al-'Āna Ĥaşĥaşa Al-Ĥaqqu 'Anā Rāwadttuhu `An Nafsihi Wa 'Innahu Lamina Aş-Şādiqīna",
+        "footnotes": {
+            "english_saheeh": "[600]- In His ability to create such purity of character.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh![600] We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful.",
+            "english_hilali_khan": "(The King) said (to the women): \"What was your affair when you did seek to seduce Yûsuf (Joseph)?\" The women said: \"Allâh forbid! No evil know we against him!\" The wife of Al-‘Azîz said: \"Now the truth is manifest (to all); it was I who sought to seduce him, and he is surely of the truthful.\"",
+            "english_rwwad": "The king said, “What happened when you [O women] tried to seduce Joseph?” They said, “Allah forbid; we know nothing bad about him.” The chief minister’s wife said, “Now the truth has come to light. It was I who tried to seduce him, and he is surely the truthful."
+        }
+    },
+    {
+        "id": 1647,
+        "chapter": 12,
+        "verse": 52,
+        "arabic_text": "ذَٰلِكَ لِيَعۡلَمَ أَنِّي لَمۡ أَخُنۡهُ بِٱلۡغَيۡبِ وَأَنَّ ٱللَّهَ لَا يَهۡدِي كَيۡدَ ٱلۡخَآئِنِينَ",
+        "phonetic": "12.52 Dhālika Liya`lama 'Annī Lam 'Akhunhu Bil-Ghaybi Wa 'Anna Allāha Lā Yahdī Kayda Al-Khā'inīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.12:52).\na) Narrated Ibn ‘Umarرضي الله عنهما : The Prophet صلى الله عليه وسلم said, \"For every betrayer (perfidious person), a flag will be raised on the Day of Resurrection, and it will be announced (publicly): ‘This is the betrayal (perfidy) of so-and-so, the son of so-and-so.’ \"\n(Sahih Al-Bukhari, Vol.8, Hadith No.196)\nb) See the footnote of (V.4:145).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That is so he [i.e., al-ʿAzeez] will know that I did not betray him in [his] absence and that Allāh does not guide the plan of betrayers.",
+            "english_hilali_khan": "[Then Yûsuf (Joseph) said: \"I asked for this enquiry] in order that he (Al-‘Azîz) may know that I betrayed him not in (his) absence\". And, verily! Allâh guides not the plot of the betrayers.[1]",
+            "english_rwwad": "That is because Joseph should know that I did not betray him in his absence, for Allah does not let the guile of the betrayers to succeed.”"
+        }
+    },
+    {
+        "id": 1648,
+        "chapter": 12,
+        "verse": 53,
+        "arabic_text": "۞ وَمَآ أُبَرِّئُ نَفۡسِيٓۚ إِنَّ ٱلنَّفۡسَ لَأَمَّارَةُۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّيٓۚ إِنَّ رَبِّي غَفُورٞ رَّحِيمٞ",
+        "phonetic": "12.53 Wa Mā 'Ubarri'u Nafsī 'Inna An-Nafsa La'ammāratun Bis-Sū'i 'Illā Mā Raĥima Rabbī 'Inna Rabbī Ghafūrun Raĥīmun",
+        "footnotes": {
+            "english_saheeh": "[601]- Although Ibn Katheer attributes the words of verses 52-53 to the wife of al-ʿAzeez, others have concluded that they were spoken by Joseph, thereby justifying his request for an inquiry and acknowledging Allāh's mercy to him.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy. Indeed, my Lord is Forgiving and Merciful.\"[601]",
+            "english_hilali_khan": "\"And I free not myself (from the blame). Verily, the (human) self is inclined to evil, except when my Lord bestows His Mercy (upon whom He wills). Verily, my Lord is Oft-Forgiving, Most Merciful.\"",
+            "english_rwwad": "I do not absolve myself of blame. Indeed, the human soul prompts one to evil, except those to whom my Lord may show mercy. Indeed, my Lord is All-Forgiving, Most Merciful.”"
+        }
+    },
+    {
+        "id": 1649,
+        "chapter": 12,
+        "verse": 54,
+        "arabic_text": "وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِي بِهِۦٓ أَسۡتَخۡلِصۡهُ لِنَفۡسِيۖ فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلۡيَوۡمَ لَدَيۡنَا مَكِينٌ أَمِينٞ",
+        "phonetic": "12.54 Wa Qāla Al-Maliku A'tūnī Bihi 'Astakhlişhu Linafsī Falammā Kallamahu Qāla 'Innaka Al-Yawma Ladaynā Makīnun 'Amīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the king said, \"Bring him to me; I will appoint him exclusively for myself.\" And when he spoke to him, he said, \"Indeed, you are today established [in position] and trusted.\"",
+            "english_hilali_khan": "And the king said: \"Bring him to me that I may attach him to my person.\" Then, when he spoke to him, he said: \"Verily, this day, you are with us high in rank and fully trusted.\"",
+            "english_rwwad": "The King said, “Bring him to me, so that I will appoint him [as an adviser] exclusively to myself.” Then when he spoke to him, he said, “You are today in a highly esteemed position and fully trusted by us.”"
+        }
+    },
+    {
+        "id": 1650,
+        "chapter": 12,
+        "verse": 55,
+        "arabic_text": "قَالَ ٱجۡعَلۡنِي عَلَىٰ خَزَآئِنِ ٱلۡأَرۡضِۖ إِنِّي حَفِيظٌ عَلِيمٞ",
+        "phonetic": "12.55 Qāla Aj`alnī `Alá Khazā'ini Al-'Arđi 'Innī Ĥafīžun `Alīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Joseph] said, \"Appoint me over the storehouses of the land. Indeed, I will be a knowing guardian.\"",
+            "english_hilali_khan": "[Yûsuf (Joseph)] said: \"Set me over the store-houses of the land; I will indeed guard them with full knowledge\" (as a minister of finance in Egypt).",
+            "english_rwwad": "Joseph said, “Put me in charge of the storehouses of the land; I am indeed a good keeper and knowledgeable.”"
+        }
+    },
+    {
+        "id": 1651,
+        "chapter": 12,
+        "verse": 56,
+        "arabic_text": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي ٱلۡأَرۡضِ يَتَبَوَّأُ مِنۡهَا حَيۡثُ يَشَآءُۚ نُصِيبُ بِرَحۡمَتِنَا مَن نَّشَآءُۖ وَلَا نُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+        "phonetic": "12.56 Wa Kadhalika Makkannā Liyūsufa Fī Al-'Arđi Yatabawwa'u Minhā Ĥaythu Yashā'u Nuşību Biraĥmatinā Man Nashā'u Wa Lā Nuđī`u 'Ajra Al-Muĥsinīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And thus We established Joseph in the land to settle therein wherever he willed. We touch with Our mercy whom We will, and We do not allow to be lost the reward of those who do good.",
+            "english_hilali_khan": "Thus did We give full authority to Yûsuf (Joseph) in the land, to take possession therein, when or where he likes. We bestow of Our Mercy on whom We will, and We make not to be lost the reward of Al-Muhsinûn (the good doers - See V.2:112).",
+            "english_rwwad": "This is how We established Joseph in the land so that he may settle wherever he wished. We extend Our mercy to whom We will, and We do not let the reward of those who do good to be lost."
+        }
+    },
+    {
+        "id": 1652,
+        "chapter": 12,
+        "verse": 57,
+        "arabic_text": "وَلَأَجۡرُ ٱلۡأٓخِرَةِ خَيۡرٞ لِّلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ",
+        "phonetic": "12.57 Wa La'ajru Al-'Ākhirati Khayrun Lilladhīna 'Āmanū Wa Kānū Yattaqūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the reward of the Hereafter is better for those who believed and were fearing Allāh.",
+            "english_hilali_khan": "And verily, the reward of the Hereafter is better for those who believe and used to fear Allâh and keep their duty to Him (by abstaining from all kinds of sins and evil deeds and by performing all kinds of righteous good deeds).",
+            "english_rwwad": "But the reward of the Hereafter is better for those who believe and fear Allah."
+        }
+    },
+    {
+        "id": 1653,
+        "chapter": 12,
+        "verse": 58,
+        "arabic_text": "وَجَآءَ إِخۡوَةُ يُوسُفَ فَدَخَلُواْ عَلَيۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ مُنكِرُونَ",
+        "phonetic": "12.58 Wa Jā'a 'Ikhwatu Yūsufa Fadakhalū `Alayhi Fa`arafahum Wa Hum Lahu Munkirūna",
+        "footnotes": {
+            "english_saheeh": "[602]- Due to the change in his appearance over the years.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the brothers of Joseph came [seeking food], and they entered upon him; and he recognized them, but he was to them unknown.[602]",
+            "english_hilali_khan": "And Yûsuf’s (Joseph) brethren came and they entered unto him, and he recognized them, but they recognized him not.",
+            "english_rwwad": "The brothers of Joseph came and presented themselves before him; he recognized them but they did not know him."
+        }
+    },
+    {
+        "id": 1654,
+        "chapter": 12,
+        "verse": 59,
+        "arabic_text": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ قَالَ ٱئۡتُونِي بِأَخٖ لَّكُم مِّنۡ أَبِيكُمۡۚ أَلَا تَرَوۡنَ أَنِّيٓ أُوفِي ٱلۡكَيۡلَ وَأَنَا۠ خَيۡرُ ٱلۡمُنزِلِينَ",
+        "phonetic": "12.59 Wa Lammā Jahhazahum Bijahāzihim Qāla A'tūnī Bi'akhin Lakum Min 'Abīkum 'Alā Tarawna 'Annī 'Ūfī Al-Kayla Wa 'Anā Khayru Al-Munzilīna",
+        "footnotes": {
+            "english_saheeh": "[603]- i.e., Benjamin, who had been kept at home by his father Jacob.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when he had furnished them with their supplies, he said, \"Bring me a brother of yours from your father.[603] Do you not see that I give full measure and that I am the best of accommodators?",
+            "english_hilali_khan": "And when he had furnished them with their provisions (according to their need), he said: \"Bring me a brother of yours from your father (he meant Benjamin). See you not that I give full measure, and that I am the best of the hosts?",
+            "english_rwwad": "When he prepared for them their rations, he said, “Bring me your step-brother; do you not see that I give full measure and I am the best host?"
+        }
+    },
+    {
+        "id": 1655,
+        "chapter": 12,
+        "verse": 60,
+        "arabic_text": "فَإِن لَّمۡ تَأۡتُونِي بِهِۦ فَلَا كَيۡلَ لَكُمۡ عِندِي وَلَا تَقۡرَبُونِ",
+        "phonetic": "12.60 Fa'in Lam Ta'tūnī Bihi Falā Kayla Lakum `Indī Wa Lā Taqrabūni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But if you do not bring him to me, no measure will there be [hereafter] for you from me, nor will you approach me.\"",
+            "english_hilali_khan": "\"But if you bring him not to me, there shall be no measure (of corn) for you with me, nor shall you come near me.\"",
+            "english_rwwad": "If you do not bring him to me, you will never receive any measure [of grain] from me, nor will you even come close to me.”"
+        }
+    },
+    {
+        "id": 1656,
+        "chapter": 12,
+        "verse": 61,
+        "arabic_text": "قَالُواْ سَنُرَٰوِدُ عَنۡهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ",
+        "phonetic": "12.61 Qālū Sanurāwidu `Anhu 'Abāhu Wa 'Innā Lafā`ilūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"We will attempt to dissuade his father from [keeping] him, and indeed, we will do [it].\"",
+            "english_hilali_khan": "They said: \"We shall try to get permission (for him) from his father, and verily, we shall do it.\"",
+            "english_rwwad": "They said, “We will persuade his father to send him, and we will surely do our best.”"
+        }
+    },
+    {
+        "id": 1657,
+        "chapter": 12,
+        "verse": 62,
+        "arabic_text": "وَقَالَ لِفِتۡيَٰنِهِ ٱجۡعَلُواْ بِضَٰعَتَهُمۡ فِي رِحَالِهِمۡ لَعَلَّهُمۡ يَعۡرِفُونَهَآ إِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمۡ لَعَلَّهُمۡ يَرۡجِعُونَ",
+        "phonetic": "12.62 Wa Qāla Lifityānihi Aj`alū Biđā`atahum Fī Riĥālihim La`allahum Ya`rifūnahā 'Idhā Anqalabū 'Ilá 'Ahlihim La`allahum Yarji`ūna",
+        "footnotes": {
+            "english_saheeh": "[604]- The goods which they had brought to trade for food supplies.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And [Joseph] said to his servants, \"Put their merchandise[604] into their saddlebags so they might recognize it when they have gone back to their people that perhaps they will [again] return.\"",
+            "english_hilali_khan": "And [Yûsuf (Joseph)] told his servants to put their money (with which they had bought the corn) into their bags, so that they might know it when they go back to their people; in order they might come again.",
+            "english_rwwad": "Joseph said to his servants, “Put their money in their saddlebags so that they may find them when they go back to their family; perhaps they will return.”"
+        }
+    },
+    {
+        "id": 1658,
+        "chapter": 12,
+        "verse": 63,
+        "arabic_text": "فَلَمَّا رَجَعُوٓاْ إِلَىٰٓ أَبِيهِمۡ قَالُواْ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلۡكَيۡلُ فَأَرۡسِلۡ مَعَنَآ أَخَانَا نَكۡتَلۡ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+        "phonetic": "12.63 Falammā Raja`ū 'Ilá 'Abīhim Qālū Yā 'Abānā Muni`a Minnā Al-Kaylu Fa'arsil Ma`anā 'Akhānā Naktal Wa 'Innā Lahu Laĥāfižūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So when they returned to their father, they said, \"O our father, [further] measure has been denied to us, so send with us our brother [that] we will be given measure. And indeed, we will be his guardians.\"",
+            "english_hilali_khan": "So, when they returned to their father, they said: \"O our father! No more measure of grain shall we get (unless we take our brother). So send our brother with us, and we shall get our measure and truly we will guard him.\"",
+            "english_rwwad": "When they returned to their father, they said, “O our father, we have been denied any further measure [of grain]; send our brother with us so that we may receive our measure, and we will surely protect him.”"
+        }
+    },
+    {
+        "id": 1659,
+        "chapter": 12,
+        "verse": 64,
+        "arabic_text": "قَالَ هَلۡ ءَامَنُكُمۡ عَلَيۡهِ إِلَّا كَمَآ أَمِنتُكُمۡ عَلَىٰٓ أَخِيهِ مِن قَبۡلُ فَٱللَّهُ خَيۡرٌ حَٰفِظٗاۖ وَهُوَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
+        "phonetic": "12.64 Qāla Hal 'Āmanukum `Alayhi 'Illā Kamā 'Amintukum `Alá 'Akhīhi Min Qablu Fa-Allāhu Khayrun Ĥāfižāan Wa Huwa 'Arĥamu Ar-Rāĥimīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"Should I entrust you with him except [under coercion] as I entrusted you with his brother before? But Allāh is the best guardian, and He is the most merciful of the merciful.\"",
+            "english_hilali_khan": "He said: \"Can I entrust him to you except as I entrusted his brother [Yûsuf (Joseph)] to you aforetime? But Allâh is the Best to guard, and He is the Most Merciful of those who show mercy.\"",
+            "english_rwwad": "He said, “Should I trust you with him as I trusted you earlier with his brother? But Allah is the best Protector, and He is the Most Merciful of those who show mercy.”"
+        }
+    },
+    {
+        "id": 1660,
+        "chapter": 12,
+        "verse": 65,
+        "arabic_text": "وَلَمَّا فَتَحُواْ مَتَٰعَهُمۡ وَجَدُواْ بِضَٰعَتَهُمۡ رُدَّتۡ إِلَيۡهِمۡۖ قَالُواْ يَٰٓأَبَانَا مَا نَبۡغِيۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتۡ إِلَيۡنَاۖ وَنَمِيرُ أَهۡلَنَا وَنَحۡفَظُ أَخَانَا وَنَزۡدَادُ كَيۡلَ بَعِيرٖۖ ذَٰلِكَ كَيۡلٞ يَسِيرٞ",
+        "phonetic": "12.65 Wa Lammā Fataĥū Matā`ahum Wa Jadū Biđā`atahum Ruddat 'Ilayhim Qālū Yā 'Abānā Mā Nabghī Hadhihi Biđā`atunā Ruddat 'Ilaynā Wa Namīru 'Ahlanā Wa Naĥfažu 'Akhānā Wa Nazdādu Kayla Ba`īrin Dhālika Kaylun Yasīrun",
+        "footnotes": {
+            "english_saheeh": "[605]- For them.  Or one obtained by us with ease.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when they opened their baggage, they found their merchandise returned to them. They said, \"O our father, what [more] could we desire? This is our merchandise returned to us. And we will obtain supplies [i.e., food] for our family and protect our brother and obtain an increase of a camel's load; that is an easy measurement.\"[605]",
+            "english_hilali_khan": "And when they opened their bags, they found their money had been returned to them. They said: \"O our father! What (more) can we desire? This, our money has been returned to us; so we shall get (more) food for our family, and we shall guard our brother and add one more measure of a camel’s load. This quantity is easy (for the king to give).\"",
+            "english_rwwad": "When they opened their baggage, they found that their money had been returned to them. They said, “O our father, what more could we ask for? Here is our money returned to us. We can bring more food to our family, protect our brother, and obtain an extra camel-load of grain. That measure is easily secured.”"
+        }
+    },
+    {
+        "id": 1661,
+        "chapter": 12,
+        "verse": 66,
+        "arabic_text": "قَالَ لَنۡ أُرۡسِلَهُۥ مَعَكُمۡ حَتَّىٰ تُؤۡتُونِ مَوۡثِقٗا مِّنَ ٱللَّهِ لَتَأۡتُنَّنِي بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمۡۖ فَلَمَّآ ءَاتَوۡهُ مَوۡثِقَهُمۡ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٞ",
+        "phonetic": "12.66 Qāla Lan 'Ursilahu Ma`akum Ĥattá Tu'utūni Mawthiqāan Mina Allāhi Lata'tunanī Bihi 'Illā 'An Yuĥāţa Bikum Falammā 'Ātawhu Mawthiqahum Qāla Allāhu `Alá Mā Naqūlu Wa Kīlun",
+        "footnotes": {
+            "english_saheeh": "[606]- i.e., sufficient to witness and deal with the matter.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Jacob] said, \"Never will I send him with you until you give me a promise [i.e., oath] by Allāh that you will bring him [back] to me, unless you should be surrounded [i.e., overcome by enemies].\" And when they had given their promise, he said, \"Allāh, over what we say, is Entrusted.\"[606]",
+            "english_hilali_khan": "He [Ya‘qûb (Jacob)] said: \"I will not send him with you until you swear a solemn oath to me in Allâh’s Name, that you will bring him back to me unless you are yourselves surrounded (by enemies),\" And when they had sworn their solemn oath, he said: \"Allâh is the Witness to what we have said.\"",
+            "english_rwwad": "He said, “I will never send him with you unless you give me a pledge by Allah that you will surely bring him back to me, unless you are completely overpowered.” Then when they gave him their pledge, he said, “Allah is Witness to what we say.”"
+        }
+    },
+    {
+        "id": 1662,
+        "chapter": 12,
+        "verse": 67,
+        "arabic_text": "وَقَالَ يَٰبَنِيَّ لَا تَدۡخُلُواْ مِنۢ بَابٖ وَٰحِدٖ وَٱدۡخُلُواْ مِنۡ أَبۡوَٰبٖ مُّتَفَرِّقَةٖۖ وَمَآ أُغۡنِي عَنكُم مِّنَ ٱللَّهِ مِن شَيۡءٍۖ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِۖ عَلَيۡهِ تَوَكَّلۡتُۖ وَعَلَيۡهِ فَلۡيَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ",
+        "phonetic": "12.67 Wa Qāla Yā Banīya Lā Tadkhulū Min Bābin Wāĥidin Wa Adkhulū Min 'Abwābin Mutafarriqatin Wa Mā 'Ughnī `Ankum Mina Allāhi Min Shay'in 'Ini Al-Ĥukmu 'Illā Lillāhi `Alayhi Tawakkaltu Wa `Alayhi Falyatawakkali Al-Mutawakkilūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.12:67).\na) Narrated Ibn ‘Abbâs رضي الله عنهما : Allâh’s Messenger صلى الله عليه وسلم said, \"Seventy thousand people of my followers will enter Paradise without account, and they are those who do not practise Ar-Ruqyah and do not see an evil omen in things, and put their trust in their Lord.\" (Sahih Al-Bukhari, Vol.8, Hadith No. 479)\nAr-Ruqyah: See the glossary.\nb) Narrated Abu Hurairah رضي الله عنه : The Prophet صلى الله عليه وسلم said, \"An Israeli man asked another Israeli to lend him one thousand dinars. The second man required witnesses. The former replied, ‘Allâh is Sufficient as a witness.’ The second said, ‘I want a surety.’ The former replied, ‘Allâh is Sufficient as a Surety.’ The second said, ‘You are right’ and lent him the money for a certain period. The debtor went across the sea. When he finished his job, he searched for a conveyance so that he might reach in time for the repayment of the debt, but he could not find any. So, he took a piece of wood and made a hole in it, inserted in it one thousand dinars and a letter to the lender and then closed (i.e. sealed) the hole tightly. He took the piece of wood to the sea and said. ‘O Allâh! You know well that I took a loan of one thousand dinars from so-and-so. He demanded a surety from me but I told him that Allâh’s Guarantee was sufficient and he accepted Your Guarantee. He then asked for a witness and I told him that Allâh was sufficient as a Witness, and he accepted You as a Witness. No doubt, I have tried hard to find a conveyance so that I could pay his money back but could not find, so I hand over this money to You.’ Saying that, he threw the piece of wood into the sea till it went out far into it, and then he went away. Meanwhile he started searching for a conveyance in order to reach the creditor’s country. One day the lender came out of his house to see whether a ship had arrived bringing his money, and all of a sudden he saw the piece of wood (in which his money had been deposited). He took it home to use for fire. When he sawed it, he found his money and the letter inside it. Shortly after that, the debtor came bringing one thousand dinars to him and said, ‘By Allâh, I had been trying hard to get a boat so that I could bring you your money, but failed to get one before the one I have come by.’ The lender asked, ‘Have you sent something to me?’ The debtor replied, ‘I have told you I could not get a boat other than the one I have come by.’\nThe lender said, ‘Allâh has delivered on your behalf the money you sent in the piece of wood. So, you may keep your one thousand dinars and depart guided on the Right Path.’\"\n(Sahih Al-Bukhari, Vol.3, Hadith No.488B).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he said, \"O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allāh at all. The decision is only for Allāh; upon Him I have relied, and upon Him let those who would rely [indeed] rely.\"",
+            "english_hilali_khan": "And he said: \"O my sons! Do not enter by one gate, but enter by different gates, and I cannot avail you against Allâh at all. Verily! The decision rests only with Allâh. In Him, I put my trust and let all those that trust, put their trust in Him.\"[1]",
+            "english_rwwad": "And he said, “O my sons, do not enter all from one gate, but enter from different gates. I cannot avail you anything against [the decree of] Allah; the decision belongs to Allah alone. In Him I put my trust, and in Him let the faithful put their trust.”"
+        }
+    },
+    {
+        "id": 1663,
+        "chapter": 12,
+        "verse": 68,
+        "arabic_text": "وَلَمَّا دَخَلُواْ مِنۡ حَيۡثُ أَمَرَهُمۡ أَبُوهُم مَّا كَانَ يُغۡنِي عَنۡهُم مِّنَ ٱللَّهِ مِن شَيۡءٍ إِلَّا حَاجَةٗ فِي نَفۡسِ يَعۡقُوبَ قَضَىٰهَاۚ وَإِنَّهُۥ لَذُو عِلۡمٖ لِّمَا عَلَّمۡنَٰهُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+        "phonetic": "12.68 Wa Lammā Dakhalū Min Ĥaythu 'Amarahum 'Abūhum Mmā Kāna Yughnī `Anhum Mmina Allāhi Min Shay'in 'Illā Ĥājatan Fī Nafsi Ya`qūba Qađāhā Wa 'Innahu Ladhū `Ilmin Limā `Allamnāhu Wa Lakinna 'Akthara An-Nāsi Lā Ya`lamūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when they entered from where their father had ordered them, it did not avail them against Allāh at all except [it was] a need [i.e., concern] within the soul of Jacob, which he satisfied. And indeed, he was a possessor of knowledge because of what We had taught him, but most of the people do not know.",
+            "english_hilali_khan": "And when they entered according to their father’s advice, it did not avail them in the least against (the Will of) Allâh; it was but a need of Ya‘qûb’s (Jacob) inner-self which he discharged. And verily, he was endowed with knowledge because We had taught him, but most men know not.",
+            "english_rwwad": "When they entered as their father had instructed them, it could not avail them against [the decree of] Allah whatsoever, yet a need in Jacob’s heart was satisfied. He was indeed a man of knowledge because of what We had taught him, but most people do not know."
+        }
+    },
+    {
+        "id": 1664,
+        "chapter": 12,
+        "verse": 69,
+        "arabic_text": "وَلَمَّا دَخَلُواْ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيۡهِ أَخَاهُۖ قَالَ إِنِّيٓ أَنَا۠ أَخُوكَ فَلَا تَبۡتَئِسۡ بِمَا كَانُواْ يَعۡمَلُونَ",
+        "phonetic": "12.69 Wa Lammā Dakhalū `Alá Yūsufa 'Āwá 'Ilayhi 'Akhāhu Qāla 'Innī 'Anā 'Akhūka Falā Tabta'is Bimā Kānū Ya`malūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when they entered upon Joseph, he took his brother to himself; he said, \"Indeed, I am your brother, so do not despair over what they used to do [to me].\"",
+            "english_hilali_khan": "And when they went in before Yûsuf (Joseph), he took his brother (Benjamin) to himself and said: \"Verily! I am your brother, so grieve not for what they used to do.\"",
+            "english_rwwad": "When they came into Joseph’s presence, he called his brother [Benjamin] aside, and said, “I am indeed your brother, so do not be saddened by their past actions.”"
+        }
+    },
+    {
+        "id": 1665,
+        "chapter": 12,
+        "verse": 70,
+        "arabic_text": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ جَعَلَ ٱلسِّقَايَةَ فِي رَحۡلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلۡعِيرُ إِنَّكُمۡ لَسَٰرِقُونَ",
+        "phonetic": "12.70 Falammā Jahhazahum Bijahāzihim Ja`ala As-Siqāyata Fī Raĥli 'Akhīhi Thumma 'Adhana Mu'uadhinun 'Ayyatuhā Al-`Īru 'Innakum Lasāriqūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So when he had furnished them with their supplies, he put the [gold measuring] bowl into the bag of his brother. Then an announcer called out, \"O caravan, indeed you are thieves.\"",
+            "english_hilali_khan": "So when he had furnished them forth with their provisions, he put the (golden) bowl in his brother’s bag. Then a crier cried: \"O you (in) the caravan! Surely, you are thieves!\"",
+            "english_rwwad": "When he prepared for them their rations, he placed the [royal] drinking vessel in his brother’s saddlebag. Then an announcer called out, “O people of the caravan, you must be thieves!”"
+        }
+    },
+    {
+        "id": 1666,
+        "chapter": 12,
+        "verse": 71,
+        "arabic_text": "قَالُواْ وَأَقۡبَلُواْ عَلَيۡهِم مَّاذَا تَفۡقِدُونَ",
+        "phonetic": "12.71 Qālū Wa 'Aqbalū `Alayhim Mādhā Tafqidūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said while approaching them, \"What is it you are missing?\"",
+            "english_hilali_khan": "They, turning towards them, said: \"What is it that you have lost?\"",
+            "english_rwwad": "They said as they turned back, “What are you missing?”"
+        }
+    },
+    {
+        "id": 1667,
+        "chapter": 12,
+        "verse": 72,
+        "arabic_text": "قَالُواْ نَفۡقِدُ صُوَاعَ ٱلۡمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمۡلُ بَعِيرٖ وَأَنَا۠ بِهِۦ زَعِيمٞ",
+        "phonetic": "12.72 Qālū Nafqidu Şuwā`a Al-Maliki Wa Liman Jā'a Bihi Ĥimlu Ba`īrin Wa 'Anā Bihi Za`īmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"We are missing the measure of the king. And for he who produces it is [the reward of] a camel's load, and I am responsible for it.\"",
+            "english_hilali_khan": "They said: \"We have lost the (golden) bowl of the king and for him who produces it is (the reward of) a camel load; and I will be bound by it.\"",
+            "english_rwwad": "They said, “We are missing the king’s measuring cup. Whoever brings it will have a camel-load [of grain]; and I guarantee it.”"
+        }
+    },
+    {
+        "id": 1668,
+        "chapter": 12,
+        "verse": 73,
+        "arabic_text": "قَالُواْ تَٱللَّهِ لَقَدۡ عَلِمۡتُم مَّا جِئۡنَا لِنُفۡسِدَ فِي ٱلۡأَرۡضِ وَمَا كُنَّا سَٰرِقِينَ",
+        "phonetic": "12.73 Qālū Ta-Allāhi Laqad `Alimtum Mā Ji'nā Linufsida Fī Al-'Arđi Wa Mā Kunnā Sāriqīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"By Allāh, you have certainly known that we did not come to cause corruption in the land, and we have not been thieves.\"",
+            "english_hilali_khan": "They said: \"By Allâh! Indeed you know that we came not to make mischief in the land, and we are no thieves!\"",
+            "english_rwwad": "They said, “By Allah, you know well that we did not come to spread corruption in the land, nor are we thieves.”"
+        }
+    },
+    {
+        "id": 1669,
+        "chapter": 12,
+        "verse": 74,
+        "arabic_text": "قَالُواْ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمۡ كَٰذِبِينَ",
+        "phonetic": "12.74 Qālū Famā Jazā'uuhu 'In Kuntum Kādhibīna",
+        "footnotes": {
+            "english_saheeh": "[607]- The punishment for theft.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They [the accusers] said, \"Then what would be its recompense[607] if you should be liars?\"",
+            "english_hilali_khan": "They [Yûsuf’s (Joseph) men] said: \"What then shall be the penalty of him, if you are (proved to be) liars.\"",
+            "english_rwwad": "They said, “What should the punishment be, if you are liars?”"
+        }
+    },
+    {
+        "id": 1670,
+        "chapter": 12,
+        "verse": 75,
+        "arabic_text": "قَالُواْ جَزَٰٓؤُهُۥ مَن وُجِدَ فِي رَحۡلِهِۦ فَهُوَ جَزَٰٓؤُهُۥۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
+        "phonetic": "12.75 Qālū Jazā'uuhu Man Wujida Fī Raĥlihi Fahuwa Jazā'uuhu Kadhālika Najzī Až-Žālimīna",
+        "footnotes": {
+            "english_saheeh": "[608]- According to their law, a convicted thief was made a slave of the one from whom he had stolen.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[The brothers] said, \"Its recompense is that he in whose bag it is found - he [himself] will be its recompense.[608] Thus do we recompense the wrongdoers.\"",
+            "english_hilali_khan": "They [Yûsuf’s (Joseph) brothers] said: \"His penalty should be that he, in whose bag it is found, should be held for the punishment (of the crime). Thus we punish the Zâlimûn (wrong-doers)!\"",
+            "english_rwwad": "They said, “The punishment is that the one in whose saddlebag it is found should be enslaved in recompense. This is how we punish the wrongdoers.”"
+        }
+    },
+    {
+        "id": 1671,
+        "chapter": 12,
+        "verse": 76,
+        "arabic_text": "فَبَدَأَ بِأَوۡعِيَتِهِمۡ قَبۡلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسۡتَخۡرَجَهَا مِن وِعَآءِ أَخِيهِۚ كَذَٰلِكَ كِدۡنَا لِيُوسُفَۖ مَا كَانَ لِيَأۡخُذَ أَخَاهُ فِي دِينِ ٱلۡمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ نَرۡفَعُ دَرَجَٰتٖ مَّن نَّشَآءُۗ وَفَوۡقَ كُلِّ ذِي عِلۡمٍ عَلِيمٞ",
+        "phonetic": "12.76 Fabada'a Bi'aw`iyatihim Qabla Wi`ā'i 'Akhīhi Thumma Astakhrajahā Min Wi`ā'i 'Akhīhi Kadhālika Kidnā Liyūsufa Mā Kāna Liya'khudha 'Akhāhu Fī Dīni Al-Maliki 'Illā 'An Yashā'a Allāhu Narfa`u Darajātin Man Nashā'u Wa Fawqa Kulli Dhī `Ilmin `Alīmun",
+        "footnotes": {
+            "english_saheeh": "[609]- Ending with the ultimate knowledge of Allāh (subḥānahu wa taʿālā).",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So he began [the search] with their bags before the bag of his brother; then he extracted it from the bag of his brother. Thus did We plan for Joseph. He could not have taken his brother within the religion [i.e., law] of the king except that Allāh willed. We raise in degrees whom We will, but over every possessor of knowledge is one [more] knowing.[609]",
+            "english_hilali_khan": "So he [Yûsuf (Joseph)] began (the search) in their bags before the bag of his brother. Then he brought it out of his brother’s bag. Thus did We plan for Yûsuf (Joseph). He could not take his brother by the law of the king (as a slave), except that Allâh willed it. (So Allâh made the brothers to bind themselves with their way of \"punishment, i.e. enslaving of a thief.\") We raise to degrees whom We will, but over all those endowed with knowledge is the All-Knowing (Allâh).",
+            "english_rwwad": "So he began searching their bags before his brother’s bag, then he brought it out of his brother’s bag. This is how We planned for Joseph; he could not have detained his brother under the King’s law, unless Allah so willed. We raise in ranks whom We will, but above each one who possesses knowledge is the All-Knowing One."
+        }
+    },
+    {
+        "id": 1672,
+        "chapter": 12,
+        "verse": 77,
+        "arabic_text": "۞ قَالُوٓاْ إِن يَسۡرِقۡ فَقَدۡ سَرَقَ أَخٞ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا يُوسُفُ فِي نَفۡسِهِۦ وَلَمۡ يُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرّٞ مَّكَانٗاۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ",
+        "phonetic": "12.77 Qālū 'In Yasriq Faqad Saraqa 'Akhun Lahu Min Qablu Fa'asarrahā Yūsufu Fī Nafsihi Wa Lam Yubdihā Lahum Qāla 'Antum Sharrun Makānāan Wa Allāhu 'A`lamu Bimā Taşifūna",
+        "footnotes": {
+            "english_saheeh": "[610]- He did not answer that he himself had been stolen by them from his father.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"If he steals - a brother of his has stolen before.\" But Joseph kept it within himself and did not reveal it to them.[610] He said, \"You are worse in position, and Allāh is most knowing of what you describe.\"",
+            "english_hilali_khan": "They [(Yûsuf’s (Joseph) brothers] said: \"If he steals, there was a brother of his [Yûsuf (Joseph)] who did steal before (him).\" But these things did Yûsuf (Joseph) keep in himself, revealing not the secrets to them. He said (within himself): \"You are in worst case, and Allâh is the Best Knower of that which you describe!\"",
+            "english_rwwad": "They said, “If he steals, then it was his brother [Joseph] who stole before.” Joseph kept it to himself and did not reveal it to them, and said [in his heart], “You are in a far worse position; and Allah knows best the truth of what you say.”"
+        }
+    },
+    {
+        "id": 1673,
+        "chapter": 12,
+        "verse": 78,
+        "arabic_text": "قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ إِنَّ لَهُۥٓ أَبٗا شَيۡخٗا كَبِيرٗا فَخُذۡ أَحَدَنَا مَكَانَهُۥٓۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِينَ",
+        "phonetic": "12.78 Qālū Yā 'Ayyuhā Al-`Azīzu 'Inna Lahu 'Abāan Shaykhāan Kabīrāan Fakhudh 'Aĥadanā Makānahu 'Innā Narāka Mina Al-Muĥsinīna",
+        "footnotes": {
+            "english_saheeh": "[611]- Addressing Joseph, who now held the title of \"al-ʿAzeez.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"O ʿAzeez,[611] indeed he has a father [who is] an old man, so take one of us in place of him. Indeed, we see you as a doer of good.\"",
+            "english_hilali_khan": "They said: \"O ruler of the land! Verily, he has an old father (who will grieve for him); so take one of us in his place. Indeed we think that you are one of the Muhsinûn (good-doers - see the footnote of V.9:120).\"",
+            "english_rwwad": "They said, “O chief minister, he has an elderly and vulnerable father, so take one of us instead of him, for we see that you are a kind man.”"
+        }
+    },
+    {
+        "id": 1674,
+        "chapter": 12,
+        "verse": 79,
+        "arabic_text": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأۡخُذَ إِلَّا مَن وَجَدۡنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذٗا لَّظَٰلِمُونَ",
+        "phonetic": "12.79 Qāla Ma`ādha Allāhi 'An Na'khudha 'Illā Man Wajadnā Matā`anā `Indahu 'Innā 'Idhāan Lažālimūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"[I seek] the refuge of Allāh [to prevent] that we take except him with whom we found our possession. Indeed, we would then be unjust.\"",
+            "english_hilali_khan": "He said: \"Allâh forbid, that we should take anyone but him with whom we found our property. Indeed (if we did so), we should be Zâlimûn (wrong-doers).\"",
+            "english_rwwad": "Joseph said, “Allah forbid that we should take except the one with whom we found our property, for we would then be unjust.”"
+        }
+    },
+    {
+        "id": 1675,
+        "chapter": 12,
+        "verse": 80,
+        "arabic_text": "فَلَمَّا ٱسۡتَيۡـَٔسُواْ مِنۡهُ خَلَصُواْ نَجِيّٗاۖ قَالَ كَبِيرُهُمۡ أَلَمۡ تَعۡلَمُوٓاْ أَنَّ أَبَاكُمۡ قَدۡ أَخَذَ عَلَيۡكُم مَّوۡثِقٗا مِّنَ ٱللَّهِ وَمِن قَبۡلُ مَا فَرَّطتُمۡ فِي يُوسُفَۖ فَلَنۡ أَبۡرَحَ ٱلۡأَرۡضَ حَتَّىٰ يَأۡذَنَ لِيٓ أَبِيٓ أَوۡ يَحۡكُمَ ٱللَّهُ لِيۖ وَهُوَ خَيۡرُ ٱلۡحَٰكِمِينَ",
+        "phonetic": "12.80 Falammā Astay'asū Minhu Khalaşū Najīyāan Qāla Kabīruhum 'Alam Ta`lamū 'Anna 'Abākum Qad 'Akhadha `Alaykum Mawthiqāan Mina Allāhi Wa Min Qablu Mā Farraţtum Fī Yūsufa Falan 'Abraĥa Al-'Arđa Ĥattá Ya'dhana Lī 'Abī 'Aw Yaĥkuma Allāhu Lī Wa Huwa Khayru Al-Ĥākimīna",
+        "footnotes": {
+            "english_saheeh": "[612]- i.e., in my favor by bringing about the release of Benjamin.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So when they had despaired of him, they secluded themselves in private consultation. The eldest of them said, \"Do you not know that your father has taken upon you an oath by Allāh and [that] before you failed in [your duty to] Joseph? So I will never leave [this] land until my father permits me or Allāh decides for me,[612] and He is the best of judges.",
+            "english_hilali_khan": "So, when they despaired of him, they held a conference in private. The eldest among them said: \"Know you not that your father did take an oath from you in Allâh’s Name, and before this you did fail in your duty with Yûsuf (Joseph)? Therefore I will not leave this land until my father permits me, or Allâh decides my case (by releasing Benjamin) and He is the Best of the judges.",
+            "english_rwwad": "When they lost hope in him, they conferred privately. The eldest of them said, “Do you not know that your father has taken from you a solemn pledge by Allah, and before this you failed with regard to Joseph? Therefore I will never leave this land until my father gives me permission or Allah decides for me, for He is the Best of Judges."
+        }
+    },
+    {
+        "id": 1676,
+        "chapter": 12,
+        "verse": 81,
+        "arabic_text": "ٱرۡجِعُوٓاْ إِلَىٰٓ أَبِيكُمۡ فَقُولُواْ يَٰٓأَبَانَآ إِنَّ ٱبۡنَكَ سَرَقَ وَمَا شَهِدۡنَآ إِلَّا بِمَا عَلِمۡنَا وَمَا كُنَّا لِلۡغَيۡبِ حَٰفِظِينَ",
+        "phonetic": "12.81 Arji`ū 'Ilá 'Abīkum Faqūlū Yā 'Abānā 'Inna Abnaka Saraqa Wa Mā Shahidnā 'Illā Bimā `Alimnā Wa Mā Kunnā Lilghaybi Ĥāfižīna",
+        "footnotes": {
+            "english_saheeh": "[613]- i.e., We could not have known when we gave you the oath that he would steal and be apprehended.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Return to your father and say, 'O our father, indeed your son has stolen, and we did not testify except to what we knew. And we were not witnesses of the unseen.[613]",
+            "english_hilali_khan": "\"Return to your father and say, ‘O our father! Verily, your son (Benjamin) has stolen, and we testify not except according to what we know, and we could not know the Unseen!",
+            "english_rwwad": "Go back to your father and say, ‘O our father, your son has committed theft, and we did not tell you except what we saw, and we had no knowledge of the unseen."
+        }
+    },
+    {
+        "id": 1677,
+        "chapter": 12,
+        "verse": 82,
+        "arabic_text": "وَسۡـَٔلِ ٱلۡقَرۡيَةَ ٱلَّتِي كُنَّا فِيهَا وَٱلۡعِيرَ ٱلَّتِيٓ أَقۡبَلۡنَا فِيهَاۖ وَإِنَّا لَصَٰدِقُونَ",
+        "phonetic": "12.82 Wa As'ali Al-Qaryata Allatī Kunnā Fīhā Wa Al-`Īra Allatī 'Aqbalnā Fīhā Wa 'Innā Laşādiqūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And ask the city in which we were and the caravan in which we came - and indeed, we are truthful.'\"",
+            "english_hilali_khan": "\"And ask (the people of) the town where we have been, and the caravan in which we returned; and indeed we are telling the truth.\"",
+            "english_rwwad": "Ask [the people of] the town where we were and the caravan we came with, and we are surely telling the truth.”"
+        }
+    },
+    {
+        "id": 1678,
+        "chapter": 12,
+        "verse": 83,
+        "arabic_text": "قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ أَنفُسُكُمۡ أَمۡرٗاۖ فَصَبۡرٞ جَمِيلٌۖ عَسَى ٱللَّهُ أَن يَأۡتِيَنِي بِهِمۡ جَمِيعًاۚ إِنَّهُۥ هُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
+        "phonetic": "12.83 Qāla Bal Sawwalat Lakum 'Anfusukum 'Amrāan Faşabrun Jamīlun `Asá Allāhu 'An Ya'tiyanī Bihim Jamī`āan 'Innahu Huwa Al-`Alīmu Al-Ĥakīmu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[Jacob] said, \"Rather, your souls have enticed you to something, so patience is most fitting. Perhaps Allāh will bring them to me all together. Indeed, it is He who is the Knowing, the Wise.\"",
+            "english_hilali_khan": "He [Ya‘qûb (Jacob)] said: \"Nay, but your ownselves have beguiled you into something. So patience is most fitting (for me). May be Allâh will bring them (back) all to me. Truly He! Only He is All-Knowing, All-Wise.\"",
+            "english_rwwad": "He said, “No, but your souls have enticed you to commit something. But I will bear this with beautiful patience; perhaps Allah will bring them all back to me, for He is the All-Knowing, the All-Wise.”"
+        }
+    },
+    {
+        "id": 1679,
+        "chapter": 12,
+        "verse": 84,
+        "arabic_text": "وَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبۡيَضَّتۡ عَيۡنَاهُ مِنَ ٱلۡحُزۡنِ فَهُوَ كَظِيمٞ",
+        "phonetic": "12.84 Wa Tawallá `Anhum Wa Qāla Yā 'Asafá `Alá Yūsufa Wa Abyađđat `Aynāhu Mina Al-Ĥuzni Fahuwa Kažīmun",
+        "footnotes": {
+            "english_saheeh": "[614]- i.e., he lost his sight.\n[615]- He did not express the extent of his grief or his anger at what he suspected his sons had done but was patient, depending only upon Allāh for help.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he turned away from them and said, \"Oh, my sorrow over Joseph,\" and his eyes became white[614] from grief, for he was [of that] a suppressor.[615]",
+            "english_hilali_khan": "And he turned away from them and said: \"Alas, my grief for Yûsuf (Joseph)!\" And he lost his sight because of the sorrow that he was suppressing.",
+            "english_rwwad": "He turned away from them and said, “O my sorrow for Joseph!” And his eyes turned white because of suppressing his grief."
+        }
+    },
+    {
+        "id": 1680,
+        "chapter": 12,
+        "verse": 85,
+        "arabic_text": "قَالُواْ تَٱللَّهِ تَفۡتَؤُاْ تَذۡكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوۡ تَكُونَ مِنَ ٱلۡهَٰلِكِينَ",
+        "phonetic": "12.85 Qālū Ta-Allāhi Tafta'u Tadhkuru Yūsufa Ĥattá Takūna Ĥarađāan 'Aw Takūna Mina Al-Hālikīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"By Allāh, you will not cease remembering Joseph until you become fatally ill or become of those who perish.\"",
+            "english_hilali_khan": "They said: \"By Allâh! You will never cease remembering Yûsuf (Joseph) until you become weak with old age, or until you be of the dead.\"",
+            "english_rwwad": "They said, “By Allah, you will not cease to remember Joseph until your health is ruined or you die.”"
+        }
+    },
+    {
+        "id": 1681,
+        "chapter": 12,
+        "verse": 86,
+        "arabic_text": "قَالَ إِنَّمَآ أَشۡكُواْ بَثِّي وَحُزۡنِيٓ إِلَى ٱللَّهِ وَأَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+        "phonetic": "12.86 Qāla 'Innamā 'Ashkū Baththī Wa Ĥuznī 'Ilá Allāhi Wa 'A`lamu Mina Allāhi Mā Lā Ta`lamūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know.",
+            "english_hilali_khan": "He said: \"I only complain of my grief and sorrow to Allâh, and I know from Allâh that which you know not.",
+            "english_rwwad": "He said, “I only complain of my anguish and sorrow to Allah, and I know from Allah what you do not know."
+        }
+    },
+    {
+        "id": 1682,
+        "chapter": 12,
+        "verse": 87,
+        "arabic_text": "يَٰبَنِيَّ ٱذۡهَبُواْ فَتَحَسَّسُواْ مِن يُوسُفَ وَأَخِيهِ وَلَا تَاْيۡـَٔسُواْ مِن رَّوۡحِ ٱللَّهِۖ إِنَّهُۥ لَا يَاْيۡـَٔسُ مِن رَّوۡحِ ٱللَّهِ إِلَّا ٱلۡقَوۡمُ ٱلۡكَٰفِرُونَ",
+        "phonetic": "12.87 Yā Banīya Adh/habū Fataĥassasū Min Yūsufa Wa 'Akhīhi Wa Lā Tay'asū Min Rawĥi Allāhi 'Innahu Lā Yay'asu Min Rawĥi Allāhi 'Illā Al-Qawmu Al-Kāfirūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O my sons, go and find out about Joseph and his brother and despair not of relief from Allāh. Indeed, no one despairs of relief from Allāh except the disbelieving people.\"",
+            "english_hilali_khan": "\"O my sons! Go you and enquire about Yûsuf (Joseph) and his brother, and never give up hope of Allâh’s Mercy. Certainly no one despairs of Allâh’s Mercy, except the people who disbelieve.\"",
+            "english_rwwad": "O my sons, go and find out about Joseph and his brother, and do not despair of Allah’s mercy. Indeed, no one despairs of Allah’s mercy except the disbelieving people.”"
+        }
+    },
+    {
+        "id": 1683,
+        "chapter": 12,
+        "verse": 88,
+        "arabic_text": "فَلَمَّا دَخَلُواْ عَلَيۡهِ قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ مَسَّنَا وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَٰعَةٖ مُّزۡجَىٰةٖ فَأَوۡفِ لَنَا ٱلۡكَيۡلَ وَتَصَدَّقۡ عَلَيۡنَآۖ إِنَّ ٱللَّهَ يَجۡزِي ٱلۡمُتَصَدِّقِينَ",
+        "phonetic": "12.88 Falammā Dakhalū `Alayhi Qālū Yā 'Ayyuhā Al-`Azīzu Massanā Wa 'Ahlanā Ađ-Đurru Wa Ji'nā Bibiđā`atin Muzjāatin Fa'awfi Lanā Al-Kayla Wa Taşaddaq `Alaynā 'Inna Allāha Yajzī Al-Mutaşaddiqīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So when they entered upon him [i.e., Joseph], they said, \"O ʿAzeez, adversity has touched us and our family, and we have come with goods poor in quality, but give us full measure and be charitable to us. Indeed, Allāh rewards the charitable.\"",
+            "english_hilali_khan": "Then, when they entered unto him [Yûsuf (Joseph)], they said: \"O ruler of the land! A hard time has hit us and our family, and we have brought but poor capital, so pay us full measure and be charitable to us. Truly, Allâh does reward the charitable.\"",
+            "english_rwwad": "When they came into Joseph’s presence, they said, “O chief minister, we and our family have been struck with adversity, and we have brought some goods of scanty worth. So give us full measure [of grain] and be charitable to us, for Allah rewards those who are charitable.”"
+        }
+    },
+    {
+        "id": 1684,
+        "chapter": 12,
+        "verse": 89,
+        "arabic_text": "قَالَ هَلۡ عَلِمۡتُم مَّا فَعَلۡتُم بِيُوسُفَ وَأَخِيهِ إِذۡ أَنتُمۡ جَٰهِلُونَ",
+        "phonetic": "12.89 Qāla Hal `Alimtum Mā Fa`altum Biyūsufa Wa 'Akhīhi 'Idh 'Antum Jāhilūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"Do you know what you did with Joseph and his brother when you were ignorant?\"",
+            "english_hilali_khan": "He said: \"Do you know what you did with Yûsuf (Joseph) and his brother, when you were ignorant?\"",
+            "english_rwwad": "He said, “Do you know what you did to Joseph and his brother when you were ignorant?”"
+        }
+    },
+    {
+        "id": 1685,
+        "chapter": 12,
+        "verse": 90,
+        "arabic_text": "قَالُوٓاْ أَءِنَّكَ لَأَنتَ يُوسُفُۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِيۖ قَدۡ مَنَّ ٱللَّهُ عَلَيۡنَآۖ إِنَّهُۥ مَن يَتَّقِ وَيَصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+        "phonetic": "12.90 Qālū 'A'innaka La'anta Yūsufu Qāla 'Anā Yūsufu Wa Hadhā 'Akhī Qad Manna Allāhu `Alaynā 'Innahu Man Yattaqi Wa Yaşbir Fa'inna Allāha Lā Yuđī`u 'Ajra Al-Muĥsinīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"Are you indeed Joseph?\" He said, \"I am Joseph, and this is my brother. Allāh has certainly favored us. Indeed, he who fears Allāh and is patient, then indeed, Allāh does not allow to be lost the reward of those who do good.\"",
+            "english_hilali_khan": "to be lost.\"",
+            "english_rwwad": "They said, “Are you really Joseph?” He said, “I am Joseph, and this is my brother. Allah has surely been gracious to us. Whoever fears Allah and remains patient, Allah will never let the reward of those who do good to be lost.”"
+        }
+    },
+    {
+        "id": 1686,
+        "chapter": 12,
+        "verse": 91,
+        "arabic_text": "قَالُواْ تَٱللَّهِ لَقَدۡ ءَاثَرَكَ ٱللَّهُ عَلَيۡنَا وَإِن كُنَّا لَخَٰطِـِٔينَ",
+        "phonetic": "12.91 Qālū Ta-Allāhi Laqad 'Ātharaka Allāhu `Alaynā Wa 'In Kunnā Lakhāţi'īna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\"",
+            "english_hilali_khan": "They said: \"By Allâh! Indeed Allâh has preferred you above us, and we certainly have been sinners.\"",
+            "english_rwwad": "They said, “By Allah, Allah has favored you over us, and we have surely been sinful.”"
+        }
+    },
+    {
+        "id": 1687,
+        "chapter": 12,
+        "verse": 92,
+        "arabic_text": "قَالَ لَا تَثۡرِيبَ عَلَيۡكُمُ ٱلۡيَوۡمَۖ يَغۡفِرُ ٱللَّهُ لَكُمۡۖ وَهُوَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
+        "phonetic": "12.92 Qāla Lā Tathrība `Alaykumu Al-Yawma Yaghfiru Allāhu Lakum Wa Huwa 'Arĥamu Ar-Rāĥimīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.12:92) Narrated Abu Hurairah رضي الله عنه: I heard Allâh’s Messenger صلى الله عليه وسلم saying, \"Verily Allâh created mercy. The day He created it, He made it into one hundred parts. He withheld with Him ninety-nine parts, and sent its one part to all His creatures. Had a disbeliever known of all the mercy which is in the Hands of Allâh, he would not have lost hope of entering Paradise, and had a believer known of all the punishment which is present with Allâh, he would not have considered himself safe from the Hell-fire.\" (Sahih Al-Bukhari, Vol.8, Hadith No.476).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"No blame will there be upon you today. May Allāh forgive you; and He is the most merciful of the merciful.",
+            "english_hilali_khan": "He said: \"No reproach on you this day; may Allâh forgive you, and He is the Most Merciful of those who show mercy![1]",
+            "english_rwwad": "He said, “There is no blame on you today. May Allah forgive you, for He is the Most Merciful of those who show mercy."
+        }
+    },
+    {
+        "id": 1688,
+        "chapter": 12,
+        "verse": 93,
+        "arabic_text": "ٱذۡهَبُواْ بِقَمِيصِي هَٰذَا فَأَلۡقُوهُ عَلَىٰ وَجۡهِ أَبِي يَأۡتِ بَصِيرٗا وَأۡتُونِي بِأَهۡلِكُمۡ أَجۡمَعِينَ",
+        "phonetic": "12.93 Adh/habū Biqamīşī Hādhā Fa'alqūhu `Alá Wajhi 'Abī Ya'ti Başīrāan Wa 'Tūnī Bi'ahlikum 'Ajma`īna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Take this, my shirt, and cast it over the face of my father; he will become seeing. And bring me your family, all together.\"",
+            "english_hilali_khan": "\"Go with this shirt of mine, and cast it over the face of my father, he will become clear-sighted, and bring me all your family.\"",
+            "english_rwwad": "Take this shirt of mine and throw it over my father’s face; he will recover his sight. Then come back to me with all of your family.”"
+        }
+    },
+    {
+        "id": 1689,
+        "chapter": 12,
+        "verse": 94,
+        "arabic_text": "وَلَمَّا فَصَلَتِ ٱلۡعِيرُ قَالَ أَبُوهُمۡ إِنِّي لَأَجِدُ رِيحَ يُوسُفَۖ لَوۡلَآ أَن تُفَنِّدُونِ",
+        "phonetic": "12.94 Wa Lammā Faşalati Al-`Īru Qāla 'Abūhum 'Innī La'ajidu Rīĥa Yūsufa Lawlā 'An Tufannidūni",
+        "footnotes": {
+            "english_saheeh": "[616]- To those present with him, either some of his sons or other relatives.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when the caravan departed [from Egypt], their father said,[616] \"Indeed, I find the smell of Joseph [and would say that he was alive] if you did not think me weakened in mind.\"",
+            "english_hilali_khan": "And when the caravan departed, their father said: \"I do indeed feel the smell of Yûsuf (Joseph), if only you think me not a dotard (a person who has weakness of mind because of old age).\"",
+            "english_rwwad": "When the caravan set out [from Egypt], their father said, “I certainly sense the fragrance of Joseph, even though you might think that I am senile.”"
+        }
+    },
+    {
+        "id": 1690,
+        "chapter": 12,
+        "verse": 95,
+        "arabic_text": "قَالُواْ تَٱللَّهِ إِنَّكَ لَفِي ضَلَٰلِكَ ٱلۡقَدِيمِ",
+        "phonetic": "12.95 Qālū Ta-Allāhi 'Innaka Lafī Đalālika Al-Qadīmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"By Allāh, indeed you are in your [same] old error.\"",
+            "english_hilali_khan": "They said: \"By Allâh! Certainly, you are in your old error.\"",
+            "english_rwwad": "They said, “By Allah, you are still lost in your old delusion.”"
+        }
+    },
+    {
+        "id": 1691,
+        "chapter": 12,
+        "verse": 96,
+        "arabic_text": "فَلَمَّآ أَن جَآءَ ٱلۡبَشِيرُ أَلۡقَىٰهُ عَلَىٰ وَجۡهِهِۦ فَٱرۡتَدَّ بَصِيرٗاۖ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+        "phonetic": "12.96 Falammā 'An Jā'a Al-Bashīru 'Alqāhu `Alá Wajhihi Fārtadda Başīrāan Qāla 'Alam 'Aqul Lakum 'Innī 'A`lamu Mina Allāhi Mā Lā Ta`lamūna",
+        "footnotes": {
+            "english_saheeh": "[617]- He who carried Joseph's shirt from among the brothers.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when the bearer of good tidings[617] arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\"",
+            "english_hilali_khan": "Then, when the bearer of the glad tidings arrived, he cast it (the shirt) over his face, and he became clear-sighted. He said: \"Did I not say to you, ‘I know from Allâh that which you know not.’\"",
+            "english_rwwad": "Then when the bearer of the glad tidings came, he threw it over his face, and he immediately recovered his sight. He said, “Did I not tell you that I know from Allah what you do not know?”"
+        }
+    },
+    {
+        "id": 1692,
+        "chapter": 12,
+        "verse": 97,
+        "arabic_text": "قَالُواْ يَٰٓأَبَانَا ٱسۡتَغۡفِرۡ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ",
+        "phonetic": "12.97 Qālū Yā 'Abānā Astaghfir Lanā Dhunūbanā 'Innā Kunnā Khāţi'īna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They said, \"O our father, ask for us forgiveness of our sins; indeed, we have been sinners.\"",
+            "english_hilali_khan": "They said: \"O our father! Ask Forgiveness (from Allâh) for our sins, indeed we have been sinners.\"",
+            "english_rwwad": "They said, “O our father, pray to Allah to forgive us our sins; we were certainly mistaken.”"
+        }
+    },
+    {
+        "id": 1693,
+        "chapter": 12,
+        "verse": 98,
+        "arabic_text": "قَالَ سَوۡفَ أَسۡتَغۡفِرُ لَكُمۡ رَبِّيٓۖ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
+        "phonetic": "12.98 Qāla Sawfa 'Astaghfiru Lakum Rabbī 'Innahu Huwa Al-Ghafūru Ar-Raĥīmu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He said, \"I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful.\"",
+            "english_hilali_khan": "He said: \"I will ask my Lord for forgiveness for you, verily He! Only He is the Oft-Forgiving, the Most Merciful.\"",
+            "english_rwwad": "He said, “I will ask my Lord to forgive you, for He is the All-Forgiving, the Most Merciful.”"
+        }
+    },
+    {
+        "id": 1694,
+        "chapter": 12,
+        "verse": 99,
+        "arabic_text": "فَلَمَّا دَخَلُواْ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيۡهِ أَبَوَيۡهِ وَقَالَ ٱدۡخُلُواْ مِصۡرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ",
+        "phonetic": "12.99 Falammā Dakhalū `Alá Yūsufa 'Āwá 'Ilayhi 'Abawayhi Wa Qāla Adkhulū Mişra 'In Shā'a Allāhu 'Āminīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when they entered upon Joseph, he took his parents to himself [i.e., embraced them] and said, \"Enter Egypt, Allāh willing, safe [and secure].\"",
+            "english_hilali_khan": "Then, when they came in before Yûsuf (Joseph), he took his parents to himself and said: \"Enter Egypt, if Allâh wills, in security.\"",
+            "english_rwwad": "When they came into Joseph’s presence, he embraced his parents and said, “Enter Egypt, if Allah wills, safe and secure."
+        }
+    },
+    {
+        "id": 1695,
+        "chapter": 12,
+        "verse": 100,
+        "arabic_text": "وَرَفَعَ أَبَوَيۡهِ عَلَى ٱلۡعَرۡشِ وَخَرُّواْ لَهُۥ سُجَّدٗاۖ وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأۡوِيلُ رُءۡيَٰيَ مِن قَبۡلُ قَدۡ جَعَلَهَا رَبِّي حَقّٗاۖ وَقَدۡ أَحۡسَنَ بِيٓ إِذۡ أَخۡرَجَنِي مِنَ ٱلسِّجۡنِ وَجَآءَ بِكُم مِّنَ ٱلۡبَدۡوِ مِنۢ بَعۡدِ أَن نَّزَغَ ٱلشَّيۡطَٰنُ بَيۡنِي وَبَيۡنَ إِخۡوَتِيٓۚ إِنَّ رَبِّي لَطِيفٞ لِّمَا يَشَآءُۚ إِنَّهُۥ هُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
+        "phonetic": "12.100 Wa Rafa`a 'Abawayhi `Alá Al-`Arshi Wa Kharrū Lahu Sujjadāan Wa Qāla Yā 'Abati Hādhā Ta'wīlu Ru'uyā Y Min Qablu Qad Ja`alahā Rabbī Ĥaqqāan Wa Qad 'Aĥsana Bī 'Idh 'Akhrajanī Mina As-Sijni Wa Jā'a Bikum Mina Al-Badwi Min Ba`di 'An Nazagha Ash-Shayţānu Baynī Wa Bayna 'Ikhwatī 'Inna Rabbī Laţīfun Limā Yashā'u 'Innahu Huwa Al-`Alīmu Al-Ĥakīmu",
+        "footnotes": {
+            "english_saheeh": "[618]- That of greeting and respect, which was lawful until the time of Prophet Muḥammad (ﷺ).  Prostration to any person or object other than Allāh was then prohibited conclusively.\n[619]- Perceptive of unapparent matters within which is benefit to His servants.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And he raised his parents upon the throne, and they bowed to him in prostration.[618] And he said, \"O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle[619] in what He wills. Indeed, it is He who is the Knowing, the Wise.",
+            "english_hilali_khan": "And he raised his parents to the throne and they fell down before him prostrate. And he said: \"O my father! This is the interpretation of my dream aforetime! My Lord has made it come true! He was indeed good to me, when He took me out of the prison, and brought you (all here) out of the bedouin-life, after Shaitân (Satan) had sown enmity between me and my brothers. Certainly, my Lord is the Most Courteous and Kind unto whom He wills. Truly He! Only He is the All-Knowing, the All-Wise.",
+            "english_rwwad": "He took his parents to the throne, and they all fell down to him in prostration before him. He said, “O my father, this is the interpretation of my old dream. My Lord has made it come true. He has been kind to me when He freed me from prison and brought you all here from the wilderness, after Satan caused a rift between me and my brothers. My Lord is gracious to whom He wills. Indeed, He is the All-Knowing, the All-Wise.”"
+        }
+    },
+    {
+        "id": 1696,
+        "chapter": 12,
+        "verse": 101,
+        "arabic_text": "۞ رَبِّ قَدۡ ءَاتَيۡتَنِي مِنَ ٱلۡمُلۡكِ وَعَلَّمۡتَنِي مِن تَأۡوِيلِ ٱلۡأَحَادِيثِۚ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ أَنتَ وَلِيِّۦ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۖ تَوَفَّنِي مُسۡلِمٗا وَأَلۡحِقۡنِي بِٱلصَّٰلِحِينَ",
+        "phonetic": "12.101 Rabbi Qad 'Ātaytanī Mina Al-Mulki Wa `Allamtanī Min Ta'wīli Al-'Aĥādīthi Fāţira As-Samāwāti Wa Al-'Arđi 'Anta Wa Līyi Fī Ad-Dunyā Wa Al-'Ākhirati Tawaffanī Muslimāan Wa 'Alĥiqnī Biş-Şāliĥīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and the Hereafter. Cause me to die a Muslim and join me with the righteous.\"",
+            "english_hilali_khan": "\"My Lord! You have indeed bestowed on me of the sovereignty, and taught me something of the interpretation of dreams - the (Only) Creator of the heavens and the earth! You are my Walî (Protector, Helper, Supporter, Guardian, God, Lord.) in this world and in the Hereafter. Cause me to die as a Muslim (the one submitting to Your Will), and join me with the righteous.\"",
+            "english_rwwad": "“My Lord, You have given me authority and taught me something of the interpretation of dreams. O Originator of the heavens and earth, You are my Protector in this world and in the Hereafter. Cause me to die as a Muslim [submitting to You], and join me with the righteous.”"
+        }
+    },
+    {
+        "id": 1697,
+        "chapter": 12,
+        "verse": 102,
+        "arabic_text": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۖ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ أَجۡمَعُوٓاْ أَمۡرَهُمۡ وَهُمۡ يَمۡكُرُونَ",
+        "phonetic": "12.102 Dhālika Min 'Anbā'i Al-Ghaybi Nūĥīhi 'Ilayka Wa Mā Kunta Ladayhim 'Idh 'Ajma`ū 'Amrahum Wa Hum Yamkurūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That is from the news of the unseen which We reveal, [O Muḥammad], to you. And you were not with them when they put together their plan while they conspired.",
+            "english_hilali_khan": "That is of the news of the Ghaib (Unseen) which We reveal to you (O Muhammad صلى الله عليه و سلم). You were not (present) with them when they arranged their plan together, and (while) they were plotting.",
+            "english_rwwad": "That is from the stories of the unseen which We reveal to you [O Prophet]; you were not with them when they agreed upon their plan as they were plotting."
+        }
+    },
+    {
+        "id": 1698,
+        "chapter": 12,
+        "verse": 103,
+        "arabic_text": "وَمَآ أَكۡثَرُ ٱلنَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِينَ",
+        "phonetic": "12.103 Wa Mā 'Aktharu An-Nāsi Wa Law Ĥaraşta Bimu'uminīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And most of the people, although you strive [for it], are not believers.",
+            "english_hilali_khan": "And most of mankind will not believe even if you desire it eagerly.",
+            "english_rwwad": "But most people will not believe, no matter how eager you may be."
+        }
+    },
+    {
+        "id": 1699,
+        "chapter": 12,
+        "verse": 104,
+        "arabic_text": "وَمَا تَسۡـَٔلُهُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۚ إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+        "phonetic": "12.104 Wa Mā Tas'aluhum `Alayhi Min 'Ajrin 'In Huwa 'Illā Dhikrun Lil`ālamīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And you do not ask of them for it any payment. It is not except a reminder to the worlds.",
+            "english_hilali_khan": "And no reward you (O Muhammad صلى الله عليه و سلم) ask of them (those who deny your Prophethood) for it; it (the Qur’ân) is no less than a Reminder and an advice unto the ‘Âlamîn (men and jinn).",
+            "english_rwwad": "You are not asking them for any reward. It is only a reminder to the worlds."
+        }
+    },
+    {
+        "id": 1700,
+        "chapter": 12,
+        "verse": 105,
+        "arabic_text": "وَكَأَيِّن مِّنۡ ءَايَةٖ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ يَمُرُّونَ عَلَيۡهَا وَهُمۡ عَنۡهَا مُعۡرِضُونَ",
+        "phonetic": "12.105 Wa Ka'ayyin Min 'Āyatin Fī As-Samāwāti Wa Al-'Arđi Yamurrūna `Alayhā Wa Hum `Anhā Mu`riđūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And how many a sign within the heavens and earth do they pass over while they, therefrom, are turning away.",
+            "english_hilali_khan": "And how many a sign in the heavens and the earth they pass by, while they are averse therefrom.",
+            "english_rwwad": "How many signs there are in the heavens and earth which they pass by without paying them any heed!"
+        }
+    },
+    {
+        "id": 1701,
+        "chapter": 12,
+        "verse": 106,
+        "arabic_text": "وَمَا يُؤۡمِنُ أَكۡثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشۡرِكُونَ",
+        "phonetic": "12.106 Wa Mā Yu'uminu 'Aktharuhum Billāhi 'Illā Wa Hum Mushrikūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And most of them believe not in Allāh except while they associate others with Him.",
+            "english_hilali_khan": "And most of them believe not in Allâh except that they attribute partners unto Him [i.e. they are Mushrikûn i.e. polytheists. See Verse 6: 121].",
+            "english_rwwad": "And most of them do not believe in Allah except that they associate partners with Him."
+        }
+    },
+    {
+        "id": 1702,
+        "chapter": 12,
+        "verse": 107,
+        "arabic_text": "أَفَأَمِنُوٓاْ أَن تَأۡتِيَهُمۡ غَٰشِيَةٞ مِّنۡ عَذَابِ ٱللَّهِ أَوۡ تَأۡتِيَهُمُ ٱلسَّاعَةُ بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
+        "phonetic": "12.107 'Afa'aminū 'An Ta'tiyahum Ghāshiyatun Min `Adhābi Allāhi 'Aw Ta'tiyahumu As-Sā`atu Baghtatan Wa Hum Lā Yash`urūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then do they feel secure that there will not come to them an overwhelming [aspect] of the punishment of Allāh or that the Hour will not come upon them suddenly while they do not perceive?",
+            "english_hilali_khan": "Do they then feel secure from the coming against them of the covering veil of the Torment of Allâh, or of the coming against them of the (Final) Hour, all of a sudden while they perceive not?",
+            "english_rwwad": "Do they feel secure that an overwhelming punishment from Allah will not overtake them, or that the Hour will not come upon them by surprise when they least expect it?"
+        }
+    },
+    {
+        "id": 1703,
+        "chapter": 12,
+        "verse": 108,
+        "arabic_text": "قُلۡ هَٰذِهِۦ سَبِيلِيٓ أَدۡعُوٓاْ إِلَى ٱللَّهِۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِيۖ وَسُبۡحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلۡمُشۡرِكِينَ",
+        "phonetic": "12.108 Qul Hadhihi Sabīlī 'Ad`ū 'Ilá Allāhi `Alá Başīratin 'Anā Wa Mani Attaba`anī Wa Subĥāna Allāhi Wa Mā 'Anā Mina Al-Mushrikīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"This is my way; I invite to Allāh with insight, I and those who follow me. And exalted is Allāh; and I am not of those who associate others with Him.\"",
+            "english_hilali_khan": "Say (O Muhammad صلى الله عليه و سلم): \"This is my way; I invite unto Allâh (i.e. to the Oneness of Allâh - Islâmic Monotheism) with sure knowledge, I and whosoever follows me (also must invite others to Allâh i.e. to the Oneness of Allâh - Islâmic Monotheism with sure knowledge). And Glorified and Exalted be Allâh (above all that they associate as partners with Him). And I am not of the Mushrikûn (polytheists, pagans, idolaters and disbelievers in the Oneness of Allâh; those who worship others along with Allâh or set up rivals or partners to Allâh).\"",
+            "english_rwwad": "Say [O Prophet], “This is my way. I call to Allah with clear evidence – I and those who follow me. Glory be to Allah, and I am not one of those who associate partners with Him.”"
+        }
+    },
+    {
+        "id": 1704,
+        "chapter": 12,
+        "verse": 109,
+        "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِم مِّنۡ أَهۡلِ ٱلۡقُرَىٰٓۗ أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلِهِمۡۗ وَلَدَارُ ٱلۡأٓخِرَةِ خَيۡرٞ لِّلَّذِينَ ٱتَّقَوۡاْۚ أَفَلَا تَعۡقِلُونَ",
+        "phonetic": "12.109 Wa Mā 'Arsalnā Min Qablika 'Illā Rijālāan Nūĥī 'Ilayhim Min 'Ahli Al-Qurá 'Afalam Yasīrū Fī Al-'Arđi Fayanžurū Kayfa Kāna `Āqibatu Al-Ladhīna Min Qablihim Wa Ladāru Al-'Ākhirati Khayrun Lilladhīna Attaqaw 'Afalā Ta`qilūna",
+        "footnotes": {
+            "english_saheeh": "[620]- Those who deny Prophet Muḥammad (ﷺ).",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We sent not before you [as messengers] except men to whom We revealed from among the people of cities. So have they[620] not traveled through the earth and observed how was the end of those before them? And the home of the Hereafter is best for those who fear Allāh; then will you not reason?",
+            "english_hilali_khan": "And We sent not before you (as Messengers) any but men unto whom We revealed, from among the people of the townships. Have they not travelled in the land and seen what was the end of those who were before them? And verily, the home of the Hereafter is the best for those who fear Allâh and obey Him (by abstaining from sins and evil deeds, and by performing righteous good deeds). Do you not then understand?",
+            "english_rwwad": "We did not send before you except men whom We gave revelation, from the people of each society. Have they not traveled in the land to see how was the end of those who came before them? But the home of the Hereafter is far better for those who fear Allah. Do you not then understand?"
+        }
+    },
+    {
+        "id": 1705,
+        "chapter": 12,
+        "verse": 110,
+        "arabic_text": "حَتَّىٰٓ إِذَا ٱسۡتَيۡـَٔسَ ٱلرُّسُلُ وَظَنُّوٓاْ أَنَّهُمۡ قَدۡ كُذِبُواْ جَآءَهُمۡ نَصۡرُنَا فَنُجِّيَ مَن نَّشَآءُۖ وَلَا يُرَدُّ بَأۡسُنَا عَنِ ٱلۡقَوۡمِ ٱلۡمُجۡرِمِينَ",
+        "phonetic": "12.110 Ĥattá 'Idhā Astay'asa Ar-Rusulu Wa Žannū 'Annahum Qad Kudhibū Jā'ahum Naşrunā Fanujjiya Man Nashā'u Wa Lā Yuraddu Ba'sunā `Ani Al-Qawmi Al-Mujrimīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[They continued] until, when the messengers despaired and were certain that they had been denied, there came to them Our victory, and whoever We willed was saved. And Our punishment cannot be repelled from the people who are criminals.",
+            "english_hilali_khan": "(They were reprieved) until, when the Messengers gave up hope and thought that they were denied (by their people), then came to them Our Help, and whomsoever We willed were rescued. And Our punishment cannot be warded off from the people who are Mujrimûn (criminals, sinners, disbelievers, polytheists).",
+            "english_rwwad": "Until when the messengers lost all hope and realized that they were dismissed as liars, Our help came to them, so We saved whom We willed, and Our punishment cannot be averted from the wicked people."
+        }
+    },
+    {
+        "id": 1706,
+        "chapter": 12,
+        "verse": 111,
+        "arabic_text": "لَقَدۡ كَانَ فِي قَصَصِهِمۡ عِبۡرَةٞ لِّأُوْلِي ٱلۡأَلۡبَٰبِۗ مَا كَانَ حَدِيثٗا يُفۡتَرَىٰ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ كُلِّ شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ لِّقَوۡمٖ يُؤۡمِنُونَ",
+        "phonetic": "12.111 Laqad Kāna Fī Qaşaşihim `Ibratun Li'wlī Al-'Albābi Mā Kāna Ĥadīthāan Yuftará Wa Lakin Taşdīqa Al-Ladhī Bayna Yadayhi Wa Tafşīla Kulli Shay'in Wa Hudáan Wa Raĥmatan Liqawmin Yu'uminūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.12:111) See the footnote of V.6:125.",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "There was certainly in their stories a lesson for those of understanding. Never was it [i.e., the Qur’ān] a narration invented, but a confirmation of what was before it and a detailed explanation of all things and guidance and mercy for a people who believe.",
+            "english_hilali_khan": "Indeed in their stories, there is a lesson for men of understanding. It (the Qur’ân) is not a forged statement but a confirmation of (Allâh’s existing Books) which were before it [i.e. the Taurât (Torah), the Injeel (Gospel) and other Scriptures of Allâh] and a detailed explanation of everything and a guide and a Mercy for the people who believe.[1]",
+            "english_rwwad": "In their stories there is truly a lesson for people of understanding. This [Qur’an] is not a fabricated tale, rather a confirmation of what came before it, a detailed explanation of everything, a guidance and mercy for people who believe."
+        }
+    }
+]

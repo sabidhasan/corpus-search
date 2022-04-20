@@ -1,0 +1,1328 @@
+[
+    {
+        "id": 2595,
+        "chapter": 22,
+        "verse": 1,
+        "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمۡۚ إِنَّ زَلۡزَلَةَ ٱلسَّاعَةِ شَيۡءٌ عَظِيمٞ",
+        "phonetic": "22.1 Yā 'Ayyuhā An-Nāsu Attaqū Rabbakum 'Inna Zalzalata As-Sā`ati Shay'un `Ažīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O mankind, fear your Lord. Indeed, the convulsion of the [final] Hour is a terrible thing.",
+            "english_hilali_khan": "O mankind! Fear your Lord and be dutiful to Him! Verily, the earthquake of the Hour (of Judgement) is a terrible thing.",
+            "english_rwwad": "O mankind, fear your Lord; the earthquake of the Hour is something dreadful."
+        }
+    },
+    {
+        "id": 2596,
+        "chapter": 22,
+        "verse": 2,
+        "arabic_text": "يَوۡمَ تَرَوۡنَهَا تَذۡهَلُ كُلُّ مُرۡضِعَةٍ عَمَّآ أَرۡضَعَتۡ وَتَضَعُ كُلُّ ذَاتِ حَمۡلٍ حَمۡلَهَا وَتَرَى ٱلنَّاسَ سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ وَلَٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٞ",
+        "phonetic": "22.2 Yawma Tarawnahā Tadh/halu Kullu Murđi`atin `Ammā 'Arđa`at Wa Tađa`u Kullu Dhāti Ĥamlin Ĥamlahā Wa Tará An-Nāsa Sukārá Wa Mā Hum Bisukārá Wa Lakinna `Adhāba Allāhi Shadīdun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "On the Day you see it every nursing mother will be distracted from that [child] she was nursing, and every pregnant woman will abort her pregnancy, and you will see the people [appearing] intoxicated while they are not intoxicated; but the punishment of Allāh is severe.",
+            "english_hilali_khan": "The Day you shall see it, every nursing mother will forget her nursling, and every pregnant one will drop her load, and you shall see mankind as in a drunken state, yet they will not be drunken, but severe will be the Torment of Allâh.",
+            "english_rwwad": "On the Day when you see it, every nursing mother will abandon her baby, and every pregnant woman will miscarry. You will see people as though they are drunk, while they are not drunk, but the punishment of Allah is severe."
+        }
+    },
+    {
+        "id": 2597,
+        "chapter": 22,
+        "verse": 3,
+        "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَيَتَّبِعُ كُلَّ شَيۡطَٰنٖ مَّرِيدٖ",
+        "phonetic": "22.3 Wa Mina An-Nāsi Man Yujādilu Fī Allāhi Bighayri `Ilmin Wa Yattabi`u Kulla Shayţānin Marīdin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And of the people is he who disputes about Allāh without knowledge and follows every rebellious devil.",
+            "english_hilali_khan": "And among mankind is he who disputes concerning Allâh, without knowledge, and follows every rebellious (disobedient to Allâh) Shaitân (devil) (devoid of every kind of good).",
+            "english_rwwad": "There are some people who dispute concerning Allah without knowledge, and they follow every rebellious devil."
+        }
+    },
+    {
+        "id": 2598,
+        "chapter": 22,
+        "verse": 4,
+        "arabic_text": "كُتِبَ عَلَيۡهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ يُضِلُّهُۥ وَيَهۡدِيهِ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+        "phonetic": "22.4 Kutiba `Alayhi 'Annahu Man Tawallāhu Fa'annahu Yuđilluhu Wa Yahdīhi 'Ilá `Adhābi As-Sa`īri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "It has been decreed for him [i.e., every devil] that whoever turns to him - he will misguide him and will lead him to the punishment of the Blaze.",
+            "english_hilali_khan": "For him (the devil) it is decreed that whosoever follows him, he will mislead him, and will drive him to the torment of the Fire. [Tafsir At-Tabarî]",
+            "english_rwwad": "It has been decreed that whoever takes him as an ally, he will misguide him and lead him to the punishment of the Blazing Fire."
+        }
+    },
+    {
+        "id": 2599,
+        "chapter": 22,
+        "verse": 5,
+        "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي رَيۡبٖ مِّنَ ٱلۡبَعۡثِ فَإِنَّا خَلَقۡنَٰكُم مِّن تُرَابٖ ثُمَّ مِن نُّطۡفَةٖ ثُمَّ مِنۡ عَلَقَةٖ ثُمَّ مِن مُّضۡغَةٖ مُّخَلَّقَةٖ وَغَيۡرِ مُخَلَّقَةٖ لِّنُبَيِّنَ لَكُمۡۚ وَنُقِرُّ فِي ٱلۡأَرۡحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٖ مُّسَمّٗى ثُمَّ نُخۡرِجُكُمۡ طِفۡلٗا ثُمَّ لِتَبۡلُغُوٓاْ أَشُدَّكُمۡۖ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرۡذَلِ ٱلۡعُمُرِ لِكَيۡلَا يَعۡلَمَ مِنۢ بَعۡدِ عِلۡمٖ شَيۡـٔٗاۚ وَتَرَى ٱلۡأَرۡضَ هَامِدَةٗ فَإِذَآ أَنزَلۡنَا عَلَيۡهَا ٱلۡمَآءَ ٱهۡتَزَّتۡ وَرَبَتۡ وَأَنۢبَتَتۡ مِن كُلِّ زَوۡجِۭ بَهِيجٖ",
+        "phonetic": "22.5 Yā 'Ayyuhā An-Nāsu 'In Kuntum Fī Raybin Mina Al-Ba`thi Fa'innā Khalaqnākum Min Turābin Thumma Min Nuţfatin Thumma Min `Alaqatin Thumma Min Muđghatin Mukhallaqatin Wa Ghayri Mukhallaqatin Linubayyina Lakum Wa Nuqirru Fī Al-'Arĥāmi Mā Nashā'u 'Ilá 'Ajalin Musammáan Thumma Nukhrijukum Ţiflāan Thumma Litablughū 'Ashuddakum Wa Minkum Man Yutawaffá Wa Minkum Man Yuraddu 'Ilá 'Ardhali Al-`Umuri Likaylā Ya`lama Min Ba`di `Ilmin Shay'āan Wa Tará Al-'Arđa Hāmidatan Fa'idhā 'Anzalnā `Alayhā Al-Mā'a Ahtazzat Wa Rabat Wa 'Anbatat Min Kulli Zawjin Bahījin",
+        "footnotes": {
+            "english_saheeh": "[915]- That which is incomplete. This may include what is aborted at that stage.\n[916]- Our power and creative ability.",
+            "english_hilali_khan": "(V.22:5) Narrated ‘Abdullâh رضي الله عنه: Allâh’s Messenger صلى الله عليه وسلم, the true and truly inspired said: \"(As regards your creation), every one of you is collected in the womb of his mother for the first forty days, and then he becomes a clot for another forty days, and then a piece of flesh for another forty days. Then Allâh sends an angel to write four words: He writes his deeds, time of his death, means of his livelihood, and whether he will be wretched or blessed (in the Hereafter). Then the soul is breathed into his body. So a man may do deeds characteristic of the people of the (Hell) Fire, so much so that there is only the distance of a cubit between him and it, and then what has been written (by the angel) surpasses; and so he starts doing deeds characteristic of the people of Paradise and enters Paradise. Similarly, a person may do deeds characteristic of the people of Paradise, so much so that there is only the distance of a cubit between him and it, and then what has been written (by the angel) surpasses, and he starts doing deeds of the people of the (Hell) Fire and enters the (Hell) Fire.\" (Sahih Al Bukhari, Vol.4, Hadith No.549).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O people, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed[915] - that We may show you.[916] And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.",
+            "english_hilali_khan": "O mankind! If you are in doubt about the Resurrection, then verily We have created you (i.e. Adam) from dust, then from a Nutfah (mixed drops of male and female sexual discharge i.e. the offspring of Adam), then from a clot (a piece of thick coagulated blood) then from a little lump of flesh - some formed and some unformed (as in the case of miscarriage) - that We may make (it) clear to you (i.e. to show you Our Power and Ability to do what We will). And We cause whom We will to remain in the wombs for an appointed term, then We bring you out as infants,[1] then (give you growth) that you may reach your age of full strength. And among you there is he who dies (young), and among you there is he who is brought back to the miserable old age, so that he knows nothing after having known. And you see the earth barren, but when We send down water (rain) on it, it is stirred (to life), and it swells and puts forth every lovely kind (of growth).",
+            "english_rwwad": "O mankind, if you are in doubt concerning the Resurrection, then We surely created you from dust, then from a drop of sperm, then from a clot, then from a lump of flesh – formed or unformed – so that We may make it clear to you [Our power]. We settle in the wombs whatever We will for an appointed term. Then We bring you out as infants, then [We nurture you] so that you may reach your maturity. Then some of you die, while others are left to reach the decrepit old age so that they may know nothing after having knowledge. You see the land lifeless, then as soon as We send down rain on it, it stirs and swells to life and brings forth every type of pleasant plant."
+        }
+    },
+    {
+        "id": 2600,
+        "chapter": 22,
+        "verse": 6,
+        "arabic_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّهُۥ يُحۡيِ ٱلۡمَوۡتَىٰ وَأَنَّهُۥ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+        "phonetic": "22.6 Dhālika Bi'anna Allāha Huwa Al-Ĥaqqu Wa 'Annahu Yuĥyī Al-Mawtá Wa 'Annahu `Alá Kulli Shay'in Qadīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That is because Allāh is the True Reality and because He gives life to the dead and because He is over all things competent",
+            "english_hilali_khan": "That is because Allâh: He is the Truth, and it is He Who gives life to the dead, and it is He Who is Able to do all things.",
+            "english_rwwad": "That is because Allah is the Truth; He alone gives life to the dead, and He is Most Capable of all things."
+        }
+    },
+    {
+        "id": 2601,
+        "chapter": 22,
+        "verse": 7,
+        "arabic_text": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٞ لَّا رَيۡبَ فِيهَا وَأَنَّ ٱللَّهَ يَبۡعَثُ مَن فِي ٱلۡقُبُورِ",
+        "phonetic": "22.7 Wa 'Anna As-Sā`ata 'Ātiyatun Lā Rayba Fīhā Wa 'Anna Allāha Yab`athu Man Fī Al-Qubūri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And [that they may know] that the Hour is coming - no doubt about it - and that Allāh will resurrect those in the graves.",
+            "english_hilali_khan": "And surely, the Hour is coming, there is no doubt about it; and certainly, Allâh will resurrect those who are in the graves.",
+            "english_rwwad": "The Hour is certainly coming; there is no doubt about it, and Allah will surely resurrect those who are in the graves."
+        }
+    },
+    {
+        "id": 2602,
+        "chapter": 22,
+        "verse": 8,
+        "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَلَا هُدٗى وَلَا كِتَٰبٖ مُّنِيرٖ",
+        "phonetic": "22.8 Wa Mina An-Nāsi Man Yujādilu Fī Allāhi Bighayri `Ilmin Wa Lā Hudáan Wa Lā Kitābin Munīrin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And of the people is he who disputes about Allāh without knowledge or guidance or an enlightening book [from Him],",
+            "english_hilali_khan": "And among men is he who disputes about Allâh, without knowledge or guidance, or a Book giving light (from Allâh),",
+            "english_rwwad": "There are some people who argue about Allah without knowledge, guidance or an enlightening scripture."
+        }
+    },
+    {
+        "id": 2603,
+        "chapter": 22,
+        "verse": 9,
+        "arabic_text": "ثَانِيَ عِطۡفِهِۦ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِۖ لَهُۥ فِي ٱلدُّنۡيَا خِزۡيٞۖ وَنُذِيقُهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ عَذَابَ ٱلۡحَرِيقِ",
+        "phonetic": "22.9 Thāniya `Iţfihi Liyuđilla `An Sabīli Allāhi Lahu Fī Ad-Dunyā Khizyun Wa Nudhīquhu Yawma Al-Qiyāmati `Adhāba Al-Ĥarīqi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.22:9) Narrated ‘Abdullah bin Mas‘ûd رضي الله عنه: Allâh’s Messenger صلى الله عليه وسلم said, \"Whosoever has pride in his heart equal to the weight of an atom (or a small ant) shall not enter Paradise.\" A person (amongst the audience) said, \"Verily, a person loves that his dress should be beautiful, and his shoes should be beautiful.\" The Prophet صلى الله عليه وسلم remarked, \"Verily, Allâh is the Most Beautiful and He loves beauty. (الكبر: بطر الحق وغمط الناس) Pride is to completely disregard the truth, and to scorn (to look down upon) the people.\" (Sahih Muslim, Book of Faith, Vol.1, Hadîth No.164).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Twisting his neck [in arrogance] to mislead [people] from the way of Allāh. For him in the world is disgrace, and We will make him taste on the Day of Resurrection the punishment of the Burning Fire [while it is said],",
+            "english_hilali_khan": "Bending his neck in pride[1] (far astray from the Path of Allâh), and leading (others) too (far) astray from the Path of Allâh. For him there is disgrace in this worldly life, and on the Day of Resurrection We shall make him taste the torment of burning (Fire).",
+            "english_rwwad": "They turn their faces away [in arrogance] to lead people away from Allah’s way. For them there will be disgrace in this world, and on the Day of Resurrection We will make them taste the punishment of the burning fire."
+        }
+    },
+    {
+        "id": 2604,
+        "chapter": 22,
+        "verse": 10,
+        "arabic_text": "ذَٰلِكَ بِمَا قَدَّمَتۡ يَدَاكَ وَأَنَّ ٱللَّهَ لَيۡسَ بِظَلَّٰمٖ لِّلۡعَبِيدِ",
+        "phonetic": "22.10 Dhālika Bimā Qaddamat Yadāka Wa 'Anna Allāha Laysa Bižallāmin Lil`abīdi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "\"That is for what your hands have put forth and because Allāh is not ever unjust to [His] servants.\"",
+            "english_hilali_khan": "That is because of what your hands have sent forth, and verily, Allâh is not unjust to (His) slaves.",
+            "english_rwwad": "“This is because of what your hands have sent forth, and Allah is not unjust to His slaves.”"
+        }
+    },
+    {
+        "id": 2605,
+        "chapter": 22,
+        "verse": 11,
+        "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يَعۡبُدُ ٱللَّهَ عَلَىٰ حَرۡفٖۖ فَإِنۡ أَصَابَهُۥ خَيۡرٌ ٱطۡمَأَنَّ بِهِۦۖ وَإِنۡ أَصَابَتۡهُ فِتۡنَةٌ ٱنقَلَبَ عَلَىٰ وَجۡهِهِۦ خَسِرَ ٱلدُّنۡيَا وَٱلۡأٓخِرَةَۚ ذَٰلِكَ هُوَ ٱلۡخُسۡرَانُ ٱلۡمُبِينُ",
+        "phonetic": "22.11 Wa Mina An-Nāsi Man Ya`budu Allāha `Alá Ĥarfin Fa'in 'Aşābahu Khayrun Aţma'anna Bihi Wa 'In 'Aşābat/hu Fitnatun Anqalaba `Alá Wajhihi Khasira Ad-Dunyā Wa Al-'Ākhirata Dhālika Huwa Al-Khusrānu Al-Mubīnu",
+        "footnotes": {
+            "english_saheeh": "[917]- At the edge of his religion, so to speak, i.e., with uncertainty, hypocrisy or heedlessness.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And of the people is he who worships Allāh on an edge.[917] If he is touched by good, he is reassured by it; but if he is struck by trial, he turns on his face [to unbelief]. He has lost [this] world and the Hereafter. That is what is the manifest loss.",
+            "english_hilali_khan": "And among mankind is he who worships Allâh as it were, upon the edge (i.e. in doubt): if good befalls him, he is content therewith; but if a trial befalls him, he turns back on his face (i.e. reverts to disbelief after embracing Islâm). He loses both this world and the Hereafter. That is the evident loss.",
+            "english_rwwad": "There are some people who worship Allah on the edge [of faith]: if something good comes to them, they are content; but if they are afflicted with a trial, they turn back, thus losing both this world and the Hereafter. That is the evident loss."
+        }
+    },
+    {
+        "id": 2606,
+        "chapter": 22,
+        "verse": 12,
+        "arabic_text": "يَدۡعُواْ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ",
+        "phonetic": "22.12 Yad`ū Min Dūni Allāhi Mā Lā Yađurruhu Wa Mā Lā Yanfa`uhu Dhālika Huwa Ađ-Đalālu Al-Ba`īdu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He invokes instead of Allāh that which neither harms him nor benefits him. That is what is the extreme error.",
+            "english_hilali_khan": "He calls besides Allâh unto that which can neither harm him, nor profit him. That is a straying far away.",
+            "english_rwwad": "They invoke besides Allah what can neither harm nor benefit them. That is the farthest misguidance."
+        }
+    },
+    {
+        "id": 2607,
+        "chapter": 22,
+        "verse": 13,
+        "arabic_text": "يَدۡعُواْ لَمَن ضَرُّهُۥٓ أَقۡرَبُ مِن نَّفۡعِهِۦۚ لَبِئۡسَ ٱلۡمَوۡلَىٰ وَلَبِئۡسَ ٱلۡعَشِيرُ",
+        "phonetic": "22.13 Yad`ū Laman Đarruhu 'Aqrabu Min Naf`ihi Labi'sa Al-Mawlá Wa Labi'sa Al-`Ashīru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He invokes one whose harm is closer than his benefit - how wretched the protector and how wretched the associate.",
+            "english_hilali_khan": "He calls unto him whose harm is nearer than his profit: certainly, an evil Maulâ (patron) and certainly an evil friend!",
+            "english_rwwad": "They invoke those whose harm is more likely than their benefit. What a terrible protector and what a terrible associate!"
+        }
+    },
+    {
+        "id": 2608,
+        "chapter": 22,
+        "verse": 14,
+        "arabic_text": "إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ إِنَّ ٱللَّهَ يَفۡعَلُ مَا يُرِيدُ",
+        "phonetic": "22.14 'Inna Allāha Yudkhilu Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Jannātin Tajrī Min Taĥtihā Al-'Anhāru 'Inna Allāha Yaf`alu Mā Yurīdu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, Allāh will admit those who believe and do righteous deeds to gardens beneath which rivers flow. Indeed, Allāh does what He intends.",
+            "english_hilali_khan": "Truly, Allâh will admit those who believe (in Islâmic Monotheism) and do righteous good deeds (according to the Qur’ân and the Sunnah) to Gardens underneath which rivers flow (in Paradise). Verily, Allâh does what He wills.",
+            "english_rwwad": "Allah will surely admit those who believe and do righteous deeds to gardens under which rivers flow. Allah surely does what He wills."
+        }
+    },
+    {
+        "id": 2609,
+        "chapter": 22,
+        "verse": 15,
+        "arabic_text": "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ فَلۡيَمۡدُدۡ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لۡيَقۡطَعۡ فَلۡيَنظُرۡ هَلۡ يُذۡهِبَنَّ كَيۡدُهُۥ مَا يَغِيظُ",
+        "phonetic": "22.15 Man Kāna Yažunnu 'An Lan Yanşurahu Allāhu Fī Ad-Dunyā Wa Al-'Ākhirati Falyamdud Bisababin 'Ilá As-Samā'i Thumma Liyaqţa` Falyanžur Hal Yudh/hibanna Kayduhu Mā Yaghīžu",
+        "footnotes": {
+            "english_saheeh": "[918]- i.e., strangle himself.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Whoever should think that Allāh will not support him [i.e., Prophet Muḥammad (ﷺ)] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath],[918] and let him see: will his effort remove that which enrages [him]?",
+            "english_hilali_khan": "Whoever thinks that Allâh will not help him (Muhammad صلى الله عليه وسلم) in this world and in the Hereafter, let him stretch out a rope to the ceiling and let him strangle himself. Then let him see whether his plan will remove that whereat he rages!",
+            "english_rwwad": "Whoever thinks that Allah will never help His Prophet in this world and the Hereafter, let him stretch out a rope to the ceiling and strangle himself, then let him see if his effort can remove what enrages him."
+        }
+    },
+    {
+        "id": 2610,
+        "chapter": 22,
+        "verse": 16,
+        "arabic_text": "وَكَذَٰلِكَ أَنزَلۡنَٰهُ ءَايَٰتِۭ بَيِّنَٰتٖ وَأَنَّ ٱللَّهَ يَهۡدِي مَن يُرِيدُ",
+        "phonetic": "22.16 Wa Kadhalika 'Anzalnāhu 'Āyātin Bayyinātin Wa 'Anna Allāha Yahdī Man Yurīdu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And thus have We sent it [i.e., the Qur’ān] down as verses of clear evidence and because Allāh guides whom He intends.",
+            "english_hilali_khan": "Thus have We sent it (this Qur’ân) down (to Muhammad صلى الله عليه وسلم) as clear signs, evidence and proofs, and surely, Allâh guides whom He wills.",
+            "english_rwwad": "This is how We sent down this [Qur’an] as clear verses, and Allah guides whom He wills."
+        }
+    },
+    {
+        "id": 2611,
+        "chapter": 22,
+        "verse": 17,
+        "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلصَّٰبِـِٔينَ وَٱلنَّصَٰرَىٰ وَٱلۡمَجُوسَ وَٱلَّذِينَ أَشۡرَكُوٓاْ إِنَّ ٱللَّهَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+        "phonetic": "22.17 'Inna Al-Ladhīna 'Āmanū Wa Al-Ladhīna Hādū Wa Aş-Şābi'īna Wa An-Naşārá Wa Al-Majūsa Wa Al-Ladhīna 'Ashrakū 'Inna Allāha Yafşilu Baynahum Yawma Al-Qiyāmati 'Inna Allāha `Alá Kulli Shay'in Shahīdun",
+        "footnotes": {
+            "english_saheeh": "[919]- See footnote of 4:79.",
+            "english_hilali_khan": "(V.22:17) See (V.2:62) and its footnotes for the explanation of this Verse.",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, those who have believed and those who were Jews and the Sabeans and the Christians and the Magians and those who associated with Allāh - Allāh will judge between them on the Day of Resurrection. Indeed Allāh is, over all things, Witness.[919]",
+            "english_hilali_khan": "Verily, those who believe (in Allâh and in His Messenger Muhammad صلى الله عليه وسلم), and those who are Jews, and the Sabians, and the Christians, and the Majûs, and those who worship others besides Allâh, truly, Allâh will judge between them on the Day of Resurrection. Verily! Allâh is over all things a Witness.[1]",
+            "english_rwwad": "Indeed, those who believe, those who are Jews, the Sabians, the Christians, the Magians and those who associate partners with Allah – Allah will judge between them on the Day of Resurrection; Allah is Witness over all things."
+        }
+    },
+    {
+        "id": 2612,
+        "chapter": 22,
+        "verse": 18,
+        "arabic_text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يَسۡجُدُۤ لَهُۥۤ مَن فِي ٱلسَّمَٰوَٰتِ وَمَن فِي ٱلۡأَرۡضِ وَٱلشَّمۡسُ وَٱلۡقَمَرُ وَٱلنُّجُومُ وَٱلۡجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٞ مِّنَ ٱلنَّاسِۖ وَكَثِيرٌ حَقَّ عَلَيۡهِ ٱلۡعَذَابُۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكۡرِمٍۚ إِنَّ ٱللَّهَ يَفۡعَلُ مَا يَشَآءُ۩",
+        "phonetic": "22.18 'Alam Tará 'Anna Allāha Yasjudu Lahu Man Fī As-Samāwāti Wa Man Fī Al-'Arđi Wa Ash-Shamsu Wa Al-Qamaru Wa An-Nujūmu Wa Al-Jibālu Wa Ash-Shajaru Wa Ad-Dawābbu Wa Kathīrun Mina An-Nāsi Wa Kathīrun Ĥaqqa `Alayhi Al-`Adhābu Wa Man Yuhini Allāhu Famā Lahu Min Mukrimin 'Inna Allāha Yaf`alu Mā Yashā'u",
+        "footnotes": {
+            "english_saheeh": "[920]- And therefore decreed.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Do you not see [i.e., know] that to Allāh prostrates whoever is in the heavens and whoever is on the earth and the sun, the moon, the stars, the mountains, the trees, the moving creatures and many of the people? But upon many the punishment has been justified.[920] And he whom Allāh humiliates - for him there is no bestower of honor. Indeed, Allāh does what He wills.",
+            "english_hilali_khan": "See you not that whoever is in the heavens and whoever is on the earth, and the sun, and the moon, and the stars, and the mountains, and the trees, and Ad-Dawâbb [moving (living) creatures, beasts], and many of mankind prostrate themselves to Allah. But there are many (men) on whom the punishment is justified. And whomsoever Allâh disgraces, none can honour him. Verily, Allâh does what He wills.",
+            "english_rwwad": "Do you not see that to Allah prostrate all those who are in the heavens and all those on earth: the sun, the moon, the stars, the mountains, the trees, the moving creatures, and many humans? But there are many on whom the punishment has become due. Whoever Allah disgraces, none can honor him. Allah surely does what He wills."
+        }
+    },
+    {
+        "id": 2613,
+        "chapter": 22,
+        "verse": 19,
+        "arabic_text": "۞ هَٰذَانِ خَصۡمَانِ ٱخۡتَصَمُواْ فِي رَبِّهِمۡۖ فَٱلَّذِينَ كَفَرُواْ قُطِّعَتۡ لَهُمۡ ثِيَابٞ مِّن نَّارٖ يُصَبُّ مِن فَوۡقِ رُءُوسِهِمُ ٱلۡحَمِيمُ",
+        "phonetic": "22.19 Hadhāni Khaşmāni Akhtaşamū Fī Rabbihim Fa-Al-Ladhīna Kafarū Quţţi`at Lahum Thiyābun Min Nārin Yuşabbu Min Fawqi Ru'ūsihimu Al-Ĥamīmu",
+        "footnotes": {
+            "english_saheeh": "[921]- i.e., the believers and the disbelievers.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "These[921] are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water",
+            "english_hilali_khan": "These two opponents (believers and disbelievers) dispute with each other about their Lord: then as for those who disbelieved, garments of fire will be cut out for them, boiling water will be poured down over their heads.",
+            "english_rwwad": "These are two opponents who are in dispute about their Lord. As for the disbelievers, garments of Fire will be tailored for them, and scalding water will be poured over their heads,"
+        }
+    },
+    {
+        "id": 2614,
+        "chapter": 22,
+        "verse": 20,
+        "arabic_text": "يُصۡهَرُ بِهِۦ مَا فِي بُطُونِهِمۡ وَٱلۡجُلُودُ",
+        "phonetic": "22.20 Yuşharu Bihi Mā Fī Buţūnihim Wa Al-Julūdu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "By which is melted that within their bellies and [their] skins.",
+            "english_hilali_khan": "With it will melt (or vanish away) what is within their bellies, as well as (their) skins.",
+            "english_rwwad": "melting all that is in their bellies and their skins."
+        }
+    },
+    {
+        "id": 2615,
+        "chapter": 22,
+        "verse": 21,
+        "arabic_text": "وَلَهُم مَّقَٰمِعُ مِنۡ حَدِيدٖ",
+        "phonetic": "22.21 Wa Lahum Maqāmi`u Min Ĥadīdin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And for [striking] them are maces of iron.",
+            "english_hilali_khan": "And for them are hooked rods of iron (to punish them).",
+            "english_rwwad": "And for [striking] them there will be maces of iron."
+        }
+    },
+    {
+        "id": 2616,
+        "chapter": 22,
+        "verse": 22,
+        "arabic_text": "كُلَّمَآ أَرَادُوٓاْ أَن يَخۡرُجُواْ مِنۡهَا مِنۡ غَمٍّ أُعِيدُواْ فِيهَا وَذُوقُواْ عَذَابَ ٱلۡحَرِيقِ",
+        "phonetic": "22.22 Kullamā 'Arādū 'An Yakhrujū Minhā Min Ghammin 'U`īdū Fīhā Wa Dhūqū `Adhāba Al-Ĥarīqi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Every time they want to get out of it [i.e., Hellfire] from anguish, they will be returned to it, and [it will be said], \"Taste the punishment of the Burning Fire!\"",
+            "english_hilali_khan": "Every time they seek to get away therefrom, from anguish, they will be driven back therein, and (it will be) said to them: \"Taste the torment of burning!\"",
+            "english_rwwad": "Every time, in their anguish, they try to get out of it, they will be forced back into it, “Taste the burning punishment!”"
+        }
+    },
+    {
+        "id": 2617,
+        "chapter": 22,
+        "verse": 23,
+        "arabic_text": "إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَلُؤۡلُؤٗاۖ وَلِبَاسُهُمۡ فِيهَا حَرِيرٞ",
+        "phonetic": "22.23 'Inna Allāha Yudkhilu Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Jannātin Tajrī Min Taĥtihā Al-'Anhāru Yuĥallawna Fīhā Min 'Asāwira Min Dhahabin Wa Lu'ulu'uāan Wa Libāsuhum Fīhā Ĥarīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, Allāh will admit those who believe and do righteous deeds to gardens beneath which rivers flow. They will be adorned therein with bracelets of gold and pearl, and their garments therein will be silk.",
+            "english_hilali_khan": "Truly, Allâh will admit those who believe (in the Oneness of Allâh - Islâmic Monotheism) and do righteous good deeds, to Gardens underneath which rivers flow (in Paradise), wherein they will be adorned with bracelets of gold and pearls and their garments therein will be of silk.",
+            "english_rwwad": "Allah will surely admit those who believe and do righteous deeds to gardens under which rivers flow. They will be adorned with bracelets of gold and pearls, and their garments will be of silk."
+        }
+    },
+    {
+        "id": 2618,
+        "chapter": 22,
+        "verse": 24,
+        "arabic_text": "وَهُدُوٓاْ إِلَى ٱلطَّيِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوٓاْ إِلَىٰ صِرَٰطِ ٱلۡحَمِيدِ",
+        "phonetic": "22.24 Wa Hudū 'Ilá Aţ-Ţayyibi Mina Al-Qawli Wa Hudū 'Ilá Şirāţi Al-Ĥamīdi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they had been guided [in worldly life] to good speech, and they were guided to the path of the Praiseworthy.",
+            "english_hilali_khan": "And they are guided (in this world) unto goodly speech (i.e. Lâ ilâha illallâh, Alhamdu lillâh, recitation of the Qur’ân, etc.) and they are guided to the Path of Him (i.e. Allâh’s religion of Islâmic Monotheism), Who is Worthy of all praises.",
+            "english_rwwad": "They were guided to the best of words and they were guided to the praiseworthy path."
+        }
+    },
+    {
+        "id": 2619,
+        "chapter": 22,
+        "verse": 25,
+        "arabic_text": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلۡمَسۡجِدِ ٱلۡحَرَامِ ٱلَّذِي جَعَلۡنَٰهُ لِلنَّاسِ سَوَآءً ٱلۡعَٰكِفُ فِيهِ وَٱلۡبَادِۚ وَمَن يُرِدۡ فِيهِ بِإِلۡحَادِۭ بِظُلۡمٖ نُّذِقۡهُ مِنۡ عَذَابٍ أَلِيمٖ",
+        "phonetic": "22.25 'Inna Al-Ladhīna Kafarū Wa Yaşuddūna `An Sabīli Allāhi Wa Al-Masjidi Al-Ĥarāmi Al-Ladhī Ja`alnāhu Lilnnāsi Sawā'an Al-`Ākifu Fīhi Wa Al-Bādi Wa Man Yurid Fīhi Bi'ilĥādin Bižulmin Nudhiqhu Min `Adhābin 'Alīmin",
+        "footnotes": {
+            "english_saheeh": "[922]- Whether inside its boundaries or intending from afar to do evil therein.  The Ḥaram is unique in that the mere intention of sin therein (whether or not it is actually carried out) is sufficient to bring punishment from Allāh.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, those who have disbelieved and avert [people] from the way of Allāh and [from] al-Masjid al-Ḥarām, which We made for the people - equal are the resident therein and one from outside - and [also] whoever intends [a deed] therein[922] of deviation [in religion] by wrongdoing - We will make him taste of a painful punishment.",
+            "english_hilali_khan": "Verily, those who disbelieved and hinder (men) from the Path of Allâh, and from Al-Masjid-al-Harâm (at Makkah) which We have made (open) to (all) men, the dweller in it and the visitor from the country are equal there [as regards its sanctity and pilgrimage (Hajj and ‘Umrah)] - and whoever inclines to evil actions therein or to do wrong (i.e. practise polytheism and leave Islâmic Monotheism), him We shall cause to taste from a painful torment.",
+            "english_rwwad": "As for those who disbelieve and prevent people from Allah’s way and from the Sacred Mosque – which We have made for all people, residents and visitors alike – and whoever intends to deviate therein by evildoing, We will cause him to taste a painful punishment."
+        }
+    },
+    {
+        "id": 2620,
+        "chapter": 22,
+        "verse": 26,
+        "arabic_text": "وَإِذۡ بَوَّأۡنَا لِإِبۡرَٰهِيمَ مَكَانَ ٱلۡبَيۡتِ أَن لَّا تُشۡرِكۡ بِي شَيۡـٔٗا وَطَهِّرۡ بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+        "phonetic": "22.26 Wa 'Idh Bawwa'nā Li'ibrāhīma Makāna Al-Bayti 'An Lā Tushrik Bī Shay'āan Wa Ţahhir Baytiya Lilţţā'ifīna Wa Al-Qā'imīna Wa Ar-Rukka`i As-Sujūdi",
+        "footnotes": {
+            "english_saheeh": "[923]- See footnote to 2:125.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And [mention, O Muḥammad], when We designated for Abraham the site of the House, [saying], \"Do not associate anything with Me and purify My House for those who perform ṭawāf[923] and those who stand [in prayer] and those who bow and prostrate.",
+            "english_hilali_khan": "And (remember) when We showed Ibrâhîm (Abraham) the site of the (Sacred) House (the Ka‘bah at Makkah) (saying): \"Associate not anything (in worship) with Me, [Lâ ilâha illallâh (none has the right to be worshipped but Allâh) - Islâmic Monotheism], and sanctify My House for those who circumambulate it, and those who stand up (for prayer), and those who bow (submit themselves with humility and obedience to Allâh), and make prostration (in prayer);\"",
+            "english_rwwad": "And [remember] when We showed to Abraham the site of the House [Ka’ba], “Do not associate anything with Me, and purify My House for those who circumambulate it, and those who stand up in prayer, and those who bow and prostrate."
+        }
+    },
+    {
+        "id": 2621,
+        "chapter": 22,
+        "verse": 27,
+        "arabic_text": "وَأَذِّن فِي ٱلنَّاسِ بِٱلۡحَجِّ يَأۡتُوكَ رِجَالٗا وَعَلَىٰ كُلِّ ضَامِرٖ يَأۡتِينَ مِن كُلِّ فَجٍّ عَمِيقٖ",
+        "phonetic": "22.27 Wa 'Adhin Fī An-Nāsi Bil-Ĥajji Ya'tūka Rijālāan Wa `Alá Kulli Đāmirin Ya'tīna Min Kulli Fajjin `Amīqin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.22:27).\na) Narrated Abu Hurairah رضي الله عنه: Allâh’s Messenger صلى الله عليه وسلم said, \"Whoever performs Hajj to this House (Ka‘bah ) and does not approach his wife for sexual relations nor commits sins (while performing Hajj), he will come out as sinless as a newly-born child (just delivered by his mother).\" (Sahih Al-Bukhari, Vol.3, Hadith No.45).\nb) See the footnote of (V.2:196).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And proclaim to the people the ḥajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass -",
+            "english_hilali_khan": "And proclaim to mankind the Hajj (pilgrimage). They will come to you on foot and on every lean camel, they will come from every deep and distant (wide) mountain highway (to perform Hajj ).[1]",
+            "english_rwwad": "And proclaim the pilgrimage to all people; they will come to you on foot and on every lean camel from every distant pathway,"
+        }
+    },
+    {
+        "id": 2622,
+        "chapter": 22,
+        "verse": 28,
+        "arabic_text": "لِّيَشۡهَدُواْ مَنَٰفِعَ لَهُمۡ وَيَذۡكُرُواْ ٱسۡمَ ٱللَّهِ فِيٓ أَيَّامٖ مَّعۡلُومَٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلۡأَنۡعَٰمِۖ فَكُلُواْ مِنۡهَا وَأَطۡعِمُواْ ٱلۡبَآئِسَ ٱلۡفَقِيرَ",
+        "phonetic": "22.28 Liyash/hadū Manāfi`a Lahum Wa Yadhkurū Asma Allāhi Fī 'Ayyāmin Ma`lūmātin `Alá Mā Razaqahum Min Bahīmati Al-'An`ām Fakulū Minhā Wa 'Aţ`imū Al-Bā'isa Al-Faqīra",
+        "footnotes": {
+            "english_saheeh": "[924]- Al-anʿām:  camels, cattle, sheep and goats.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That they may witness [i.e., attend] benefits for themselves and mention the name of Allāh on known [i.e., specific] days over what He has provided for them of [sacrificial] animals.[924] So eat of them and feed the miserable and poor.",
+            "english_hilali_khan": "That they may witness things that are of benefit to them (i.e. reward of Hajj in the Hereafter, and also some worldly gain from trade), and mention the Name of Allâh on appointed days (i.e. 10th, 11th, 12th, and 13th day of Dhul-Hijjah), over the beast of cattle that He has provided for them (for sacrifice), [at the time of their slaughtering by saying: (Bismillah, Wallâhu-Akbar, Allâhumma Minka wa Ilaik).] Then eat thereof and feed therewith the poor having a hard time.",
+            "english_rwwad": "so that they may attain benefits, and pronounce Allah’s name during the appointed days over the sacrificial animals that He has provided for them; then eat from it and feed the desperate poor."
+        }
+    },
+    {
+        "id": 2623,
+        "chapter": 22,
+        "verse": 29,
+        "arabic_text": "ثُمَّ لۡيَقۡضُواْ تَفَثَهُمۡ وَلۡيُوفُواْ نُذُورَهُمۡ وَلۡيَطَّوَّفُواْ بِٱلۡبَيۡتِ ٱلۡعَتِيقِ",
+        "phonetic": "22.29 Thumma Liyaqđū Tafathahum Wa Līūfū Nudhūrahum Wa Līaţţawwafū Bil-Bayti Al-`Atīqi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.22:29) See the footnote of (V.2:128).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then let them end their untidiness and fulfill their vows and perform ṭawāf around the ancient House.\"",
+            "english_hilali_khan": "Then let them complete their prescribed duties (Manâsik of Hajj) and perform their vows, and circumambulate the Ancient House (the Ka‘bah at Makkah).[2]",
+            "english_rwwad": "Then let them complete their rites, fulfill their vows, and circumambulate the Ancient House [Ka’ba].”"
+        }
+    },
+    {
+        "id": 2624,
+        "chapter": 22,
+        "verse": 30,
+        "arabic_text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ",
+        "phonetic": "22.30 Dhālika Wa Man Yu`ažžim Ĥurumāti Allāhi Fahuwa Khayrun Lahu `Inda Rabbihi Wa 'Uĥillat Lakumu Al-'An`ām 'Illā Mā Yutlá `Alaykum Fājtanibū Ar-Rijsa Mina Al-'Awthāni Wa Ajtanibū Qawla Az-Zūri",
+        "footnotes": {
+            "english_saheeh": "[925]- See 5:3.",
+            "english_hilali_khan": "(V.22:30) See the footnote of (V.5:32).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That [has been commanded], and whoever honors the sacred ordinances of Allāh - it is best for him in the sight of his Lord. And permitted to you are the grazing livestock, except what is recited to you.[925] So avoid the uncleanliness of idols and avoid false statement,",
+            "english_hilali_khan": "That (Manâsik- prescribed duties of Hajj is the obligation that mankind owes to Allâh), and whoever honours the sacred things of Allâh, then that is better for him with his Lord. The cattle are lawful to you, except those (that will be) mentioned to you (as exceptions). So shun the abomination (worshipping) of idol, and shun lying speech (false statements)[3] -",
+            "english_rwwad": "Such [is the pilgrimage]; whoever honors the sacred rituals of Allah, it is best for him with his Lord. All sacrificial animals have been made lawful for you except what is recited to you. So shun the impurity of idolatry and shun the words of falsehood."
+        }
+    },
+    {
+        "id": 2625,
+        "chapter": 22,
+        "verse": 31,
+        "arabic_text": "حُنَفَآءَ لِلَّهِ غَيۡرَ مُشۡرِكِينَ بِهِۦۚ وَمَن يُشۡرِكۡ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ فَتَخۡطَفُهُ ٱلطَّيۡرُ أَوۡ تَهۡوِي بِهِ ٱلرِّيحُ فِي مَكَانٖ سَحِيقٖ",
+        "phonetic": "22.31 Ĥunafā'a Lillāhi Ghayra Mushrikīna Bihi Wa Man Yushrik Billāhi Faka'annamā Kharra Mina As-Samā'i Fatakhţafuhu Aţ-Ţayru 'Aw Tahwī Bihi Ar-Rīĥu Fī Makānin Saĥīqin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Inclining [only] to Allāh, not associating [anything] with Him. And he who associates with Allāh - it is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place.",
+            "english_hilali_khan": "Hunafâ’ Lillâh (i.e. worshiping none but Allâh), not associating partners (in worship) unto Him; and whoever assigns partners to Allâh, it is as if he had fallen from the sky, and the birds had snatched him, or the wind had thrown him to a far off place.",
+            "english_rwwad": "Be exclusively devoted to Allah, associating no partners with Him. Whoever associates partners with Allah, it is as if he has fallen from the sky and has been snatched away by birds or swept away by the wind to a far off place."
+        }
+    },
+    {
+        "id": 2626,
+        "chapter": 22,
+        "verse": 32,
+        "arabic_text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقۡوَى ٱلۡقُلُوبِ",
+        "phonetic": "22.32 Dhālika Wa Man Yu`ažžim Sha`ā'ira Allāhi Fa'innahā Min Taqwá Al-Qulūbi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That [is so]. And whoever honors the symbols [i.e., rites] of Allāh - indeed, it is from the piety of hearts.",
+            "english_hilali_khan": "is an obligation that mankind owes to Allâh] and whosoever honours the Symbols of Allâh, then it is truly from the piety of the hearts.",
+            "english_rwwad": "This is so. And whoever honors the rituals of Allah, it is from the piety of the hearts."
+        }
+    },
+    {
+        "id": 2627,
+        "chapter": 22,
+        "verse": 33,
+        "arabic_text": "لَكُمۡ فِيهَا مَنَٰفِعُ إِلَىٰٓ أَجَلٖ مُّسَمّٗى ثُمَّ مَحِلُّهَآ إِلَى ٱلۡبَيۡتِ ٱلۡعَتِيقِ",
+        "phonetic": "22.33 Lakum Fīhā Manāfi`u 'Ilá 'Ajalin Musammáan Thumma Maĥilluhā 'Ilá Al-Bayti Al-`Atīqi",
+        "footnotes": {
+            "english_saheeh": "[926]- i.e., they may be milked or ridden (in the case of camels) before the time of slaughter.\n[927]- i.e., within the boundaries of the Ḥaram, which includes Minā.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "For you therein [i.e., the animals marked for sacrifice] are benefits for a specified term;[926] then their place of sacrifice is at the ancient House.[927]",
+            "english_hilali_khan": "In them (cattle offered for sacrifice) are benefits for you for an appointed term, and afterwards they are brought for sacrifice unto the ancient House (the Haram - sacred territory of Makkah).",
+            "english_rwwad": "There are benefits for you in these [sacrificial animals] for an appointed term, then their place of sacrifice is near the Ancient House."
+        }
+    },
+    {
+        "id": 2628,
+        "chapter": 22,
+        "verse": 34,
+        "arabic_text": "وَلِكُلِّ أُمَّةٖ جَعَلۡنَا مَنسَكٗا لِّيَذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلۡأَنۡعَٰمِۗ فَإِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞ فَلَهُۥٓ أَسۡلِمُواْۗ وَبَشِّرِ ٱلۡمُخۡبِتِينَ",
+        "phonetic": "22.34 Wa Likulli 'Ummatin Ja`alnā Mansakāan Liyadhkurū Asma Allāhi `Alá Mā Razaqahum Min Bahīmati Al-'An`āmi Fa'ilahukum 'Ilahun Wāĥidun Falahu 'Aslimū Wa Bashiri Al-Mukhbitīna",
+        "footnotes": {
+            "english_saheeh": "[928]- i.e., the right of sacrifice has always been a part of Allāh's revealed religion.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And for every [religious] community We have appointed a rite [of sacrifice][928] that they may mention the name of Allāh over what He has provided for them of [sacrificial] animals. For your god is one God, so to Him submit. And, [O Muḥammad], give good tidings to the humble [before their Lord]",
+            "english_hilali_khan": "And for every nation We have appointed religious ceremonies, that they may mention the Name of Allâh over the beast of cattle that He has given them for food. And your Ilâh (God) is One Ilâh (God - Allâh), so you must submit to Him Alone (in Islâm). And (O Muhammad صلى الله عليه وسلم) give glad tidings to the Mukhbitûn (those who obey Allâh with humility and are humble from among the true believers of Islâmic Monotheism),",
+            "english_rwwad": "For every community We ordained rites of sacrifice so that they may mention the name of Allah over the sacrificial animals that He has provided for them. Your God is One God, so submit to Him alone, and give glad tidings to the humble,"
+        }
+    },
+    {
+        "id": 2629,
+        "chapter": 22,
+        "verse": 35,
+        "arabic_text": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَٱلصَّٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمۡ وَٱلۡمُقِيمِي ٱلصَّلَوٰةِ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+        "phonetic": "22.35 Al-Ladhīna 'Idhā Dhukira Allāhu Wajilat Qulūbuhum Wa Aş-Şābirīna `Alá Mā 'Aşābahum Wa Al-Muqīmī Aş-Şalāati Wa Mimmā Razaqnāhum Yunfiqūna ",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Who, when Allāh is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them, and the establishers of prayer and those who spend from what We have provided them.",
+            "english_hilali_khan": "Whose hearts are filled with fear when Allâh is mentioned and As-Sabirûn [who patiently bear whatever may befall them (of calamities)]; and who perform As-Salât (Iqâmat-as-Salât), and who spend (in Allâh’s Cause) out of what We have provided them.",
+            "english_rwwad": "those whose hearts are filled with awe when Allah is mentioned, and those who patiently endure whatever may befall them, and who establish prayer and spend out of what We have provided for them."
+        }
+    },
+    {
+        "id": 2630,
+        "chapter": 22,
+        "verse": 36,
+        "arabic_text": "وَٱلۡبُدۡنَ جَعَلۡنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمۡ فِيهَا خَيۡرٞۖ فَٱذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَيۡهَا صَوَآفَّۖ فَإِذَا وَجَبَتۡ جُنُوبُهَا فَكُلُواْ مِنۡهَا وَأَطۡعِمُواْ ٱلۡقَانِعَ وَٱلۡمُعۡتَرَّۚ كَذَٰلِكَ سَخَّرۡنَٰهَا لَكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ",
+        "phonetic": "22.36 Wa Al-Budna Ja`alnāhā Lakum Min Sha`ā'iri Allāhi Lakum Fīhā Khayrun Fādhkurū Asma Allāhi `Alayhā Şawāffa Fa'idhā Wajabat Junūbuhā Fakulū Minhā Wa 'Aţ`imū Al-Qāni`a Wa Al-Mu`tarra Kadhālika Sakhkharnāhā Lakum La`allakum Tashkurūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the camels and cattle We have appointed for you as among the symbols [i.e., rites] of Allāh; for you therein is good. So mention the name of Allāh upon them when lined up [for sacrifice]; and when they are [lifeless] on their sides, then eat from them and feed the needy [who does not seek aid] and the beggar. Thus have We subjected them to you that you may be grateful.",
+            "english_hilali_khan": "And the Budn (cows, oxen, or camels driven to be offered as sacrifices by the pilgrims at the sanctuary of Makkah) We have made them for you as among the Symbols of Allâh, wherein you have much good. So mention the Name of Allâh over them when they are drawn up in lines (for sacrifice). Then, when they are down on their sides (after slaughter), eat thereof, and feed the poor who does not ask (men), and the beggar who asks (men). Thus have We made them subject to you that you may be grateful.",
+            "english_rwwad": "We have ordained the sacrificial camels [and cattle] among the rituals of Allah, in which there is much good for you. So mention the name of Allah over them when they are lined up, then when they fall down on their sides, eat of them and feed those [poor] who do not beg and those who do. Thus We have made them subservient to you, so that you may be grateful."
+        }
+    },
+    {
+        "id": 2631,
+        "chapter": 22,
+        "verse": 37,
+        "arabic_text": "لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقۡوَىٰ مِنكُمۡۚ كَذَٰلِكَ سَخَّرَهَا لَكُمۡ لِتُكَبِّرُواْ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمۡۗ وَبَشِّرِ ٱلۡمُحۡسِنِينَ",
+        "phonetic": "22.37 Lan Yanāla Allāha Luĥūmuhā Wa Lā Dimā'uuhā Wa Lakin Yanāluhu At-Taqwá Minkum Kadhālika Sakhkharahā Lakum Litukabbirū Allāha `Alá Mā Hadākum Wa Bashiri Al-Muĥsinīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.22:37) Al-Muhsinûn: The good-doers who perform good deeds totally for Allâh’s sake only without any show-off or to gain praise or fame, etc., and do them in accordance with the Sunnah (legal ways) of Allâh’s Messenger Muhammad صلى الله عليه وسلم.",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Their meat will not reach Allāh, nor will their blood, but what reaches Him is piety from you. Thus have We subjected them to you that you may glorify Allāh for that [to] which He has guided you; and give good tidings to the doers of good.",
+            "english_hilali_khan": "It is neither their meat nor their blood that reaches Allâh, but it is piety from you that reaches Him. Thus have We made them subject to you that you may magnify Allâh for His Guidance to you. And give glad tidings (O Muhammad صلى الله عليه وسلم) to the Muhsinûn [1] (doers of good).",
+            "english_rwwad": "It is neither their flesh nor their blood that reaches Allah, but it is your piety that reaches Him. This is how He has subjected them to you, so that you may proclaim Allah’s greatness for having guided you. And give glad tidings to those who do good."
+        }
+    },
+    {
+        "id": 2632,
+        "chapter": 22,
+        "verse": 38,
+        "arabic_text": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓاْۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٖ كَفُورٍ",
+        "phonetic": "22.38 'Inna Allāha Yudāfi`u `Ani Al-Ladhīna 'Āmanū 'Inna Allāha Lā Yuĥibbu Kulla Khawwānin Kafūrin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Indeed, Allāh defends those who have believed. Indeed, Allāh does not like everyone treacherous and ungrateful.",
+            "english_hilali_khan": "Truly, Allâh defends those who believe. Verily, Allâh likes not any treacherous ingrate to Allâh [those who disobey Allâh but obey Shaitân (Satan)].",
+            "english_rwwad": "Indeed, Allah defends those who believe, and Allah does not like every treacherous and ungrateful."
+        }
+    },
+    {
+        "id": 2633,
+        "chapter": 22,
+        "verse": 39,
+        "arabic_text": "أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمۡ ظُلِمُواْۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِيرٌ",
+        "phonetic": "22.39 'Udhina Lilladhīna Yuqātalūna Bi'annahum Žulimū Wa 'Inna Allāha `Alá Naşrihim Laqadīrun",
+        "footnotes": {
+            "english_saheeh": "[929]- Referring here to the Prophet's companions.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Permission [to fight] has been given to those who are being fought,[929] because they were wronged. And indeed, Allāh is competent to give them victory.",
+            "english_hilali_khan": "Permission to fight (against disbelievers) is given to those (believers) who are fought against, because they have been wronged; and surely, Allâh is Able to give them (believers) victory -",
+            "english_rwwad": "Permission [to fight] is given to those who are attacked, because they were oppressed, and Allah is indeed Most Capable of granting them victory,"
+        }
+    },
+    {
+        "id": 2634,
+        "chapter": 22,
+        "verse": 40,
+        "arabic_text": "ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِم بِغَيۡرِ حَقٍّ إِلَّآ أَن يَقُولُواْ رَبُّنَا ٱللَّهُۗ وَلَوۡلَا دَفۡعُ ٱللَّهِ ٱلنَّاسَ بَعۡضَهُم بِبَعۡضٖ لَّهُدِّمَتۡ صَوَٰمِعُ وَبِيَعٞ وَصَلَوَٰتٞ وَمَسَٰجِدُ يُذۡكَرُ فِيهَا ٱسۡمُ ٱللَّهِ كَثِيرٗاۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
+        "phonetic": "22.40 Al-Ladhīna 'Ukhrijū Min Diyārihim Bighayri Ĥaqqin 'Illā 'An Yaqūlū Rabbunā Allāhu Wa Lawlā Daf`u Allāhi An-Nāsa Ba`đahum Biba`đin Lahuddimat Şawāmi`u Wa Biya`un Wa Şalawātun Wa Masājidu Yudhkaru Fīhā Asmu Allāhi Kathīrāan Wa Layanşuranna Allāhu Man Yanşuruhu 'Inna Allāha Laqawīyun `Azīzun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[They are] those who have been evicted from their homes without right - only because they say, \"Our Lord is Allāh.\" And were it not that Allāh checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues, and mosques in which the name of Allāh is much mentioned [i.e., praised]. And Allāh will surely support those who support Him [i.e., His cause]. Indeed, Allāh is Powerful and Exalted in Might.",
+            "english_hilali_khan": "Those who have been expelled from their homes unjustly only because they said: \"Our Lord is Allâh.\" For had it not been that Allâh checks one set of people by means of another, monasteries, churches, synagogues, and mosques, wherein the Name of Allâh is mentioned much would surely have been pulled down. Verily, Allâh will help those who help His (Cause). Truly, Allâh is All-Strong, All-Mighty.",
+            "english_rwwad": "those who have been driven out of their homes for no reason other than they say, “Our Lord is Allah.” If Allah were not to repel some people by means of others, monasteries, churches, synagogues and mosques wherein the name of Allah is often mentioned, would surely have been demolished. Allah surely helps those who stand up for His cause. Indeed, Allah is All-Powerful, All-Mighty."
+        }
+    },
+    {
+        "id": 2635,
+        "chapter": 22,
+        "verse": 41,
+        "arabic_text": "ٱلَّذِينَ إِن مَّكَّنَّٰهُمۡ فِي ٱلۡأَرۡضِ أَقَامُواْ ٱلصَّلَوٰةَ وَءَاتَوُاْ ٱلزَّكَوٰةَ وَأَمَرُواْ بِٱلۡمَعۡرُوفِ وَنَهَوۡاْ عَنِ ٱلۡمُنكَرِۗ وَلِلَّهِ عَٰقِبَةُ ٱلۡأُمُورِ",
+        "phonetic": "22.41 Al-Ladhīna 'In Makkannāhum Fī Al-'Arđi 'Aqāmū Aş-Şalāata Wa 'Ātaw Az-Zakāata Wa 'Amarū Bil-Ma`rūfi Wa Nahaw `Ani Al-Munkari Wa Lillahi `Āqibatu Al-'Umūri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.22:41):\nA) Iqâmat-as-Salât: Performing of Salât (prayers) It means that:\na) Every Muslim, male or female, is obliged to offer his Salât (prayers) regularly five times a day at the specified times; the male in the mosque in congregation and the female at home. As the Prophetصلى الله عليه وسلم has said: Order your children to perform Salât (prayer) at the age of seven and beat them (about it) at the age of ten. The chief (of a family, town, tribe, etc.) and the Muslim rulers of a country are held responsible before Allâh in case of non-fulfilment of this obligation by the Muslims under their authority.\nb) One must offer the Salât (prayers) as the Prophet صلى الله عليه وسلم used to offer them with all their rules and regulations. i.e., standing, bowing, prostrating, sitting, etc. As he صلى الله عليه وسلم has said: \"Offer your Salât (prayers) the way you see me offering them (Hadîth No.352, Vol. 9, Sahih Al-Bukhârî).\" [For the characteristics of the Salât (prayer) of the Prophet صلى الله عليه وسلم see Sahih Al-Bukhârî, Vol.1, Hadîth Nos. 702, 703,704, 723, 786 and 787].\nB) Narrated Abu Hurairah رضي الله عنه: The Prophet صلى الله عليه وسلم said, \"No Salât (prayer) is heavier (harder) for the hypocrites than the Fajr and the ‘Ishâ prayers, but if they knew the reward for these Salât (prayers) at their respective times, they would certainly present themselves (in the mosques) even if they had to crawl.\" The Prophet صلى الله عليه وسلم added, \"Certainly, I intended (or was about) to order the Mu’adhdhin (call-maker) to pronounce Iqâmah and order a man to lead the Salât (prayer) and then take a fire flame to burn all those (men along with their houses) who had not yet left their houses for the Salât (prayer) (in the mosques).\" (Sahih Al-Bukhari, Vol.1, Hadith No.626).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[And they are] those who, if We give them authority in the land, establish prayer and give zakāh and enjoin what is right and forbid what is wrong. And to Allāh belongs the outcome of [all] matters.",
+            "english_hilali_khan": "Those (Muslim rulers) who, if We give them power in the land, (they) enjoin Iqamat-as-Salât[1] [i.e. to perform the five compulsory congregational Salât (prayers) (the males in mosques)], to pay the Zakât and they enjoin Al-Ma‘rûf (i.e. Islâmic Monotheism and all that Islâm orders one to do), and forbid Al-Munkar (i.e. disbelief, polytheism and all that Islâm has forbidden) [i.e. they make the Qur’ân as the law of their country in all the spheres of life]. And with Allâh rests the end of (all) matters (of creatures).",
+            "english_rwwad": "It is those who, if We give them power in the land, they establish prayer and give zakah, and enjoin what is right and forbid what is wrong. And to Allah belongs the outcome of all matters."
+        }
+    },
+    {
+        "id": 2636,
+        "chapter": 22,
+        "verse": 42,
+        "arabic_text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَثَمُودُ",
+        "phonetic": "22.42 Wa 'In Yukadhibūka Faqad Kadhabat Qablahum Qawmu Nūĥin Wa `Ādun Wa Thamūdu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets],",
+            "english_hilali_khan": "And if they belie you (O Muhammad صلى الله عليه وسلم), so did belie before them, the people of Nûh (Noah), ‘Âd and Thamûd, (their Prophets).",
+            "english_rwwad": "If they reject you [O Prophet], the people of Noah, ‘Ād and Thamūd before them also rejected [their prophets],"
+        }
+    },
+    {
+        "id": 2637,
+        "chapter": 22,
+        "verse": 43,
+        "arabic_text": "وَقَوۡمُ إِبۡرَٰهِيمَ وَقَوۡمُ لُوطٖ",
+        "phonetic": "22.43 Wa Qawmu 'Ibrāhīma Wa Qawmu Lūţin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the people of Abraham and the people of Lot.",
+            "english_hilali_khan": "And the people of Ibrâhîm (Abraham) and the people of Lût (Lot),",
+            "english_rwwad": "as did the people of Abraham and the people of Lot,"
+        }
+    },
+    {
+        "id": 2638,
+        "chapter": 22,
+        "verse": 44,
+        "arabic_text": "وَأَصۡحَٰبُ مَدۡيَنَۖ وَكُذِّبَ مُوسَىٰۖ فَأَمۡلَيۡتُ لِلۡكَٰفِرِينَ ثُمَّ أَخَذۡتُهُمۡۖ فَكَيۡفَ كَانَ نَكِيرِ",
+        "phonetic": "22.44 Wa 'Aşĥābu Madyana Wa Kudhiba Mūsá Fa'amlaytu Lilkāfirīna Thumma 'Akhadhtuhum Fakayfa Kāna Nakīri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the inhabitants of Madyan. And Moses was denied, so I prolonged enjoyment for the disbelievers; then I seized them, and how [terrible] was My reproach.",
+            "english_hilali_khan": "And the dwellers of Madyan (Midian); and belied was Mûsâ (Moses). But I granted respite to the disbelievers for a while, then I seized them, and how (terrible) was My punishment (against their wrong-doing)!",
+            "english_rwwad": "and the people of Midian. And Moses was [also] rejected. But I gave respite to the disbelievers, then I seized them. How severe was My response!"
+        }
+    },
+    {
+        "id": 2639,
+        "chapter": 22,
+        "verse": 45,
+        "arabic_text": "فَكَأَيِّن مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا وَهِيَ ظَالِمَةٞ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئۡرٖ مُّعَطَّلَةٖ وَقَصۡرٖ مَّشِيدٍ",
+        "phonetic": "22.45 Faka'ayyin Min Qaryatin 'Ahlaknāhā Wa Hiya Žālimatun Fahiya Khāwiyatun `Alá `Urūshihā Wa Bi'rin Mu`aţţalatin Wa Qaşrin Mashīdin",
+        "footnotes": {
+            "english_saheeh": "[930]- Literally, \"fallen in upon its roofs,\" i.e., after the roofs of its buildings had caved in, the walls collapsed over them.\n[931]- i.e., How many wells have been left inoperative, and how many palaces have been emptied of their occupants in the past.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And how many a city did We destroy while it was committing wrong - so it is [now] fallen into ruin[930] - and [how many] an abandoned well and [how many] a lofty palace.[931]",
+            "english_hilali_khan": "And many a township did We destroy while it was given to wrong-doing, so that it lies in ruins (up to this day), and (many) a deserted well and lofty castle!",
+            "english_rwwad": "How many towns We have destroyed for their persistent wrongdoing, leaving them in total ruin; their wells abandoned and their lofty palaces deserted!"
+        }
+    },
+    {
+        "id": 2640,
+        "chapter": 22,
+        "verse": 46,
+        "arabic_text": "أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَتَكُونَ لَهُمۡ قُلُوبٞ يَعۡقِلُونَ بِهَآ أَوۡ ءَاذَانٞ يَسۡمَعُونَ بِهَاۖ فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَٰرُ وَلَٰكِن تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِي فِي ٱلصُّدُورِ",
+        "phonetic": "22.46 'Afalam Yasīrū Fī Al-'Arđi Fatakūna Lahum Qulūbun Ya`qilūna Bihā 'Aw 'Ādhānun Yasma`ūna Bihā Fa'innahā Lā Ta`má Al-'Abşāru Wa Lakin Ta`má Al-Qulūbu Allatī Fī Aş-Şudūri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So have they not traveled through the earth and have hearts by which to reason and ears by which to hear? For indeed, it is not eyes that are blinded, but blinded are the hearts which are within the breasts.",
+            "english_hilali_khan": "Have they not travelled through the land, and have they hearts wherewith to understand and ears wherewith to hear? Verily, it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind.",
+            "english_rwwad": "Have they not traveled through the land so that their hearts might understand and their ears might listen? It is not the eyes that turn blind, but it is the hearts within the breasts that turn blind."
+        }
+    },
+    {
+        "id": 2641,
+        "chapter": 22,
+        "verse": 47,
+        "arabic_text": "وَيَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَن يُخۡلِفَ ٱللَّهُ وَعۡدَهُۥۚ وَإِنَّ يَوۡمًا عِندَ رَبِّكَ كَأَلۡفِ سَنَةٖ مِّمَّا تَعُدُّونَ",
+        "phonetic": "22.47 Wa Yasta`jilūnaka Bil-`Adhābi Wa Lan Yukhlifa Allāhu Wa`dahu Wa 'Inna Yawmāan `Inda Rabbika Ka'alfi Sanatin Mimmā Ta`uddūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they urge you to hasten the punishment. But Allāh will never fail in His promise. And indeed, a day with your Lord is like a thousand years of those which you count.",
+            "english_hilali_khan": "And they ask you to hasten on the torment! And Allâh fails not His Promise. And verily, a day with your Lord is as a thousand years of what you reckon.",
+            "english_rwwad": "They ask you to hasten the punishment, but Allah will not fail in His promise. A single day with your Lord is like one thousand years by your count."
+        }
+    },
+    {
+        "id": 2642,
+        "chapter": 22,
+        "verse": 48,
+        "arabic_text": "وَكَأَيِّن مِّن قَرۡيَةٍ أَمۡلَيۡتُ لَهَا وَهِيَ ظَالِمَةٞ ثُمَّ أَخَذۡتُهَا وَإِلَيَّ ٱلۡمَصِيرُ",
+        "phonetic": "22.48 Wa Ka'ayyin Min Qaryatin 'Amlaytu Lahā Wa Hiya Žālimatun Thumma 'Akhadhtuhā Wa 'Ilayya Al-Maşīru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And for how many a city did I prolong enjoyment while it was committing wrong. Then I seized it, and to Me is the [final] destination.",
+            "english_hilali_khan": "And many a township did I give respite while it was given to wrong-doing. Then (in the end) I seized it (with punishment). And to Me is the (final) return (of all).",
+            "english_rwwad": "to how many towns did I give respite when they were wrongdoers, then I seized them. And to Me is the final return."
+        }
+    },
+    {
+        "id": 2643,
+        "chapter": 22,
+        "verse": 49,
+        "arabic_text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمۡ نَذِيرٞ مُّبِينٞ",
+        "phonetic": "22.49 Qul Yā 'Ayyuhā An-Nāsu 'Innamā 'Anā Lakum Nadhīrun Mubīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Say, \"O people, I am only to you a clear warner.\"",
+            "english_hilali_khan": "Say (O Muhammad صلى الله عليه وسلم): \"O mankind! I am (sent) to you only as a plain warner.\"",
+            "english_rwwad": "Say, “O people, I am only sent to you as a clear warner."
+        }
+    },
+    {
+        "id": 2644,
+        "chapter": 22,
+        "verse": 50,
+        "arabic_text": "فَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
+        "phonetic": "22.50 Fa-Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Lahum Maghfiratun Wa Rizqun Karīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And those who have believed and done righteous deeds - for them is forgiveness and noble provision.",
+            "english_hilali_khan": "So those who believe (in the Oneness of Allâh - Islâmic Monotheism) and do righteous good deeds, for them is forgiveness and Rizqun Karîm (generous provision, i.e. Paradise).",
+            "english_rwwad": "Those who believe and do righteous deeds will have forgiveness and a generous provision."
+        }
+    },
+    {
+        "id": 2645,
+        "chapter": 22,
+        "verse": 51,
+        "arabic_text": "وَٱلَّذِينَ سَعَوۡاْ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ",
+        "phonetic": "22.51 Wa Al-Ladhīna Sa`aw Fī 'Āyātinā Mu`ājizīna 'Ūlā'ika 'Aşĥābu Al-Jaĥīmi",
+        "footnotes": {
+            "english_saheeh": "[932]- i.e., trying to undermine their credibility and thereby defeat the Prophet (ﷺ).",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But the ones who strove against Our verses, [seeking] to cause failure[932] - those are the companions of Hellfire.",
+            "english_hilali_khan": "But those who strive against Our Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.), to frustrate them, they will be dwellers of the Hell-fire.",
+            "english_rwwad": "But those who strive to discredit Our verses, they are the people of the Blazing Fire.”"
+        }
+    },
+    {
+        "id": 2646,
+        "chapter": 22,
+        "verse": 52,
+        "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٖ وَلَا نَبِيٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلۡقَى ٱلشَّيۡطَٰنُ فِيٓ أُمۡنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلۡقِي ٱلشَّيۡطَٰنُ ثُمَّ يُحۡكِمُ ٱللَّهُ ءَايَٰتِهِۦۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+        "phonetic": "22.52 Wa Mā 'Arsalnā Min Qablika Min Rasūlin Wa Lā Nabīyin 'Illā 'Idhā Tamanná 'Alqá Ash-Shayţānu Fī 'Umnīyatihi Fayansakhu Allāhu Mā Yulqī Ash-Shayţānu Thumma Yuĥkimu Allāhu 'Āyātihi Wa Allāhu `Alīmun Ĥakīmun",
+        "footnotes": {
+            "english_saheeh": "[933]- Clarifying those issues which were misunderstood to remove any doubt.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And We did not send before you any messenger or prophet except that when he spoke [or recited], Satan threw into it [some misunderstanding]. But Allāh abolishes that which Satan throws in; then Allāh makes precise His verses.[933] And Allāh is Knowing and Wise.",
+            "english_hilali_khan": "Never did We send a Messenger or a Prophet before you but when he did recite the revelation or narrated or spoke, Shaitân (Satan) threw (some falsehood) in it. But Allâh abolishes that which Shaitân (Satan) throws in. Then Allâh establishes His Revelations. And Allâh is All-Knower, All-Wise:",
+            "english_rwwad": "We did not send any messenger or prophet before you except that when he recited, Satan would cast into it. But Allah would abolish what Satan casts, then Allah would confirm His verses, for Allah is All-Knowing, All-Wise."
+        }
+    },
+    {
+        "id": 2647,
+        "chapter": 22,
+        "verse": 53,
+        "arabic_text": "لِّيَجۡعَلَ مَا يُلۡقِي ٱلشَّيۡطَٰنُ فِتۡنَةٗ لِّلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡقَاسِيَةِ قُلُوبُهُمۡۗ وَإِنَّ ٱلظَّٰلِمِينَ لَفِي شِقَاقِۭ بَعِيدٖ",
+        "phonetic": "22.53 Liyaj`ala Mā Yulqī Ash-Shayţānu Fitnatan Lilladhīna Fī Qulūbihim Marađun Wa Al-Qāsiyati Qulūbuhum Wa 'Inna Až-Žālimīna Lafī Shiqāqin Ba`īdin ",
+        "footnotes": {
+            "english_saheeh": "[934]- See footnote to 2:10.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[That is] so He may make what Satan throws in [i.e., asserts] a trial for those within whose hearts is disease[934] and those hard of heart. And indeed, the wrongdoers are in extreme dissension.",
+            "english_hilali_khan": "That He (Allâh) may make what is thrown in by Shaitân (Satan) a trial for those in whose hearts is a disease (of hypocrisy and disbelief) and whose hearts are hardened. And certainly, the Zalimûn (polytheists and wrong-doers) are in an opposition far-off (from the truth against Allâh’s Messenger and the believers).",
+            "english_rwwad": "[That is] so that He may make what Satan casts a trial for those [hypocrites] whose hearts are sick and those [disbelievers] whose hearts are hardened, for indeed the wrongdoers are in extreme dissension."
+        }
+    },
+    {
+        "id": 2648,
+        "chapter": 22,
+        "verse": 54,
+        "arabic_text": "وَلِيَعۡلَمَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ فَيُؤۡمِنُواْ بِهِۦ فَتُخۡبِتَ لَهُۥ قُلُوبُهُمۡۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓاْ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+        "phonetic": "22.54 Wa Liya`lama Al-Ladhīna 'Ūtū Al-`Ilma 'Annahu Al-Ĥaqqu Min Rabbika Fayu'uminū Bihi Fatukhbita Lahu Qulūbuhum Wa 'Inna Allāha Lahādi Al-Ladhīna 'Āmanū 'Ilá Şirāţin Mustaqīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And so those who were given knowledge may know that it is the truth from your Lord and [therefore] believe in it, and their hearts humbly submit to it. And indeed is Allāh the Guide of those who have believed to a straight path.",
+            "english_hilali_khan": "And that those who have been given knowledge may know that it (this Qur’ân) is the truth from your Lord, so that they may believe therein, and their hearts may submit to it with humility. And verily, Allâh is the Guide of those who believe, to the Straight Path.",
+            "english_rwwad": "And so that those who were given knowledge may know that this [Qur’an] is the truth from your Lord, so they may believe in it and their hearts may become humbled to it. Allah surely guides those who believe to the straight path."
+        }
+    },
+    {
+        "id": 2649,
+        "chapter": 22,
+        "verse": 55,
+        "arabic_text": "وَلَا يَزَالُ ٱلَّذِينَ كَفَرُواْ فِي مِرۡيَةٖ مِّنۡهُ حَتَّىٰ تَأۡتِيَهُمُ ٱلسَّاعَةُ بَغۡتَةً أَوۡ يَأۡتِيَهُمۡ عَذَابُ يَوۡمٍ عَقِيمٍ",
+        "phonetic": "22.55 Wa Lā Yazālu Al-Ladhīna Kafarū Fī Miryatin Minhu Ĥattá Ta'tiyahumu As-Sā`atu Baghtatan 'Aw Ya'tiyahum `Adhābu Yawmin `Aqīmin",
+        "footnotes": {
+            "english_saheeh": "[935]- One which will not be followed by night and therefore will not give birth to a new day, referring to the Day of Resurrection.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But those who disbelieve will not cease to be in doubt of it until the Hour comes upon them unexpectedly or there comes to them the punishment of a barren Day.[935]",
+            "english_hilali_khan": "And those who disbelieved will not cease to be in doubt about it (this Qur’ân) until the Hour comes suddenly upon them, or there comes to them the torment of the Day after which there will be no night (i.e. the Day of Resurrection).",
+            "english_rwwad": "Yet the disbelievers will persist in doubt about it until the Hour comes upon them suddenly or there comes upon them the punishment of a Day devoid of all hope."
+        }
+    },
+    {
+        "id": 2650,
+        "chapter": 22,
+        "verse": 56,
+        "arabic_text": "ٱلۡمُلۡكُ يَوۡمَئِذٖ لِّلَّهِ يَحۡكُمُ بَيۡنَهُمۡۚ فَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فِي جَنَّٰتِ ٱلنَّعِيمِ",
+        "phonetic": "22.56 Al-Mulku Yawma'idhin Lillāhi Yaĥkumu Baynahum Fa-Al-Ladhīna 'Āmanū Wa `Amilū Aş-Şāliĥāti Fī Jannāti An-Na`īmi",
+        "footnotes": {
+            "english_saheeh": "[936]- None will compete with Him for authority at that time.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[All] sovereignty that Day is for Allāh;[936] He will judge between them. So they who believed and did righteous deeds will be in the Gardens of Pleasure.",
+            "english_hilali_khan": "The sovereignty on that Day will be that of Allâh (the One Who has no partners). He will judge between them. So those who believed (in the Oneness of Allâh - Islâmic Monotheism) and did righteous good deeds will be in Gardens of delight (Paradise).",
+            "english_rwwad": "The sovereignty on that Day belongs to Allah; He will judge between them, then those who believed and did righteous deeds will be in the Gardens of Bliss."
+        }
+    },
+    {
+        "id": 2651,
+        "chapter": 22,
+        "verse": 57,
+        "arabic_text": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَا فَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٞ مُّهِينٞ",
+        "phonetic": "22.57 Wa Al-Ladhīna Kafarū Wa Kadhabū Bi'āyātinā Fa'ūlā'ika Lahum `Adhābun Muhīnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they who disbelieved and denied Our signs - for those there will be a humiliating punishment.",
+            "english_hilali_khan": "And those who disbelieved and belied Our Verses (of this Qur’ân), for them will be a humiliating torment (in Hell).",
+            "english_rwwad": "But those who disbelieve and reject Our verses, for them there will be a humiliating punishment."
+        }
+    },
+    {
+        "id": 2652,
+        "chapter": 22,
+        "verse": 58,
+        "arabic_text": "وَٱلَّذِينَ هَاجَرُواْ فِي سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓاْ أَوۡ مَاتُواْ لَيَرۡزُقَنَّهُمُ ٱللَّهُ رِزۡقًا حَسَنٗاۚ وَإِنَّ ٱللَّهَ لَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ",
+        "phonetic": "22.58 Wa Al-Ladhīna Hājarū Fī Sabīli Allāhi Thumma Qutilū 'Aw Mātū Layarzuqannahumu Allāhu Rizqāan Ĥasanāan Wa 'Inna Allāha Lahuwa Khayru Ar-Rāziqīna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And those who emigrated for the cause of Allāh and then were killed or died - Allāh will surely provide for them a good provision. And indeed, it is Allāh who is the best of providers.",
+            "english_hilali_khan": "Those who emigrated in the Cause of Allâh and after that were killed or died, surely, Allâh will provide a good provision for them. And verily, it is Allâh Who indeed is the Best of those who make provision.",
+            "english_rwwad": "As for those who emigrate in the cause of Allah and are killed or died, Allah will surely give them a goodly provision. Indeed, Allah is the Best of Providers."
+        }
+    },
+    {
+        "id": 2653,
+        "chapter": 22,
+        "verse": 59,
+        "arabic_text": "لَيُدۡخِلَنَّهُم مُّدۡخَلٗا يَرۡضَوۡنَهُۥۚ وَإِنَّ ٱللَّهَ لَعَلِيمٌ حَلِيمٞ",
+        "phonetic": "22.59 Layudkhilannahum Mudkhalāan Yarđawnahu Wa 'Inna Allāha La`alīmun Ĥalīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He will surely cause them to enter an entrance with which they will be pleased, and indeed, Allāh is Knowing and Forbearing.",
+            "english_hilali_khan": "Truly, He will make them enter an entrance with which they shall be well-pleased, and verily, Allâh indeed is All-Knowing, Most Forbearing.",
+            "english_rwwad": "He will surely admit them to a place that they will be pleased with, and Allah is surely All-Knowing, Most Forbearing."
+        }
+    },
+    {
+        "id": 2654,
+        "chapter": 22,
+        "verse": 60,
+        "arabic_text": "۞ ذَٰلِكَۖ وَمَنۡ عَاقَبَ بِمِثۡلِ مَا عُوقِبَ بِهِۦ ثُمَّ بُغِيَ عَلَيۡهِ لَيَنصُرَنَّهُ ٱللَّهُۚ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٞ",
+        "phonetic": "22.60 Dhālika Wa Man `Āqaba Bimithli Mā `Ūqiba Bihi Thumma Bughiya `Alayhi Layanşurannahu Allāhu 'Inna Allāha La`afūwun Ghafūrun",
+        "footnotes": {
+            "english_saheeh": "[937]- In spite of His ability to take vengeance. The statement contains a suggestion that the believers pardon as well.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That [is so]. And whoever responds [to injustice] with the equivalent of that with which he was harmed and then is tyrannized - Allāh will surely aid him. Indeed, Allāh is Pardoning and Forgiving.[937]",
+            "english_hilali_khan": "That is so. And whoever has retaliated with the like of that which he was made to suffer, and then has again been wronged, Allâh will surely help him. Verily Allâh indeed is Oft-Pardoning, Oft-Forgiving.",
+            "english_rwwad": "That is so. Whoever retaliates against an aggressive act with its like and is wronged again, Allah will surely help him. Indeed, Allah is Ever-Pardoning, All-Forgiving."
+        }
+    },
+    {
+        "id": 2655,
+        "chapter": 22,
+        "verse": 61,
+        "arabic_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ وَأَنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ",
+        "phonetic": "22.61 Dhālika Bi'anna Allāha Yūliju Al-Layla Fī An-Nahāri Wa Yūliju An-Nahāra Fī Al-Layli Wa 'Anna Allāha Samī`un Başīrun",
+        "footnotes": {
+            "english_saheeh": "[938]- i.e., Allāh's capability to give assistance or victory to the oppressed.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That[938] is because Allāh causes the night to enter the day and causes the day to enter the night and because Allāh is Hearing and Seeing.",
+            "english_hilali_khan": "That is because Allâh merges the night into the day, and He merges the day into the night. And verily, Allâh is All-Hearer, All-Seer.",
+            "english_rwwad": "That is because it is Allah Who causes the night to merge into the day, and causes the day to merge into the night. And Allah is All-Hearing, All-Seeing."
+        }
+    },
+    {
+        "id": 2656,
+        "chapter": 22,
+        "verse": 62,
+        "arabic_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِۦ هُوَ ٱلۡبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
+        "phonetic": "22.62 Dhālika Bi'anna Allāha Huwa Al-Ĥaqqu Wa 'Anna Mā Yad`ūna Min Dūnihi Huwa Al-Bāţilu Wa 'Anna Allāha Huwa Al-`Alīyu Al-Kabīru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That is because Allāh is the True Reality, and that which they call upon other than Him is falsehood, and because Allāh is the Most High, the Grand.",
+            "english_hilali_khan": "That is because Allâh - He is the Truth (the only True God of all that exists, Who has no partners or rivals with Him), and what they (the polytheists) invoke besides Him, it is Bâtil (falsehood). And verily, Allâh - He is the Most High, the Most Great.",
+            "english_rwwad": "That is because it is Allah Who is the Truth and whatever they invoke besides Him is falsehood, and it is Allah Who is the Most High, the Most Great."
+        }
+    },
+    {
+        "id": 2657,
+        "chapter": 22,
+        "verse": 63,
+        "arabic_text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَتُصۡبِحُ ٱلۡأَرۡضُ مُخۡضَرَّةًۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٞ",
+        "phonetic": "22.63 'Alam Tará 'Anna Allāha 'Anzala Mina As-Samā'i Mā'an Fatuşbiĥu Al-'Arđu Mukhđarratan 'Inna Allāha Laţīfun Khabīrun",
+        "footnotes": {
+            "english_saheeh": "[939]- Refer to footnote of 6:103.\n[940]- Of His creation and of the needs of His creatures.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Do you not see that Allāh has sent down rain from the sky and the earth becomes green? Indeed, Allāh is Subtle[939] and Aware.[940]",
+            "english_hilali_khan": "See you not that Allâh sends down water (rain) from the sky, and then the earth becomes green? Verily, Allâh is the Most Kind and Courteous, Well-Acquainted with all things.",
+            "english_rwwad": "Do you not see that Allah sends down rain from the sky whereupon the earth becomes green? Indeed, Allah is Most Subtle, All-Aware."
+        }
+    },
+    {
+        "id": 2658,
+        "chapter": 22,
+        "verse": 64,
+        "arabic_text": "لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
+        "phonetic": "22.64 Lahu Mā Fī As-Samāwāti Wa Mā Fī Al-'Arđi Wa 'Inna Allāha Lahuwa Al-Ghanīyu Al-Ĥamīdu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "To Him belongs what is in the heavens and what is on the earth. And indeed, Allāh is the Free of need, the Praiseworthy.",
+            "english_hilali_khan": "To Him belongs all that is in the heavens and all that is on the earth. And verily, Allâh - He is Rich (Free of all needs), Worthy of all praise.",
+            "english_rwwad": "To Him belongs all that is in the heavens and all that is on earth, and indeed it is Allah Who is the Self-Sufficient, the Praiseworthy."
+        }
+    },
+    {
+        "id": 2659,
+        "chapter": 22,
+        "verse": 65,
+        "arabic_text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِي ٱلۡأَرۡضِ وَٱلۡفُلۡكَ تَجۡرِي فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦ وَيُمۡسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلۡأَرۡضِ إِلَّا بِإِذۡنِهِۦٓۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
+        "phonetic": "22.65 'Alam Tará 'Anna Allāha Sakhkhara Lakum Mā Fī Al-'Arđi Wa Al-Fulka Tajrī Fī Al-Baĥri Bi'amrihi Wa Yumsiku As-Samā'a 'An Taqa`a `Alá Al-'Arđi 'Illā Bi'idhnihi 'Inna Allāha Bin-Nāsi Lara'ūfun Raĥīmun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Do you not see that Allāh has subjected to you whatever is on the earth and the ships which run through the sea by His command? And He restrains the sky from falling upon the earth, unless by His permission. Indeed Allāh, to the people, is Kind and Merciful.",
+            "english_hilali_khan": "See you not that Allâh has subjected to you (mankind) all that is on the earth, and the ships that sail through the sea by His Command? He withholds the heaven from falling on the earth except by His Leave. Verily, Allâh is, for mankind, Full of Kindness, Most Merciful.",
+            "english_rwwad": "Do you not see that Allah has subjected to you all that is on the earth, and the ships that sail through the sea by His command? He holds the sky from falling down on the earth except by His permission. Indeed, Allah is Ever Gracious and Most Merciful to people."
+        }
+    },
+    {
+        "id": 2660,
+        "chapter": 22,
+        "verse": 66,
+        "arabic_text": "وَهُوَ ٱلَّذِيٓ أَحۡيَاكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡۗ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ",
+        "phonetic": "22.66 Wa Huwa Al-Ladhī 'Aĥyākum Thumma Yumītukum Thumma Yuĥyīkum 'Inna Al-'Insāna Lakafūrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And He is the one who gave you life; then He causes you to die and then will [again] give you life. Indeed, mankind is ungrateful.",
+            "english_hilali_khan": "It is He, Who gave you life, and then will cause you to die, and will again give you life (on the Day of Resurrection). Verily man is indeed an ingrate.",
+            "english_rwwad": "It is He Who gave you life, then will cause you to die, then He will bring you back to life. Indeed, man is ever ungrateful."
+        }
+    },
+    {
+        "id": 2661,
+        "chapter": 22,
+        "verse": 67,
+        "arabic_text": "لِّكُلِّ أُمَّةٖ جَعَلۡنَا مَنسَكًا هُمۡ نَاسِكُوهُۖ فَلَا يُنَٰزِعُنَّكَ فِي ٱلۡأَمۡرِۚ وَٱدۡعُ إِلَىٰ رَبِّكَۖ إِنَّكَ لَعَلَىٰ هُدٗى مُّسۡتَقِيمٖ",
+        "phonetic": "22.67 Likulli 'Ummatin Ja`alnā Mansakāan Hum Nāsikūhu Falā Yunāzi`unnaka Fī Al-'Amri Wa Ad`u 'Ilá Rabbika 'Innaka La`alá Hudáan Mustaqīmin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "For every [religious] community We have appointed rites which they perform. So, [O Muḥammad], let them [i.e., the disbelievers] not contend with you over the matter but invite [them] to your Lord. Indeed, you are upon straight guidance.",
+            "english_hilali_khan": "For every nation We have ordained religious ceremonies [e.g. slaughtering of the cattle during the three days of stay at Mîna (Makkah) during the Hajj (pilgrimage)] which they must follow; so let them (the pagans) not dispute with you on the matter (i.e. to eat of the cattle which you slaughter, and not to eat of the cattle which Allâh kills by its natural death), but invite them to your Lord. Verily you (O Muhammad صلى الله عليه وسلم) indeed are on the (true) straight guidance (i.e. the true religion of Islâmic Monotheism).",
+            "english_rwwad": "For every community We ordained ways of worship which they follow, so do not let them dispute with you [O Prophet] in this matter. But call them to your Lord, for you are indeed on the straight guidance."
+        }
+    },
+    {
+        "id": 2662,
+        "chapter": 22,
+        "verse": 68,
+        "arabic_text": "وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعۡلَمُ بِمَا تَعۡمَلُونَ",
+        "phonetic": "22.68 Wa 'In Jādalūka Faquli Allāhu 'A`lamu Bimā Ta`malūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And if they dispute with you, then say, \"Allāh is most knowing of what you do.",
+            "english_hilali_khan": "And if they argue with you (as regards the slaughtering of the sacrifices), say \"Allâh knows best of what you do.",
+            "english_rwwad": "And if they argue with you, say, “Allah knows best what you are doing.”"
+        }
+    },
+    {
+        "id": 2663,
+        "chapter": 22,
+        "verse": 69,
+        "arabic_text": "ٱللَّهُ يَحۡكُمُ بَيۡنَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+        "phonetic": "22.69 Allāhu Yaĥkumu Baynakum Yawma Al-Qiyāmati Fīmā Kuntum Fīhi Takhtalifūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Allāh will judge between you on the Day of Resurrection concerning that over which you used to differ.\"",
+            "english_hilali_khan": "\"Allâh will judge between you on the Day of Resurrection about that wherein you used to differ.\"",
+            "english_rwwad": "Allah will judge between you on the Day of Resurrection concerning that over which you used to differ."
+        }
+    },
+    {
+        "id": 2664,
+        "chapter": 22,
+        "verse": 70,
+        "arabic_text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِنَّ ذَٰلِكَ فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
+        "phonetic": "22.70 'Alam Ta`lam 'Anna Allāha Ya`lamu Mā Fī As-Samā'i Wa Al-'Arđi 'Inna Dhālika Fī Kitābin 'Inna Dhālika `Alá Allāhi Yasīrun",
+        "footnotes": {
+            "english_saheeh": "[941]- The Preserved Slate (al-Lawḥ al-Maḥfūẓ), which is with Allāh.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Do you not know that Allāh knows what is in the heaven and earth? Indeed, that is in a Record.[941] Indeed that, for Allāh, is easy.",
+            "english_hilali_khan": "Know you not that Allâh knows all that is in the heaven and on the earth? Verily, it is (all) in the Book (Al-Lauh-al-Mahfûz). Verily that is easy for Allâh.",
+            "english_rwwad": "Do you not know that Allah knows all that is in the heaven and on earth? That is all [written] in a Record. This is indeed easy for Allah."
+        }
+    },
+    {
+        "id": 2665,
+        "chapter": 22,
+        "verse": 71,
+        "arabic_text": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗا وَمَا لَيۡسَ لَهُم بِهِۦ عِلۡمٞۗ وَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٖ",
+        "phonetic": "22.71 Wa Ya`budūna Min Dūni Allāhi Mā Lam Yunazzil Bihi Sulţānāan Wa Mā Laysa Lahum Bihi `Ilmun Wa Mā Lilžžālimīna Min Naşīrin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And they worship besides Allāh that for which He has not sent down authority and that of which they have no knowledge. And there will not be for the wrongdoers any helper.",
+            "english_hilali_khan": "And they worship besides Allâh others for which He has sent down no authority, and of which they have no knowledge; and for the Zâlimûn (wrong-doers, polytheists and disbelievers in the Oneness of Allâh) there is no helper.",
+            "english_rwwad": "Yet they worship other than Allah that for which He has not sent down any authority, and of which they have no knowledge. The wrongdoers will have no helper."
+        }
+    },
+    {
+        "id": 2666,
+        "chapter": 22,
+        "verse": 72,
+        "arabic_text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ تَعۡرِفُ فِي وُجُوهِ ٱلَّذِينَ كَفَرُواْ ٱلۡمُنكَرَۖ يَكَادُونَ يَسۡطُونَ بِٱلَّذِينَ يَتۡلُونَ عَلَيۡهِمۡ ءَايَٰتِنَاۗ قُلۡ أَفَأُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكُمُۚ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُواْۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+        "phonetic": "22.72 Wa 'Idhā Tutlá `Alayhim 'Āyātunā Bayyinātin Ta`rifu Fī Wujūhi Al-Ladhīna Kafarū Al-Munkara Yakādūna Yasţūna Bial-Ladhīna Yatlūna `Alayhim 'Āyātinā Qul 'Afa'unabbi'ukum Bisharrin Min Dhalikumu An-Nāru Wa`adahā Allāhu Al-Ladhīna Kafarū Wa Bi'sa Al-Maşīru",
+        "footnotes": {
+            "english_saheeh": "[942]- i.e., worse than the rage you feel against those who recite Allāh's verses or worse than your threats against them.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when Our verses are recited to them as clear evidences, you recognize in the faces of those who disbelieve disapproval. They are almost on the verge of assaulting those who recite to them Our verses. Say, \"Then shall I inform you of [what is] worse than that?[942] [It is] the Fire which Allāh has promised those who disbelieve, and wretched is the destination.\"",
+            "english_hilali_khan": "And when Our Clear Verses are recited to them, you will notice a denial on the faces of the disbelievers! They are nearly ready to attack with violence those who recite Our Verses to them. Say: \"Shall I tell you of something worse than that? The Fire (of Hell) which Allâh has promised to those who disbelieved, and worst indeed is that destination!\"",
+            "english_rwwad": "When Our verses are recited to them clearly, you notice disgust on the faces of the disbelievers, as if they are about to attack those who recite Our verses to them. Say, “Shall I inform you of something worse than what you feel at present? It is the Fire! Allah has promised it to those who disbelieve; what a terrible destination!"
+        }
+    },
+    {
+        "id": 2667,
+        "chapter": 22,
+        "verse": 73,
+        "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٞ فَٱسۡتَمِعُواْ لَهُۥٓۚ إِنَّ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ لَن يَخۡلُقُواْ ذُبَابٗا وَلَوِ ٱجۡتَمَعُواْ لَهُۥۖ وَإِن يَسۡلُبۡهُمُ ٱلذُّبَابُ شَيۡـٔٗا لَّا يَسۡتَنقِذُوهُ مِنۡهُۚ ضَعُفَ ٱلطَّالِبُ وَٱلۡمَطۡلُوبُ",
+        "phonetic": "22.73 Yā 'Ayyuhā An-Nāsu Đuriba Mathalun Fāstami`ū Lahu 'Inna Al-Ladhīna Tad`ūna Min Dūni Allāhi Lan Yakhluqū Dhubābāan Wa Lawi Ajtama`ū Lahu Wa 'In Yaslubhumu Adh-Dhubābu Shay'āan Lā Yastanqidhūhu Minhu Đa`ufa Aţ-Ţālibu Wa Al-Maţlūbu",
+        "footnotes": {
+            "english_saheeh": "[943]- A comparison is made here to the worshipper of a false deity and that which he worships.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O people, an example is presented, so listen to it. Indeed, those you invoke besides Allāh will never create [as much as] a fly, even if they gathered together for it [i.e., that purpose]. And if the fly should steal from them a [tiny] thing, they could not recover it from him. Weak are the pursuer and pursued.[943]",
+            "english_hilali_khan": "O mankind! A similitude has been coined, so listen to it (carefully): Verily those on whom you call besides Allâh, cannot create (even) a fly, even though they combine together for the purpose. And if the fly snatches away a thing from them, they will have no power to release it from the fly. So weak are (both) the seeker and the sought.",
+            "english_rwwad": "O people, a similitude is set forth, so listen to it: those whom you invoke besides Allah can never create even a fly, even if they all come together for that. And if a fly snatches something away from them, they cannot retrieve it. How feeble is the invoker as well as the invoked!"
+        }
+    },
+    {
+        "id": 2668,
+        "chapter": 22,
+        "verse": 74,
+        "arabic_text": "مَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
+        "phonetic": "22.74 Mā Qadarū Allāha Ĥaqqa Qadrihi 'Inna Allāha Laqawīyun `Azīzun",
+        "footnotes": {
+            "english_saheeh": "[944]- They have not assessed Him with the assessment due to Him, meaning that they did not take into account His perfect attributes.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They have not appraised Allāh with true appraisal.[944] Indeed, Allāh is Powerful and Exalted in Might.",
+            "english_hilali_khan": "They have not estimated Allâh His Rightful Estimate. Verily, Allâh is All-Strong, All-Mighty.",
+            "english_rwwad": "They have not revered Allah the reverence He deserves. Indeed, Allah is All-Powerful, All-Mighty."
+        }
+    },
+    {
+        "id": 2669,
+        "chapter": 22,
+        "verse": 75,
+        "arabic_text": "ٱللَّهُ يَصۡطَفِي مِنَ ٱلۡمَلَٰٓئِكَةِ رُسُلٗا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ",
+        "phonetic": "22.75 Allāhu Yaşţafī Mina Al-Malā'ikati Rusulāan Wa Mina An-Nāsi 'Inna Allāha Samī`un Başīrun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Allāh chooses from the angels messengers and from the people. Indeed, Allāh is Hearing and Seeing.",
+            "english_hilali_khan": "Allâh chooses Messengers from angels and from men. Verily, Allâh is All-Hearer, All-Seer.",
+            "english_rwwad": "Allah chooses messengers from the angels and from mankind. Indeed, Allah is All-Hearing, All-Seeing."
+        }
+    },
+    {
+        "id": 2670,
+        "chapter": 22,
+        "verse": 76,
+        "arabic_text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+        "phonetic": "22.76 Ya`lamu Mā Bayna 'Aydīhim Wa Mā Khalfahum Wa 'Ilá Allāhi Turja`u Al-'Umūru",
+        "footnotes": {
+            "english_saheeh": "[945]- See footnote to 2:255.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He knows what is [presently] before them and what will be after them.[945] And to Allāh will be returned [all] matters.",
+            "english_hilali_khan": "He knows what is before them, and what is behind them. And to Allâh return all matters (for decision).",
+            "english_rwwad": "He knows all that is ahead of them and all that is behind them, and to Allah returns all matters."
+        }
+    },
+    {
+        "id": 2671,
+        "chapter": 22,
+        "verse": 77,
+        "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱرۡكَعُواْ وَٱسۡجُدُواْۤ وَٱعۡبُدُواْ رَبَّكُمۡ وَٱفۡعَلُواْ ٱلۡخَيۡرَ لَعَلَّكُمۡ تُفۡلِحُونَ۩",
+        "phonetic": "22.77 Yā 'Ayyuhā Al-Ladhīna 'Āmanū Arka`ū Wa Asjudū Wa A`budū Rabbakum Wa Af`alū Al-Khayra La`allakum Tufliĥūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed.",
+            "english_hilali_khan": "O you who have believed! Bow down, and prostrate yourselves, and worship your Lord and do good that you may be successful.",
+            "english_rwwad": "O you who believe, bow down and prostrate, worship Your Lord and do good, so that you may succeed."
+        }
+    },
+    {
+        "id": 2672,
+        "chapter": 22,
+        "verse": 78,
+        "arabic_text": "وَجَٰهِدُواْ فِي ٱللَّهِ حَقَّ جِهَادِهِۦۚ هُوَ ٱجۡتَبَىٰكُمۡ وَمَا جَعَلَ عَلَيۡكُمۡ فِي ٱلدِّينِ مِنۡ حَرَجٖۚ مِّلَّةَ أَبِيكُمۡ إِبۡرَٰهِيمَۚ هُوَ سَمَّىٰكُمُ ٱلۡمُسۡلِمِينَ مِن قَبۡلُ وَفِي هَٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيۡكُمۡ وَتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِۚ فَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱعۡتَصِمُواْ بِٱللَّهِ هُوَ مَوۡلَىٰكُمۡۖ فَنِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِيرُ",
+        "phonetic": "22.78 Wa Jāhidū Fī Allāhi Ĥaqqa Jihādihi Huwa Ajtabākum Wa Mā Ja`ala `Alaykum Fī Ad-Dīni Min Ĥarajin Millata 'Abīkum 'Ibrāhīma Huwa Sammākumu Al-Muslimyna Min Qablu Wa Fī Hādhā Liyakūna Ar-Rasūlu Shahīdāan `Alaykum Wa Takūnū Shuhadā'a `Alá An-Nāsi Fa'aqīmū Aş-Şalāata Wa 'Ātū Az-Zakāata Wa A`taşimū Billāhi Huwa Mawlākum Fani`ma Al-Mawlá Wa Ni`ma An-Naşīru",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "[1] (V.22:78) Religion is very easy. And the statement of the Prophet صلى الله عليه وسلم: \"The most beloved religion to Allâh عز وجل is the tolerant Hanifiyyah [i.e., Islâmic Monotheism, i.e., to worship Him (Allâh) Alone and not to worship anything else along with Him.]\"\nNarrated Abu Hurairah رضي الله عنه: The Prophet صلى الله عليه وسلم said, \"Religion is very easy and whoever overburdens himself in his religion will not be able to continue in that way. So you should not be extremists, but try to be near to perfection and receive the good tidings that you will be rewarded; and gain strength by offering the Salât (prayers) in the mornings, afternoons and during the last hours of the nights.\" (See Fath Al-Bari, Vol.1, Page 102). (Sahih Al-Bukhari, Vol.1, Hadith No.38).\n[2] (V.22:78) See the footnote of (V.2:143).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And strive for Allāh with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. He [i.e., Allāh] named you \"Muslims\" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakāh and hold fast to Allāh. He is your protector; and excellent is the protector, and excellent is the helper.",
+            "english_hilali_khan": "And strive hard in Allâh’s Cause as you ought to strive (with sincerity and with all your efforts that His Name should be superior). He has chosen you (to convey His Message of Islâmic Monotheism to mankind by inviting them to His religion of Islâm), and has not laid upon you in religion any hardship:[1] it is the religion of your father Ibrâhîm (Abraham) (Islâmic Monotheism). It is He (Allâh) Who has named you Muslims both before and in this (the Qur’ân), that the Messenger (Muhammad صلى الله عليه وسلم) may be a witness over you and you be witnesses over mankind![2] So perform As-Salât (Iqamat-as-Salât), give Zakât and hold fast to Allâh [i.e. have confidence in Allâh, and depend upon Him in all your affairs]. He is your Maulâ (Patron, Lord), what an Excellent Maulâ (Patron, Lord) and what an Excellent Helper!",
+            "english_rwwad": "Strive in the cause of Allah in a due manner. He has chosen you and has not imposed upon you any hardship in religion – the faith of your father Abraham. He named you as Muslims earlier and in this [Qur’an], so that the Messenger might be a witness over you and you might be witnesses over mankind. So establish prayer, give zakah, and hold fast to Allah, for He is your Protector; what an excellent Protector and an excellent Helper!"
+        }
+    }
+]

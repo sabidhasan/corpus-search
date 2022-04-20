@@ -1,0 +1,1328 @@
+[
+    {
+        "id": 4901,
+        "chapter": 55,
+        "verse": 1,
+        "arabic_text": "ٱلرَّحۡمَٰنُ",
+        "phonetic": "55.1 Ar-Raĥmānu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The Most Merciful",
+            "english_hilali_khan": "1. The Most Gracious (Allâh)!",
+            "english_rwwad": "The Most Compassionate,"
+        }
+    },
+    {
+        "id": 4902,
+        "chapter": 55,
+        "verse": 2,
+        "arabic_text": "عَلَّمَ ٱلۡقُرۡءَانَ",
+        "phonetic": "55.2 `Allama Al-Qur'āna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Taught the Qur’ān,",
+            "english_hilali_khan": "He has taught (you mankind) the Qur’ân (by His Mercy).",
+            "english_rwwad": "has taught the Qur’an,"
+        }
+    },
+    {
+        "id": 4903,
+        "chapter": 55,
+        "verse": 3,
+        "arabic_text": "خَلَقَ ٱلۡإِنسَٰنَ",
+        "phonetic": "55.3 Khalaqa Al-'Insāna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Created man,",
+            "english_hilali_khan": "He created man.",
+            "english_rwwad": "He created man,"
+        }
+    },
+    {
+        "id": 4904,
+        "chapter": 55,
+        "verse": 4,
+        "arabic_text": "عَلَّمَهُ ٱلۡبَيَانَ",
+        "phonetic": "55.4 `Allamahu Al-Bayāna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[And] taught him eloquence.",
+            "english_hilali_khan": "He taught him eloquent speech.",
+            "english_rwwad": "and taught him speech."
+        }
+    },
+    {
+        "id": 4905,
+        "chapter": 55,
+        "verse": 5,
+        "arabic_text": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ",
+        "phonetic": "55.5 Ash-Shamsu Wa Al-Qamaru Biĥusbānin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The sun and the moon [move] by precise calculation,",
+            "english_hilali_khan": "The sun and the moon run on their fixed courses (exactly) calculated with measured out stages for each (for reckoning).",
+            "english_rwwad": "The sun and the moon follow their precise courses,"
+        }
+    },
+    {
+        "id": 4906,
+        "chapter": 55,
+        "verse": 6,
+        "arabic_text": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+        "phonetic": "55.6 Wa An-Najmu Wa Ash-Shajaru Yasjudāni",
+        "footnotes": {
+            "english_saheeh": "[1593]- They submit obediently to the laws of Allāh.  See 22:18.  An additional meaning of \"najm\" is vegetation of a kind without a trunk, stalk or stem.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the stars and trees prostrate.[1593]",
+            "english_hilali_khan": "(Tafsir Ibn Kathir)",
+            "english_rwwad": "and the stars and trees prostrate [to Allah]."
+        }
+    },
+    {
+        "id": 4907,
+        "chapter": 55,
+        "verse": 7,
+        "arabic_text": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ",
+        "phonetic": "55.7 Wa As-Samā'a Rafa`ahā Wa Wađa`a Al-Mīzāna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the heaven He raised and imposed the balance",
+            "english_hilali_khan": "And the heaven: He has raised it high, and He has set up the Balance.",
+            "english_rwwad": "He raised the heaven and enjoined justice"
+        }
+    },
+    {
+        "id": 4908,
+        "chapter": 55,
+        "verse": 8,
+        "arabic_text": "أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ",
+        "phonetic": "55.8 'Allā Taţghaw Fī Al-Mīzāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "That you not transgress within the balance.",
+            "english_hilali_khan": "In order that you may not transgress (due) balance.",
+            "english_rwwad": "so that you may not transgress the limits of justice."
+        }
+    },
+    {
+        "id": 4909,
+        "chapter": 55,
+        "verse": 9,
+        "arabic_text": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
+        "phonetic": "55.9 Wa 'Aqīmū Al-Wazna Bil-Qisţi Wa Lā Tukhsirū Al-Mīzāna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And establish weight in justice and do not make deficient the balance.",
+            "english_hilali_khan": "And observe the weight with equity and do not make the balance deficient.",
+            "english_rwwad": "Therefore establish weights in justice, and do not give short measure."
+        }
+    },
+    {
+        "id": 4910,
+        "chapter": 55,
+        "verse": 10,
+        "arabic_text": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ",
+        "phonetic": "55.10 Wa Al-'Arđa Wađa`ahā Lil'anāmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And the earth He laid [out] for the creatures.",
+            "english_hilali_khan": "And the earth: He has put down (laid) for the creatures.",
+            "english_rwwad": "He has spread out the earth for all creatures,"
+        }
+    },
+    {
+        "id": 4911,
+        "chapter": 55,
+        "verse": 11,
+        "arabic_text": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+        "phonetic": "55.11 Fīhā Fākihatun Wa An-Nakhlu Dhātu Al-'Akmāmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Therein is fruit and palm trees having sheaths [of dates]",
+            "english_hilali_khan": "Therein are fruits and date-palms producing sheathed fruit-stalks (enclosing dates).",
+            "english_rwwad": "in which there are fruits and palm trees with date stalks,"
+        }
+    },
+    {
+        "id": 4912,
+        "chapter": 55,
+        "verse": 12,
+        "arabic_text": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ",
+        "phonetic": "55.12 Wa Al-Ĥabbu Dhū Al-`Aşfi Wa Ar-Rayĥānu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And grain having husks and scented plants.",
+            "english_hilali_khan": "And also corn, with (its) leaves and stalk for fodder, and sweet-scented plants.",
+            "english_rwwad": "and grain having chaff, and fragrant plants."
+        }
+    },
+    {
+        "id": 4913,
+        "chapter": 55,
+        "verse": 13,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.13 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "[1594]- Literally, \"you two,\" addressing the species of mankind and jinn.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?[1594]",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4914,
+        "chapter": 55,
+        "verse": 14,
+        "arabic_text": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
+        "phonetic": "55.14 Khalaqa Al-'Insāna Min Şalşālin Kālfakhkhāri",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He created man from clay like [that of] pottery.",
+            "english_hilali_khan": "He created man (Adam) from sounding clay like the clay of pottery.",
+            "english_rwwad": "He created man from dry clay like pottery,"
+        }
+    },
+    {
+        "id": 4915,
+        "chapter": 55,
+        "verse": 15,
+        "arabic_text": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ",
+        "phonetic": "55.15 Wa Khalaqa Al-Jānna Min Mārijin Min Nārin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And He created the jinn from a smokeless flame of fire.",
+            "english_hilali_khan": "And the jinn: He created from a smokeless flame of fire.",
+            "english_rwwad": "and He created the jinn from a smokeless flame of fire."
+        }
+    },
+    {
+        "id": 4916,
+        "chapter": 55,
+        "verse": 16,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.16 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4917,
+        "chapter": 55,
+        "verse": 17,
+        "arabic_text": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ",
+        "phonetic": "55.17 Rabbu Al-Mashriqayni Wa Rabbu Al-Maghribayni",
+        "footnotes": {
+            "english_saheeh": "[1595]- i.e., the points of sunrise in the east and sunset in the west in both summer and winter.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[He is] Lord of the two sunrises and Lord of the two sunsets.[1595]",
+            "english_hilali_khan": "(He is) the Lord of the two easts (places of sunrise during early summer and early winter) and the Lord of the two wests (places of sunset during early summer and early winter).",
+            "english_rwwad": "[He is] Lord of the two sunrises and Lord of the two sunsets."
+        }
+    },
+    {
+        "id": 4918,
+        "chapter": 55,
+        "verse": 18,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.18 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4919,
+        "chapter": 55,
+        "verse": 19,
+        "arabic_text": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+        "phonetic": "55.19 Maraja Al-Baĥrayni Yaltaqiyāni",
+        "footnotes": {
+            "english_saheeh": "[1596]- Two bodies of water or two sea waters of distinct characteristics.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "He released the two seas,[1596] meeting [one another];",
+            "english_hilali_khan": "He has let loose the two seas (the salt and fresh water) meeting together.",
+            "english_rwwad": "He merges the two seas [of fresh and salty water] meeting together,"
+        }
+    },
+    {
+        "id": 4920,
+        "chapter": 55,
+        "verse": 20,
+        "arabic_text": "بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ",
+        "phonetic": "55.20 Baynahumā Barzakhun Lā Yabghiyāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Between them is a barrier so neither of them transgresses.",
+            "english_hilali_khan": "Between them is a barrier which none of them can transgress.",
+            "english_rwwad": "yet between them is a barrier so that they do not cross."
+        }
+    },
+    {
+        "id": 4921,
+        "chapter": 55,
+        "verse": 21,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.21 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4922,
+        "chapter": 55,
+        "verse": 22,
+        "arabic_text": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ",
+        "phonetic": "55.22 Yakhruju Minhumā Al-Lu'ulu'uu Wa Al-Marjānu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "From both of them emerge pearl and coral.",
+            "english_hilali_khan": "Out of them both come out pearl and coral.",
+            "english_rwwad": "Out of both of them emerge pearls and coral."
+        }
+    },
+    {
+        "id": 4923,
+        "chapter": 55,
+        "verse": 23,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.23 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4924,
+        "chapter": 55,
+        "verse": 24,
+        "arabic_text": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ",
+        "phonetic": "55.24 Wa Lahu Al-Jawāri Al-Munsha'ātu Fī Al-Baĥri Kāl'a`lāmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
+            "english_hilali_khan": "And His are the ships going and coming in the seas, like mountains.",
+            "english_rwwad": "To Him belong the sailing ships raised up in the sea like mountains."
+        }
+    },
+    {
+        "id": 4925,
+        "chapter": 55,
+        "verse": 25,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.25 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4926,
+        "chapter": 55,
+        "verse": 26,
+        "arabic_text": "كُلُّ مَنۡ عَلَيۡهَا فَانٖ",
+        "phonetic": "55.26 Kullu Man `Alayhā Fānin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Everyone upon it [i.e., the earth] will perish,",
+            "english_hilali_khan": "Whatsoever is on it (the earth) will perish.",
+            "english_rwwad": "Everyone on earth will perish,"
+        }
+    },
+    {
+        "id": 4927,
+        "chapter": 55,
+        "verse": 27,
+        "arabic_text": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+        "phonetic": "55.27 Wa Yabqá Wajhu Rabbika Dhū Al-Jalāli Wa Al-'Ikrāmi",
+        "footnotes": {
+            "english_saheeh": "[1597]- See footnote to 2:19.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And there will remain the Face[1597] of your Lord, Owner of Majesty and Honor.",
+            "english_hilali_khan": "And the Face of your Lord full of Majesty and Honour will remain forever.",
+            "english_rwwad": "but there will remain the Face of your Lord, full of Majesty and Honor."
+        }
+    },
+    {
+        "id": 4928,
+        "chapter": 55,
+        "verse": 28,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.28 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4929,
+        "chapter": 55,
+        "verse": 29,
+        "arabic_text": "يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي شَأۡنٖ",
+        "phonetic": "55.29 Yas'aluhu Man Fī As-Samāwāti Wa Al-'Arđi Kulla Yawmin Huwa Fī Sha'nin",
+        "footnotes": {
+            "english_saheeh": "[1598]- For each of His creatures.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Whoever is within the heavens and earth asks Him; every day He is in [i.e., bringing about] a matter.[1598]",
+            "english_hilali_khan": "Whosoever is in the heavens and on earth begs of Him (its needs from Him). Every day He is (engaged) in some affair (such as giving honour or disgrace to some, life or death to some, etc.)!",
+            "english_rwwad": "All those in the heavens and earth ask of Him; every day He is engaged in some matters."
+        }
+    },
+    {
+        "id": 4930,
+        "chapter": 55,
+        "verse": 30,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.30 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4931,
+        "chapter": 55,
+        "verse": 31,
+        "arabic_text": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+        "phonetic": "55.31 Sanafrughu Lakum 'Ayyuhā Ath-Thaqalāni",
+        "footnotes": {
+            "english_saheeh": "[1599]- Specifically two:  mankind and jinn.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "We will attend to you, O prominent beings.[1599]",
+            "english_hilali_khan": "We shall attend to you, O you two classes (jinn and men)!",
+            "english_rwwad": "We will attend to you, O two multitudes [men and jinn]."
+        }
+    },
+    {
+        "id": 4932,
+        "chapter": 55,
+        "verse": 32,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.32 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4933,
+        "chapter": 55,
+        "verse": 33,
+        "arabic_text": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٖ",
+        "phonetic": "55.33 Yā Ma`shara Al-Jinni Wa Al-'Insi 'Ini Astaţa`tum 'An Tanfudhū Min 'Aqţāri As-Samāwāti Wa Al-'Arđi Fānfudhū Lā Tanfudhūna 'Illā Bisulţānin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allāh].",
+            "english_hilali_khan": "O assembly of jinn and men! If you have power to pass beyond the zones of the heavens and the earth, then pass beyond (them)! But you will never be able to pass them, except with authority (from Allâh)!",
+            "english_rwwad": "O assembly of jinn and mankind, if you are able to pass beyond the realms of the heavens and earth, then pass; you cannot pass without [Our] authority."
+        }
+    },
+    {
+        "id": 4934,
+        "chapter": 55,
+        "verse": 34,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.34 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4935,
+        "chapter": 55,
+        "verse": 35,
+        "arabic_text": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ",
+        "phonetic": "55.35 Yursalu `Alaykumā Shuwāžun Min Nārin Wa Nuĥāsun Falā Tantaşirāni",
+        "footnotes": {
+            "english_saheeh": "[1600]- Another possible meaning is liquefied brass or copper.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "There will be sent upon you a flame of fire and smoke,[1600] and you will not defend yourselves.",
+            "english_hilali_khan": "There will be sent against you both, smokeless flames of fire and (molten) brass, and you will not be able to defend yourselves.",
+            "english_rwwad": "There will be sent against you flames of fire and smoke, and you will not be able to defend yourselves."
+        }
+    },
+    {
+        "id": 4936,
+        "chapter": 55,
+        "verse": 36,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.36 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4937,
+        "chapter": 55,
+        "verse": 37,
+        "arabic_text": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ",
+        "phonetic": "55.37 Fa'idhā Anshaqqati As-Samā'u Fakānat Wardatan Kālddihāni",
+        "footnotes": {
+            "english_saheeh": "[1601]- Or \"like a tanned skin.\"",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And when the heaven is split open and becomes rose-colored like oil[1601] -",
+            "english_hilali_khan": "Then when the heaven is rent asunder, and it becomes rosy or red like red-oil, or red hide - [See V.70:8]",
+            "english_rwwad": "When the heaven is split asunder and becomes crimson, like red hide."
+        }
+    },
+    {
+        "id": 4938,
+        "chapter": 55,
+        "verse": 38,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.38 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny? -",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4939,
+        "chapter": 55,
+        "verse": 39,
+        "arabic_text": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ",
+        "phonetic": "55.39 Fayawma'idhin Lā Yus'alu `An Dhanbihi 'Insun Wa Lā Jānnun",
+        "footnotes": {
+            "english_saheeh": "[1602]- Once they have been condemned to the Fire.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Then on that Day none will be asked about his sin among men or jinn.[1602]",
+            "english_hilali_khan": "So on that Day no question will be asked of man or jinns as to his sin, [because they have already been known from their faces either white (dwellers of Paradise - true believers of Islamic Monotheism) or black (dwellers of Hell - polytheists; disbelievers, criminals)].",
+            "english_rwwad": "On that Day no human or jinn will be asked about his sin."
+        }
+    },
+    {
+        "id": 4940,
+        "chapter": 55,
+        "verse": 40,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.40 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4941,
+        "chapter": 55,
+        "verse": 41,
+        "arabic_text": "يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوَٰصِي وَٱلۡأَقۡدَامِ",
+        "phonetic": "55.41 Yu`rafu Al-Mujrimūna Bisīmāhum Fayu'ukhadhu Bin-Nawāşī Wa Al-'Aqdāmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+            "english_hilali_khan": "The Mujrimûn (polytheists, criminals, sinners) will be known by their marks (black faces), and they will be seized by their forelocks and their feet.",
+            "english_rwwad": "The wicked will be known by their marks, and will be seized by their forelocks and their feet."
+        }
+    },
+    {
+        "id": 4942,
+        "chapter": 55,
+        "verse": 42,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.42 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4943,
+        "chapter": 55,
+        "verse": 43,
+        "arabic_text": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ",
+        "phonetic": "55.43 Hadhihi Jahannamu Allatī Yukadhibu Bihā Al-Mujrimūna",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "This is Hell, which the criminals deny.",
+            "english_hilali_khan": "This is the Hell which the Mujrimûn (polytheists, criminals, sinners) denied.",
+            "english_rwwad": "[They will be told] “This is the Hell that the wicked used to deny.”"
+        }
+    },
+    {
+        "id": 4944,
+        "chapter": 55,
+        "verse": 44,
+        "arabic_text": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ",
+        "phonetic": "55.44 Yaţūfūna Baynahā Wa Bayna Ĥamīmin 'Ānin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "They will circulate between it and scalding water, heated [to the utmost degree].",
+            "english_hilali_khan": "They will go between it (Hell) and the fierce boiling water!",
+            "english_rwwad": "They will go round between it and scalding water."
+        }
+    },
+    {
+        "id": 4945,
+        "chapter": 55,
+        "verse": 45,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.45 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4946,
+        "chapter": 55,
+        "verse": 46,
+        "arabic_text": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+        "phonetic": "55.46 Wa Liman Khāfa Maqāma Rabbihi Jannatāni",
+        "footnotes": {
+            "english_saheeh": "[1603]- An alternative meaning is \"the standing [for account] before his Lord.\"",
+            "english_hilali_khan": "[1] (V.55:46) : The true believer of Islâmic Monotheism who performs all the duties ordained by Allâh and His Messenger Muhammad صلى الله عليه وسلم, and abstain from all kinds of sin and evil deeds prohibited in Islâm.\n[2] (V.55:46) See the footnote of (V.23:60).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "But for he who has feared the position of his Lord[1603] are two gardens -",
+            "english_hilali_khan": "But for him who[1] fears the standing before his Lord, there will be two Gardens (i.e. in Paradise).[2]",
+            "english_rwwad": "For those who fear of standing before their Lord will be two Gardens."
+        }
+    },
+    {
+        "id": 4947,
+        "chapter": 55,
+        "verse": 47,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.47 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny? -",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4948,
+        "chapter": 55,
+        "verse": 48,
+        "arabic_text": "ذَوَاتَآ أَفۡنَانٖ",
+        "phonetic": "55.48 Dhawātā 'Afnānin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Having [spreading] branches.",
+            "english_hilali_khan": "With spreading branches.",
+            "english_rwwad": "Shaded by spreading branches."
+        }
+    },
+    {
+        "id": 4949,
+        "chapter": 55,
+        "verse": 49,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.49 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4950,
+        "chapter": 55,
+        "verse": 50,
+        "arabic_text": "فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ",
+        "phonetic": "55.50 Fīhimā `Aynāni Tajriyāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In both of them are two springs, flowing.",
+            "english_hilali_khan": "In them (both) will be two springs flowing (free).",
+            "english_rwwad": "In each there are two flowing springs."
+        }
+    },
+    {
+        "id": 4951,
+        "chapter": 55,
+        "verse": 51,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.51 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4952,
+        "chapter": 55,
+        "verse": 52,
+        "arabic_text": "فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ",
+        "phonetic": "55.52 Fīhimā Min Kulli Fākihatin Zawjāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In both of them are of every fruit, two kinds.",
+            "english_hilali_khan": "In them (both) will be every kind of fruit in pairs.",
+            "english_rwwad": "In each there are two kinds of every fruit."
+        }
+    },
+    {
+        "id": 4953,
+        "chapter": 55,
+        "verse": 53,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.53 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4954,
+        "chapter": 55,
+        "verse": 54,
+        "arabic_text": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ",
+        "phonetic": "55.54 Muttaki'īna `Alá Furushin Baţā'inuhā Min 'Istabraqin Wa Janá Al-Jannatayni Dānin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+            "english_hilali_khan": "Reclining upon the couches lined with silk brocade, and the fruits of the two Gardens will be near at hand.",
+            "english_rwwad": "They will recline on couches lined with rich brocade, with the fruits of both gardens within reach."
+        }
+    },
+    {
+        "id": 4955,
+        "chapter": 55,
+        "verse": 55,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.55 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4956,
+        "chapter": 55,
+        "verse": 56,
+        "arabic_text": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+        "phonetic": "55.56 Fīhinna Qāşirātu Aţ-Ţarfi Lam Yaţmithhunna 'Insun Qablahum Wa Lā Jānnun",
+        "footnotes": {
+            "english_saheeh": "[1604]- To their own mates, i.e., being chaste and modest.\n[1605]- Literally, they have not been caused to bleed by loss of virginity.",
+            "english_hilali_khan": " (V.55:56): Tamth means: Opening their hymens with sexual intercourse.",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In them are women limiting [their] glances,[1604] untouched[1605] before them by man or jinnī -",
+            "english_hilali_khan": "Wherein both will be Qâsirât-ut-Tarf [chaste females (wives) restraining their glances, desiring none except their husbands], with whom no man or jinni has had tamth[3] before them.",
+            "english_rwwad": "In them there will be maidens of restrained gaze, untouched before them by any man or jinn."
+        }
+    },
+    {
+        "id": 4957,
+        "chapter": 55,
+        "verse": 57,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.57 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny? -",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4958,
+        "chapter": 55,
+        "verse": 58,
+        "arabic_text": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+        "phonetic": "55.58 Ka'annahunna Al-Yāqūtu Wa Al-Marjānu",
+        "footnotes": {
+            "english_saheeh": "[1606]- In purity, color and beauty.",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "As if they were rubies and coral.[1606]",
+            "english_hilali_khan": "(In beauty) they are like rubies and coral.",
+            "english_rwwad": "As if they were rubies and pearls."
+        }
+    },
+    {
+        "id": 4959,
+        "chapter": 55,
+        "verse": 59,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.59 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4960,
+        "chapter": 55,
+        "verse": 60,
+        "arabic_text": "هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ",
+        "phonetic": "55.60 Hal Jazā'u Al-'Iĥsāni 'Illā Al-'Iĥsānu",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Is the reward for good [anything] but good?",
+            "english_hilali_khan": "Is there any reward for good other than good?",
+            "english_rwwad": "Is the reward for goodness anything but goodness?"
+        }
+    },
+    {
+        "id": 4961,
+        "chapter": 55,
+        "verse": 61,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.61 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4962,
+        "chapter": 55,
+        "verse": 62,
+        "arabic_text": "وَمِن دُونِهِمَا جَنَّتَانِ",
+        "phonetic": "55.62 Wa Min Dūnihimā Jannatāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "And below them both [in excellence] are two [other] gardens -",
+            "english_hilali_khan": "And besides these two, there are two other Gardens (i.e. in Paradise).",
+            "english_rwwad": "And besides these two there will be two other gardens."
+        }
+    },
+    {
+        "id": 4963,
+        "chapter": 55,
+        "verse": 63,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.63 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny? -",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4964,
+        "chapter": 55,
+        "verse": 64,
+        "arabic_text": "مُدۡهَآمَّتَانِ",
+        "phonetic": "55.64 Mud/hāmmatāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Dark green [in color].",
+            "english_hilali_khan": "Dark green (in colour).",
+            "english_rwwad": "Both of deepest green."
+        }
+    },
+    {
+        "id": 4965,
+        "chapter": 55,
+        "verse": 65,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.65 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4966,
+        "chapter": 55,
+        "verse": 66,
+        "arabic_text": "فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ",
+        "phonetic": "55.66 Fīhimā `Aynāni Nađđākhatāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In both of them are two springs, spouting.",
+            "english_hilali_khan": "In them (both) will be two springs gushing forth.",
+            "english_rwwad": "In each there are two gushing springs."
+        }
+    },
+    {
+        "id": 4967,
+        "chapter": 55,
+        "verse": 67,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.67 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4968,
+        "chapter": 55,
+        "verse": 68,
+        "arabic_text": "فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ",
+        "phonetic": "55.68 Fīhimā Fākihatun Wa Nakhlun Wa Rummānun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In both of them are fruit and palm trees and pomegranates.",
+            "english_hilali_khan": "In them (both) will be fruits, and date-palms and pomegranates.",
+            "english_rwwad": "In each there are fruits, palm trees, and pomegranates."
+        }
+    },
+    {
+        "id": 4969,
+        "chapter": 55,
+        "verse": 69,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.69 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4970,
+        "chapter": 55,
+        "verse": 70,
+        "arabic_text": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ",
+        "phonetic": "55.70 Fīhinna Khayrātun Ĥisānun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "In them are good and beautiful women -",
+            "english_hilali_khan": "Therein (Gardens) will be Khairâtun-Hisân [fair (wives) good and beautiful];",
+            "english_rwwad": "In them there are beautiful noble women."
+        }
+    },
+    {
+        "id": 4971,
+        "chapter": 55,
+        "verse": 71,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.71 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny? -",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4972,
+        "chapter": 55,
+        "verse": 72,
+        "arabic_text": "حُورٞ مَّقۡصُورَٰتٞ فِي ٱلۡخِيَامِ",
+        "phonetic": "55.72 Ĥūrun Maqşūrātun Fī Al-Khiyāmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.55:72) See footnote of (V.52:20).",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Fair ones reserved in pavilions -",
+            "english_hilali_khan": "Hûr[1] (beautiful, fair females) guarded in pavilions;",
+            "english_rwwad": "Maidens with gorgeous eyes, secluded in pavilions."
+        }
+    },
+    {
+        "id": 4973,
+        "chapter": 55,
+        "verse": 73,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.73 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny? -",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4974,
+        "chapter": 55,
+        "verse": 74,
+        "arabic_text": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+        "phonetic": "55.74 Lam Yaţmithhunna 'Insun Qablahum Wa Lā Jānnun",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "(V.55:74) Tamth means: Opening their hymens with sexual intercourse.",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Untouched before them by man or jinnī -",
+            "english_hilali_khan": "With whom no man or jinni has had tamth[2] before them.",
+            "english_rwwad": "No human or jinn has ever touched them before."
+        }
+    },
+    {
+        "id": 4975,
+        "chapter": 55,
+        "verse": 75,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.75 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny? -",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4976,
+        "chapter": 55,
+        "verse": 76,
+        "arabic_text": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ",
+        "phonetic": "55.76 Muttaki'īna `Alá Rafrafin Khuđrin Wa `Abqarīyin Ĥisānin",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Reclining on green cushions and beautiful fine carpets.",
+            "english_hilali_khan": "Reclining on green cushions and rich beautiful mattresses.",
+            "english_rwwad": "[They will be] reclining on green cushions and splendid carpets."
+        }
+    },
+    {
+        "id": 4977,
+        "chapter": 55,
+        "verse": 77,
+        "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "phonetic": "55.77 Fabi'ayyi 'Ālā'i Rabbikumā Tukadhibāni",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "So which of the favors of your Lord would you deny?",
+            "english_hilali_khan": "Then which of the Blessings of your Lord will you both (jinn and men) deny?",
+            "english_rwwad": "Then which of the favors of your Lord will you [men and jinn] deny?"
+        }
+    },
+    {
+        "id": 4978,
+        "chapter": 55,
+        "verse": 78,
+        "arabic_text": "تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+        "phonetic": "55.78 Tabāraka Asmu Rabbika Dhī Al-Jalāli Wa Al-'Ikrāmi",
+        "footnotes": {
+            "english_saheeh": "",
+            "english_hilali_khan": "",
+            "english_rwwad": ""
+        },
+        "translations": {
+            "english_saheeh": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+            "english_hilali_khan": "Blessed be the Name of your Lord (Allâh), the Owner of Majesty and Honour.",
+            "english_rwwad": "Blessed is the Name of your Lord, the Lord of Majesty and Honor."
+        }
+    }
+]
