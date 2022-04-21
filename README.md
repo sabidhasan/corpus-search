@@ -22,7 +22,7 @@ There are several parts to this repository:
 2. A search microservice, written in C#, which communicates using gRPC
 3. An ASP.net microservice (written in C#), handling 
 
-# Search Prototype
+# Phonetic Search Index Prototype
 ## Introduction
 The search prototype was written for two reasons:
 
@@ -48,3 +48,22 @@ Next, to run the search, first build the Docker container, and then run it:
     # Runs the search term in `search_poc.py`
     docker run arabic-search
 ```
+
+# Searching Phonetically
+
+## Introduction
+The C# and ASP.net-based solution has several projects within:
+1. `SearchMicroservice` - a gRPC based micro-service for performing phonetic searches on corpus texts
+2. `SearchMicroserviceTests` - tests for the `SearchMicroservice`
+3. `SearchWebServer` - a ASP.net / Angular / GraphQL based web app project that provides a UI for performing the search
+
+
+## Running the Project
+To run the project, open the solution in Visual Studio 2019 (the solution file is called `/Search.sln`). To run the web application, only running the microservice and web server is required. Follow these steps to get the project running:
+
+1. Restore NuGet packages (Project > Restore NuGet Packages)
+2. Build the projects (Project > Build All)
+3. Select the proper run configuration (or define a run configuration that has both projects selected - `SearchMicroservice` and `SearchWebserver`). Start the project without debugging.
+ 
+To access the search GraphQL API, access the graphical interface at:
+http://localhost:59836/graphql/
