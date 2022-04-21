@@ -17,7 +17,7 @@ namespace SearchWebserver.GraphQL
             _searchService = new SearchService(grpcClient);
         }
 
-        public async Task<IEnumerable<SearchType>> GetSearch([GraphQLName("term")] string searchTerm)
+        public async Task<IEnumerable<SearchType>> GetPhoneticSearch([GraphQLName("term")] string searchTerm)
         {
             var results = await _searchService.DoSearch(searchTerm);
             return results

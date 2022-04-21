@@ -65,5 +65,17 @@ To run the project, open the solution in Visual Studio 2019 (the solution file i
 2. Build the projects (Project > Build All)
 3. Select the proper run configuration (or define a run configuration that has both projects selected - `SearchMicroservice` and `SearchWebserver`). Start the project without debugging.
  
-To access the search GraphQL API, access the graphical interface at:
-http://localhost:59836/graphql/
+To access the search GraphQL API, access the graphical interface at
+http://localhost:59836/graphql/. Perform a phonetic search as follows:
+
+```gql
+query {
+  phoneticSearch(term:"innama") {
+    __typename
+    chapter
+    verse
+    score
+    text
+  }
+}
+```
