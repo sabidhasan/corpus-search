@@ -1,12 +1,23 @@
-﻿<Properties StartupConfiguration="{60204AF8-F65E-4F15-A9CA-F212F8BF2B91}|Default">
+﻿<Properties StartupConfiguration="Multiple Projects">
   <MonoDevelop.Ide.ItemProperties.SearchWebserver PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.SearchMicroservice PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SearchWebserver/Startup.cs">
+    <Files>
+      <File FileName="SearchWebserver/Startup.cs" Line="61" Column="40" />
+      <File FileName="SearchWebserver/GraphQL/SearchType.cs" Line="7" Column="1" />
+      <File FileName="SearchWebserver/GraphQL/Query.cs" Line="27" Column="10" />
+      <File FileName="SearchWebserver/Services/SearchService.cs" Line="30" Column="28" />
+      <File FileName="SearchWebserver/Controllers/SearchController.cs" Line="10" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Search" expanded="True">
-            <Node name="SearchWebserver" expanded="True" selected="True" />
+          <Node name="Search" expanded="True" selected="True">
+            <Node name="SearchWebserver" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="GraphQL" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
             <Node name="TestGrpcClient" expanded="True" />
           </Node>
         </State>
@@ -16,16 +27,15 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../Search/SearchCore/CorpusSearch.cs" line="25" column="12" endLine="25" endColumn="23" offsetX="-1" offsetY="-1" expression="Loading…" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.TestGrpcClient PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations>
-    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
-    <MultiItemSolutionRunConfiguration Id="Sample Config" Name="Sample Config">
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
         <StartupItem ItemId="{0BA8D655-5CA3-4865-A013-D9D749C728B1}" ItemName="SearchMicroservice" ConfigurationId="Search" />
+        <StartupItem ItemId="{60204AF8-F65E-4F15-A9CA-F212F8BF2B91}" ItemName="SearchWebserver" ConfigurationId="Default" />
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>

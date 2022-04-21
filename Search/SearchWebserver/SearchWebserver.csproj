@@ -22,6 +22,8 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Grpc.AspNetCore" Version="2.44.0" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="12.7.0" />
+    <PackageReference Include="HotChocolate.AspNetCore.GraphiQL" Version="10.5.5" />
   </ItemGroup>
 
   <ItemGroup>
@@ -32,15 +34,18 @@
     <None Remove="Google.Protobuf" />
     <None Remove="Grpc" />
     <None Remove="Grpc.Net.Client" />
-    <None Remove="Protos\" />
     <None Remove="Grpc.Tools" />
     <None Remove="Protos\search.proto" />
     <None Remove="Grpc.AspNetCore" />
+    <None Remove="GraphQL" />
+    <None Remove="GraphQL.SystemTextJson" />
+    <None Remove="GraphQL.Server.Ui.GraphiQL" />
+    <None Remove="GraphQL\" />
+    <None Remove="HotChocolate.AspNetCore" />
+    <None Remove="HotChocolate.AspNetCore.GraphiQL" />
+    <None Remove="Services\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Protos\" />
-  </ItemGroup>
   <ItemGroup>
     <Protobuf Include="Protos\search.proto" GrpcServices="Client" />
   </ItemGroup>
@@ -73,5 +78,9 @@
   </Target>
   <ItemGroup>
     <Protobuf Include="**/*.proto" GrpcServices="Client" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="GraphQL\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 </Project>
